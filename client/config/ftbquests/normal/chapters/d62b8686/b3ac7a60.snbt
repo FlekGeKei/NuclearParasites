@@ -1,0 +1,15 @@
+{
+	title: "Пояс астероидов",
+	icon: "galacticraftplanets:asteroids_block 1 2",
+	x: 12.5d,
+	y: -3.0d,
+	dependencies: [
+		"424dce67"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7ce7dabf",
+		type: "dimension",
+		dim: -30
+	}]
+}

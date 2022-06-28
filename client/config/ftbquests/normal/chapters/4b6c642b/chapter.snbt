@@ -1,0 +1,7 @@
+{
+	title: "GalactiCraft",
+	icon: "galacticraftcore:machine2",
+	always_invisible: false,
+	group: -701790586,
+	default_quest_shape: ""
+}

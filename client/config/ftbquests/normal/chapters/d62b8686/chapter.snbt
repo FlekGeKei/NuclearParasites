@@ -1,0 +1,13 @@
+{
+	title: "Космос",
+	icon: {
+		id: "galaxyspace:rocket_tier_6",
+		tag: {
+			sublight_engine: 1b,
+			modification_count: 0
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

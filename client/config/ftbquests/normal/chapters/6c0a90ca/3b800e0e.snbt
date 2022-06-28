@@ -1,0 +1,14 @@
+{
+	title: "А где прапаб?",
+	x: -1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "aa34ee90",
+		type: "item",
+		items: [{
+			item: "hbm:template_folder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

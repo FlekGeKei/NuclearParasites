@@ -1,0 +1,15 @@
+{
+	title: "Наковальня v2",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"3b800e0e"
+	],
+	tasks: [{
+		uid: "6c326dfa",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_iron"
+		}]
+	}]
+}

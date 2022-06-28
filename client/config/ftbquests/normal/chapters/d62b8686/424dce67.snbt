@@ -1,0 +1,15 @@
+{
+	title: "Меркурий",
+	icon: "galaxyspace:mercuryblocks",
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"515aff7e",
+		"0c2e5d6f"
+	],
+	tasks: [{
+		uid: "2441601d",
+		type: "dimension",
+		dim: -1005
+	}]
+}

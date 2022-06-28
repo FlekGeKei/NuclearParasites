@@ -1,0 +1,14 @@
+{
+	title: "Дэймос",
+	x: 4.0d,
+	y: 3.5d,
+	dependencies: [
+		"515aff7e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a7f00f10",
+		type: "dimension",
+		dim: -1013
+	}]
+}

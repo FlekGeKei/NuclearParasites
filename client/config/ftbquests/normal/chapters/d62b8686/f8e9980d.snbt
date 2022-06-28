@@ -1,0 +1,14 @@
+{
+	title: "Луна",
+	icon: "galacticraftcore:basic_block_moon 1 3",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"b19f38fb"
+	],
+	tasks: [{
+		uid: "6d709b53",
+		type: "dimension",
+		dim: -28
+	}]
+}

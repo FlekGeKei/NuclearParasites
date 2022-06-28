@@ -1,0 +1,14 @@
+{
+	title: "Церерра",
+	icon: "galaxyspace:ceresblocks",
+	x: 12.0d,
+	y: 0.0d,
+	dependencies: [
+		"424dce67"
+	],
+	tasks: [{
+		uid: "86298cb8",
+		type: "dimension",
+		dim: -1007
+	}]
+}

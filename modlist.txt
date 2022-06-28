@@ -1,0 +1,59 @@
+https://www.curseforge.com/minecraft/mc-mods/warpdrive
+https://www.curseforge.com/minecraft/mc-mods/opencomputers
+https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-reloaded
+https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2747063
+https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft
+	https://www.curseforge.com/minecraft/mc-mods/asmodeuscore
+https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy
+https://www.curseforge.com/minecraft/mc-mods/jei/files/3040523
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3819340
+https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3819359
+https://www.curseforge.com/minecraft/mc-mods/extracells2/files/2855967
+https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge
+https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge
+https://github.com/gamerforEA/Minecraft-ClientFixer
+https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280
+https://www.curseforge.com/minecraft/mc-mods/dynamictrees
+https://www.curseforge.com/minecraft/mc-mods/first-aid/files/3569536
+https://github.com/doch2/SmartMovingReboot
+https://www.curseforge.com/minecraft/mc-mods/betterportals
+	https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
+https://www.curseforge.com/minecraft/mc-mods/iron-backpacks
+https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft
+https://www.curseforge.com/minecraft/mc-mods/dtphc
+	https://www.curseforge.com/minecraft/mc-mods/mantle
+https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3004475
+https://www.curseforge.com/minecraft/mc-mods/animania
+	https://www.curseforge.com/minecraft/mc-mods/craftstudio-api
+https://www.curseforge.com/minecraft/mc-mods/animania-farm
+https://www.curseforge.com/minecraft/mc-mods/animania-extra
+https://www.curseforge.com/minecraft/mc-mods/animania-cats-dogs
+https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/3156637
+	https://www.curseforge.com/minecraft/mc-mods/item-filters/files/3003364
+https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites
+https://www.curseforge.com/minecraft/mc-mods/itemphysic/files/3487676
+	https://www.curseforge.com/minecraft/mc-mods/creativecore/files/3626833
+https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2477566
+https://www.curseforge.com/minecraft/mc-mods/opensecurity
+https://www.curseforge.com/minecraft/mc-mods/galactic-computers
+https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787
+	https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848
+https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247
+https://www.curseforge.com/minecraft/mc-mods/animalnet/files/2753985
+https://www.curseforge.com/minecraft/mc-mods/sound-filters/files/3025806
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files/2957970
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/3247154
+https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
+https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
+https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
+https://www.curseforge.com/minecraft/mc-mods/lolasm
+https://www.curseforge.com/minecraft/mc-mods/mixin-booter
+https://www.curseforge.com/minecraft/mc-mods/entity-culling
+	https://www.curseforge.com/minecraft/mc-mods/renderlib
+https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap/files/2939224
+https://www.curseforge.com/minecraft/mc-mods/performant/files/3511568
+https://www.curseforge.com/minecraft/mc-mods/particle-culling
+https://www.curseforge.com/minecraft/mc-mods/randompatches-forge/files/3133651
+https://www.curseforge.com/minecraft/mc-mods/surge
+https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod/files/3327893
+https://www.curseforge.com/minecraft/mc-mods/betterfps

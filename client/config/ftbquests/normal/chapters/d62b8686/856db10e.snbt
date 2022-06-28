@@ -1,0 +1,13 @@
+{
+	title: "Гиперпространство",
+	x: -6.0d,
+	y: 0.0d,
+	dependencies: [
+		"643b873f"
+	],
+	tasks: [{
+		uid: "80f221d2",
+		type: "dimension",
+		dim: -100
+	}]
+}

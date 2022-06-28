@@ -1,0 +1,14 @@
+{
+	title: "Венера",
+	icon: "galacticraftplanets:venus",
+	x: 6.0d,
+	y: -1.5d,
+	dependencies: [
+		"f8e9980d"
+	],
+	tasks: [{
+		uid: "af21c46c",
+		type: "dimension",
+		dim: -1006
+	}]
+}

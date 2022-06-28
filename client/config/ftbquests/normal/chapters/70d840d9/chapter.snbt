@@ -1,0 +1,7 @@
+{
+	title: "GalaxySpace",
+	icon: "galaxyspace:assembly_machine",
+	always_invisible: false,
+	group: -701790586,
+	default_quest_shape: ""
+}

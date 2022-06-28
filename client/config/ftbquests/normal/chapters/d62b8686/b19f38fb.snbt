@@ -1,0 +1,11 @@
+{
+	title: "Земля",
+	icon: "minecraft:grass",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1def2609",
+		type: "dimension",
+		dim: 0
+	}]
+}

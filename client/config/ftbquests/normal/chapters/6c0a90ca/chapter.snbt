@@ -1,0 +1,7 @@
+{
+	title: "HBM Nuclear Tech",
+	icon: "hbm:medal_liquidator",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

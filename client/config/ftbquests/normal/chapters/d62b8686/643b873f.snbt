@@ -1,0 +1,13 @@
+{
+	title: "Космос!",
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"b19f38fb"
+	],
+	tasks: [{
+		uid: "742f3ab0",
+		type: "dimension",
+		dim: -101
+	}]
+}

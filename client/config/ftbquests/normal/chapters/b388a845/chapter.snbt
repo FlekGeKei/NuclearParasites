@@ -1,0 +1,7 @@
+{
+	title: "WarpDrive",
+	icon: "warpdrive:ship_token 1 10",
+	always_invisible: false,
+	group: -701790586,
+	default_quest_shape: ""
+}

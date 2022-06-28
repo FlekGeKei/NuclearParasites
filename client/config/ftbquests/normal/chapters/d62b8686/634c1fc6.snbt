@@ -1,0 +1,15 @@
+{
+	title: "Фобос",
+	icon: "galaxyspace:phobosblocks",
+	x: 5.0d,
+	y: 2.5d,
+	dependencies: [
+		"515aff7e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "498c9a3c",
+		type: "dimension",
+		dim: -1012
+	}]
+}

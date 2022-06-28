@@ -1,0 +1,14 @@
+{
+	title: "Марс",
+	icon: "galacticraftplanets:mars 1 5",
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"f8e9980d"
+	],
+	tasks: [{
+		uid: "8492b5c0",
+		type: "dimension",
+		dim: -29
+	}]
+}

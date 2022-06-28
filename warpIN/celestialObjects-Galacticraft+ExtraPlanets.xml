@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<worldGeneration version="3"
+				 xmlns="http://warpdrive.lemadec.org"
+				 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				 xsi:schemaLocation="http://warpdrive.lemadec.org WarpDrive.xsd"
+				 mods="galacticraftcore">
+	
+	<!--
+	  This Celestial Map is automatically selected when you have Galacticraft thanks to the worldGeneration.mods attribute.
+	  Please refer to default celestialObjects XML file for extensive comments on how to read and modify this file format.
+	  
+	  This Celestial Map is a single star system for use with Galacticraft. If you also have MrLegend's ExtraPlanets, those planets will also be added.
+	  Due to its oversized space size, this celestial map is better suited for Single player.
+	  When reaching Jupiter or further, entities may take 'random' damage from suffocation in space due to Vanilla engine limitations when going further away from the center of a dimension (0 0).
+	  
+	  This map was initially made on scale for a 1.7.10 chinese audience. Original author is ???.
+	  It was adapted since ported to 1.12.2 and integrated into the mod.
+	  Positions and rendering are fairly basic to help you getting started.
+	  -->
+	
+	<celestialObject id="Hyperspace">
+		<size x="2000000" z="2000000" />
+		<name>Hyperspace\n超空间</name>
+		<description>Your ship warp bubble is your\nonly protection.\n你的飞船扭曲气泡\n是你唯一的保护.</description>
+		
+		<dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
+			<center x="0" z="0" />
+			<provider type="WarpDriveHyperspace" />
+		</dimension>
+		
+		<skybox>
+			<backgroundColor red="1.0" green="0.0" blue="0.0" />
+			<starBrightnessBase>0.2</starBrightnessBase>
+			<starBrightnessVanilla>0.0</starBrightnessVanilla>
+			<celestialObjectOpacity>0.3</celestialObjectOpacity>
+			<fogColor red="0.15" green="0.0" blue="0.0" />
+			<fogFactor red="0.0" green="0.0" blue="0.0" />
+		</skybox>
+		
+		<celestialObject id="solarSystem">
+			<parent>
+				<center x="0" z="0" />
+			</parent>
+			<size x="1900000" z="1900000" />
+			<name>Solar system\nСолнечная система</name>
+			<description>The void, filled with §6resources§r.\nПустота, заполненная §6ресурсами§r.</description>
+			<dimension id="-101" isBreathable="false" gravity="legacySpace">
+				<center x="0" z="0" />
+				<provider type="WarpDriveSpace" />
+				<generate group="moon" ratio="0.00125" />
+				<generate group="asteroid" ratio="0.0067" />
+				<generate group="asteroids_field" ratio="0.0016" />
+			</dimension>
+			
+			<skybox>
+				<backgroundColor red="0.0" green="0.0" blue="0.0" />
+				<starBrightnessBase>0.9</starBrightnessBase>
+				<starBrightnessVanilla>0.0</starBrightnessVanilla>
+				<celestialObjectOpacity>1.0</celestialObjectOpacity>
+				<fogColor red="0.0" green="0.0" blue="0.0" />
+				<fogFactor red="0.0" green="0.0" blue="0.0" />
+			</skybox>
+			
+			<celestialObject id="Sun">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="10000" z="10000" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="1.00" texture="" />
+				<render red="0.80" green="0.70" blue="0.30" alpha="0.40" texture="warpdrive:textures/celestial/surface_icy2.png" periodU="-20" periodV="104" additive="true" />
+				<render red="0.80" green="0.55" blue="0.10" alpha="0.48" texture="warpdrive:textures/celestial/surface_metallic1.png" periodU="-40" periodV="140" additive="true" />
+				<render red="0.80" green="0.45" blue="0.30" alpha="0.34" texture="warpdrive:textures/celestial/surface_magma1.png" periodU="24" periodV="-35" additive="true" />
+				<render red="0.80" green="0.50" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.75" green="0.48" blue="0.20" alpha="0.08" texture="" />
+				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="galaxyspace">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Venus" mods="galaxyspace">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-1006" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="Earth">
+				<parent>
+					<center x="-45000" z="0" />
+				</parent>
+				<size x="21000" z="21000" />
+				<name>Earth\nЗемля</name>
+				<description>Планета заражена паразитами</description>
+				<dimension id="0" isBreathable="true" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="0.70" green="0.70" blue="0.70" alpha="1.00" texture="warpdrive:textures/celestial/surface_temperate2.png" />
+				<render red="0.90" green="0.95" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_small1.png" periodU="100" periodV="1100" additive="true" />
+				<render red="0.90" green="0.90" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_medium1.png" periodU="300" periodV="1500" additive="false" />
+				<render red="0.80" green="0.70" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_large1.png" periodU="500" periodV="2100" additive="false" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				<render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+				
+				<celestialObject id="Hell">
+					<parent>
+						<center x="0" z="0" />
+					</parent>
+					<size x="5000" z="5000" />
+					<dimension id="-1" isBreathable="true" gravity="normal">
+						<center x="0" z="0" />
+					</dimension>
+				</celestialObject>
+
+				<celestialObject id="The End">
+					<parent>
+						<center x="0" z="0" />
+					</parent>
+					<size x="5000" z="5000" />
+					<dimension id="1" isBreathable="true" gravity="normal">
+						<center x="0" z="0" />
+					</dimension>
+				</celestialObject>
+			</celestialObject>
+
+			<celestialObject id="Moon">
+				<parent>
+					<center x="" z="0" />
+				</parent>
+				<size x="6000" z="6000" />
+				<name>Moon\nЛуна</name>
+				<dimension id="-28" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+			<celestialObject id="" mods="">
+				<parent>
+					<center x="0" z="0" />
+				</parent>
+				<size x="0" z="0" />
+				<name></name>
+				<dimension id="-0" isBreathable="false" gravity="normal">
+					<center x="0" z="0" />
+				</dimension>
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
+			</celestialObject>
+			
+		</celestialObject>
+		
+	</celestialObject>
+	
+</worldGeneration>
