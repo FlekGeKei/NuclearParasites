@@ -43,6 +43,8 @@ https://www.curseforge.com/minecraft/mc-mods/animalnet/files/2753985
 https://www.curseforge.com/minecraft/mc-mods/sound-filters/files/3025806
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files/2957970
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/3247154
+https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3200622
+https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files/3818304
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
