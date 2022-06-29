@@ -34,8 +34,6 @@ https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites
 https://www.curseforge.com/minecraft/mc-mods/itemphysic/files/3487676
 	https://www.curseforge.com/minecraft/mc-mods/creativecore/files/3626833
 https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2477566
-https://www.curseforge.com/minecraft/mc-mods/opensecurity
-https://www.curseforge.com/minecraft/mc-mods/galactic-computers
 https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787
 	https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848
 https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247
