@@ -211,7 +211,8 @@
         "minecraft:nether_brick_fence",
         "minecraft:obsidian",
         "minecraft:quartz_ore",
-        "minecraft:redstone_ore"
+        "minecraft:redstone_ore",
+        "sgcraft:naquadahore/0"
       ]
     },
     "shears": {
