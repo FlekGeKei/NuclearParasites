@@ -6,8 +6,6 @@ https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft
 	https://www.curseforge.com/minecraft/mc-mods/asmodeuscore
 https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy
 https://www.curseforge.com/minecraft/mc-mods/jei/files/3040523
-https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3819340
-https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3819359
 https://www.curseforge.com/minecraft/mc-mods/extracells2/files/2855967
 https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge
 https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge
@@ -19,15 +17,7 @@ https://github.com/doch2/SmartMovingReboot
 https://www.curseforge.com/minecraft/mc-mods/betterportals
 	https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
 https://www.curseforge.com/minecraft/mc-mods/iron-backpacks
-https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft
-https://www.curseforge.com/minecraft/mc-mods/dtphc
-	https://www.curseforge.com/minecraft/mc-mods/mantle
 https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3004475
-https://www.curseforge.com/minecraft/mc-mods/animania
-	https://www.curseforge.com/minecraft/mc-mods/craftstudio-api
-https://www.curseforge.com/minecraft/mc-mods/animania-farm
-https://www.curseforge.com/minecraft/mc-mods/animania-extra
-https://www.curseforge.com/minecraft/mc-mods/animania-cats-dogs
 https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/3156637
 	https://www.curseforge.com/minecraft/mc-mods/item-filters/files/3003364
 https://www.curseforge.com/minecraft/mc-mods/scape-and-run-parasites
@@ -41,8 +31,8 @@ https://www.curseforge.com/minecraft/mc-mods/animalnet/files/2753985
 https://www.curseforge.com/minecraft/mc-mods/sound-filters/files/3025806
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves/files/2957970
 https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/files/3247154
-https://www.curseforge.com/minecraft/mc-mods/memory-cleaner-mod/files/3200622
 https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/files/3818304
+https://www.curseforge.com/minecraft/mc-mods/journeymap/files/2880387
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
