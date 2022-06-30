@@ -5347,22 +5347,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Подповерх
 appliedenergistics2:facade:0, Кабельный фасад - Камень Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Гейзер Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Маленький Гейзер Тритона
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
-appliedenergistics2:facade:0, Кабельный фасад - Замершая Поверность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Пепельный Гравий Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Золотая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Оловянная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Медная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Угольная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Кремниевая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
-appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Трава Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Земля Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Камень Барнарды С
@@ -5388,6 +5372,22 @@ appliedenergistics2:facade:0, Кабельный фасад - Алюминиев
 appliedenergistics2:facade:0, Кабельный фасад - Кварцевая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Кобальтовая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Никелевая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
+appliedenergistics2:facade:0, Кабельный фасад - Замершая Поверность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Пепельный Гравий Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Золотая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Оловянная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Медная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Угольная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Кремниевая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
+appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Заражённая земля
 appliedenergistics2:facade:0, Кабельный фасад - Заражённое бревно
 appliedenergistics2:facade:0, Кабельный фасад - Заражённый камень
@@ -6510,41 +6510,6 @@ galaxyspace:plasma_axe, Плазменный Топор
 galaxyspace:plasma_pickaxe, Плазменная Кирка
 galaxyspace:jetpack, Реактивный Электроранец
 galaxyspace:geo_scanner:100, Геологический Сканер
-galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
-galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
-galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
-galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
-galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
-galaxyspace:tauceti_f_watergrass:2, Водоросли
-galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
-galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
-galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
-galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
-galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
-galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:4, Огненный Коралл
-galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
-galaxyspace:tauceti_f_corals:6, Роговитый Коралл
-galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
-galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
-galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
-galaxyspace:tauceti_f_corals:10, Губчатый Коралл
-galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
-galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
-galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
-galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
-galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
-galaxyspace:proxima_b_blocks:5, Золотая Руда
-galaxyspace:proxima_b_blocks:6, Оловянная Руда
-galaxyspace:proxima_b_blocks:7, Медная Руда
-galaxyspace:proxima_b_blocks:8, Угольная Руда
-galaxyspace:proxima_b_blocks:9, Кремниевая Руда
-galaxyspace:proxima_b_blocks:10, Алмазная Руда
-galaxyspace:proxima_b_log_1, Сгоревшее Дерево
-galaxyspace:proxima_b_log_2, Замерзшее Дерево
 galaxyspace:barnarda_c_grasses:0, Трава Барнарды С
 galaxyspace:barnarda_c_blocks:0, Земля Барнарды С
 galaxyspace:barnarda_c_blocks:1, Камень Барнарды С
@@ -6585,6 +6550,41 @@ galaxyspace:br_basic:0, Фиолетовый Тростник
 galaxyspace:br_basic:1, Лишайник
 galaxyspace:br_basic:2, Древесный Сок
 galaxyspace:br_foods:0, Желтые Фрукты
+galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
+galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
+galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
+galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
+galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
+galaxyspace:tauceti_f_watergrass:2, Водоросли
+galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
+galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
+galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
+galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
+galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
+galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:4, Огненный Коралл
+galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
+galaxyspace:tauceti_f_corals:6, Роговитый Коралл
+galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
+galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
+galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
+galaxyspace:tauceti_f_corals:10, Губчатый Коралл
+galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
+galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
+galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
+galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
+galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
+galaxyspace:proxima_b_blocks:5, Золотая Руда
+galaxyspace:proxima_b_blocks:6, Оловянная Руда
+galaxyspace:proxima_b_blocks:7, Медная Руда
+galaxyspace:proxima_b_blocks:8, Угольная Руда
+galaxyspace:proxima_b_blocks:9, Кремниевая Руда
+galaxyspace:proxima_b_blocks:10, Алмазная Руда
+galaxyspace:proxima_b_log_1, Сгоревшее Дерево
+galaxyspace:proxima_b_log_2, Замерзшее Дерево
 itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 ftbquests:screen, Экран
@@ -7026,34 +7026,34 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
+opensecurity:energy_turret, Энергетическая турель
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:biometric_reader, Биометрический считыватель
 opensecurity:rfid_reader, RFID считыватель
-opensecurity:nanofog_terminal, Терминал Нано тумана
+opensecurity:security_terminal, Терминал безопасности
+opensecurity:card_writer, Блок записи карт
 opensecurity:entity_detector, Детектор сущностей
 opensecurity:keypad, Мини клавиатура
-opensecurity:card_writer, Блок записи карт
 opensecurity:alarm, Сигнализация
 opensecurity:rolldoor_element, Элемент подъемной двери
 opensecurity:data_block, Блок данных
-opensecurity:energy_turret, Энергетическая турель
-opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:security_terminal, Терминал безопасности
-opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:nanofog_terminal, Терминал Нано тумана
 opensecurity:mag_secure_door, MagReader Security Door
-opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:secure_door, Дверь безопасности
-opensecurity:nanofog, Нано туман
-opensecurity:rolldoor, Подъемная дверь
-opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:rolldoor_controller, Контроллер подъемной двери
+opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:rolldoor, Подъемная дверь
+opensecurity:nanofog, Нано туман
 opensecurity:door_controller, Контроллер дверей
-opensecurity:rfid_card, RFID карта
-opensecurity:cooldown_upgrade, Улучшение перезарядки
-opensecurity:damage_upgrade, Улучшение урона
 opensecurity:rfid_reader_card, Карта RFID считыватель
-opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:nanodna, Нано ДНК
+opensecurity:rfid_card, RFID карта
+opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:movement_upgrade, Улучшение скорости
 opensecurity:energy_upgrade, Улучшение энергии
+opensecurity:cooldown_upgrade, Улучшение перезарядки
+opensecurity:damage_upgrade, Улучшение урона
 srparasites:infestedstain, Заражённая земля
 srparasites:infestremain, Заражённый осадок
 srparasites:infestedtrunk, Заражённое бревно
