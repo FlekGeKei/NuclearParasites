@@ -645,6 +645,94 @@ minecraft:record_11, Пластинка
 minecraft:record_wait, Пластинка
 carryon:tile_item, item.tile_item.name
 carryon:entity_item, item.entity_item.name
+cyberware:blueprint_archive, Архив для чертежей
+cyberware:component_box, Коробка частей
+cyberware:surgery, Робохирург
+cyberware:surgery_chamber, Операционная
+cyberware:charger, Кибер-зарядное устройство
+cyberware:engineering_table, Кибер-верстак
+cyberware:scanner, Кибер-сканер
+cyberware:beacon, Радио комплект
+cyberware:beacon_large, Радиомаяк
+cyberware:radio_post, Компонент радиобашни
+cyberware:neuropozyne, Нейронный стимулятор
+cyberware:blueprint:1, Пустой чертеж
+cyberware:component:0, Соленоид
+cyberware:component:1, Биореактор
+cyberware:component:2, Титановая сетка
+cyberware:component:3, Полупроводниковая схема
+cyberware:component:4, Хром
+cyberware:component:5, Стекловолокно
+cyberware:component:6, Фуллереновая микроструктура
+cyberware:component:7, Синтетические нервы
+cyberware:component:8, Ячейка хранения
+cyberware:component:9, Микроэлектрические ячейки
+cyberware:shades, Зеркальные очки
+cyberware:shades2, Круглые зеркальные очки
+cyberware:jacket, Байкерская куртка
+cyberware:trenchcoat, Плащ
+cyberware:katana, Катана
+cyberware:body_part:0, Человеческие глаза
+cyberware:body_part:1, Человеческий мозг
+cyberware:body_part:2, Человеческое сердце
+cyberware:body_part:3, Человеческие легкие
+cyberware:body_part:4, Желудок человека
+cyberware:body_part:5, Человеческая кожа
+cyberware:body_part:6, Человеческие мышцы
+cyberware:body_part:7, Человеческие кости
+cyberware:body_part:8, Левая рука человека
+cyberware:body_part:9, Правая рука человека
+cyberware:body_part:10, Левая нога человека
+cyberware:body_part:11, Правая нога человека
+cyberware:cybereyes, Кибер-глаза
+cyberware:cybereye_upgrades:0, Улучшенное зрение при слабом освещении
+cyberware:cybereye_upgrades:1, Калибратор преломления жидкости
+cyberware:cybereye_upgrades:2, HUD-Джек
+cyberware:cybereye_upgrades:3, Целевое наложение
+cyberware:cybereye_upgrades:4, Дистанционный усилитель
+cyberware:eye_upgrades:0, HUD-Линза
+cyberware:brain_upgrades:0, Корковый стек
+cyberware:brain_upgrades:1, Глушитель эндера
+cyberware:brain_upgrades:2, Передатчик сознания
+cyberware:brain_upgrades:3, Нейронный контекстуализатор
+cyberware:brain_upgrades:4, Калькулятор матрицы угроз
+cyberware:brain_upgrades:5, Черепной вещатель
+cyberware:exp_capsule, Капсула опыта
+cyberware:cyberheart, Кардиомеханический насос
+cyberware:dense_battery, Сверхплотный конденсатор
+cyberware:creative_battery, Творческий конденсатор
+cyberware:heart_upgrades:0, Внутренний дефибриллятор
+cyberware:heart_upgrades:1, Диспетчер тромбоцитов
+cyberware:heart_upgrades:2, Синтезатор стволовых клеток
+cyberware:heart_upgrades:3, Сердечно-сосудистая муфта
+cyberware:lungs_upgrades:0, Сжатый кислородный имплантат
+cyberware:lungs_upgrades:1, Повышение гипероксигенации
+cyberware:lower_organs_upgrades:0, Печеночный фильтр
+cyberware:lower_organs_upgrades:1, Метаболический генератор
+cyberware:lower_organs_upgrades:2, Внутренняя батарея
+cyberware:lower_organs_upgrades:3, Адреналиновый насос
+cyberware:skin_upgrades:0, Солнечная кожа
+cyberware:skin_upgrades:1, Подкожные шипы
+cyberware:skin_upgrades:2, Синтетическая кожа
+cyberware:skin_upgrades:3, Целевой иммунодепрессант
+cyberware:muscle_upgrades:0, Проводные рефлексы
+cyberware:muscle_upgrades:1, Миомерная замена мышц
+cyberware:bone_upgrades:0, Обшивка костей
+cyberware:bone_upgrades:1, Цитратное улучшение
+cyberware:bone_upgrades:2, Аккумулятор костного мозга
+cyberware:arm_upgrades:0, Скорострельный маховик
+cyberware:hand_upgrades:0, Манипулятор высокой четкости
+cyberware:hand_upgrades:1, Выдвижной коготь
+cyberware:hand_upgrades:2, Усиленный кулак
+cyberware:leg_upgrades:0, Вертикальный соленоид
+cyberware:leg_upgrades:1, Устройство спуска
+cyberware:foot_upgrades:0, Имплантированные шпоры
+cyberware:foot_upgrades:1, Подводная силовая установка
+cyberware:foot_upgrades:2, Развертываемые колеса
+cyberware:cyberlimbs:0, Левая кибер рука
+cyberware:cyberlimbs:1, Правая кибер рука
+cyberware:cyberlimbs:2, Левая кибер-нога
+cyberware:cyberlimbs:3, Правая кибер-нога
 enderstorage:ender_storage:0, Сундук Края
 enderstorage:ender_storage:1, Цистерна Края
 enderstorage:ender_pouch, Сумка Края
@@ -5347,6 +5435,22 @@ appliedenergistics2:facade:0, Кабельный фасад - Подповерх
 appliedenergistics2:facade:0, Кабельный фасад - Камень Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Гейзер Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Маленький Гейзер Тритона
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
+appliedenergistics2:facade:0, Кабельный фасад - Замершая Поверность Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Пепельный Гравий Проксимы B
+appliedenergistics2:facade:0, Кабельный фасад - Золотая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Оловянная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Медная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Угольная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Кремниевая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
+appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
+appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Трава Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Земля Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Камень Барнарды С
@@ -5372,22 +5476,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Алюминиев
 appliedenergistics2:facade:0, Кабельный фасад - Кварцевая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Кобальтовая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Никелевая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
-appliedenergistics2:facade:0, Кабельный фасад - Замершая Поверность Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Пепельный Гравий Проксимы B
-appliedenergistics2:facade:0, Кабельный фасад - Золотая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Оловянная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Медная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Угольная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Кремниевая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
-appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Заражённая земля
 appliedenergistics2:facade:0, Кабельный фасад - Заражённое бревно
 appliedenergistics2:facade:0, Кабельный фасад - Заражённый камень
@@ -6510,6 +6598,41 @@ galaxyspace:plasma_axe, Плазменный Топор
 galaxyspace:plasma_pickaxe, Плазменная Кирка
 galaxyspace:jetpack, Реактивный Электроранец
 galaxyspace:geo_scanner:100, Геологический Сканер
+galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
+galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
+galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
+galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
+galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
+galaxyspace:tauceti_f_watergrass:2, Водоросли
+galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
+galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
+galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
+galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
+galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
+galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:4, Огненный Коралл
+galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
+galaxyspace:tauceti_f_corals:6, Роговитый Коралл
+galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
+galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
+galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
+galaxyspace:tauceti_f_corals:10, Губчатый Коралл
+galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
+galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
+galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
+galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
+galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
+galaxyspace:proxima_b_blocks:5, Золотая Руда
+galaxyspace:proxima_b_blocks:6, Оловянная Руда
+galaxyspace:proxima_b_blocks:7, Медная Руда
+galaxyspace:proxima_b_blocks:8, Угольная Руда
+galaxyspace:proxima_b_blocks:9, Кремниевая Руда
+galaxyspace:proxima_b_blocks:10, Алмазная Руда
+galaxyspace:proxima_b_log_1, Сгоревшее Дерево
+galaxyspace:proxima_b_log_2, Замерзшее Дерево
 galaxyspace:barnarda_c_grasses:0, Трава Барнарды С
 galaxyspace:barnarda_c_blocks:0, Земля Барнарды С
 galaxyspace:barnarda_c_blocks:1, Камень Барнарды С
@@ -6550,41 +6673,15 @@ galaxyspace:br_basic:0, Фиолетовый Тростник
 galaxyspace:br_basic:1, Лишайник
 galaxyspace:br_basic:2, Древесный Сок
 galaxyspace:br_foods:0, Желтые Фрукты
-galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
-galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
-galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
-galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
-galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
-galaxyspace:tauceti_f_watergrass:2, Водоросли
-galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
-galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
-galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
-galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
-galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
-galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:4, Огненный Коралл
-galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
-galaxyspace:tauceti_f_corals:6, Роговитый Коралл
-galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
-galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
-galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
-galaxyspace:tauceti_f_corals:10, Губчатый Коралл
-galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
-galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
-galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
-galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
-galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
-galaxyspace:proxima_b_blocks:5, Золотая Руда
-galaxyspace:proxima_b_blocks:6, Оловянная Руда
-galaxyspace:proxima_b_blocks:7, Медная Руда
-galaxyspace:proxima_b_blocks:8, Угольная Руда
-galaxyspace:proxima_b_blocks:9, Кремниевая Руда
-galaxyspace:proxima_b_blocks:10, Алмазная Руда
-galaxyspace:proxima_b_log_1, Сгоревшее Дерево
-galaxyspace:proxima_b_log_2, Замерзшее Дерево
+eplus:advanced_table, Advanced Enchantment Table
+eplus:decorative_book:0, Enchanting Plus Book
+eplus:decorative_book:1, Enchanting Book
+eplus:decorative_book:2, Prismarine Book
+eplus:decorative_book:3, Nether Book
+eplus:decorative_book:4, Tartarite Book
+eplus:decorative_book:5, Pale Book
+eplus:decorative_book:6, Metal Book
+eplus:table_upgrade, Table Upgrade
 itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 ftbquests:screen, Экран
@@ -7026,33 +7123,33 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
+opensecurity:data_block, Блок данных
+opensecurity:keypad, Мини клавиатура
+opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:card_writer, Блок записи карт
+opensecurity:security_terminal, Терминал безопасности
 opensecurity:energy_turret, Энергетическая турель
 opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:biometric_reader, Биометрический считыватель
-opensecurity:rfid_reader, RFID считыватель
-opensecurity:security_terminal, Терминал безопасности
-opensecurity:card_writer, Блок записи карт
 opensecurity:entity_detector, Детектор сущностей
-opensecurity:keypad, Мини клавиатура
+opensecurity:rfid_reader, RFID считыватель
 opensecurity:alarm, Сигнализация
 opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:data_block, Блок данных
 opensecurity:nanofog_terminal, Терминал Нано тумана
-opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:secure_door, Дверь безопасности
+opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:rolldoor_controller, Контроллер подъемной двери
-opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
-opensecurity:rolldoor, Подъемная дверь
-opensecurity:nanofog, Нано туман
 opensecurity:door_controller, Контроллер дверей
-opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:nanofog, Нано туман
+opensecurity:rolldoor, Подъемная дверь
+opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:cooldown_upgrade, Улучшение перезарядки
 opensecurity:nanodna, Нано ДНК
 opensecurity:rfid_card, RFID карта
-opensecurity:mag_card, Карта с магнитной полосой
+opensecurity:rfid_reader_card, Карта RFID считыватель
 opensecurity:movement_upgrade, Улучшение скорости
 opensecurity:energy_upgrade, Улучшение энергии
-opensecurity:cooldown_upgrade, Улучшение перезарядки
+opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:damage_upgrade, Улучшение урона
 srparasites:infestedstain, Заражённая земля
 srparasites:infestremain, Заражённый осадок

@@ -43,6 +43,9 @@ https://www.curseforge.com/minecraft/mc-mods/mapfrontiers/files/3059027
 https://www.curseforge.com/minecraft/mc-mods/glibys-voice-chat-reloaded/files/3096282
 https://www.curseforge.com/minecraft/mc-mods/opensecurity
 https://www.curseforge.com/minecraft/mc-mods/stargate-network/files/3044648
+https://www.curseforge.com/minecraft/mc-mods/enchanting-plus/files/2664227
+		https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/2836960
+https://www.curseforge.com/minecraft/mc-mods/roboticparts/files/3366534
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
