@@ -212,7 +212,12 @@
         "minecraft:obsidian",
         "minecraft:quartz_ore",
         "minecraft:redstone_ore",
-        "sgcraft:naquadahore/0"
+        "sgcraft:naquadahore/0",
+        "techguns:basicore/0",
+        "techguns:basicore/1",
+        "techguns:basicore/2",
+        "techguns:basicore/3",
+        "techguns:basicore/4"
       ]
     },
     "shears": {
