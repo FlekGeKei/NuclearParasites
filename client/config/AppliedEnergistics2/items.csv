@@ -5435,9 +5435,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Подповерх
 appliedenergistics2:facade:0, Кабельный фасад - Камень Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Гейзер Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Маленький Гейзер Тритона
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
@@ -5476,6 +5473,9 @@ appliedenergistics2:facade:0, Кабельный фасад - Алюминиев
 appliedenergistics2:facade:0, Кабельный фасад - Кварцевая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Кобальтовая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Никелевая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Заражённая земля
 appliedenergistics2:facade:0, Кабельный фасад - Заражённое бревно
 appliedenergistics2:facade:0, Кабельный фасад - Заражённый камень
@@ -6598,28 +6598,6 @@ galaxyspace:plasma_axe, Плазменный Топор
 galaxyspace:plasma_pickaxe, Плазменная Кирка
 galaxyspace:jetpack, Реактивный Электроранец
 galaxyspace:geo_scanner:100, Геологический Сканер
-galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
-galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
-galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
-galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
-galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
-galaxyspace:tauceti_f_watergrass:2, Водоросли
-galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
-galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
-galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
-galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
-galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
-galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:4, Огненный Коралл
-galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
-galaxyspace:tauceti_f_corals:6, Роговитый Коралл
-galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
-galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
-galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
-galaxyspace:tauceti_f_corals:10, Губчатый Коралл
 galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
 galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
 galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
@@ -6673,6 +6651,28 @@ galaxyspace:br_basic:0, Фиолетовый Тростник
 galaxyspace:br_basic:1, Лишайник
 galaxyspace:br_basic:2, Древесный Сок
 galaxyspace:br_foods:0, Желтые Фрукты
+galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
+galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
+galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
+galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
+galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
+galaxyspace:tauceti_f_watergrass:2, Водоросли
+galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
+galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
+galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
+galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
+galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
+galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:4, Огненный Коралл
+galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
+galaxyspace:tauceti_f_corals:6, Роговитый Коралл
+galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
+galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
+galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
+galaxyspace:tauceti_f_corals:10, Губчатый Коралл
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -7123,33 +7123,33 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
-opensecurity:data_block, Блок данных
-opensecurity:keypad, Мини клавиатура
+opensecurity:rolldoor_element, Элемент подъемной двери
 opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:data_block, Блок данных
 opensecurity:card_writer, Блок записи карт
+opensecurity:rfid_reader, RFID считыватель
+opensecurity:nanofog_terminal, Терминал Нано тумана
+opensecurity:entity_detector, Детектор сущностей
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:alarm, Сигнализация
+opensecurity:keypad, Мини клавиатура
 opensecurity:security_terminal, Терминал безопасности
 opensecurity:energy_turret, Энергетическая турель
-opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:entity_detector, Детектор сущностей
-opensecurity:rfid_reader, RFID считыватель
-opensecurity:alarm, Сигнализация
-opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:nanofog_terminal, Терминал Нано тумана
-opensecurity:secure_door, Дверь безопасности
 opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:private_secure_door, Личная дверь безопасности
+opensecurity:secure_door, Дверь безопасности
 opensecurity:rolldoor_controller, Контроллер подъемной двери
-opensecurity:door_controller, Контроллер дверей
 opensecurity:nanofog, Нано туман
 opensecurity:rolldoor, Подъемная дверь
+opensecurity:door_controller, Контроллер дверей
 opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:mag_card, Карта с магнитной полосой
+opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:energy_upgrade, Улучшение энергии
 opensecurity:cooldown_upgrade, Улучшение перезарядки
 opensecurity:nanodna, Нано ДНК
 opensecurity:rfid_card, RFID карта
-opensecurity:rfid_reader_card, Карта RFID считыватель
 opensecurity:movement_upgrade, Улучшение скорости
-opensecurity:energy_upgrade, Улучшение энергии
-opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:damage_upgrade, Улучшение урона
 srparasites:infestedstain, Заражённая земля
 srparasites:infestremain, Заражённый осадок
@@ -7309,6 +7309,10 @@ srparasites:weapon_cleaver, Living Cleaver
 srparasites:weapon_cleaver_sentient, Sentient Greatcleaver
 srparasites:weapon_bow, Живой лук
 srparasites:weapon_bow_sentient, Разумный лук
+thuttech:devicelinker:0, Связыватель устройств
+thuttech:devicelinker:0, ThutTech Manual
+thuttech:lift:0, Лифт
+thuttech:lift:1, Блок управления лифтом
 animalnet:animal_net_small, Маленькая сеть животных
 animalnet:animal_net_medium, Средняя сеть животных
 animalnet:animal_net_big, Большая сеть животных
