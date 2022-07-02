@@ -20,7 +20,7 @@
 	
 	<celestialObject id="Hyperspace">
 		<size x="2000000" z="2000000" />
-		<name>Hyperspace\n超空间</name>
+		<name>Hyperspace\nГиперпространство</name>
 		<description>Your ship warp bubble is your\nonly protection.\n你的飞船扭曲气泡\n是你唯一的保护.</description>
 		
 		<dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
@@ -75,16 +75,16 @@
 				<render red="0.70" green="0.55" blue="0.20" alpha="0.08" texture="" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="galaxyspace">
+			<celestialObject id="Mercury" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Mercury\nМеркурий</name>
+				<dimension id="-1005" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/mercury.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
@@ -93,11 +93,11 @@
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
+				<name>Venus\nВенера</name>
 				<dimension id="-1006" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/venus.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
@@ -153,81 +153,81 @@
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="">
+			<celestialObject id="Mars">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Mars\nМарс</name>
+				<dimension id="-29" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftplanets:textures/gui/planets/mars.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Phobos" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Phobos\nФобос</name>
+				<dimension id="-1012" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Deimos" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
-					<center x="0" z="0" />
-				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<name>Deimos\nДеймос</name>
+				<!-- <dimension id="-1013" isBreathable="false" gravity="normal"> -->
+				<!-- 	<center x="0" z="0" /> -->
+				<!-- </dimension> -->
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/deimos.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Ceres" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Ceres\nЦерера</name>
+				<dimension id="-1007" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Asteroids">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Asteroid belt\nПояс астероидов</name>
+				<dimension id="-30" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/asteroid.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Jupiter">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
-					<center x="0" z="0" />
-				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<name>Jupiter\nЮпитер</name>
+				<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+				<!-- 	<center x="0" z="0" /> -->
+				<!-- </dimension> -->
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/jupiter.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
