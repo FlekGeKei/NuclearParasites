@@ -837,8 +837,6 @@ extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Schrabidic
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Кориум
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Вулканическая лава
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: fluid.deadblood
-extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Кислоты Крипера
-extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Молоко
 extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
 extracells:storage.component:0, 256Кб МЭ компонент хранилища
 extracells:storage.component:1, 1024Кб МЭ компонент хранилища
@@ -1142,8 +1140,6 @@ hbm:fluid_tank_full:0, Универсальный резервуар для жи
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Кориум
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Вулканическая лава
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: fluid.deadblood
-hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Кислоты Крипера
-hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Молоко
 hbm:fluid_barrel_full:0, Empty Fluid Barrel
 hbm:fluid_barrel_full:0, Жидкостная бочка: Вода
 hbm:fluid_barrel_full:0, Жидкостная бочка: Лава
@@ -1219,8 +1215,6 @@ hbm:fluid_barrel_full:0, Жидкостная бочка: Schrabidic Acid
 hbm:fluid_barrel_full:0, Жидкостная бочка: Кориум
 hbm:fluid_barrel_full:0, Жидкостная бочка: Вулканическая лава
 hbm:fluid_barrel_full:0, Жидкостная бочка: fluid.deadblood
-hbm:fluid_barrel_full:0, Жидкостная бочка: Кислоты Крипера
-hbm:fluid_barrel_full:0, Жидкостная бочка: Молоко
 hbm:fluid_barrel_infinite, Бесконечная жидкостная бочка
 hbm:siren_track:1, Трек сирены
 hbm:siren_track:2, Трек сирены
@@ -3191,8 +3185,6 @@ hbm:fluid_icon:0, Schrabidic Acid
 hbm:fluid_icon:0, Кориум
 hbm:fluid_icon:0, Вулканическая лава
 hbm:fluid_icon:0, fluid.deadblood
-hbm:fluid_icon:0, Кислоты Крипера
-hbm:fluid_icon:0, Молоко
 hbm:gadget_explosive, Взрывные линзы первого поколения
 hbm:gadget_explosive8, Связка взрывчатки первого поколения
 hbm:gadget_wireing, Провода
@@ -5512,60 +5504,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Приманка (
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная)
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная+)
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная++)
-appliedenergistics2:facade:0, Кабельный фасад - Медная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Оловянная Руда
-appliedenergistics2:facade:0, Кабельный фасад - Свинцовая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Титановая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Урановая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Красный Контейнер
-appliedenergistics2:facade:0, Кабельный фасад - Зеленый Контейнер
-appliedenergistics2:facade:0, Кабельный фасад - Синий Контейнер
-appliedenergistics2:facade:0, Кабельный фасад - Желтый Контейнер
-appliedenergistics2:facade:0, Кабельный фасад - Стальная Панель
-appliedenergistics2:facade:0, Кабельный фасад - Серебристая Стальная Панель
-appliedenergistics2:facade:0, Кабельный фасад - Карбоновая Панель
-appliedenergistics2:facade:0, Кабельный фасад - Темные Подмостки
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Плита)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Решетка)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Маленькая Решетка)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Кровавый Грей)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Серый)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Серые Плитки)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Красный Столб)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Темный столб)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Красная Панель)
-appliedenergistics2:facade:0, Кабельный фасад - Адский Металл (Столб Лавы)
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон (Светлый)
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон (Серый)
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон (Темный)
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон (Трубы)
-appliedenergistics2:facade:0, Кабельный фасад - Железобетон (Армированный)
-appliedenergistics2:facade:0, Кабельный фасад - Двойные Неоновые Огни
-appliedenergistics2:facade:0, Кабельный фасад - Двойные Неоновые Огни (Повернутые)
-appliedenergistics2:facade:0, Кабельный фасад - Счетверенные Неоновые Огни
-appliedenergistics2:facade:0, Кабельный фасад - Счетверенные Неоновые Огни (Повернутые)
-appliedenergistics2:facade:0, Кабельный фасад - Квадратные Неоновые Огни
-appliedenergistics2:facade:0, Кабельный фасад - Ящик с Боеприпасами
-appliedenergistics2:facade:0, Кабельный фасад - Ящик с Оружием
-appliedenergistics2:facade:0, Кабельный фасад - Ящик с Доспехами
-appliedenergistics2:facade:0, Кабельный фасад - Ящик с Медикаментами
-appliedenergistics2:facade:0, Кабельный фасад - Ящик со Взрывчаткой
-appliedenergistics2:facade:0, Кабельный фасад - Ящик Снабжения
-appliedenergistics2:facade:0, Кабельный фасад - Ящик Снабжения
-appliedenergistics2:facade:0, Кабельный фасад - Ящик Снабжения
-appliedenergistics2:facade:0, Кабельный фасад - Ящик Снабжения
-appliedenergistics2:facade:0, Кабельный фасад - Закаленный Песок
-appliedenergistics2:facade:0, Кабельный фасад - Странные Светящиеся Яйца
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Уголь)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Обычный Металл)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Цветной Металл)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Блестящий Металл)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Уран)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Обычные Драгоценные Камни)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Сияющие Драгоценные Камни)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер руды (Адские Кварц)
-appliedenergistics2:facade:0, Кабельный фасад - Кластер Руды (Нефть)
 appliedenergistics2:facade:0, Кабельный фасад - Particles Collider
 appliedenergistics2:facade:0, Кабельный фасад - Plain Void Shell
 appliedenergistics2:facade:0, Кабельный фасад - Glass Void Shell
@@ -7185,102 +7123,34 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
-opensecurity:entity_detector, Детектор сущностей
-opensecurity:rfid_reader, RFID считыватель
 opensecurity:nanofog_terminal, Терминал Нано тумана
-opensecurity:alarm, Сигнализация
-opensecurity:biometric_reader, Биометрический считыватель
-opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:card_writer, Блок записи карт
-opensecurity:energy_turret, Энергетическая турель
+opensecurity:entity_detector, Детектор сущностей
 opensecurity:security_terminal, Терминал безопасности
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:energy_turret, Энергетическая турель
+opensecurity:rfid_reader, RFID считыватель
+opensecurity:card_writer, Блок записи карт
+opensecurity:rolldoor_element, Элемент подъемной двери
+opensecurity:alarm, Сигнализация
 opensecurity:data_block, Блок данных
 opensecurity:keypad, Мини клавиатура
+opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:secure_door, Дверь безопасности
 opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:mag_secure_door, MagReader Security Door
-opensecurity:secure_door, Дверь безопасности
-opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
-opensecurity:nanofog, Нано туман
-opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:rolldoor, Подъемная дверь
+opensecurity:nanofog, Нано туман
+opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:door_controller, Контроллер дверей
-opensecurity:rfid_card, RFID карта
-opensecurity:nanodna, Нано ДНК
-opensecurity:damage_upgrade, Улучшение урона
-opensecurity:mag_card, Карта с магнитной полосой
-opensecurity:rfid_reader_card, Карта RFID считыватель
-opensecurity:cooldown_upgrade, Улучшение перезарядки
-opensecurity:movement_upgrade, Улучшение скорости
 opensecurity:energy_upgrade, Улучшение энергии
-srparasites:infestedstain, Заражённая земля
-srparasites:infestremain, Заражённый осадок
-srparasites:infestedtrunk, Заражённое бревно
-srparasites:infestedrubble, Заражённый камень
-srparasites:infestedbush:0, Заражённые вены
-srparasites:infestedbush:1, Заражённые вены
-srparasites:infestedbush:2, Заражённые вены
-srparasites:infestedbush:3, Заражённые вены
-srparasites:infestedbush:4, Заражённые вены
-srparasites:infestedbush:5, Заражённые вены
-srparasites:biomeheart, Ядро паразитического биома
-srparasites:colonyheart, Ядро паразитической колонии
-srparasites:biomepurifier, Очиститель биомов
-srparasites:parasitebush:0, Паразитическая сеть
-srparasites:parasitebush:1, Parasitic Ringlet
-srparasites:parasitebush:2, Паразитическая везикула
-srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
-srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
-srparasites:parasitecanister:0, Паразитический мешок
-srparasites:parasitecanister:1, Паразитическая киста
-srparasites:parasitecanister:2, Паразитическая опухоль
-srparasites:parasitecanister:3, Паразитическая сумка
-srparasites:parasitetrunk:0, Паразитическое бревно
-srparasites:parasitetrunk:1, Паразитическое бревно
-srparasites:parasitetrunk:2, Паразитическое бревно
-srparasites:parasitestain:0, Паразитическая земля
-srparasites:parasitestain:1, Паразитическая грязь
-srparasites:parasitestain:2, Паразитическая плоть
-srparasites:parasitestain:3, Паразитические вены
-srparasites:parasiterubble:0, Паразитическая концентрированная плоть
-srparasites:parasiterubble:1, Паразитическая концентрированная кость
-srparasites:parasiterubble:2, Паразитический Камень
-srparasites:parasitestructure, Незавершённая структура паразитической колонии
-srparasites:parasitethin, Паразитическое тонкое бревно
-srparasites:parasitesapling:0, Паразитический саженец
-srparasites:parasitesapling:1, Паразитический саженец
-srparasites:parasitesapling:2, Паразитический саженец
-srparasites:parasitemouth, Паразитический рот
-srparasites:parasiterubbledense:0, Прессованный паразитический камень
-srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
-srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
-srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
-srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
-srparasites:parasiterubble_slabhalf:0, Паразитический полублок
-srparasites:parasitetendril, Паразитический усик
-srparasites:parasitefog, Туман
-srparasites:srpweb, Паутина
-srparasites:evolutionlure:0, Приманка (Ослабленная)
-srparasites:evolutionlure:1, Приманка (Слабая)
-srparasites:evolutionlure:2, Приманка (Тонкая)
-srparasites:evolutionlure:3, Приманка (Стабильная)
-srparasites:evolutionlure:4, Приманка (Существенная)
-srparasites:evolutionlure:5, Приманка (Концентрированная)
-srparasites:evolutionlure:6, Приманка (Концентрированная+)
-srparasites:evolutionlure:7, Приманка (Концентрированная++)
-srparasites:gore:0, Усвоенные останки
-srparasites:gore:1, Усвоенные останки
-srparasites:gore:2, Примитивные останки
-srparasites:gore:3, Примитивные останки
-srparasites:gore:4, Адаптированные останки
-srparasites:gore:5, Адаптированные останки
-srparasites:gore:6, Чистые останки
-srparasites:gore:7, Чистые останки
-srparasites:gore:8, Assimilated Remains
-srparasites:gore:9, Primitive Remains
-srparasites:gore:10, Adapted Remains
-srparasites:gore:11, Pure Remains
-srparasites:canisteractive, Parasitic Cyst (Active)
+opensecurity:damage_upgrade, Улучшение урона
+opensecurity:movement_upgrade, Улучшение скорости
+opensecurity:nanodna, Нано ДНК
+opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:mag_card, Карта с магнитной полосой
+opensecurity:rfid_card, RFID карта
+opensecurity:cooldown_upgrade, Улучшение перезарядки
 srparasites:ada_summoner_drop, Ядро призывателя
 srparasites:ada_yelloweye_drop, Кость желтоглаза
 srparasites:ada_manducater_drop, Сфера пожирателя
@@ -7371,386 +7241,74 @@ srparasites:weapon_cleaver, Living Cleaver
 srparasites:weapon_cleaver_sentient, Sentient Greatcleaver
 srparasites:weapon_bow, Живой лук
 srparasites:weapon_bow_sentient, Разумный лук
-techguns:basicmachine:0, Пресс для Боеприпасов
-techguns:basicmachine:1, Металлургический Пресс
-techguns:basicmachine:2, Химическая Лаборатория
-techguns:basicmachine:3, Турель
-techguns:simplemachine:8, Камуфляжный Станок
-techguns:simplemachine:9, Ремонтный Станок
-techguns:simplemachine:10, Зарядная Станция
-techguns:simplemachine:11, Доменная Печь
-techguns:simplemachine2:8, Измельчитель
-techguns:simplemachine2:9, Стол для Улучшения
-techguns:multiblockmachine:0, Корпус Фабрикатора
-techguns:multiblockmachine:1, Стекло Фабрикатора
-techguns:multiblockmachine:2, Контроллер Фабрикатора
-techguns:multiblockmachine:3, Корпус Реакционной Камеры
-techguns:multiblockmachine:4, Стекло Реакционной Камеры
-techguns:multiblockmachine:5, Контроллер Реакционной Камеры
-techguns:basicore:0, Медная Руда
-techguns:basicore:1, Оловянная Руда
-techguns:basicore:2, Свинцовая Руда
-techguns:basicore:3, Титановая Руда
-techguns:basicore:4, Урановая Руда
-techguns:bioblob:0, Комок Биомассы
-techguns:sandbags, Мешки с Песком
-techguns:lamp0:0, Лампа (Желтая)
-techguns:lamp0:6, Лампа (Белая)
-techguns:lamp0:12, Фонарь (Желтый)
-techguns:lamp0:13, Фонарь (Белый)
-techguns:metalpanel:0, Красный Контейнер
-techguns:metalpanel:1, Зеленый Контейнер
-techguns:metalpanel:2, Синий Контейнер
-techguns:metalpanel:3, Желтый Контейнер
-techguns:metalpanel:4, Стальная Панель
-techguns:metalpanel:5, Серебристая Стальная Панель
-techguns:metalpanel:6, Карбоновая Панель
-techguns:metalpanel:7, Темные Подмостки
-techguns:nethermetal:0, Адский Металл (Плита)
-techguns:nethermetal:1, Адский Металл (Решетка)
-techguns:nethermetal:2, Адский Металл (Маленькая Решетка)
-techguns:nethermetal:3, Адский Металл (Кровавый Грей)
-techguns:nethermetal:4, Адский Металл (Серый)
-techguns:nethermetal:5, Адский Металл (Серые Плитки)
-techguns:nethermetal:6, Адский Металл (Красный Столб)
-techguns:nethermetal:7, Адский Металл (Темный столб)
-techguns:nethermetal:8, Адский Металл (Красная Панель)
-techguns:nethermetal:9, Адский Металл (Столб Лавы)
-techguns:concrete:0, Железобетон
-techguns:concrete:1, Железобетон (Светлый)
-techguns:concrete:2, Железобетон (Серый)
-techguns:concrete:3, Железобетон (Темный)
-techguns:concrete:4, Железобетон (Трубы)
-techguns:concrete:5, Железобетон (Армированный)
-techguns:ladder0:8, Лестница (Металл)
-techguns:ladder0:9, Лестница (Блестящая)
-techguns:ladder0:10, Лестница (Ржавая)
-techguns:ladder0:11, Лестница (Карбон)
-techguns:door3x3, tile.techguns.door3x3.name
-techguns:camonet:0, Камуфляжная Сетка (Лес)
-techguns:camonet:1, Камуфляжная Сетка (Пустыня)
-techguns:camonet:2, Камуфляжная Сетка (Снег)
-techguns:camonet_top:0, Камуфляжная Сетка Верх (Лес)
-techguns:camonet_top:1, Камуфляжная Сетка Верх (Пустыня)
-techguns:camonet_top:2, Камуфляжная Сетка Верх (Снег)
-techguns:bunkerdoor, tile.techguns.bunkerdoor.name
-techguns:stairs_metal:7, Ступеньки из Стальных Панелей
-techguns:stairs_metal:15, Ступеньки из Карбона
-techguns:stairs_concrete:7, Железобетонные ступеньки (Светлые)
-techguns:stairs_concrete:15, Железобетонные ступеньки (Темные)
-techguns:tg_spawner:0, Дыра с монстрами
-techguns:tg_spawner:1, Военная точка возрождения
-techguns:neonlights:0, Двойные Неоновые Огни
-techguns:neonlights:1, Двойные Неоновые Огни (Повернутые)
-techguns:neonlights:2, Счетверенные Неоновые Огни
-techguns:neonlights:3, Счетверенные Неоновые Огни (Повернутые)
-techguns:neonlights:4, Квадратные Неоновые Огни
-techguns:military_crate:0, Ящик с Боеприпасами
-techguns:military_crate:1, Ящик с Оружием
-techguns:military_crate:2, Ящик с Доспехами
-techguns:military_crate:3, Ящик с Медикаментами
-techguns:military_crate:4, Ящик со Взрывчаткой
-techguns:military_crate:5, Ящик Снабжения
-techguns:military_crate:6, Ящик Снабжения
-techguns:military_crate:7, Ящик Снабжения
-techguns:military_crate:8, Ящик Снабжения
-techguns:explosive_charge:0, Карьерная Взрывчатка
-techguns:explosive_charge:1, Улучшенная Карьерная Взрывчатка
-techguns:sand_hard:0, Закаленный Песок
-techguns:slimy:0, Странные Светящиеся Яйца
-techguns:slimyladder:3, Слизистый След
-techguns:orecluster:0, Кластер руды (Уголь)
-techguns:orecluster:1, Кластер руды (Обычный Металл)
-techguns:orecluster:2, Кластер руды (Цветной Металл)
-techguns:orecluster:3, Кластер руды (Блестящий Металл)
-techguns:orecluster:4, Кластер руды (Уран)
-techguns:orecluster:5, Кластер руды (Обычные Драгоценные Камни)
-techguns:orecluster:6, Кластер руды (Сияющие Драгоценные Камни)
-techguns:orecluster:7, Кластер руды (Адские Кварц)
-techguns:orecluster:8, Кластер Руды (Нефть)
-techguns:oredrill:0, Рама Бура
-techguns:oredrill:1, Крепление Бура
-techguns:oredrill:2, Стержень Бура
-techguns:oredrill:3, Двигатель Бура
-techguns:oredrill:4, Контроллер Бура
-techguns:block_creeper_acid, Кислота Крипера
-techguns:block_milk, Молоко
-techguns:itemshared:0, Каменные Пули
-techguns:itemshared:1, Пистолетные Патроны
-techguns:itemshared:2, Патроны для Дробовика
-techguns:itemshared:3, Винтовочные Патроны
-techguns:itemshared:4, Снайперские Патроны
-techguns:itemshared:5, 40-мм граната
-techguns:itemshared:6, Усовершенствованные Патроны
-techguns:itemshared:7, Ракета
-techguns:itemshared:8, Стак Винтовочных Патронов
-techguns:itemshared:9, Магазин для ПП
-techguns:itemshared:10, Магазин для ПП (Пустой)
-techguns:itemshared:11, Обойма для Пистолета
-techguns:itemshared:12, Обойма для Пистолета (Пустая)
-techguns:itemshared:13, Магазин для Штурмовой Винтовки
-techguns:itemshared:14, Магазин для Штурмовой Винтовки (Пустой)
-techguns:itemshared:15, Магазин для Пулемета
-techguns:itemshared:16, Магазин для Пулемета (Пустой)
-techguns:itemshared:17, Барабан для Минигана
-techguns:itemshared:18, Барабан для Минигана (Пустой)
-techguns:itemshared:19, Магазин для AS50
-techguns:itemshared:20, Магазин для AS50 (Пустой)
-techguns:itemshared:21, Магазин для Усовершенствованной Винтовки
-techguns:itemshared:22, Магазин для Усовершенствованной Винтовки (Пустой)
-techguns:itemshared:23, Баллон со Сжатым Воздухом
-techguns:itemshared:24, Баллон со Сжатым Воздухом (Пустой)
-techguns:itemshared:25, Био Бак
-techguns:itemshared:26, Био Бак (Пустой)
-techguns:itemshared:27, Топливный Бак
-techguns:itemshared:28, Топливный Бак (Пустой)
-techguns:itemshared:29, Энергетическая Ячейка
-techguns:itemshared:30, Энергетическая Ячейка (Пустая)
-techguns:itemshared:31, Ядерный Микрореактор
-techguns:itemshared:32, Ядерный Микрореактор (Истощен)
-techguns:itemshared:33, Железная Ствольная Коробка
-techguns:itemshared:34, Стальная Ствольная Коробка
-techguns:itemshared:35, Закаленная Ствольная Коробка
-techguns:itemshared:36, Карбоновая Ствольная Коробка
-techguns:itemshared:37, Каменный Ствол
-techguns:itemshared:38, Железный Ствол
-techguns:itemshared:39, Закаленный Ствол
-techguns:itemshared:40, Карбоновый Ствол
-techguns:itemshared:41, Ствол Лазера
-techguns:itemshared:42, Деревянное Ложе
-techguns:itemshared:43, Пластиковое Ложе
-techguns:itemshared:44, Карбоновое Ложе
-techguns:itemshared:45, Пластина Паровой Брони
-techguns:itemshared:46, Железная Пластина
-techguns:itemshared:47, Медная Пластина
-techguns:itemshared:48, Оловянная Пластина
-techguns:itemshared:49, Бронзовая Пластина
-techguns:itemshared:50, Стальная Пластина
-techguns:itemshared:51, Обсидианово-Стальная Пластина
-techguns:itemshared:52, Свинцовая Пластина
-techguns:itemshared:53, Карбоновая Пластина
-techguns:itemshared:54, Титановая Пластина
-techguns:itemshared:55, Пластиковый Лист
-techguns:itemshared:56, Резиновый Лист
-techguns:itemshared:57, Механические Детали (Железо)
-techguns:itemshared:58, Механические Детали (Закаленные)
-techguns:itemshared:59, Механические Детали (Карбон)
-techguns:itemshared:60, Прочная Ткань
-techguns:itemshared:61, Биомасса
-techguns:itemshared:62, Медный Провод
-techguns:itemshared:63, Золотой Провод
-techguns:itemshared:64, Карбоновые Волокна
-techguns:itemshared:65, Электросхема
-techguns:itemshared:66, Элитная Электросхема
-techguns:itemshared:67, Пластина Силовой Брони
-techguns:itemshared:68, Катушка
-techguns:itemshared:69, Кибернетические Запчасти
-techguns:itemshared:70, Электродвигатель
-techguns:itemshared:71, Лазерный Фокус
-techguns:itemshared:72, Насосный Механизм
-techguns:itemshared:73, Излучатель Радиации
-techguns:itemshared:74, Звуковой Излучатель
-techguns:itemshared:75, Бризантная Взрывчатка
-techguns:itemshared:76, Адский Излучатель
-techguns:itemshared:77, Обработанная Кожа
-techguns:itemshared:78, Титановая Руда
-techguns:itemshared:79, Медный Слиток
-techguns:itemshared:80, Оловянный Слиток
-techguns:itemshared:81, Бронзовый Слиток
-techguns:itemshared:82, Свинцовый Слиток
-techguns:itemshared:83, Стальной Слиток
-techguns:itemshared:84, Обсидианово-Стальной Слиток
-techguns:itemshared:85, Титановый Слиток
-techguns:itemshared:86, Медный Самородок
-techguns:itemshared:87, Свинцовый Самородок
-techguns:itemshared:88, Стальной Самородок
-techguns:itemshared:89, Фильтр Противогаза
-techguns:itemshared:90, Рюкзак Планера
-techguns:itemshared:91, Крыло Планера
-techguns:itemshared:92, Антигравитационное Ядро
-techguns:itemshared:93, Кислородная Маска
-techguns:itemshared:94, Улучшение Механизма (Обработка Стаков)
-techguns:itemshared:95, Сырая Резина
-techguns:itemshared:96, Сырой Пластик
-techguns:itemshared:97, Оксид Урана
-techguns:itemshared:98, Обогащенный Уран
-techguns:itemshared:99, Броня Турели (Железо)
-techguns:itemshared:100, Броня Турели (Сталь)
-techguns:itemshared:101, Броня Турели (Обсидианово-Стальная)
-techguns:itemshared:102, Броня Турели (Карбон)
-techguns:itemshared:103, Кварцевый Жезл
-techguns:itemshared:104, Фокусировщик Тепловых Лучей Реакционной Камеры
-techguns:itemshared:105, УФ-Излучатель Реакционной Камеры
-techguns:itemshared:106, §6Патроны для Дробовика (Зажигательные)
-techguns:itemshared:107, §6Магазин для AS50 (Зажигательные)
-techguns:itemshared:108, §6Снайперские Патроны (Зажигательные)
-techguns:itemshared:109, §6Пистолетные Патроны (Зажигательные)
-techguns:itemshared:110, §6Винтовочные Патроны (Зажигательные)
-techguns:itemshared:111, §6Стак Винтовочных Патронов (Зажигательные)
-techguns:itemshared:112, §6Магазин для ПП (Зажигательные)
-techguns:itemshared:113, §6Магазин для Пистолета (Зажигательные)
-techguns:itemshared:114, §6Барабан для Мигинана (Зажигательные)
-techguns:itemshared:115, §6Магазин для Штурмовой Винтовки (Зажигательные)
-techguns:itemshared:116, §6Магазин для Ручного Пулемета (Зажигательные)
-techguns:itemshared:117, Ракета (Тактическая Атомная Бомба)
-techguns:itemshared:118, Малая Ядерная Боеголовка
-techguns:itemshared:119, Головка Бура (Обсидиан)
-techguns:itemshared:120, Головка Бура (Карбон)
-techguns:itemshared:121, Набалдашник Силового Кулака (Обсидиан)
-techguns:itemshared:122, Набалдашник Силового Кулака (Карбон)
-techguns:itemshared:123, Лезвие Бензопилы (Обсидиан)
-techguns:itemshared:124, Лезвие Бензопилы (Карбон)
-techguns:itemshared:125, Редстоуновая Батарейка
-techguns:itemshared:126, Редстоуновая Батарейка (Пустая)
-techguns:itemshared:127, Снаряд для Винтовки Гаусса
-techguns:itemshared:128, Ствол для Винтовки Гаусса
-techguns:itemshared:129, Экранированный Титановый Ствол
-techguns:itemshared:130, Титановый Ствольная Коробка
-techguns:itemshared:131, Плазменный Генератор
-techguns:itemshared:132, Рабочие Перчатки
-techguns:itemshared:133, Защитное волокно
-techguns:itemshared:134, Малый Бур (Сталь)
-techguns:itemshared:135, Малый Бур (Обсидиановая Сталь)
-techguns:itemshared:136, Малый Бур (Карбон)
-techguns:itemshared:137, Средний Бур (Сталь)
-techguns:itemshared:138, Средний Бур (Обсидиановая Сталь)
-techguns:itemshared:139, Средний Бур (Карбон)
-techguns:itemshared:140, Большой Бур (Сталь)
-techguns:itemshared:141, Большой Бур (Обсидиановая Сталь)
-techguns:itemshared:142, Большой Бур (Карбон)
-techguns:itemshared:143, §4Магазин для AS50 (Разрывные)
-techguns:itemshared:144, §4Снайперские Патроны (Разрывные)
-techguns:itemshared:145, §eРакета (Скоростная)
-techguns:itemshared:146, Гемакон
-techguns:itemshared:147, Улучшение Брони: Защита I
-techguns:itemshared:148, Улучшение Брони: Защита от Снарядов I
-techguns:itemshared:149, Улучшение Брони: Защита от Взрывов I
-techguns:itemshared:150, Улучшение Брони: Защита II
-techguns:itemshared:151, Улучшение Брони: Защита от Снарядов II
-techguns:itemshared:152, Улучшение Брони: Защита от Взрывов II
-techguns:itemshared:153, Улучшение Брони: Защита III
-techguns:itemshared:154, Улучшение Брони: Защита от Снарядов III
-techguns:itemshared:155, Улучшение Брони: Защита от Взрывов III
-techguns:radaway, Антирадин
-techguns:radpills, Таблетки Антирадина
-techguns:gasmask, Противогаз
-techguns:glider, Планер
-techguns:jumppack, Прыжковый Ранец
-techguns:scubatanks, Кислородные Баки
-techguns:nightvisiongoggles, Очки Ночного Видения
-techguns:jetpack, Реактивный Ранец
-techguns:tacticalmask, Тактическая Маска
-techguns:antigravpack, Антигравитационное Устройство
-techguns:item_door3x3:0, Сдвоенная Дверь
-techguns:item_door3x3:1, Ангарная Дверь (Верх)
-techguns:item_door3x3:2, Ангарная Дверь (Низ)
-techguns:item_door3x3:3, Techdoor (Nether)
-techguns:item_bunkerdoor, Дверь Бункера
-techguns:combatknife, Боевой Нож
-techguns:crowbar, Лом
-techguns:t1_combat_helmet, item.t1_combat_helmet.name
-techguns:t1_combat_chestplate, item.t1_combat_chestplate.name
-techguns:t1_combat_leggings, item.t1_combat_leggings.name
-techguns:t1_combat_boots, item.t1_combat_boots.name
-techguns:t1_scout_helmet, item.t1_scout_helmet.name
-techguns:t1_scout_chestplate, item.t1_scout_chestplate.name
-techguns:t1_scout_leggings, item.t1_scout_leggings.name
-techguns:t1_scout_boots, item.t1_scout_boots.name
-techguns:t1_miner_helmet, item.t1_miner_helmet.name
-techguns:t1_miner_chestplate, item.t1_miner_chestplate.name
-techguns:t1_miner_leggings, item.t1_miner_leggings.name
-techguns:t1_miner_boots, item.t1_miner_boots.name
-techguns:steam_helmet, item.steam_helmet.name
-techguns:steam_chestplate, item.steam_chestplate.name
-techguns:steam_leggings, item.steam_leggings.name
-techguns:steam_boots, item.steam_boots.name
-techguns:hazmat_helmet, Защитный шлем
-techguns:hazmat_chestplate, item.hazmat_chestplate.name
-techguns:hazmat_leggings, item.hazmat_leggings.name
-techguns:hazmat_boots, Защитные ботинки
-techguns:t2_combat_helmet, item.t2_combat_helmet.name
-techguns:t2_combat_chestplate, item.t2_combat_chestplate.name
-techguns:t2_combat_leggings, item.t2_combat_leggings.name
-techguns:t2_combat_boots, item.t2_combat_boots.name
-techguns:t2_commando_helmet, item.t2_commando_helmet.name
-techguns:t2_commando_chestplate, item.t2_commando_chestplate.name
-techguns:t2_commando_leggings, item.t2_commando_leggings.name
-techguns:t2_commando_boots, item.t2_commando_boots.name
-techguns:t2_riot_helmet, item.t2_riot_helmet.name
-techguns:t2_riot_chestplate, item.t2_riot_chestplate.name
-techguns:t2_riot_leggings, item.t2_riot_leggings.name
-techguns:t2_riot_boots, item.t2_riot_boots.name
-techguns:t3_combat_helmet, item.t3_combat_helmet.name
-techguns:t3_combat_chestplate, item.t3_combat_chestplate.name
-techguns:t3_combat_leggings, item.t3_combat_leggings.name
-techguns:t3_combat_boots, item.t3_combat_boots.name
-techguns:t3_power_helmet, item.t3_power_helmet.name
-techguns:t3_power_chestplate, item.t3_power_chestplate.name
-techguns:t3_power_leggings, item.t3_power_leggings.name
-techguns:t3_power_boots, item.t3_power_boots.name
-techguns:t3_miner_helmet, item.t3_miner_helmet.name
-techguns:t3_miner_chestplate, item.t3_miner_chestplate.name
-techguns:t3_miner_leggings, item.t3_miner_leggings.name
-techguns:t3_miner_boots, item.t3_miner_boots.name
-techguns:t3_exo_helmet, item.t3_exo_helmet.name
-techguns:t3_exo_chestplate, item.t3_exo_chestplate.name
-techguns:t3_exo_leggings, item.t3_exo_leggings.name
-techguns:t3_exo_boots, item.t3_exo_boots.name
-techguns:t2_beret, item.t2_beret.name
-techguns:t4_praetor_helmet, item.t4_praetor_helmet.name
-techguns:t4_praetor_chestplate, item.t4_praetor_chestplate.name
-techguns:t4_praetor_leggings, item.t4_praetor_leggings.name
-techguns:t4_praetor_boots, item.t4_praetor_boots.name
-techguns:t4_power_helmet, item.t4_power_helmet.name
-techguns:t4_power_chestplate, item.t4_power_chestplate.name
-techguns:t4_power_leggings, item.t4_power_leggings.name
-techguns:t4_power_boots, item.t4_power_boots.name
-techguns:riot_shield, Штурмовой Щит
-techguns:ballistic_shield, Баллистический Щит
-techguns:advanced_shield, Улучшенный Щит
-techguns:handcannon, Самопал
-techguns:sawedoff, Двуствольный Дробовик
-techguns:revolver, Револьвер
-techguns:goldenrevolver, Золотой Револьвер
-techguns:thompson, ПП Томпсона
-techguns:ak47, АКМ
-techguns:boltaction, Болтовка
-techguns:m4, Штурмовая винтовка M4
-techguns:m4_infiltrator, Диверсант
-techguns:pistol, Пистолет
-techguns:combatshotgun, Боевой Дробовик
-techguns:mac10, Mac 10
-techguns:flamethrower, Огнемет
-techguns:rocketlauncher, Базука
-techguns:grimreaper, Мрачный Жнец
-techguns:grenadelauncher, Гранатомет
-techguns:aug, AUG
-techguns:netherblaster, Адский Бластер
-techguns:biogun, Биопушка
-techguns:teslagun, Пушка Тесла
-techguns:lmg, Ручной Пулемет
-techguns:minigun, Миниган
-techguns:as50, Снайперская Винтовка AS50
-techguns:vector, Вектор
-techguns:scar, SCAR
-techguns:lasergun, Лазерная Винтовка
-techguns:blasterrifle, Бластерная Винтовка
-techguns:scatterbeamrifle, Бластерный Дробовик
-techguns:sonicshotgun, Звуковая Винтовка
-techguns:pdw, P90
-techguns:pulserifle, Импульсная Винтовка
-techguns:mibgun, Расщепляющий Пистолет
-techguns:alienblaster, Инопланетный Бластер
-techguns:powerhammer, Силовой Кулак
-techguns:chainsaw, Бензопила
-techguns:nucleardeathray, Атомный Излучатель
-techguns:gaussrifle, Винтовка Гаусса
-techguns:guidedmissilelauncher, Ракетница с Самонаведением
-techguns:miningdrill, Бур
-techguns:tfg, БФГ 10K
-techguns:laserpistol, Laser Pistol
-techguns:stielgranate, Граната с рукояткой
-techguns:fraggrenade, Осколочная Граната
+srparasites:infestedstain, Заражённая земля
+srparasites:infestremain, Заражённый осадок
+srparasites:infestedtrunk, Заражённое бревно
+srparasites:infestedrubble, Заражённый камень
+srparasites:infestedbush:0, Заражённые вены
+srparasites:infestedbush:1, Заражённые вены
+srparasites:infestedbush:2, Заражённые вены
+srparasites:infestedbush:3, Заражённые вены
+srparasites:infestedbush:4, Заражённые вены
+srparasites:infestedbush:5, Заражённые вены
+srparasites:biomeheart, Ядро паразитического биома
+srparasites:colonyheart, Ядро паразитической колонии
+srparasites:biomepurifier, Очиститель биомов
+srparasites:parasitebush:0, Паразитическая сеть
+srparasites:parasitebush:1, Parasitic Ringlet
+srparasites:parasitebush:2, Паразитическая везикула
+srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
+srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
+srparasites:parasitecanister:0, Паразитический мешок
+srparasites:parasitecanister:1, Паразитическая киста
+srparasites:parasitecanister:2, Паразитическая опухоль
+srparasites:parasitecanister:3, Паразитическая сумка
+srparasites:parasitetrunk:0, Паразитическое бревно
+srparasites:parasitetrunk:1, Паразитическое бревно
+srparasites:parasitetrunk:2, Паразитическое бревно
+srparasites:parasitestain:0, Паразитическая земля
+srparasites:parasitestain:1, Паразитическая грязь
+srparasites:parasitestain:2, Паразитическая плоть
+srparasites:parasitestain:3, Паразитические вены
+srparasites:parasiterubble:0, Паразитическая концентрированная плоть
+srparasites:parasiterubble:1, Паразитическая концентрированная кость
+srparasites:parasiterubble:2, Паразитический Камень
+srparasites:parasitestructure, Незавершённая структура паразитической колонии
+srparasites:parasitethin, Паразитическое тонкое бревно
+srparasites:parasitesapling:0, Паразитический саженец
+srparasites:parasitesapling:1, Паразитический саженец
+srparasites:parasitesapling:2, Паразитический саженец
+srparasites:parasitemouth, Паразитический рот
+srparasites:parasiterubbledense:0, Прессованный паразитический камень
+srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
+srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
+srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
+srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
+srparasites:parasiterubble_slabhalf:0, Паразитический полублок
+srparasites:parasitetendril, Паразитический усик
+srparasites:parasitefog, Туман
+srparasites:srpweb, Паутина
+srparasites:evolutionlure:0, Приманка (Ослабленная)
+srparasites:evolutionlure:1, Приманка (Слабая)
+srparasites:evolutionlure:2, Приманка (Тонкая)
+srparasites:evolutionlure:3, Приманка (Стабильная)
+srparasites:evolutionlure:4, Приманка (Существенная)
+srparasites:evolutionlure:5, Приманка (Концентрированная)
+srparasites:evolutionlure:6, Приманка (Концентрированная+)
+srparasites:evolutionlure:7, Приманка (Концентрированная++)
+srparasites:gore:0, Усвоенные останки
+srparasites:gore:1, Усвоенные останки
+srparasites:gore:2, Примитивные останки
+srparasites:gore:3, Примитивные останки
+srparasites:gore:4, Адаптированные останки
+srparasites:gore:5, Адаптированные останки
+srparasites:gore:6, Чистые останки
+srparasites:gore:7, Чистые останки
+srparasites:gore:8, Assimilated Remains
+srparasites:gore:9, Primitive Remains
+srparasites:gore:10, Adapted Remains
+srparasites:gore:11, Pure Remains
+srparasites:canisteractive, Parasitic Cyst (Active)
 thuttech:devicelinker:0, Связыватель устройств
 thuttech:devicelinker:0, ThutTech Manual
 thuttech:lift:0, Лифт
