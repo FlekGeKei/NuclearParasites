@@ -1912,6 +1912,408 @@
         "name": "§3UNU Tachometer (Manual)",
         "description": "Indicates Engine Speed and Gear"
       }
+    },
+    "ivairlinerpack": {
+      "ivairlinerpack.trin_cator": {
+        "name": "§bTrin Cator §7[catering truck]",
+        "description": "Service height: 4"
+      },
+      "ivairlinerpack.trin_cator_gap": {
+        "name": "§bTrin Cator §7[catering truck] §7(§6GAP§7)",
+        "description": "Service height: 4"
+      },
+      "ivairlinerpack.unucivil_vehicle_unu_camel2_tanker_gap": {
+        "name": "§3UNU Camel Tanker §7[refueling truck] §7(§6GAP§7)",
+        "description": "Recommended parts:\nStandard Truck Wheel\nV8H Engine\nStandard Truck Seat"
+      },
+      "ivairlinerpack.737-300": {
+        "name": "737-300",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_adria": {
+        "name": "737-300 §7(ADRIA)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_aerlingus": {
+        "name": "737-300 §7(AERLINGUS)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_ansett": {
+        "name": "737-300 §7(ANSETT)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_asiana": {
+        "name": "737-300 §7(ASIANA)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_belavia": {
+        "name": "737-300 §7(BELAVIA)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_cea": {
+        "name": "737-300 §7(CHINA EASTERN)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_continental": {
+        "name": "737-300 §7(CONTINENTAL)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_copa": {
+        "name": "737-300 §7(COPA)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_delta": {
+        "name": "737-300 §7(Delta)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_gap": {
+        "name": "737-300 §7(GAP)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_janet": {
+        "name": "737-300 §7(JANET)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_klm": {
+        "name": "737-300 §7(KLM)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_lot": {
+        "name": "737-300 §7(LOT)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_lufthansa": {
+        "name": "737-300 §7(LUFTHANSA)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_mai": {
+        "name": "737-300 §7(MAI)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_nolinor": {
+        "name": "737-300 §7(NOLINOR)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_norwegian": {
+        "name": "737-300 §7(NORWEGIAN)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_qantas": {
+        "name": "737-300 §7(QANTAS)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_ryanair": {
+        "name": "737-300 §7(RYANAIR)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_southwest": {
+        "name": "737-300 §7(SOUTHWEST)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_trin": {
+        "name": "737-300 §7(TRIN)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_tui": {
+        "name": "737-300 §7(TUI)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_united": {
+        "name": "737-300 §7(UNITED)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.737-300_unu": {
+        "name": "737-300 §7(UNU)",
+        "description": "Boeing 737-300 (Classic)\nNarrow-body twinjet\nfirst flew in February 1984 and entered service in December of that year."
+      },
+      "ivairlinerpack.crj200": {
+        "name": "CRJ200",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_aerlingus": {
+        "name": "CRJ200 §7(AERLINGUS)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_britishairways": {
+        "name": "CRJ200 §7(BRITISH AIRWAYS)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_canada": {
+        "name": "CRJ200 §7(AIR CANADA)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_gap": {
+        "name": "CRJ200 §7(GAP)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_iberia": {
+        "name": "CRJ200 §7(IBERIA)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_lufthansa": {
+        "name": "CRJ200 §7(LUFTHANSA)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_ryanair": {
+        "name": "CRJ200 §7(RYANAIR)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_trin": {
+        "name": "CRJ200 §7(TRIN)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.crj200_unu": {
+        "name": "CRJ200 §7(UNU)",
+        "description": "Bombardier CRJ 200\nRegional rear twinjet\nThe first of the Bombardier CRJ family."
+      },
+      "ivairlinerpack.q400": {
+        "name": "Q400",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_aerlingus": {
+        "name": "Q400 §7(AERLINGUS)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_alaska": {
+        "name": "Q400 (ALASKA)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_austrian": {
+        "name": "Q400 §7(AUSTRIAN)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_flybe": {
+        "name": "Q400 §7(FLYBE)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_gap": {
+        "name": "Q400 §7(GAP)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_lot": {
+        "name": "Q400 §7(LOT)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_mai": {
+        "name": "Q400 §7(MAI)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_maldivian": {
+        "name": "Q400 §7(MALDIVIAN)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.q400_qantas": {
+        "name": "Q400 §7(QANTAS)",
+        "description": "Bombardier Dash 8 Q400\nRegional twin turboprop\nAlso known as De Havilland Canada DHC-8 before being bought by Bombardier."
+      },
+      "ivairlinerpack.cf34-3": {
+        "name": "CF34-3 Turbofan Engine",
+        "description": ""
+      },
+      "ivairlinerpack.cfm56-3": {
+        "name": "CFM56-3 Turbofan Engine",
+        "description": ""
+      },
+      "ivairlinerpack.pw150": {
+        "name": "PW150 Turboprop Engine",
+        "description": ""
+      },
+      "ivairlinerpack.dr408": {
+        "name": "Dowty R408 Propeller §7(Dynamic Pitch)",
+        "description": ""
+      },
+      "ivairlinerpack.iron_plate": {
+        "name": "Metal Plating",
+        "description": "Standard metal plate used to craft various aircraft parts."
+      },
+      "ivairlinerpack.navi_comp": {
+        "name": "Navigation Computer",
+        "description": "An important component of all modern aircrafts equipped with autopilot."
+      },
+      "ivairlinerpack.rubber": {
+        "name": "Rubber",
+        "description": "Artificial rubber. Suitable for aircraft tires."
+      },
+      "ivairlinerpack.engine_radial": {
+        "name": "Engine Pod §7(Radial)",
+        "description": "Generic pod for radial engines."
+      },
+      "ivairlinerpack.engine_turbofan": {
+        "name": "Engine PodTurbofan)",
+        "description": "Generic pod turbofan engines."
+      },
+      "ivairlinerpack.engine_turbojet": {
+        "name": "Engine Pod §7(Turbojet)",
+        "description": "Generic pod for turbojet engines."
+      },
+      "ivairlinerpack.engine_turboprop": {
+        "name": "Engine Pod §7(Turboprop)",
+        "description": "Generic pod for turboprop engines."
+      },
+      "ivairlinerpack.livery_adria": {
+        "name": "Livery Kit §7(ADRIA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_aerlingus": {
+        "name": "Livery Kit §7(AERLINGUS)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_alaska": {
+        "name": "Livery Kit §7(ALASKA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_ansett": {
+        "name": "Livery Kit §7(ANSETT)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_asiana": {
+        "name": "Livery Kit §7(ASIANA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_austrian": {
+        "name": "Livery Kit §7(AUSTRIAN)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_azur": {
+        "name": "Livery Kit §7(AZUR)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_belavia": {
+        "name": "Livery Kit §7(BELAVIA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_britishairways": {
+        "name": "Livery Kit §7(BRITISH AIRWAYS)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_canada": {
+        "name": "Livery Kit §7(AIR CANADA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_cea": {
+        "name": "Livery Kit §7(CHINA EASTERN)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_condor": {
+        "name": "Livery Kit §7(CONDOR)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_continental": {
+        "name": "Livery Kit §7(CONTINENTAL)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_copa": {
+        "name": "Livery Kit §7(COPA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_delta": {
+        "name": "Livery Kit §7(Delta)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_flybe": {
+        "name": "Livery Kit §7(FLYBE)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_gap": {
+        "name": "Livery Kit §7(GAP)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_iberia": {
+        "name": "Livery Kit §7(IBERIA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_icelandair": {
+        "name": "Livery Kit §7(ICELANDAIR)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_janet": {
+        "name": "Livery Kit §7(JANET)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_klm": {
+        "name": "Livery Kit §7(KLM)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_lot": {
+        "name": "Livery Kit §7(LOT)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_lufthansa": {
+        "name": "Livery Kit §7(LUFTHANSA)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_mai": {
+        "name": "Livery Kit §7(MAI)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_maldivian": {
+        "name": "Livery Kit §7(MALDIVIAN)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_nolinor": {
+        "name": "Livery Kit §7(NOLINOR)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_northwest": {
+        "name": "Livery Kit §7(NORTHWEST)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_norwegian": {
+        "name": "Livery Kit §7(NORWEGIAN)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_qantas": {
+        "name": "Livery Kit §7(QANTAS)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_ryanair": {
+        "name": "Livery Kit §7(RYANAIR)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_southwest": {
+        "name": "Livery Kit §7(SOUTHWEST)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_trin": {
+        "name": "Livery Kit §7(TRIN)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_tui": {
+        "name": "Livery Kit §7(TUI)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_united": {
+        "name": "Livery Kit §7(UNITED)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.livery_unu": {
+        "name": "Livery Kit §7(UNU)",
+        "description": "Used to paint aircrafts."
+      },
+      "ivairlinerpack.wing_elliptical_medium": {
+        "name": "Wing §7(Elliptical Medium)",
+        "description": "Wing type commonly seen on older aircrafts with four radial engines."
+      },
+      "ivairlinerpack.wing_elliptical_small": {
+        "name": "Wing §7(Elliptical Small)",
+        "description": "Wing type commonly seen on older aircrafts with two radial engines."
+      },
+      "ivairlinerpack.wing_swept_large": {
+        "name": "Wing §7(Swept Large)",
+        "description": "Wing type commonly seen on quadjets."
+      },
+      "ivairlinerpack.wing_swept_medium": {
+        "name": "Wing §7(Swept Medium)",
+        "description": "Wing type commonly seen on twinjets."
+      },
+      "ivairlinerpack.wing_swept_small": {
+        "name": "Wing §7(Swept Small)",
+        "description": "Wing type commonly seen on rearjets."
+      },
+      "ivairlinerpack.wing_tapered": {
+        "name": "Wing §7(Tapered)",
+        "description": "Wing type commonly seen on turboprops."
+      }
     }
   }
 }

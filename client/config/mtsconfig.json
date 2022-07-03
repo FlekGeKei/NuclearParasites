@@ -96,7 +96,8 @@
       "value": {
         "unuparts": 1.0,
         "unumilitary": 1.0,
-        "mts": 1.0
+        "mts": 1.0,
+        "ivairlinerpack": 1.0
       },
       "comment": "Scale of all vheicles for this pack.  You probably won't want to change this, but if you do want the vehicles to be smaller for some reason, you can."
     },
@@ -104,7 +105,8 @@
       "value": {
         "unuparts": 1.0,
         "unumilitary": 1.0,
-        "mts": 1.0
+        "mts": 1.0,
+        "ivairlinerpack": 1.0
       },
       "comment": "A mapping of pack-speciifc speed factors.  These values will only apply to the vehicles in the pack modified.  This allows for speeding up packs with slower vehicles, or slowing down packs with fast vehicles for a more even play experience.  Note that this applies on top of the global speed factor.  So if that is set to 0.30, and a pack is set to 0.5, then the total speed factor will be 0.15"
     },
