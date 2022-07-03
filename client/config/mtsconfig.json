@@ -208,6 +208,7 @@
     },
     "lastLoadedFluids": {
       "aschrab": "Antischrabidium",
+      "molten_tritanium": "Расплавленный тританиум",
       "liquidnitrogen": "Жидкий азот",
       "plasma_xm": "Xenon-Mercury Plasma",
       "fuel": "Топливо",
@@ -279,6 +280,7 @@
       "amat": "Antimatter",
       "ethane": "Этан",
       "atmosphericgases": "Атмосферные газы",
+      "matter_plasma": "Matter Plasma",
       "plasma_bf": "Balefire Plasma",
       "corium_fluid": "Кориум",
       "naturegas": "Природный газ",

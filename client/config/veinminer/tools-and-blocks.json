@@ -15,6 +15,14 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
+        "fossil:calamites_leaves/0",
+        "fossil:calamites_log/0",
+        "fossil:cordaites_leaves/0",
+        "fossil:cordaites_log/0",
+        "fossil:palm_leaves/0",
+        "fossil:palm_log/0",
+        "fossil:sigillaria_leaves/0",
+        "fossil:sigillaria_log/0",
         "galaxyspace:barnarda_c_test_log/0",
         "hbm:pink_log/0",
         "minecraft:fence",
@@ -63,6 +71,8 @@
       "blocklist": [
         "appliedenergistics2:charged_quartz_ore/0",
         "appliedenergistics2:quartz_ore/0",
+        "fossil:amber_ore/0",
+        "fossil:fossil/0",
         "galacticraftcore:basic_block_core/5",
         "galacticraftcore:basic_block_core/6",
         "galacticraftcore:basic_block_core/7",
@@ -198,6 +208,8 @@
         "hbm:ore_uranium_scorched/0",
         "hbm:ore_verticium/0",
         "hbm:ore_weidanium/0",
+        "matteroverdrive:dilithium_ore/0",
+        "matteroverdrive:tritanium_ore/0",
         "minecraft:coal_ore",
         "minecraft:cobblestone_wall",
         "minecraft:diamond_ore",
@@ -227,6 +239,10 @@
         "minecraft:shears"
       ],
       "blocklist": [
+        "fossil:calamites_leaves/0",
+        "fossil:cordaites_leaves/0",
+        "fossil:palm_leaves/0",
+        "fossil:sigillaria_leaves/0",
         "minecraft:deadbush",
         "minecraft:leaves",
         "minecraft:leaves2",

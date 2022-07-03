@@ -837,6 +837,8 @@ extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Schrabidic
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Кориум
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Вулканическая лава
 extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: fluid.deadblood
+extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Matter Plasma
+extracells:pattern.fluid:0, МЭ жидко�?тный шаблон: Расплавленный тританиум
 extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
 extracells:storage.component:0, 256Кб МЭ компонент хранилища
 extracells:storage.component:1, 1024Кб МЭ компонент хранилища
@@ -1140,6 +1142,8 @@ hbm:fluid_tank_full:0, Универсальный резервуар для жи
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Кориум
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Вулканическая лава
 hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: fluid.deadblood
+hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Matter Plasma
+hbm:fluid_tank_full:0, Универсальный резервуар для жидкости: Расплавленный тританиум
 hbm:fluid_barrel_full:0, Empty Fluid Barrel
 hbm:fluid_barrel_full:0, Жидкостная бочка: Вода
 hbm:fluid_barrel_full:0, Жидкостная бочка: Лава
@@ -1215,6 +1219,8 @@ hbm:fluid_barrel_full:0, Жидкостная бочка: Schrabidic Acid
 hbm:fluid_barrel_full:0, Жидкостная бочка: Кориум
 hbm:fluid_barrel_full:0, Жидкостная бочка: Вулканическая лава
 hbm:fluid_barrel_full:0, Жидкостная бочка: fluid.deadblood
+hbm:fluid_barrel_full:0, Жидкостная бочка: Matter Plasma
+hbm:fluid_barrel_full:0, Жидкостная бочка: Расплавленный тританиум
 hbm:fluid_barrel_infinite, Бесконечная жидкостная бочка
 hbm:siren_track:1, Трек сирены
 hbm:siren_track:2, Трек сирены
@@ -3185,6 +3191,8 @@ hbm:fluid_icon:0, Schrabidic Acid
 hbm:fluid_icon:0, Кориум
 hbm:fluid_icon:0, Вулканическая лава
 hbm:fluid_icon:0, fluid.deadblood
+hbm:fluid_icon:0, Matter Plasma
+hbm:fluid_icon:0, Расплавленный тританиум
 hbm:gadget_explosive, Взрывные линзы первого поколения
 hbm:gadget_explosive8, Связка взрывчатки первого поколения
 hbm:gadget_wireing, Провода
@@ -5460,9 +5468,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Алюминиев
 appliedenergistics2:facade:0, Кабельный фасад - Кварцевая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Кобальтовая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Никелевая Руда
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
@@ -5476,6 +5481,9 @@ appliedenergistics2:facade:0, Кабельный фасад - Кремниева
 appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
 appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Заражённая земля
 appliedenergistics2:facade:0, Кабельный фасад - Заражённое бревно
 appliedenergistics2:facade:0, Кабельный фасад - Заражённый камень
@@ -5504,6 +5512,50 @@ appliedenergistics2:facade:0, Кабельный фасад - Приманка (
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная)
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная+)
 appliedenergistics2:facade:0, Кабельный фасад - Приманка (Концентрированная++)
+appliedenergistics2:facade:0, Кабельный фасад - Дилитиевая руда
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая руда
+appliedenergistics2:facade:0, Кабельный фасад - Тритановый блок
+appliedenergistics2:facade:0, Кабельный фасад - Машинный корпус
+appliedenergistics2:facade:0, Кабельный фасад - Катушка термоядерного реактора
+appliedenergistics2:facade:0, Кабельный фасад - Жёлтые полосы
+appliedenergistics2:facade:0, Кабельный фасад - Катушки
+appliedenergistics2:facade:0, Кабельный фасад - Гладкая тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Тёмный вент
+appliedenergistics2:facade:0, Кабельный фасад - Вент
+appliedenergistics2:facade:0, Кабельный фасад - Голографическая матрица
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Ориентировочная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Плита из углеродного волокна
+appliedenergistics2:facade:0, Кабельный фасад - Материальная труба
+appliedenergistics2:facade:0, Кабельный фасад - Материальная труба
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая решетка
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая решетка
+appliedenergistics2:facade:0, Кабельный фасад - Напольная плитка
+appliedenergistics2:facade:0, Кабельный фасад - Белая напольная плитка
+appliedenergistics2:facade:0, Кабельный фасад - Зелёная напольная плитка
+appliedenergistics2:facade:0, Кабельный фасад - Линолеум
+appliedenergistics2:facade:0, Кабельный фасад - Мягкая настенная плитка
+appliedenergistics2:facade:0, Кабельный фасад - Тритановый рельс
+appliedenergistics2:facade:0, Кабельный фасад - Тритановый рельс
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая лампа
+appliedenergistics2:facade:0, Кабельный фасад - Тритановая лампа
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Крашенная тритановая плита
+appliedenergistics2:facade:0, Кабельный фасад - Engine Exhaust Plasma
 appliedenergistics2:facade:0, Кабельный фасад - Particles Collider
 appliedenergistics2:facade:0, Кабельный фасад - Plain Void Shell
 appliedenergistics2:facade:0, Кабельный фасад - Glass Void Shell
@@ -6098,7 +6150,7 @@ galacticraftcore:food:5, Булочка для бургера
 galacticraftcore:food:6, Говяжий фарш
 galacticraftcore:food:7, Говяжья котлета
 galacticraftcore:food:8, Чизбургер
-galacticraftcore:battery, Аккумулятор
+galacticraftcore:battery, Батарейка
 galacticraftcore:infinite_battery, Бесконечный аккумулятор
 galacticraftcore:meteor_chunk:0, Бросаемый метеоритный кусок
 galacticraftcore:meteor_chunk:1, Бросаемый метеоритный кусок
@@ -6638,6 +6690,19 @@ galaxyspace:br_basic:0, Фиолетовый Тростник
 galaxyspace:br_basic:1, Лишайник
 galaxyspace:br_basic:2, Древесный Сок
 galaxyspace:br_foods:0, Желтые Фрукты
+galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
+galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
+galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
+galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
+galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
+galaxyspace:proxima_b_blocks:5, Золотая Руда
+galaxyspace:proxima_b_blocks:6, Оловянная Руда
+galaxyspace:proxima_b_blocks:7, Медная Руда
+galaxyspace:proxima_b_blocks:8, Угольная Руда
+galaxyspace:proxima_b_blocks:9, Кремниевая Руда
+galaxyspace:proxima_b_blocks:10, Алмазная Руда
+galaxyspace:proxima_b_log_1, Сгоревшее Дерево
+galaxyspace:proxima_b_log_2, Замерзшее Дерево
 galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
 galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
 galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
@@ -6660,19 +6725,6 @@ galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
 galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
 galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
 galaxyspace:tauceti_f_corals:10, Губчатый Коралл
-galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
-galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
-galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
-galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
-galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
-galaxyspace:proxima_b_blocks:5, Золотая Руда
-galaxyspace:proxima_b_blocks:6, Оловянная Руда
-galaxyspace:proxima_b_blocks:7, Медная Руда
-galaxyspace:proxima_b_blocks:8, Угольная Руда
-galaxyspace:proxima_b_blocks:9, Кремниевая Руда
-galaxyspace:proxima_b_blocks:10, Алмазная Руда
-galaxyspace:proxima_b_log_1, Сгоревшее Дерево
-galaxyspace:proxima_b_log_2, Замерзшее Дерево
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -7223,34 +7275,102 @@ ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
+opensecurity:card_writer, Блок записи карт
 opensecurity:energy_turret, Энергетическая турель
-opensecurity:data_block, Блок данных
-opensecurity:alarm, Сигнализация
+opensecurity:rfid_reader, RFID считыватель
 opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:security_terminal, Терминал безопасности
+opensecurity:alarm, Сигнализация
 opensecurity:biometric_reader, Биометрический считыватель
-opensecurity:keypad, Мини клавиатура
-opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:data_block, Блок данных
 opensecurity:entity_detector, Детектор сущностей
 opensecurity:nanofog_terminal, Терминал Нано тумана
-opensecurity:rfid_reader, RFID считыватель
-opensecurity:card_writer, Блок записи карт
-opensecurity:private_secure_door, Личная дверь безопасности
-opensecurity:mag_secure_door, MagReader Security Door
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:keypad, Мини клавиатура
+opensecurity:security_terminal, Терминал безопасности
 opensecurity:secure_door, Дверь безопасности
+opensecurity:mag_secure_door, MagReader Security Door
+opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:door_controller, Контроллер дверей
 opensecurity:rolldoor, Подъемная дверь
 opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
-opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:nanofog, Нано туман
+opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:rfid_card, RFID карта
-opensecurity:cooldown_upgrade, Улучшение перезарядки
-opensecurity:movement_upgrade, Улучшение скорости
-opensecurity:damage_upgrade, Улучшение урона
-opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:energy_upgrade, Улучшение энергии
 opensecurity:nanodna, Нано ДНК
 opensecurity:mag_card, Карта с магнитной полосой
-opensecurity:energy_upgrade, Улучшение энергии
+opensecurity:damage_upgrade, Улучшение урона
+opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:cooldown_upgrade, Улучшение перезарядки
+opensecurity:movement_upgrade, Улучшение скорости
+srparasites:infestedstain, Заражённая земля
+srparasites:infestremain, Заражённый осадок
+srparasites:infestedtrunk, Заражённое бревно
+srparasites:infestedrubble, Заражённый камень
+srparasites:infestedbush:0, Заражённые вены
+srparasites:infestedbush:1, Заражённые вены
+srparasites:infestedbush:2, Заражённые вены
+srparasites:infestedbush:3, Заражённые вены
+srparasites:infestedbush:4, Заражённые вены
+srparasites:infestedbush:5, Заражённые вены
+srparasites:biomeheart, Ядро паразитического биома
+srparasites:colonyheart, Ядро паразитической колонии
+srparasites:biomepurifier, Очиститель биомов
+srparasites:parasitebush:0, Паразитическая сеть
+srparasites:parasitebush:1, Parasitic Ringlet
+srparasites:parasitebush:2, Паразитическая везикула
+srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
+srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
+srparasites:parasitecanister:0, Паразитический мешок
+srparasites:parasitecanister:1, Паразитическая киста
+srparasites:parasitecanister:2, Паразитическая опухоль
+srparasites:parasitecanister:3, Паразитическая сумка
+srparasites:parasitetrunk:0, Паразитическое бревно
+srparasites:parasitetrunk:1, Паразитическое бревно
+srparasites:parasitetrunk:2, Паразитическое бревно
+srparasites:parasitestain:0, Паразитическая земля
+srparasites:parasitestain:1, Паразитическая грязь
+srparasites:parasitestain:2, Паразитическая плоть
+srparasites:parasitestain:3, Паразитические вены
+srparasites:parasiterubble:0, Паразитическая концентрированная плоть
+srparasites:parasiterubble:1, Паразитическая концентрированная кость
+srparasites:parasiterubble:2, Паразитический Камень
+srparasites:parasitestructure, Незавершённая структура паразитической колонии
+srparasites:parasitethin, Паразитическое тонкое бревно
+srparasites:parasitesapling:0, Паразитический саженец
+srparasites:parasitesapling:1, Паразитический саженец
+srparasites:parasitesapling:2, Паразитический саженец
+srparasites:parasitemouth, Паразитический рот
+srparasites:parasiterubbledense:0, Прессованный паразитический камень
+srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
+srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
+srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
+srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
+srparasites:parasiterubble_slabhalf:0, Паразитический полублок
+srparasites:parasitetendril, Паразитический усик
+srparasites:parasitefog, Туман
+srparasites:srpweb, Паутина
+srparasites:evolutionlure:0, Приманка (Ослабленная)
+srparasites:evolutionlure:1, Приманка (Слабая)
+srparasites:evolutionlure:2, Приманка (Тонкая)
+srparasites:evolutionlure:3, Приманка (Стабильная)
+srparasites:evolutionlure:4, Приманка (Существенная)
+srparasites:evolutionlure:5, Приманка (Концентрированная)
+srparasites:evolutionlure:6, Приманка (Концентрированная+)
+srparasites:evolutionlure:7, Приманка (Концентрированная++)
+srparasites:gore:0, Усвоенные останки
+srparasites:gore:1, Усвоенные останки
+srparasites:gore:2, Примитивные останки
+srparasites:gore:3, Примитивные останки
+srparasites:gore:4, Адаптированные останки
+srparasites:gore:5, Адаптированные останки
+srparasites:gore:6, Чистые останки
+srparasites:gore:7, Чистые останки
+srparasites:gore:8, Assimilated Remains
+srparasites:gore:9, Primitive Remains
+srparasites:gore:10, Adapted Remains
+srparasites:gore:11, Pure Remains
+srparasites:canisteractive, Parasitic Cyst (Active)
 srparasites:ada_summoner_drop, Ядро призывателя
 srparasites:ada_yelloweye_drop, Кость желтоглаза
 srparasites:ada_manducater_drop, Сфера пожирателя
@@ -7341,78 +7461,182 @@ srparasites:weapon_cleaver, Living Cleaver
 srparasites:weapon_cleaver_sentient, Sentient Greatcleaver
 srparasites:weapon_bow, Живой лук
 srparasites:weapon_bow_sentient, Разумный лук
-srparasites:infestedstain, Заражённая земля
-srparasites:infestremain, Заражённый осадок
-srparasites:infestedtrunk, Заражённое бревно
-srparasites:infestedrubble, Заражённый камень
-srparasites:infestedbush:0, Заражённые вены
-srparasites:infestedbush:1, Заражённые вены
-srparasites:infestedbush:2, Заражённые вены
-srparasites:infestedbush:3, Заражённые вены
-srparasites:infestedbush:4, Заражённые вены
-srparasites:infestedbush:5, Заражённые вены
-srparasites:biomeheart, Ядро паразитического биома
-srparasites:colonyheart, Ядро паразитической колонии
-srparasites:biomepurifier, Очиститель биомов
-srparasites:parasitebush:0, Паразитическая сеть
-srparasites:parasitebush:1, Parasitic Ringlet
-srparasites:parasitebush:2, Паразитическая везикула
-srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
-srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
-srparasites:parasitecanister:0, Паразитический мешок
-srparasites:parasitecanister:1, Паразитическая киста
-srparasites:parasitecanister:2, Паразитическая опухоль
-srparasites:parasitecanister:3, Паразитическая сумка
-srparasites:parasitetrunk:0, Паразитическое бревно
-srparasites:parasitetrunk:1, Паразитическое бревно
-srparasites:parasitetrunk:2, Паразитическое бревно
-srparasites:parasitestain:0, Паразитическая земля
-srparasites:parasitestain:1, Паразитическая грязь
-srparasites:parasitestain:2, Паразитическая плоть
-srparasites:parasitestain:3, Паразитические вены
-srparasites:parasiterubble:0, Паразитическая концентрированная плоть
-srparasites:parasiterubble:1, Паразитическая концентрированная кость
-srparasites:parasiterubble:2, Паразитический Камень
-srparasites:parasitestructure, Незавершённая структура паразитической колонии
-srparasites:parasitethin, Паразитическое тонкое бревно
-srparasites:parasitesapling:0, Паразитический саженец
-srparasites:parasitesapling:1, Паразитический саженец
-srparasites:parasitesapling:2, Паразитический саженец
-srparasites:parasitemouth, Паразитический рот
-srparasites:parasiterubbledense:0, Прессованный паразитический камень
-srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
-srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
-srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
-srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
-srparasites:parasiterubble_slabhalf:0, Паразитический полублок
-srparasites:parasitetendril, Паразитический усик
-srparasites:parasitefog, Туман
-srparasites:srpweb, Паутина
-srparasites:evolutionlure:0, Приманка (Ослабленная)
-srparasites:evolutionlure:1, Приманка (Слабая)
-srparasites:evolutionlure:2, Приманка (Тонкая)
-srparasites:evolutionlure:3, Приманка (Стабильная)
-srparasites:evolutionlure:4, Приманка (Существенная)
-srparasites:evolutionlure:5, Приманка (Концентрированная)
-srparasites:evolutionlure:6, Приманка (Концентрированная+)
-srparasites:evolutionlure:7, Приманка (Концентрированная++)
-srparasites:gore:0, Усвоенные останки
-srparasites:gore:1, Усвоенные останки
-srparasites:gore:2, Примитивные останки
-srparasites:gore:3, Примитивные останки
-srparasites:gore:4, Адаптированные останки
-srparasites:gore:5, Адаптированные останки
-srparasites:gore:6, Чистые останки
-srparasites:gore:7, Чистые останки
-srparasites:gore:8, Assimilated Remains
-srparasites:gore:9, Primitive Remains
-srparasites:gore:10, Adapted Remains
-srparasites:gore:11, Pure Remains
-srparasites:canisteractive, Parasitic Cyst (Active)
 thuttech:devicelinker:0, Связыватель устройств
 thuttech:devicelinker:0, ThutTech Manual
 thuttech:lift:0, Лифт
 thuttech:lift:1, Блок управления лифтом
+matteroverdrive:dilithium_crystal, Dilithium Crystal
+matteroverdrive:tritanium_ingot, Tritanium Ingot
+matteroverdrive:tritanium_nugget, Tritanium Nugget
+matteroverdrive:tritanium_dust, Tritanium Dust
+matteroverdrive:tritanium_plate, Tritanium Plate
+matteroverdrive:matter_dust, Matter Dust
+matteroverdrive:matter_dust_refined, Refined Matter Dust
+matteroverdrive:android_pill:0, Красная пилюля
+matteroverdrive:android_pill:1, Синяя пилюля
+matteroverdrive:android_pill:2, Жёлтая пилюля
+matteroverdrive:emergency_ration, Emergency Ration
+matteroverdrive:earl_gray_tea, Tea. Earl Grey. Hot.
+matteroverdrive:romulan_ale, Romulan Ale
+matteroverdrive:battery, Battery
+matteroverdrive:hc_battery, High Capacity Battery
+matteroverdrive:creative_battery, Creative Battery
+matteroverdrive:matter_container, item.matteroverdrive.matter_container.name
+matteroverdrive:me_conversion_matrix, Matter-Energy Conversion Matrix
+matteroverdrive:h_compensator, Heisenberg Compensator
+matteroverdrive:integration_matrix, Integration Matrix
+matteroverdrive:machine_casing, Machine Casing
+matteroverdrive:s_magnet, Superconductor Magnet
+matteroverdrive:isolinear_circuit:0, Isolinear Circuit Mk1
+matteroverdrive:isolinear_circuit:1, Isolinear Circuit Mk2
+matteroverdrive:isolinear_circuit:2, Isolinear Circuit Mk3
+matteroverdrive:isolinear_circuit:3, Isolinear Circuit Mk4
+matteroverdrive:matter:0, item.matteroverdrive.matter.name
+matteroverdrive:matter:1, item.matteroverdrive.matter.name
+matteroverdrive:matter:2, item.matteroverdrive.matter.name
+matteroverdrive:forcefield_emitter, Force Field Emitter
+matteroverdrive:weapon_handle, Weapon Handle
+matteroverdrive:weapon_receiver, Weapon Receiver
+matteroverdrive:plasma_core, Plasma Core
+matteroverdrive:phaser, Phaser
+matteroverdrive:phaser_rifle, Phaser Rifle
+matteroverdrive:plasma_shotgun, Plasma Shotgun
+matteroverdrive:ion_sniper, Ion Sniper
+matteroverdrive:omni_tool, Omni Tool
+matteroverdrive:weapon_module_color:0, Color Module (Красный)
+matteroverdrive:weapon_module_color:1, Color Module (Зелёный)
+matteroverdrive:weapon_module_color:2, Color Module (Синий)
+matteroverdrive:weapon_module_color:3, Color Module (Коричневый)
+matteroverdrive:weapon_module_color:4, Color Module (Розовый)
+matteroverdrive:weapon_module_color:5, Color Module (Голубой)
+matteroverdrive:weapon_module_color:6, Color Module (Золотой)
+matteroverdrive:weapon_module_color:7, Color Module (Лаймовый)
+matteroverdrive:weapon_module_color:8, Color Module (Чёрный)
+matteroverdrive:weapon_module_color:9, Color Module (Серый)
+matteroverdrive:weapon_module_barrel:0, Dilithium Focusing Matrix
+matteroverdrive:weapon_module_barrel:1, Incendiary Filter
+matteroverdrive:weapon_module_barrel:2, Burst Inductive Drum
+matteroverdrive:weapon_module_barrel:3, Regenerative Converter
+matteroverdrive:weapon_module_barrel:4, Degenerative Explosive Focusing Matrix (Doomsday)
+matteroverdrive:weapon_module_barrel:5, Voxel Exaggerating Nullification Obliteration Matrix (VENOM)
+matteroverdrive:sniper_scope, Sniper Scope
+matteroverdrive:weapon_module_ricochet:0, Shot Rebound Module
+matteroverdrive:weapon_module_holo_sights:0, item.matteroverdrive.weapon_module_holo_sights.name
+matteroverdrive:tritanium_wrench, Tritanium Wrench
+matteroverdrive:tritanium_axe, Tritanium Axe
+matteroverdrive:tritanium_pickaxe, Tritanium Pickaxe
+matteroverdrive:tritanium_sword, Tritanium Sword
+matteroverdrive:tritanium_hoe, Tritanium Hoe
+matteroverdrive:tritanium_shovel, Tritanium Shovel
+matteroverdrive:tritanium_helmet, Tritanium Helmet
+matteroverdrive:tritanium_chestplate, Tritanium Chestplate
+matteroverdrive:tritanium_leggings, Tritanium Leggings
+matteroverdrive:tritanium_boots, Tritanium Boots
+matteroverdrive:rogue_android_part:0, Android Head
+matteroverdrive:rogue_android_part:1, Android Arm
+matteroverdrive:rogue_android_part:2, Android Leg
+matteroverdrive:rogue_android_part:3, Android Torso
+matteroverdrive:rogue_android_part:0, Android Head
+matteroverdrive:rogue_android_part:1, Android Arm
+matteroverdrive:rogue_android_part:2, Android Leg
+matteroverdrive:rogue_android_part:3, Android Torso
+matteroverdrive:tritanium_spine, Tritanium Spine
+matteroverdrive:matter_scanner, Matter Scanner
+matteroverdrive:pattern_drive, Pattern Drive
+matteroverdrive:network_flash_drive, Network Flash Drive
+matteroverdrive:upgrade:0, Upgrade Shell
+matteroverdrive:upgrade:1, Speed Upgrade
+matteroverdrive:upgrade:2, Power Upgrade
+matteroverdrive:upgrade:3, Fail-Safe Upgrade
+matteroverdrive:upgrade:4, Range Upgrade
+matteroverdrive:upgrade:5, Power Storage Upgrade
+matteroverdrive:upgrade:6, Hyper Speed Upgrade
+matteroverdrive:upgrade:7, Matter Storage Upgrade
+matteroverdrive:transport_flash_drive, Transport Flash Drive
+matteroverdrive:energy_pack, Energy Pack
+matteroverdrive:data_pad, Data Pad
+matteroverdrive:contract, Contract
+matteroverdrive:portable_decomposer, Portable Decomposer
+matteroverdrive:security_protocol, item.matteroverdrive.security_protocol.name
+matteroverdrive:spacetime_equalizer, Space-Time Equalizer
+matteroverdrive:record_transformation, Пластинка
+matteroverdrive:artifact, Unknown Artifact
+matteroverdrive:trilithium_crystal, Pure Trilithium Crystal
+matteroverdrive:quantum_fold_manipulator, Quantum Fold Manipulator
+matteroverdrive:dilithium_ore, Дилитиевая руда
+matteroverdrive:tritanium_ore, Тритановая руда
+matteroverdrive:tritanium_block, Тритановый блок
+matteroverdrive:machine_hull, Машинный корпус
+matteroverdrive:decomposer, Разлагатель материи
+matteroverdrive:matter_recycler, Утилизатор материи
+matteroverdrive:replicator, Репликатор материи
+matteroverdrive:matter_pipe, Материально-транспортная труба
+matteroverdrive:heavy_matter_pipe, Сверхмощная материально-транспортная труба
+matteroverdrive:network_pipe, Материально-сетевой кабель
+matteroverdrive:network_router, Маршрутизатор материальной сети
+matteroverdrive:matter_analyzer, Анализатор материи
+matteroverdrive:pattern_monitor, Монитор шаблонов
+matteroverdrive:pattern_storage, Хранилище шаблонов
+matteroverdrive:network_switch, Переключатель материальной сети
+matteroverdrive:solar_panel, Солнечная панель
+matteroverdrive:gravitational_anomaly, Гравитационная аномалия
+matteroverdrive:gravitational_stabilizer, Гравитационный стабилизатор
+matteroverdrive:fusion_reactor_controller, Контроллер термоядерного реактора
+matteroverdrive:fusion_reactor_coil, Катушка термоядерного реактора
+matteroverdrive:fusion_reactor_io, Интерфейс термоядерного реактора
+matteroverdrive:matter_plasma, tile.null.name
+matteroverdrive:molten_tritanium, tile.null.name
+matteroverdrive:tritanium_crate, Тритановый ящик
+matteroverdrive:tritanium_crate_white, White Tritanium Crate
+matteroverdrive:tritanium_crate_orange, Orange Tritanium Crate
+matteroverdrive:tritanium_crate_magenta, Magenta Tritanium Crate
+matteroverdrive:tritanium_crate_light_blue, Light Blue Tritanium Crate
+matteroverdrive:tritanium_crate_yellow, Жёлтый тритановый ящик
+matteroverdrive:tritanium_crate_lime, Lime Tritanium Crate
+matteroverdrive:tritanium_crate_pink, Pink Tritanium Crate
+matteroverdrive:tritanium_crate_gray, Gray Tritanium Crate
+matteroverdrive:tritanium_crate_silver, Light Gray Tritanium Crate
+matteroverdrive:tritanium_crate_cyan, Cyan Tritanium Crate
+matteroverdrive:tritanium_crate_purple, Purple Tritanium Crate
+matteroverdrive:tritanium_crate_blue, Blue Tritanium Crate
+matteroverdrive:tritanium_crate_brown, Brown Tritanium Crate
+matteroverdrive:tritanium_crate_green, Green Tritanium Crate
+matteroverdrive:tritanium_crate_red, Red Tritanium Crate
+matteroverdrive:tritanium_crate_black, Black Tritanium Crate
+matteroverdrive:inscriber, Молекулярный высекатель
+matteroverdrive:contract_market, Contract Market
+matteroverdrive:android_spawner, Спаунер Андроидов-разбойников
+matteroverdrive:spacetime_accelerator, Пространственно-временной ускоритель
+matteroverdrive:pylon, Пространственный пилон
+matteroverdrive:transporter, Транспортер
+matteroverdrive:star_map, Звездная карта
+matteroverdrive:holo_sign, Голографическая табличка
+matteroverdrive:weapon_station, Оружейная станция
+matteroverdrive:android_station, Андроид-станция
+matteroverdrive:charging_station, Зарядная станция
+matteroverdrive:decorative.stripes, Жёлтые полосы
+matteroverdrive:decorative.coils, Катушки
+matteroverdrive:decorative.clean, Гладкая тритановая плита
+matteroverdrive:decorative.vent.dark, Тёмный вент
+matteroverdrive:decorative.vent.bright, Вент
+matteroverdrive:decorative.holo_matrix, Голографическая матрица
+matteroverdrive:decorative.tritanium_plate, Тритановая плита
+matteroverdrive:decorative.tritanium_plate_stripe, Ориентировочная тритановая плита
+matteroverdrive:decorative.carbon_fiber_plate, Плита из углеродного волокна
+matteroverdrive:decorative.matter_tube, Материальная труба
+matteroverdrive:decorative.beams, Тритановая решетка
+matteroverdrive:decorative.floor_tiles, Напольная плитка
+matteroverdrive:decorative.floor_tile_white, Белая напольная плитка
+matteroverdrive:decorative.floor_tiles_green, Зелёная напольная плитка
+matteroverdrive:decorative.floor_noise, Линолеум
+matteroverdrive:decorative.white_plate, Мягкая настенная плитка
+matteroverdrive:decorative.separator, Тритановый рельс
+matteroverdrive:decorative.tritanium_lamp, Тритановая лампа
+matteroverdrive:decorative.tritanium_plate_colored, Крашенная тритановая плита
+matteroverdrive:decorative.engine_exhaust_plasma, Engine Exhaust Plasma
+matteroverdrive:microwave, Микроволновая печь
+matteroverdrive:industrial_glass, Industrial Glass
+matteroverdrive:bounding_box, Ограничительный блок
 animalnet:animal_net_small, Маленькая сеть животных
 animalnet:animal_net_medium, Средняя сеть животных
 animalnet:animal_net_big, Большая сеть животных
