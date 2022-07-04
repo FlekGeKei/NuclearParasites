@@ -1,0 +1,8 @@
+{
+    "screenshot": {
+        "__comment": "usableByAll: If true, it can be executed without command permissions.",
+        "usable_by_all": false,
+        "names": []
+    },
+    "__comment": "Name list of players or command senders permissioned to use sub-command"
+}

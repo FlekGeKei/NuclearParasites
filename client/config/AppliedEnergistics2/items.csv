@@ -645,6 +645,195 @@ minecraft:record_11, Пластинка
 minecraft:record_wait, Пластинка
 carryon:tile_item, item.tile_item.name
 carryon:entity_item, item.entity_item.name
+opencomputers:adapter:0, Адаптер
+opencomputers:assembler:0, Сборщик
+opencomputers:cable:11250603, Кабель
+opencomputers:capacitor:0, Конденсатор энергии
+opencomputers:case1:0, Системный блок (1-ый уровень)
+opencomputers:case3:0, Системный блок (3-ий уровень)
+opencomputers:case2:0, Системный блок (2-ой уровень)
+opencomputers:chameliumblock:0, Блок хамелиума
+opencomputers:charger:0, Зарядное устройство
+opencomputers:disassembler:0, Разборщик
+opencomputers:diskdrive:0, Дисковод
+opencomputers:geolyzer:0, Геоанализатор
+opencomputers:hologram1:0, Голографический проектор (1-ый уровень)
+opencomputers:hologram2:0, Голографический проектор (2-ой уровень)
+opencomputers:keyboard:0, Клавиатура
+opencomputers:motionsensor:0, Датчик движения
+opencomputers:powerconverter:0, Преобразователь энергии
+opencomputers:powerdistributor:0, Распределитель энергии
+opencomputers:printer:0, 3D принтер
+opencomputers:raid:0, RAID
+opencomputers:redstone:0, Красный контроллер
+opencomputers:relay:0, Ретранслятор
+opencomputers:screen1:0, Монитор (1-ый уровень)
+opencomputers:screen3:0, Монитор (3-ий уровень)
+opencomputers:screen2:0, Монитор (2-ой уровень)
+opencomputers:rack:0, Серверная стойка
+opencomputers:waypoint:0, Путевая точка
+opencomputers:casecreative:0, Системный блок (Творческий)
+opencomputers:microcontroller:0, Микроконтроллер
+opencomputers:print:0, 3D модель
+opencomputers:robotafterimage:0, Робот
+opencomputers:robot:0, robot.name
+opencomputers:endstone:0, Камень края
+opencomputers:netsplitter:0, Сетевой переключатель
+opencomputers:transposer:0, Транспозер
+opencomputers:carpetedcapacitor:0, Carpeted Capacitor
+opencomputers:material:1, Кислота
+opencomputers:material:10, Арифметико-логическое устройство (АЛУ)
+opencomputers:material:15, Клавиши со стрелками
+opencomputers:material:14, Группа кнопок
+opencomputers:material:5, Основа для карт
+opencomputers:material:28, Хамелиум
+opencomputers:material:3, Нетравленая печатная плата
+opencomputers:material:11, Устройство управления (УУ)
+opencomputers:material:0, Проволока
+opencomputers:material:29, Алмазный обломок
+opencomputers:material:12, Металлический диск
+opencomputers:material:23, Корпус дрона (1-ый уровень)
+opencomputers:material:24, Корпус дрона (2-ой уровень)
+opencomputers:material:25, Корпус дрона (Креатив)
+opencomputers:material:27, Картридж с чернилами
+opencomputers:material:26, Картридж с чернилами (Пустой)
+opencomputers:material:13, Интерпаутина
+opencomputers:material:7, Микрочип (1-ый уровень)
+opencomputers:material:8, Микрочип (2-ой уровень)
+opencomputers:material:9, Микрочип (3-ий уровень)
+opencomputers:material:20, Корпус микроконтроллера (1-ый уровень)
+opencomputers:material:21, Корпус микроконтроллера (2-ой уровень)
+opencomputers:material:22, Корпус микроконтроллера (Креатив)
+opencomputers:material:16, Цифровой блок клавиш
+opencomputers:material:4, Печатная плата
+opencomputers:material:2, Основа для печатной платы
+opencomputers:material:17, Корпус планшета (1-ый уровень)
+opencomputers:material:18, Корпус планшета (2-ой уровень)
+opencomputers:material:19, Корпус планшета (Креатив)
+opencomputers:material:6, Транзистор
+opencomputers:tool:0, Анализатор
+opencomputers:tool:1, Сетевой отладчик
+opencomputers:tool:4, Руководство OpenComputers
+opencomputers:tool:5, Нанороботы
+opencomputers:tool:2, Беспроводной терминал
+opencomputers:tool:3, Определитель текстур
+opencomputers:wrench, Ключ
+opencomputers:hoverboots, Парящие ботинки
+opencomputers:component:16, Процессор с видеокартой (APU) (1-ый уровень)
+opencomputers:component:17, Процессор с видеокартой (APU) (2-ой уровень)
+opencomputers:component:18, Процессор с видеокартой (APU) (Творческий)
+opencomputers:component:3, Компонентная шина (1-ый уровень)
+opencomputers:component:4, Компонентная шина (2-ой уровень)
+opencomputers:component:5, Компонентная шина (3-ий уровень)
+opencomputers:component:0, Центральный процессор (ЦП) (1-ый уровень)
+opencomputers:component:1, Центральный процессор (ЦП) (2-ой уровень)
+opencomputers:component:2, Центральный процессор (ЦП) (3-ий уровень)
+opencomputers:component:20, Дисковод (для серверной стойки)
+opencomputers:component:6, Память (1-ый уровень)
+opencomputers:component:7, Память (Уровень 1.5)
+opencomputers:component:8, Память (2-ой уровень)
+opencomputers:component:9, Память (Уровень 2.5)
+opencomputers:component:10, Память (3-ий уровень)
+opencomputers:component:11, Память (Уровень 3.5)
+opencomputers:component:13, Сервер (1-ый уровень)
+opencomputers:component:14, Сервер (2-ой уровень)
+opencomputers:component:15, Сервер (3-ий уровень)
+opencomputers:component:12, Сервер (Творческий)
+opencomputers:component:19, Терминальный сервер
+opencomputers:card:10, Карта данных (1-ый уровень)
+opencomputers:card:11, Карта данных (2-ой уровень)
+opencomputers:card:12, Карта данных (3-ий уровень)
+opencomputers:card:0, Отладочная карта
+opencomputers:card:1, Видеокарта (1-ый уровень)
+opencomputers:card:2, Видеокарта (2-ой уровень)
+opencomputers:card:3, Видеокарта (3-ий уровень)
+opencomputers:card:8, Интернет карта
+opencomputers:card:9, Соединённая карта
+opencomputers:card:6, Сетевая карта
+opencomputers:card:4, Плата на красном камне (1-ый уровень)
+opencomputers:card:7, Плата беспроводной сети (2-ой уровень)
+opencomputers:upgrade:32, Component Bus (Creative)
+opencomputers:upgrade:0, "Ангельское" улучшение
+opencomputers:upgrade:1, Улучшение "Ёмкость" (1-ый уровень)
+opencomputers:upgrade:2, Улучшение "Ёмкость" (2-ой уровень)
+opencomputers:upgrade:3, Улучшение "Ёмкость" (3-ий уровень)
+opencomputers:upgrade:4, Улучшение "Загрузчик чанков"
+opencomputers:upgrade:5, Контейнер для карты (1-ый уровень)
+opencomputers:upgrade:6, Контейнер для карты (2-ой уровень)
+opencomputers:upgrade:7, Контейнер для карты (3-ий уровень)
+opencomputers:upgrade:8, Контейнер для улучшения (1-ый уровень)
+opencomputers:upgrade:9, Контейнер для улучшения (2-ой уровень)
+opencomputers:upgrade:10, Контейнер для улучшения (3-ий уровень)
+opencomputers:upgrade:11, Улучшение "Верстак"
+opencomputers:upgrade:12, Улучшение "База данных" (1-ый уровень)
+opencomputers:upgrade:13, Улучшение "База данных" (2-ой уровень)
+opencomputers:upgrade:14, Улучшение "База данных" (3-ий уровень)
+opencomputers:upgrade:15, Улучшение "Опыт"
+opencomputers:upgrade:16, Улучшение "Генератор"
+opencomputers:upgrade:27, Улучшение "Парение" (1-ый уровень)
+opencomputers:upgrade:28, Улучшение "Парение" (2-ый уровень)
+opencomputers:upgrade:17, Улучшение "Инвентарь"
+opencomputers:upgrade:18, Улучшение "Контроллер инвентаря"
+opencomputers:upgrade:26, Улучшение "Поводок"
+opencomputers:upgrade:30, МФУ
+opencomputers:upgrade:19, Улучшение "Навигация"
+opencomputers:upgrade:20, Улучшение "Поршень"
+opencomputers:upgrade:21, Улучшение "Контроллер табличек"
+opencomputers:upgrade:22, Улучшение "Солнечный генератор"
+opencomputers:upgrade:23, Улучшение "Бак для жидкостей"
+opencomputers:upgrade:24, Улучшение "Контроллер бака"
+opencomputers:upgrade:25, Улучшение "Притягивающий луч"
+opencomputers:upgrade:29, Улучшение "Торговля"
+opencomputers:upgrade:31, Плата беспроводной сети (1-ый уровень)
+opencomputers:storage:0, EEPROM
+opencomputers:storage:1, Дискета
+opencomputers:storage:2, Жёсткий диск (1-ый уровень) (1MB)
+opencomputers:storage:3, Жёсткий диск (2-ой уровень) (2MB)
+opencomputers:storage:4, Жёсткий диск (3-ий уровень) (4MB)
+opencomputers:misc:1, Crecopter
+opencomputers:misc:0, Микроконтроллер
+opencomputers:misc:0, Creatix
+opencomputers:misc:0, Планшет
+opencomputers:misc:0, Парящие ботинки
+opencomputers:misc:0, EEPROM (Lua BIOS)
+computronics:iron_note_block, Железный нотный блок
+computronics:audio_cable, Звуковой кабель
+computronics:speaker, Громкоговоритель
+computronics:tape_reader, Стример
+computronics:camera, Камера
+computronics:chat_box:0, Чатбокс
+computronics:chat_box:8, Творческий чатбокс
+computronics:cipher, Блок шифрования
+computronics:cipher_advanced, Продвинутый блок шифрования
+computronics:radar, Радар
+computronics:colorful_lamp, Цветная лампа
+computronics:tape:0, Ленточная кассета
+computronics:tape:1, Ленточная кассета
+computronics:tape:2, Ленточная кассета
+computronics:tape:3, Ленточная кассета
+computronics:tape:4, Ленточная кассета
+computronics:tape:5, Ленточная кассета
+computronics:tape:6, Ленточная кассета
+computronics:tape:8, Ленточная кассета
+computronics:parts:0, Направляющая лента
+computronics:portable_tape_drive, Portable Tape Drive
+computronics:oc_parts:0, Улучшение: камера
+computronics:oc_parts:1, Улучшение: чат
+computronics:oc_parts:2, Улучшение: радар
+computronics:oc_parts:3, Карта эффектов частиц
+computronics:oc_parts:4, Имитирующая карта
+computronics:oc_parts:5, Гудящая карта
+computronics:oc_parts:6, Карта самоуничтожения
+computronics:oc_parts:7, Разноцветное улучшение
+computronics:oc_parts:8, Шумящая карта
+computronics:oc_parts:9, Sound Card
+computronics:oc_parts:10, Light Board
+computronics:oc_parts:11, Server Self-Destructor
+computronics:oc_parts:12, Rack Capacitor
+computronics:oc_parts:13, Switch Board
+computronics:oc_parts:14, Speech Upgrade
+computronics:oc_special_parts:0, Magical Memory (Creative)
+computronics:speech_box, Speech Box
 cyberware:blueprint_archive, Архив для чертежей
 cyberware:component_box, Коробка частей
 cyberware:surgery, Робохирург
@@ -4392,157 +4581,6 @@ hbm:mud_block, Токсичные отходы
 hbm:schrabidic_block, Шрабидиевая кислота
 hbm:corium_block, Кориум
 hbm:volcanic_lava_block, Вулканическая лава
-opencomputers:adapter:0, Адаптер
-opencomputers:assembler:0, Сборщик
-opencomputers:cable:11250603, Кабель
-opencomputers:capacitor:0, Конденсатор энергии
-opencomputers:case1:0, Системный блок (1-ый уровень)
-opencomputers:case3:0, Системный блок (3-ий уровень)
-opencomputers:case2:0, Системный блок (2-ой уровень)
-opencomputers:chameliumblock:0, Блок хамелиума
-opencomputers:charger:0, Зарядное устройство
-opencomputers:disassembler:0, Разборщик
-opencomputers:diskdrive:0, Дисковод
-opencomputers:geolyzer:0, Геоанализатор
-opencomputers:hologram1:0, Голографический проектор (1-ый уровень)
-opencomputers:hologram2:0, Голографический проектор (2-ой уровень)
-opencomputers:keyboard:0, Клавиатура
-opencomputers:motionsensor:0, Датчик движения
-opencomputers:powerconverter:0, Преобразователь энергии
-opencomputers:powerdistributor:0, Распределитель энергии
-opencomputers:printer:0, 3D принтер
-opencomputers:raid:0, RAID
-opencomputers:redstone:0, Красный контроллер
-opencomputers:relay:0, Ретранслятор
-opencomputers:screen1:0, Монитор (1-ый уровень)
-opencomputers:screen3:0, Монитор (3-ий уровень)
-opencomputers:screen2:0, Монитор (2-ой уровень)
-opencomputers:rack:0, Серверная стойка
-opencomputers:waypoint:0, Путевая точка
-opencomputers:casecreative:0, Системный блок (Творческий)
-opencomputers:microcontroller:0, Микроконтроллер
-opencomputers:print:0, 3D модель
-opencomputers:robotafterimage:0, Робот
-opencomputers:robot:0, robot.name
-opencomputers:endstone:0, Камень края
-opencomputers:netsplitter:0, Сетевой переключатель
-opencomputers:transposer:0, Транспозер
-opencomputers:carpetedcapacitor:0, Carpeted Capacitor
-opencomputers:material:1, Кислота
-opencomputers:material:10, Арифметико-логическое устройство (АЛУ)
-opencomputers:material:15, Клавиши со стрелками
-opencomputers:material:14, Группа кнопок
-opencomputers:material:5, Основа для карт
-opencomputers:material:28, Хамелиум
-opencomputers:material:3, Нетравленая печатная плата
-opencomputers:material:11, Устройство управления (УУ)
-opencomputers:material:0, Проволока
-opencomputers:material:29, Алмазный обломок
-opencomputers:material:12, Металлический диск
-opencomputers:material:23, Корпус дрона (1-ый уровень)
-opencomputers:material:24, Корпус дрона (2-ой уровень)
-opencomputers:material:25, Корпус дрона (Креатив)
-opencomputers:material:27, Картридж с чернилами
-opencomputers:material:26, Картридж с чернилами (Пустой)
-opencomputers:material:13, Интерпаутина
-opencomputers:material:7, Микрочип (1-ый уровень)
-opencomputers:material:8, Микрочип (2-ой уровень)
-opencomputers:material:9, Микрочип (3-ий уровень)
-opencomputers:material:20, Корпус микроконтроллера (1-ый уровень)
-opencomputers:material:21, Корпус микроконтроллера (2-ой уровень)
-opencomputers:material:22, Корпус микроконтроллера (Креатив)
-opencomputers:material:16, Цифровой блок клавиш
-opencomputers:material:4, Печатная плата
-opencomputers:material:2, Основа для печатной платы
-opencomputers:material:17, Корпус планшета (1-ый уровень)
-opencomputers:material:18, Корпус планшета (2-ой уровень)
-opencomputers:material:19, Корпус планшета (Креатив)
-opencomputers:material:6, Транзистор
-opencomputers:tool:0, Анализатор
-opencomputers:tool:1, Сетевой отладчик
-opencomputers:tool:4, Руководство OpenComputers
-opencomputers:tool:5, Нанороботы
-opencomputers:tool:2, Беспроводной терминал
-opencomputers:tool:3, Определитель текстур
-opencomputers:wrench, Ключ
-opencomputers:hoverboots, Парящие ботинки
-opencomputers:component:16, Процессор с видеокартой (APU) (1-ый уровень)
-opencomputers:component:17, Процессор с видеокартой (APU) (2-ой уровень)
-opencomputers:component:18, Процессор с видеокартой (APU) (Творческий)
-opencomputers:component:3, Компонентная шина (1-ый уровень)
-opencomputers:component:4, Компонентная шина (2-ой уровень)
-opencomputers:component:5, Компонентная шина (3-ий уровень)
-opencomputers:component:0, Центральный процессор (ЦП) (1-ый уровень)
-opencomputers:component:1, Центральный процессор (ЦП) (2-ой уровень)
-opencomputers:component:2, Центральный процессор (ЦП) (3-ий уровень)
-opencomputers:component:20, Дисковод (для серверной стойки)
-opencomputers:component:6, Память (1-ый уровень)
-opencomputers:component:7, Память (Уровень 1.5)
-opencomputers:component:8, Память (2-ой уровень)
-opencomputers:component:9, Память (Уровень 2.5)
-opencomputers:component:10, Память (3-ий уровень)
-opencomputers:component:11, Память (Уровень 3.5)
-opencomputers:component:13, Сервер (1-ый уровень)
-opencomputers:component:14, Сервер (2-ой уровень)
-opencomputers:component:15, Сервер (3-ий уровень)
-opencomputers:component:12, Сервер (Творческий)
-opencomputers:component:19, Терминальный сервер
-opencomputers:card:10, Карта данных (1-ый уровень)
-opencomputers:card:11, Карта данных (2-ой уровень)
-opencomputers:card:12, Карта данных (3-ий уровень)
-opencomputers:card:0, Отладочная карта
-opencomputers:card:1, Видеокарта (1-ый уровень)
-opencomputers:card:2, Видеокарта (2-ой уровень)
-opencomputers:card:3, Видеокарта (3-ий уровень)
-opencomputers:card:8, Интернет карта
-opencomputers:card:9, Соединённая карта
-opencomputers:card:6, Сетевая карта
-opencomputers:card:4, Плата на красном камне (1-ый уровень)
-opencomputers:card:7, Плата беспроводной сети (2-ой уровень)
-opencomputers:upgrade:32, Component Bus (Creative)
-opencomputers:upgrade:0, "Ангельское" улучшение
-opencomputers:upgrade:1, Улучшение "Ёмкость" (1-ый уровень)
-opencomputers:upgrade:2, Улучшение "Ёмкость" (2-ой уровень)
-opencomputers:upgrade:3, Улучшение "Ёмкость" (3-ий уровень)
-opencomputers:upgrade:4, Улучшение "Загрузчик чанков"
-opencomputers:upgrade:5, Контейнер для карты (1-ый уровень)
-opencomputers:upgrade:6, Контейнер для карты (2-ой уровень)
-opencomputers:upgrade:7, Контейнер для карты (3-ий уровень)
-opencomputers:upgrade:8, Контейнер для улучшения (1-ый уровень)
-opencomputers:upgrade:9, Контейнер для улучшения (2-ой уровень)
-opencomputers:upgrade:10, Контейнер для улучшения (3-ий уровень)
-opencomputers:upgrade:11, Улучшение "Верстак"
-opencomputers:upgrade:12, Улучшение "База данных" (1-ый уровень)
-opencomputers:upgrade:13, Улучшение "База данных" (2-ой уровень)
-opencomputers:upgrade:14, Улучшение "База данных" (3-ий уровень)
-opencomputers:upgrade:15, Улучшение "Опыт"
-opencomputers:upgrade:16, Улучшение "Генератор"
-opencomputers:upgrade:27, Улучшение "Парение" (1-ый уровень)
-opencomputers:upgrade:28, Улучшение "Парение" (2-ый уровень)
-opencomputers:upgrade:17, Улучшение "Инвентарь"
-opencomputers:upgrade:18, Улучшение "Контроллер инвентаря"
-opencomputers:upgrade:26, Улучшение "Поводок"
-opencomputers:upgrade:30, МФУ
-opencomputers:upgrade:19, Улучшение "Навигация"
-opencomputers:upgrade:20, Улучшение "Поршень"
-opencomputers:upgrade:21, Улучшение "Контроллер табличек"
-opencomputers:upgrade:22, Улучшение "Солнечный генератор"
-opencomputers:upgrade:23, Улучшение "Бак для жидкостей"
-opencomputers:upgrade:24, Улучшение "Контроллер бака"
-opencomputers:upgrade:25, Улучшение "Притягивающий луч"
-opencomputers:upgrade:29, Улучшение "Торговля"
-opencomputers:upgrade:31, Плата беспроводной сети (1-ый уровень)
-opencomputers:storage:0, EEPROM
-opencomputers:storage:1, Дискета
-opencomputers:storage:2, Жёсткий диск (1-ый уровень) (1MB)
-opencomputers:storage:3, Жёсткий диск (2-ой уровень) (2MB)
-opencomputers:storage:4, Жёсткий диск (3-ий уровень) (4MB)
-opencomputers:misc:1, Crecopter
-opencomputers:misc:0, Микроконтроллер
-opencomputers:misc:0, Creatix
-opencomputers:misc:0, Планшет
-opencomputers:misc:0, Парящие ботинки
-opencomputers:misc:0, EEPROM (Lua BIOS)
 sgcraft:stargatering:0, Сегмент кольца
 sgcraft:stargatering:1, Сегмент с шевроном
 sgcraft:stargatebase, Основание Врат
@@ -4872,6 +4910,8 @@ appliedenergistics2:facade:0, Кабельный фасад - Коричневы
 appliedenergistics2:facade:0, Кабельный фасад - Зелёный цемент
 appliedenergistics2:facade:0, Кабельный фасад - Красный цемент
 appliedenergistics2:facade:0, Кабельный фасад - Чёрный цемент
+appliedenergistics2:facade:0, Кабельный фасад - Блок хамелиума
+appliedenergistics2:facade:0, Кабельный фасад - Камень края
 appliedenergistics2:facade:0, Кабельный фасад - Охлаждённый Эвфемий
 appliedenergistics2:facade:0, Кабельный фасад - Нестабильный блок шрабидата эвфемия
 appliedenergistics2:facade:0, Кабельный фасад - Тёмный кристалл
@@ -5258,8 +5298,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Грязь
 appliedenergistics2:facade:0, Кабельный фасад - Розовое дерево
 appliedenergistics2:facade:0, Кабельный фасад - Розовые доски
 appliedenergistics2:facade:0, Кабельный фасад - tile.pink_double_slab.name
-appliedenergistics2:facade:0, Кабельный фасад - Блок хамелиума
-appliedenergistics2:facade:0, Кабельный фасад - Камень края
 appliedenergistics2:facade:0, Кабельный фасад - Блок сплава из наквадаха
 appliedenergistics2:facade:0, Кабельный фасад - Руда наквадаха
 appliedenergistics2:facade:0, Кабельный фасад - Руда истинного кварца
@@ -5468,6 +5506,9 @@ appliedenergistics2:facade:0, Кабельный фасад - Алюминиев
 appliedenergistics2:facade:0, Кабельный фасад - Кварцевая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Кобальтовая Руда
 appliedenergistics2:facade:0, Кабельный фасад - Никелевая Руда
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Поверность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Подповерхность Проксимы B
 appliedenergistics2:facade:0, Кабельный фасад - Камень Проксимы Б
@@ -5481,9 +5522,28 @@ appliedenergistics2:facade:0, Кабельный фасад - Кремниева
 appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
 appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Чистый цветной блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок пола
+appliedenergistics2:facade:0, Кабельный фасад - Цветной крупнозернистый блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветной зернистый блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветно мелкозернистый блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветной кирпичный блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветной ограненный блок
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок из большого кирпича
+appliedenergistics2:facade:0, Кабельный фасад - Dyeable Chiseled
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок из разбитого крупного кирпича
+appliedenergistics2:facade:0, Кабельный фасад - Цветной глиняный блок
+appliedenergistics2:facade:0, Кабельный фасад - Блок лавы
+appliedenergistics2:facade:0, Кабельный фасад - Dyeable Strips
+appliedenergistics2:facade:0, Кабельный фасад - Белый блок лавы
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок гравия
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок песка
+appliedenergistics2:facade:0, Кабельный фасад - Цветной блок камня
+appliedenergistics2:facade:0, Кабельный фасад - Dyeable Cork
+appliedenergistics2:facade:0, Кабельный фасад - Белая непрозрачная вода
+appliedenergistics2:facade:0, Кабельный фасад - Вода
+appliedenergistics2:facade:0, Кабельный фасад - Белая вода
+appliedenergistics2:facade:0, Кабельный фасад - Маленький блок хранилища
 appliedenergistics2:facade:0, Кабельный фасад - Заражённая земля
 appliedenergistics2:facade:0, Кабельный фасад - Заражённое бревно
 appliedenergistics2:facade:0, Кабельный фасад - Заражённый камень
@@ -6690,19 +6750,6 @@ galaxyspace:br_basic:0, Фиолетовый Тростник
 galaxyspace:br_basic:1, Лишайник
 galaxyspace:br_basic:2, Древесный Сок
 galaxyspace:br_foods:0, Желтые Фрукты
-galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
-galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
-galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
-galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
-galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
-galaxyspace:proxima_b_blocks:5, Золотая Руда
-galaxyspace:proxima_b_blocks:6, Оловянная Руда
-galaxyspace:proxima_b_blocks:7, Медная Руда
-galaxyspace:proxima_b_blocks:8, Угольная Руда
-galaxyspace:proxima_b_blocks:9, Кремниевая Руда
-galaxyspace:proxima_b_blocks:10, Алмазная Руда
-galaxyspace:proxima_b_log_1, Сгоревшее Дерево
-galaxyspace:proxima_b_log_2, Замерзшее Дерево
 galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
 galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
 galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
@@ -6725,6 +6772,19 @@ galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
 galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
 galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
 galaxyspace:tauceti_f_corals:10, Губчатый Коралл
+galaxyspace:proxima_b_blocks:0, Поверность Проксимы B
+galaxyspace:proxima_b_blocks:1, Подповерхность Проксимы B
+galaxyspace:proxima_b_blocks:2, Камень Проксимы Б
+galaxyspace:proxima_b_blocks:3, Замершая Поверность Проксимы B
+galaxyspace:proxima_b_blocks:4, Пепельный Гравий Проксимы B
+galaxyspace:proxima_b_blocks:5, Золотая Руда
+galaxyspace:proxima_b_blocks:6, Оловянная Руда
+galaxyspace:proxima_b_blocks:7, Медная Руда
+galaxyspace:proxima_b_blocks:8, Угольная Руда
+galaxyspace:proxima_b_blocks:9, Кремниевая Руда
+galaxyspace:proxima_b_blocks:10, Алмазная Руда
+galaxyspace:proxima_b_log_1, Сгоревшее Дерево
+galaxyspace:proxima_b_log_2, Замерзшее Дерево
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -7273,104 +7333,87 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+littletiles:hammer:0, Маленький молоток
+littletiles:recipeadvanced:0, Продвинутый рецепт
+littletiles:saw, Маленькая пила
+littletiles:container, Маленькая сумка
+littletiles:wrench, Маленький гаечный ключ
+littletiles:screwdriver:0, Маленькая отвертка
+littletiles:chisel:0, Маленькое долото
+littletiles:colortube:0, Маленькая кисть
+littletiles:grabber:0, Маленькая перчатка
+littletiles:premade:0, Маленький верстак
+littletiles:premade:0, Маленький импортер
+littletiles:premade:0, Маленький экспортёр
+littletiles:premade:0, Particle Emitter
+littletiles:premade:0, Blank-o-matic
+littletiles:premade:0, Single Cable (1-bit)
+littletiles:premade:0, Single Cable (4-bit)
+littletiles:premade:0, Single Cable (16-bit)
+littletiles:premade:0, Single Output (1-bit)
+littletiles:premade:0, Single Output (4-bit)
+littletiles:premade:0, Single Output (16-bit)
+littletiles:premade:0, Single Input (1-bit)
+littletiles:premade:0, Single Input (4-bit)
+littletiles:premade:0, Single Input (16-bit)
+littletiles:premade:0, Signal Display (16 bit)
+littletiles:premade:0, Structure Builder
+littletiles:ltstorageblocktile, Маленький блок хранилища
+littletiles:ltcoloredblock:0, Чистый цветной блок
+littletiles:ltcoloredblock:1, Цветной блок пола
+littletiles:ltcoloredblock:2, Цветной крупнозернистый блок
+littletiles:ltcoloredblock:3, Цветной зернистый блок
+littletiles:ltcoloredblock:4, Цветно мелкозернистый блок
+littletiles:ltcoloredblock:5, Цветной кирпичный блок
+littletiles:ltcoloredblock:6, Цветной ограненный блок
+littletiles:ltcoloredblock:7, Цветной блок из большого кирпича
+littletiles:ltcoloredblock:8, Dyeable Chiseled
+littletiles:ltcoloredblock:9, Цветной блок из разбитого крупного кирпича
+littletiles:ltcoloredblock:10, Цветной глиняный блок
+littletiles:ltcoloredblock:12, Блок лавы
+littletiles:ltcoloredblock:13, Dyeable Strips
+littletiles:ltcoloredblock:14, Белый блок лавы
+littletiles:ltcoloredblock2:0, Цветной блок гравия
+littletiles:ltcoloredblock2:1, Цветной блок песка
+littletiles:ltcoloredblock2:2, Цветной блок камня
+littletiles:ltcoloredblock2:3, Dyeable Cork
+littletiles:ltcoloredblock2:4, Белая непрозрачная вода
+littletiles:lttransparentcoloredblock:5, Вода
+littletiles:lttransparentcoloredblock:6, Белая вода
+littletiles:ltsinglecable, tile.ltsinglecable.name
+littletiles:ltinput, tile.ltinput.name
+littletiles:ltoutput, tile.ltoutput.name
+littletiles:signal_converter, Signal Converter
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
-opensecurity:card_writer, Блок записи карт
-opensecurity:energy_turret, Энергетическая турель
-opensecurity:rfid_reader, RFID считыватель
-opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:alarm, Сигнализация
-opensecurity:biometric_reader, Биометрический считыватель
 opensecurity:data_block, Блок данных
-opensecurity:entity_detector, Детектор сущностей
 opensecurity:nanofog_terminal, Терминал Нано тумана
+opensecurity:entity_detector, Детектор сущностей
+opensecurity:rfid_reader, RFID считыватель
+opensecurity:alarm, Сигнализация
 opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:keypad, Мини клавиатура
 opensecurity:security_terminal, Терминал безопасности
+opensecurity:keypad, Мини клавиатура
+opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:energy_turret, Энергетическая турель
+opensecurity:rolldoor_element, Элемент подъемной двери
+opensecurity:card_writer, Блок записи карт
+opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:secure_door, Дверь безопасности
 opensecurity:mag_secure_door, MagReader Security Door
-opensecurity:private_secure_door, Личная дверь безопасности
-opensecurity:door_controller, Контроллер дверей
-opensecurity:rolldoor, Подъемная дверь
-opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
 opensecurity:nanofog, Нано туман
+opensecurity:rolldoor, Подъемная дверь
 opensecurity:rolldoor_controller, Контроллер подъемной двери
-opensecurity:rfid_card, RFID карта
+opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:door_controller, Контроллер дверей
 opensecurity:energy_upgrade, Улучшение энергии
-opensecurity:nanodna, Нано ДНК
 opensecurity:mag_card, Карта с магнитной полосой
-opensecurity:damage_upgrade, Улучшение урона
-opensecurity:rfid_reader_card, Карта RFID считыватель
 opensecurity:cooldown_upgrade, Улучшение перезарядки
+opensecurity:damage_upgrade, Улучшение урона
 opensecurity:movement_upgrade, Улучшение скорости
-srparasites:infestedstain, Заражённая земля
-srparasites:infestremain, Заражённый осадок
-srparasites:infestedtrunk, Заражённое бревно
-srparasites:infestedrubble, Заражённый камень
-srparasites:infestedbush:0, Заражённые вены
-srparasites:infestedbush:1, Заражённые вены
-srparasites:infestedbush:2, Заражённые вены
-srparasites:infestedbush:3, Заражённые вены
-srparasites:infestedbush:4, Заражённые вены
-srparasites:infestedbush:5, Заражённые вены
-srparasites:biomeheart, Ядро паразитического биома
-srparasites:colonyheart, Ядро паразитической колонии
-srparasites:biomepurifier, Очиститель биомов
-srparasites:parasitebush:0, Паразитическая сеть
-srparasites:parasitebush:1, Parasitic Ringlet
-srparasites:parasitebush:2, Паразитическая везикула
-srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
-srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
-srparasites:parasitecanister:0, Паразитический мешок
-srparasites:parasitecanister:1, Паразитическая киста
-srparasites:parasitecanister:2, Паразитическая опухоль
-srparasites:parasitecanister:3, Паразитическая сумка
-srparasites:parasitetrunk:0, Паразитическое бревно
-srparasites:parasitetrunk:1, Паразитическое бревно
-srparasites:parasitetrunk:2, Паразитическое бревно
-srparasites:parasitestain:0, Паразитическая земля
-srparasites:parasitestain:1, Паразитическая грязь
-srparasites:parasitestain:2, Паразитическая плоть
-srparasites:parasitestain:3, Паразитические вены
-srparasites:parasiterubble:0, Паразитическая концентрированная плоть
-srparasites:parasiterubble:1, Паразитическая концентрированная кость
-srparasites:parasiterubble:2, Паразитический Камень
-srparasites:parasitestructure, Незавершённая структура паразитической колонии
-srparasites:parasitethin, Паразитическое тонкое бревно
-srparasites:parasitesapling:0, Паразитический саженец
-srparasites:parasitesapling:1, Паразитический саженец
-srparasites:parasitesapling:2, Паразитический саженец
-srparasites:parasitemouth, Паразитический рот
-srparasites:parasiterubbledense:0, Прессованный паразитический камень
-srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
-srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
-srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
-srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
-srparasites:parasiterubble_slabhalf:0, Паразитический полублок
-srparasites:parasitetendril, Паразитический усик
-srparasites:parasitefog, Туман
-srparasites:srpweb, Паутина
-srparasites:evolutionlure:0, Приманка (Ослабленная)
-srparasites:evolutionlure:1, Приманка (Слабая)
-srparasites:evolutionlure:2, Приманка (Тонкая)
-srparasites:evolutionlure:3, Приманка (Стабильная)
-srparasites:evolutionlure:4, Приманка (Существенная)
-srparasites:evolutionlure:5, Приманка (Концентрированная)
-srparasites:evolutionlure:6, Приманка (Концентрированная+)
-srparasites:evolutionlure:7, Приманка (Концентрированная++)
-srparasites:gore:0, Усвоенные останки
-srparasites:gore:1, Усвоенные останки
-srparasites:gore:2, Примитивные останки
-srparasites:gore:3, Примитивные останки
-srparasites:gore:4, Адаптированные останки
-srparasites:gore:5, Адаптированные останки
-srparasites:gore:6, Чистые останки
-srparasites:gore:7, Чистые останки
-srparasites:gore:8, Assimilated Remains
-srparasites:gore:9, Primitive Remains
-srparasites:gore:10, Adapted Remains
-srparasites:gore:11, Pure Remains
-srparasites:canisteractive, Parasitic Cyst (Active)
+opensecurity:rfid_card, RFID карта
+opensecurity:nanodna, Нано ДНК
+opensecurity:rfid_reader_card, Карта RFID считыватель
 srparasites:ada_summoner_drop, Ядро призывателя
 srparasites:ada_yelloweye_drop, Кость желтоглаза
 srparasites:ada_manducater_drop, Сфера пожирателя
@@ -7461,6 +7504,74 @@ srparasites:weapon_cleaver, Living Cleaver
 srparasites:weapon_cleaver_sentient, Sentient Greatcleaver
 srparasites:weapon_bow, Живой лук
 srparasites:weapon_bow_sentient, Разумный лук
+srparasites:infestedstain, Заражённая земля
+srparasites:infestremain, Заражённый осадок
+srparasites:infestedtrunk, Заражённое бревно
+srparasites:infestedrubble, Заражённый камень
+srparasites:infestedbush:0, Заражённые вены
+srparasites:infestedbush:1, Заражённые вены
+srparasites:infestedbush:2, Заражённые вены
+srparasites:infestedbush:3, Заражённые вены
+srparasites:infestedbush:4, Заражённые вены
+srparasites:infestedbush:5, Заражённые вены
+srparasites:biomeheart, Ядро паразитического биома
+srparasites:colonyheart, Ядро паразитической колонии
+srparasites:biomepurifier, Очиститель биомов
+srparasites:parasitebush:0, Паразитическая сеть
+srparasites:parasitebush:1, Parasitic Ringlet
+srparasites:parasitebush:2, Паразитическая везикула
+srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
+srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
+srparasites:parasitecanister:0, Паразитический мешок
+srparasites:parasitecanister:1, Паразитическая киста
+srparasites:parasitecanister:2, Паразитическая опухоль
+srparasites:parasitecanister:3, Паразитическая сумка
+srparasites:parasitetrunk:0, Паразитическое бревно
+srparasites:parasitetrunk:1, Паразитическое бревно
+srparasites:parasitetrunk:2, Паразитическое бревно
+srparasites:parasitestain:0, Паразитическая земля
+srparasites:parasitestain:1, Паразитическая грязь
+srparasites:parasitestain:2, Паразитическая плоть
+srparasites:parasitestain:3, Паразитические вены
+srparasites:parasiterubble:0, Паразитическая концентрированная плоть
+srparasites:parasiterubble:1, Паразитическая концентрированная кость
+srparasites:parasiterubble:2, Паразитический Камень
+srparasites:parasitestructure, Незавершённая структура паразитической колонии
+srparasites:parasitethin, Паразитическое тонкое бревно
+srparasites:parasitesapling:0, Паразитический саженец
+srparasites:parasitesapling:1, Паразитический саженец
+srparasites:parasitesapling:2, Паразитический саженец
+srparasites:parasitemouth, Паразитический рот
+srparasites:parasiterubbledense:0, Прессованный паразитический камень
+srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
+srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
+srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
+srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
+srparasites:parasiterubble_slabhalf:0, Паразитический полублок
+srparasites:parasitetendril, Паразитический усик
+srparasites:parasitefog, Туман
+srparasites:srpweb, Паутина
+srparasites:evolutionlure:0, Приманка (Ослабленная)
+srparasites:evolutionlure:1, Приманка (Слабая)
+srparasites:evolutionlure:2, Приманка (Тонкая)
+srparasites:evolutionlure:3, Приманка (Стабильная)
+srparasites:evolutionlure:4, Приманка (Существенная)
+srparasites:evolutionlure:5, Приманка (Концентрированная)
+srparasites:evolutionlure:6, Приманка (Концентрированная+)
+srparasites:evolutionlure:7, Приманка (Концентрированная++)
+srparasites:gore:0, Усвоенные останки
+srparasites:gore:1, Усвоенные останки
+srparasites:gore:2, Примитивные останки
+srparasites:gore:3, Примитивные останки
+srparasites:gore:4, Адаптированные останки
+srparasites:gore:5, Адаптированные останки
+srparasites:gore:6, Чистые останки
+srparasites:gore:7, Чистые останки
+srparasites:gore:8, Assimilated Remains
+srparasites:gore:9, Primitive Remains
+srparasites:gore:10, Adapted Remains
+srparasites:gore:11, Pure Remains
+srparasites:canisteractive, Parasitic Cyst (Active)
 thuttech:devicelinker:0, Связыватель устройств
 thuttech:devicelinker:0, ThutTech Manual
 thuttech:lift:0, Лифт
@@ -7646,15 +7757,15 @@ animalnet:npc_net, NPC Net
 animalnet:spawner_fragmental, Рассадник монстров обломочных
 animalnet:caught_entity, item.caught_entity.name
 animalnet:mob_core, Ядро монстра
-firstaid:bandage, Бинт
-firstaid:plaster, Пластырь
-firstaid:morphine, Морфин
 theoneprobe:probe, Датчик
 theoneprobe:creativeprobe, Творческий датчик
 theoneprobe:probenote, The One Probe Read Me
 theoneprobe:diamond_helmet_probe:0, Алмазный шлем с датчиком
 theoneprobe:gold_helmet_probe:0, Золотой шлем с датчиком
 theoneprobe:iron_helmet_probe:0, Железный шлем с датчиком
+firstaid:bandage, Бинт
+firstaid:plaster, Пластырь
+firstaid:morphine, Морфин
 warpdrive:laser, Лазер
 warpdrive:chunk_loader.basic, Basic Загрузчик чанков
 warpdrive:chunk_loader.advanced, Advanced Загрузчик чанков

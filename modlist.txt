@@ -14,8 +14,6 @@ https://www.curseforge.com/minecraft/mc-mods/the-one-probe/files/2667280
 https://www.curseforge.com/minecraft/mc-mods/dynamictrees
 https://www.curseforge.com/minecraft/mc-mods/first-aid/files/3569536
 https://github.com/doch2/SmartMovingReboot
-https://www.curseforge.com/minecraft/mc-mods/betterportals
-	https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
 https://www.curseforge.com/minecraft/mc-mods/iron-backpacks
 https://www.curseforge.com/minecraft/mc-mods/carry-on/files/3004475
 https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/3156637
@@ -48,7 +46,11 @@ https://www.curseforge.com/minecraft/mc-mods/roboticparts/files/3366534
 https://www.curseforge.com/minecraft/mc-mods/thuts-elevators/files/2712805
 	https://www.curseforge.com/minecraft/mc-mods/thutcore/files/2713584
 https://www.curseforge.com/minecraft/mc-mods/golden-airport-pack-immersive-vehicles-content/files/3444423
+https://wiki.vexatos.com/wiki:computronics
 https://www.curseforge.com/minecraft/mc-mods/matteroverdrive-legacy/files/2699215
+https://www.curseforge.com/minecraft/mc-mods/littletiles
+https://www.curseforge.com/minecraft/mc-mods/inventory-spam/files/2665904
+https://www.curseforge.com/minecraft/mc-mods/classic-bars/files/2851915
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
