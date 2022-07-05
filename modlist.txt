@@ -51,6 +51,7 @@ https://www.curseforge.com/minecraft/mc-mods/matteroverdrive-legacy/files/269921
 https://www.curseforge.com/minecraft/mc-mods/littletiles
 https://www.curseforge.com/minecraft/mc-mods/inventory-spam/files/2665904
 https://www.curseforge.com/minecraft/mc-mods/classic-bars/files/2851915
+https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/3545472
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
