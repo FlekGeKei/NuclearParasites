@@ -5,19 +5,6 @@
 				 xsi:schemaLocation="http://warpdrive.lemadec.org WarpDrive.xsd"
 				 mods="galacticraftcore">
 	
-	<!--
-	  This Celestial Map is automatically selected when you have Galacticraft thanks to the worldGeneration.mods attribute.
-	  Please refer to default celestialObjects XML file for extensive comments on how to read and modify this file format.
-	  
-	  This Celestial Map is a single star system for use with Galacticraft. If you also have MrLegend's ExtraPlanets, those planets will also be added.
-	  Due to its oversized space size, this celestial map is better suited for Single player.
-	  When reaching Jupiter or further, entities may take 'random' damage from suffocation in space due to Vanilla engine limitations when going further away from the center of a dimension (0 0).
-	  
-	  This map was initially made on scale for a 1.7.10 chinese audience. Original author is ???.
-	  It was adapted since ported to 1.12.2 and integrated into the mod.
-	  Positions and rendering are fairly basic to help you getting started.
-	  -->
-	
 	<celestialObject id="Hyperspace">
 		<size x="2000000" z="2000000" />
 		<name>Hyperspace\nГиперпространство</name>
@@ -398,151 +385,153 @@
 				<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
 				<!-- 	<center x="0" z="0" /> -->
 				<!-- </dimension> -->
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace/textures/gui/celestialbodies/sol/uranus.png" periodU="150" additive="true" />
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace/textures/gui/celestialbodies/sol/uranus_rings.png" periodU="150" additive="true" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus.png" periodU="150" additive="true" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus_rings.png" periodU="150" additive="true" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Miranda" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
+					<name>Miranda\nМиранда</name>
+					<dimension id="-1024" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
 					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/miranda.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Ariel" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Ariel\nАриель</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ariel.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Umbriel" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Umbriel\nУмбриэль</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/umbriel.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 				
-				<celestialObject id="" mods="">
+				<celestialObject id="Titania" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Titania\nТитания</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titania.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 				
-				<celestialObject id="" mods="">
+				<celestialObject id="Oberon" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Oberon\nОберон</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/oberon.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Neptune" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
-					<center x="0" z="0" />
-				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<name>Neptune\nНептун</name>
+				<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+				<!-- 	<center x="0" z="0" /> -->
+				<!-- </dimension> -->
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/neptune.png" periodU="150" additive="true" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/neptune_rings.png" periodU="150" additive="true" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Protopeus" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Protopeus\nПротопей</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/protopeus.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Triton" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
+					<name>Triton\nТритон</name>
+					<dimension id="-1021" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
 					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/triton.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Pluto" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Pluto\nПлутон</name>
+				<dimension id="-1008" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/pluto.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
-				<celestialObject id="" mods="">
+				<celestialObject id="Charon" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
 					<size x="0" z="0" />
-					<name></name>
-					<dimension id="-0" isBreathable="false" gravity="normal">
-						<center x="0" z="0" />
-					</dimension>
-					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+					<name>Charon\nХарон</name>
+					<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
+					<!-- 	<center x="0" z="0" /> -->
+					<!-- </dimension> -->
+					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/charon.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
 			
-			<celestialObject id="" mods="">
+			<celestialObject id="Haumea" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
 				<size x="0" z="0" />
-				<name></name>
-				<dimension id="-0" isBreathable="false" gravity="normal">
+				<name>Haumea\nХаумеа</name>
+				<dimension id="-1023" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
-				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="" periodU="150" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="150" additive="true" />
+				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea_rings.png" periodU="150" additive="true" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 			</celestialObject>
 			
