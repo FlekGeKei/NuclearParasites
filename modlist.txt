@@ -47,10 +47,11 @@ https://www.curseforge.com/minecraft/mc-mods/littletiles
 #https://www.curseforge.com/minecraft/mc-mods/inventory-spam/files/2665904
 https://www.curseforge.com/minecraft/mc-mods/classic-bars/files/2851915
 #https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/3545472
-https://www.curseforge.com/minecraft/mc-mods/emoticons
-	https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib
+#https://www.curseforge.com/minecraft/mc-mods/emoticons
+#	https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib
 https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375
 	https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363
+https://www.curseforge.com/minecraft/mc-mods/tough-as-nails/files/2710969
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
