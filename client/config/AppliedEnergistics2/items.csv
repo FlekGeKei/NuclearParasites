@@ -7842,9 +7842,6 @@ appliedenergistics2:facade:0, Кабельный фасад - Подповерх
 appliedenergistics2:facade:0, Кабельный фасад - Камень Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Гейзер Тритона
 appliedenergistics2:facade:0, Кабельный фасад - Маленький Гейзер Тритона
-appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
-appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Трава Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Земля Барнарды С
 appliedenergistics2:facade:0, Кабельный фасад - Камень Барнарды С
@@ -7883,6 +7880,9 @@ appliedenergistics2:facade:0, Кабельный фасад - Кремниева
 appliedenergistics2:facade:0, Кабельный фасад - Алмазная Руда
 appliedenergistics2:facade:0, Кабельный фасад - Сгоревшее Дерево
 appliedenergistics2:facade:0, Кабельный фасад - Замерзшее Дерево
+appliedenergistics2:facade:0, Кабельный фасад - Земля Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Трава Тау Кита F
+appliedenergistics2:facade:0, Кабельный фасад - Камень Тау Кита F
 appliedenergistics2:facade:0, Кабельный фасад - Алюминиевый блок
 appliedenergistics2:facade:0, Кабельный фасад - Алюминиевый блок
 appliedenergistics2:facade:0, Кабельный фасад - Алюминиевый блок
@@ -11004,28 +11004,6 @@ galaxyspace:plasma_axe, Плазменный Топор
 galaxyspace:plasma_pickaxe, Плазменная Кирка
 galaxyspace:jetpack, Реактивный Электроранец
 galaxyspace:geo_scanner:100, Геологический Сканер
-galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
-galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
-galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
-galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
-galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
-galaxyspace:tauceti_f_watergrass:2, Водоросли
-galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
-galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
-galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
-galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
-galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
-galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
-galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
-galaxyspace:tauceti_f_corals:4, Огненный Коралл
-galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
-galaxyspace:tauceti_f_corals:6, Роговитый Коралл
-galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
-galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
-galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
-galaxyspace:tauceti_f_corals:10, Губчатый Коралл
 galaxyspace:barnarda_c_grasses:0, Трава Барнарды С
 galaxyspace:barnarda_c_blocks:0, Земля Барнарды С
 galaxyspace:barnarda_c_blocks:1, Камень Барнарды С
@@ -11079,6 +11057,28 @@ galaxyspace:proxima_b_blocks:9, Кремниевая Руда
 galaxyspace:proxima_b_blocks:10, Алмазная Руда
 galaxyspace:proxima_b_log_1, Сгоревшее Дерево
 galaxyspace:proxima_b_log_2, Замерзшее Дерево
+galaxyspace:tauceti_f_blocks:0, Земля Тау Кита F
+galaxyspace:tauceti_f_blocks:1, Трава Тау Кита F
+galaxyspace:tauceti_f_blocks:2, Камень Тау Кита F
+galaxyspace:tauceti_f_watergrass:0, Красные Водоросли
+galaxyspace:tauceti_f_watergrass:1, Основание Водорослей
+galaxyspace:tauceti_f_watergrass:2, Водоросли
+galaxyspace:tauceti_f_watergrass:3, Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:4, Склизкое Основание Водорослей
+galaxyspace:tauceti_f_watergrass:5, Склизкая Верхушка Водорослей
+galaxyspace:tauceti_f_watergrass:6, Густые Водоросли
+galaxyspace:tauceti_f_watergrass:7, Маленькие Водоросли
+galaxyspace:tauceti_f_corals:0, Мозговитый Коралл
+galaxyspace:tauceti_f_corals:1, Веерный Мозговитый Коралл
+galaxyspace:tauceti_f_corals:2, Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:3, Веерный Пузырчатый Коралл
+galaxyspace:tauceti_f_corals:4, Огненный Коралл
+galaxyspace:tauceti_f_corals:5, Веерный Огненный Коралл
+galaxyspace:tauceti_f_corals:6, Роговитый Коралл
+galaxyspace:tauceti_f_corals:7, Веерный Роговитый Коралл
+galaxyspace:tauceti_f_corals:8, Трубчатый Коралл
+galaxyspace:tauceti_f_corals:9, Веерный Трубчатый Коралл
+galaxyspace:tauceti_f_corals:10, Губчатый Коралл
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Стамеска
 chisel:chisel_diamond, Алмазная стамеска
@@ -11173,102 +11173,34 @@ littletiles:ltoutput, tile.ltoutput.name
 littletiles:signal_converter, Signal Converter
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
-opensecurity:rfid_reader, RFID считыватель
 opensecurity:alarm, Сигнализация
-opensecurity:security_terminal, Терминал безопасности
-opensecurity:card_writer, Блок записи карт
-opensecurity:data_block, Блок данных
-opensecurity:keypad, Мини клавиатура
-opensecurity:mag_reader, Считыватель магнитных карт
-opensecurity:entity_detector, Детектор сущностей
-opensecurity:biometric_reader, Биометрический считыватель
-opensecurity:nanofog_terminal, Терминал Нано тумана
 opensecurity:rolldoor_element, Элемент подъемной двери
+opensecurity:card_writer, Блок записи карт
+opensecurity:entity_detector, Детектор сущностей
+opensecurity:nanofog_terminal, Терминал Нано тумана
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:rfid_reader, RFID считыватель
+opensecurity:biometric_reader, Биометрический считыватель
 opensecurity:energy_turret, Энергетическая турель
-opensecurity:private_secure_door, Личная дверь безопасности
+opensecurity:keypad, Мини клавиатура
+opensecurity:security_terminal, Терминал безопасности
+opensecurity:data_block, Блок данных
 opensecurity:mag_secure_door, MagReader Security Door
+opensecurity:private_secure_door, Личная дверь безопасности
 opensecurity:secure_door, Дверь безопасности
 opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:nanofog, Нано туман
+opensecurity:door_controller, Контроллер дверей
 opensecurity:rolldoor, Подъемная дверь
 opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
-opensecurity:door_controller, Контроллер дверей
-opensecurity:rfid_reader_card, Карта RFID считыватель
-opensecurity:nanodna, Нано ДНК
-opensecurity:mag_card, Карта с магнитной полосой
-opensecurity:cooldown_upgrade, Улучшение перезарядки
-opensecurity:rfid_card, RFID карта
 opensecurity:movement_upgrade, Улучшение скорости
+opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:damage_upgrade, Улучшение урона
+opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:rfid_card, RFID карта
+opensecurity:nanodna, Нано ДНК
+opensecurity:cooldown_upgrade, Улучшение перезарядки
 opensecurity:energy_upgrade, Улучшение энергии
-srparasites:infestedstain, Заражённая земля
-srparasites:infestremain, Заражённый осадок
-srparasites:infestedtrunk, Заражённое бревно
-srparasites:infestedrubble, Заражённый камень
-srparasites:infestedbush:0, Заражённые вены
-srparasites:infestedbush:1, Заражённые вены
-srparasites:infestedbush:2, Заражённые вены
-srparasites:infestedbush:3, Заражённые вены
-srparasites:infestedbush:4, Заражённые вены
-srparasites:infestedbush:5, Заражённые вены
-srparasites:biomeheart, Ядро паразитического биома
-srparasites:colonyheart, Ядро паразитической колонии
-srparasites:biomepurifier, Очиститель биомов
-srparasites:parasitebush:0, Паразитическая сеть
-srparasites:parasitebush:1, Parasitic Ringlet
-srparasites:parasitebush:2, Паразитическая везикула
-srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
-srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
-srparasites:parasitecanister:0, Паразитический мешок
-srparasites:parasitecanister:1, Паразитическая киста
-srparasites:parasitecanister:2, Паразитическая опухоль
-srparasites:parasitecanister:3, Паразитическая сумка
-srparasites:parasitetrunk:0, Паразитическое бревно
-srparasites:parasitetrunk:1, Паразитическое бревно
-srparasites:parasitetrunk:2, Паразитическое бревно
-srparasites:parasitestain:0, Паразитическая земля
-srparasites:parasitestain:1, Паразитическая грязь
-srparasites:parasitestain:2, Паразитическая плоть
-srparasites:parasitestain:3, Паразитические вены
-srparasites:parasiterubble:0, Паразитическая концентрированная плоть
-srparasites:parasiterubble:1, Паразитическая концентрированная кость
-srparasites:parasiterubble:2, Паразитический Камень
-srparasites:parasitestructure, Незавершённая структура паразитической колонии
-srparasites:parasitethin, Паразитическое тонкое бревно
-srparasites:parasitesapling:0, Паразитический саженец
-srparasites:parasitesapling:1, Паразитический саженец
-srparasites:parasitesapling:2, Паразитический саженец
-srparasites:parasitemouth, Паразитический рот
-srparasites:parasiterubbledense:0, Прессованный паразитический камень
-srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
-srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
-srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
-srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
-srparasites:parasiterubble_slabhalf:0, Паразитический полублок
-srparasites:parasitetendril, Паразитический усик
-srparasites:parasitefog, Туман
-srparasites:srpweb, Паутина
-srparasites:evolutionlure:0, Приманка (Ослабленная)
-srparasites:evolutionlure:1, Приманка (Слабая)
-srparasites:evolutionlure:2, Приманка (Тонкая)
-srparasites:evolutionlure:3, Приманка (Стабильная)
-srparasites:evolutionlure:4, Приманка (Существенная)
-srparasites:evolutionlure:5, Приманка (Концентрированная)
-srparasites:evolutionlure:6, Приманка (Концентрированная+)
-srparasites:evolutionlure:7, Приманка (Концентрированная++)
-srparasites:gore:0, Усвоенные останки
-srparasites:gore:1, Усвоенные останки
-srparasites:gore:2, Примитивные останки
-srparasites:gore:3, Примитивные останки
-srparasites:gore:4, Адаптированные останки
-srparasites:gore:5, Адаптированные останки
-srparasites:gore:6, Чистые останки
-srparasites:gore:7, Чистые останки
-srparasites:gore:8, Assimilated Remains
-srparasites:gore:9, Primitive Remains
-srparasites:gore:10, Adapted Remains
-srparasites:gore:11, Pure Remains
-srparasites:canisteractive, Parasitic Cyst (Active)
 srparasites:ada_summoner_drop, Ядро призывателя
 srparasites:ada_yelloweye_drop, Кость желтоглаза
 srparasites:ada_manducater_drop, Сфера пожирателя
@@ -11359,6 +11291,74 @@ srparasites:weapon_cleaver, Living Cleaver
 srparasites:weapon_cleaver_sentient, Sentient Greatcleaver
 srparasites:weapon_bow, Живой лук
 srparasites:weapon_bow_sentient, Разумный лук
+srparasites:infestedstain, Заражённая земля
+srparasites:infestremain, Заражённый осадок
+srparasites:infestedtrunk, Заражённое бревно
+srparasites:infestedrubble, Заражённый камень
+srparasites:infestedbush:0, Заражённые вены
+srparasites:infestedbush:1, Заражённые вены
+srparasites:infestedbush:2, Заражённые вены
+srparasites:infestedbush:3, Заражённые вены
+srparasites:infestedbush:4, Заражённые вены
+srparasites:infestedbush:5, Заражённые вены
+srparasites:biomeheart, Ядро паразитического биома
+srparasites:colonyheart, Ядро паразитической колонии
+srparasites:biomepurifier, Очиститель биомов
+srparasites:parasitebush:0, Паразитическая сеть
+srparasites:parasitebush:1, Parasitic Ringlet
+srparasites:parasitebush:2, Паразитическая везикула
+srparasites:parasitebush:3, tile.srparasites.parasitebush_eye.name
+srparasites:parasitebush:4, tile.srparasites.parasitebush_tooh.name
+srparasites:parasitecanister:0, Паразитический мешок
+srparasites:parasitecanister:1, Паразитическая киста
+srparasites:parasitecanister:2, Паразитическая опухоль
+srparasites:parasitecanister:3, Паразитическая сумка
+srparasites:parasitetrunk:0, Паразитическое бревно
+srparasites:parasitetrunk:1, Паразитическое бревно
+srparasites:parasitetrunk:2, Паразитическое бревно
+srparasites:parasitestain:0, Паразитическая земля
+srparasites:parasitestain:1, Паразитическая грязь
+srparasites:parasitestain:2, Паразитическая плоть
+srparasites:parasitestain:3, Паразитические вены
+srparasites:parasiterubble:0, Паразитическая концентрированная плоть
+srparasites:parasiterubble:1, Паразитическая концентрированная кость
+srparasites:parasiterubble:2, Паразитический Камень
+srparasites:parasitestructure, Незавершённая структура паразитической колонии
+srparasites:parasitethin, Паразитическое тонкое бревно
+srparasites:parasitesapling:0, Паразитический саженец
+srparasites:parasitesapling:1, Паразитический саженец
+srparasites:parasitesapling:2, Паразитический саженец
+srparasites:parasitemouth, Паразитический рот
+srparasites:parasiterubbledense:0, Прессованный паразитический камень
+srparasites:parasiterubbledense:1, Прессованный паразитический биомный камень
+srparasites:parasiterubbledense:2, Прессованный паразитический камень колонии
+srparasites:parasiterubble_bonestairs, Ступеньки из паразитической концентрированной кости
+srparasites:parasitestain_fleshstairs, Ступеньки из Паразитической плоти
+srparasites:parasiterubble_slabhalf:0, Паразитический полублок
+srparasites:parasitetendril, Паразитический усик
+srparasites:parasitefog, Туман
+srparasites:srpweb, Паутина
+srparasites:evolutionlure:0, Приманка (Ослабленная)
+srparasites:evolutionlure:1, Приманка (Слабая)
+srparasites:evolutionlure:2, Приманка (Тонкая)
+srparasites:evolutionlure:3, Приманка (Стабильная)
+srparasites:evolutionlure:4, Приманка (Существенная)
+srparasites:evolutionlure:5, Приманка (Концентрированная)
+srparasites:evolutionlure:6, Приманка (Концентрированная+)
+srparasites:evolutionlure:7, Приманка (Концентрированная++)
+srparasites:gore:0, Усвоенные останки
+srparasites:gore:1, Усвоенные останки
+srparasites:gore:2, Примитивные останки
+srparasites:gore:3, Примитивные останки
+srparasites:gore:4, Адаптированные останки
+srparasites:gore:5, Адаптированные останки
+srparasites:gore:6, Чистые останки
+srparasites:gore:7, Чистые останки
+srparasites:gore:8, Assimilated Remains
+srparasites:gore:9, Primitive Remains
+srparasites:gore:10, Adapted Remains
+srparasites:gore:11, Pure Remains
+srparasites:canisteractive, Parasitic Cyst (Active)
 thuttech:devicelinker:0, Связыватель устройств
 thuttech:devicelinker:0, ThutTech Manual
 thuttech:lift:0, Лифт

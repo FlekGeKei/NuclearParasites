@@ -52,6 +52,11 @@ https://www.curseforge.com/minecraft/mc-mods/classic-bars/files/2851915
 https://www.curseforge.com/minecraft/mc-mods/chisel/files/2915375
 	https://www.curseforge.com/minecraft/mc-mods/ctm/files/2915363
 https://www.curseforge.com/minecraft/mc-mods/tough-as-nails/files/2710969
+https://www.curseforge.com/minecraft/mc-mods/no-potion-shift/files/2498342
+https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/3779887
+https://www.curseforge.com/minecraft/mc-mods/corpse/files/3010808
+https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2937869
+
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
