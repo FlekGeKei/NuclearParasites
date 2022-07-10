@@ -8,20 +8,41 @@
         "appliedenergistics2:item.ToolCertusQuartzAxe",
         "appliedenergistics2:item.ToolNetherQuartzAxe",
         "appliedenergistics2:nether_quartz_axe",
+        "hbm:steel_axe",
+        "hbm:titanium_axe",
         "minecraft:diamond_axe",
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:stone_axe",
-        "minecraft:wooden_axe"
+        "minecraft:wooden_axe",
+        "tconstruct:hatchet"
       ],
       "blocklist": [
         "galaxyspace:barnarda_c_test_log/0",
+        "harvestcraft:pamcinnamon/0",
+        "harvestcraft:pammaple/0",
+        "harvestcraft:pampaperbark/0",
         "hbm:pink_log/0",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
-        "minecraft:log2"
+        "minecraft:log2",
+        "primal:corypha_stalk/0",
+        "primal:corypha_stalk/1",
+        "primal:logs/0",
+        "primal:logs/1",
+        "primal:logs_stacked",
+        "primal:logs_stacked_corypha",
+        "primal:logs_stripped",
+        "primal:logs_stripped/0",
+        "primal:logs_stripped/1",
+        "primal:logs_stripped/2",
+        "primal:logs_stripped/3",
+        "primal:logs_stripped/4",
+        "primal:logs_stripped/5",
+        "primal:logs_stripped/7",
+        "tconstruct:slime_leaves"
       ]
     },
     "hoe": {
@@ -36,7 +57,8 @@
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
         "minecraft:stone_hoe",
-        "minecraft:wooden_hoe"
+        "minecraft:wooden_hoe",
+        "tconstruct:mattock"
       ],
       "blocklist": [
         "minecraft:carrots",
@@ -51,6 +73,8 @@
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
         "appliedenergistics2:certus_quartz_pickaxe",
+        "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+        "appliedenergistics2:item.ToolNetherQuartzPickaxe",
         "appliedenergistics2:nether_quartz_pickaxe",
         "hbm:bismuth_pickaxe",
         "hbm:chlorophyte_pickaxe",
@@ -68,7 +92,8 @@
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
-        "minecraft:wooden_pickaxe"
+        "minecraft:wooden_pickaxe",
+        "tconstruct:pickaxe"
       ],
       "blocklist": [
         "appliedenergistics2:charged_quartz_ore/0",
@@ -222,7 +247,20 @@
         "minecraft:obsidian",
         "minecraft:quartz_ore",
         "minecraft:redstone_ore",
-        "sgcraft:naquadahore/0"
+        "primal:ore_bog_iron",
+        "primal:ore_magnetite",
+        "primal:ore_opal",
+        "primal:ore_zinc",
+        "projectred-exploration:ore/0",
+        "projectred-exploration:ore/1",
+        "projectred-exploration:ore/2",
+        "projectred-exploration:ore/3",
+        "projectred-exploration:ore/4",
+        "projectred-exploration:ore/5",
+        "projectred-exploration:ore/6",
+        "sgcraft:naquadahore/0",
+        "tconstruct:ore/0",
+        "tconstruct:ore/1"
       ]
     },
     "shears": {
@@ -238,7 +276,8 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool"
+        "minecraft:wool",
+        "tconstruct:slime_leaves"
       ]
     },
     "shovel": {
@@ -251,7 +290,9 @@
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
-        "minecraft:wooden_shovel"
+        "minecraft:wooden_shovel",
+        "tconstruct:mattock",
+        "tconstruct:shovel"
       ],
       "blocklist": [
         "minecraft:clay",
