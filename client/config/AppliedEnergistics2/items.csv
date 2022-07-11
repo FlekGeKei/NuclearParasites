@@ -11082,34 +11082,34 @@ littletiles:ltoutput, tile.ltoutput.name
 littletiles:signal_converter, Signal Converter
 mapfrontiers:frontier_book, Карта Территорий
 mapfrontiers:personal_frontier_book, Карта Персональных Территорий
-opensecurity:biometric_reader, Биометрический считыватель
-opensecurity:card_writer, Блок записи карт
-opensecurity:nanofog_terminal, Терминал Нано тумана
-opensecurity:security_terminal, Терминал безопасности
-opensecurity:mag_reader, Считыватель магнитных карт
 opensecurity:energy_turret, Энергетическая турель
+opensecurity:rolldoor_element, Элемент подъемной двери
+opensecurity:mag_reader, Считыватель магнитных карт
+opensecurity:keypad, Мини клавиатура
 opensecurity:alarm, Сигнализация
 opensecurity:data_block, Блок данных
-opensecurity:entity_detector, Детектор сущностей
 opensecurity:rfid_reader, RFID считыватель
-opensecurity:rolldoor_element, Элемент подъемной двери
-opensecurity:keypad, Мини клавиатура
+opensecurity:nanofog_terminal, Терминал Нано тумана
+opensecurity:security_terminal, Терминал безопасности
+opensecurity:card_writer, Блок записи карт
+opensecurity:biometric_reader, Биометрический считыватель
+opensecurity:entity_detector, Детектор сущностей
 opensecurity:private_secure_door, Личная дверь безопасности
-opensecurity:secure_door, Дверь безопасности
 opensecurity:mag_secure_door, MagReader Security Door
+opensecurity:secure_door, Дверь безопасности
+opensecurity:rolldoor_controller, Контроллер подъемной двери
 opensecurity:mag_reader_camo, Камуфляж Считыватель магнитных карт
+opensecurity:door_controller, Контроллер дверей
 opensecurity:nanofog, Нано туман
 opensecurity:rolldoor, Подъемная дверь
-opensecurity:rolldoor_controller, Контроллер подъемной двери
-opensecurity:door_controller, Контроллер дверей
-opensecurity:rfid_card, RFID карта
-opensecurity:damage_upgrade, Улучшение урона
-opensecurity:movement_upgrade, Улучшение скорости
-opensecurity:rfid_reader_card, Карта RFID считыватель
-opensecurity:mag_card, Карта с магнитной полосой
 opensecurity:cooldown_upgrade, Улучшение перезарядки
-opensecurity:energy_upgrade, Улучшение энергии
+opensecurity:movement_upgrade, Улучшение скорости
 opensecurity:nanodna, Нано ДНК
+opensecurity:rfid_reader_card, Карта RFID считыватель
+opensecurity:rfid_card, RFID карта
+opensecurity:energy_upgrade, Улучшение энергии
+opensecurity:mag_card, Карта с магнитной полосой
+opensecurity:damage_upgrade, Улучшение урона
 animalnet:animal_net_small, Маленькая сеть животных
 animalnet:animal_net_medium, Средняя сеть животных
 animalnet:animal_net_big, Большая сеть животных

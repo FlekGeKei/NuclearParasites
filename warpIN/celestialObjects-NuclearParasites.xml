@@ -94,7 +94,6 @@
 				</parent>
 				<size x="21000" z="21000" />
 				<name>Earth\nЗемля</name>
-				<description>Планета заражена паразитами</description>
 				<dimension id="0" isBreathable="true" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>

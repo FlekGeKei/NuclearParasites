@@ -6,7 +6,6 @@
 	dependencies: [
 		"424dce67"
 	],
-	optional: true,
 	tasks: [{
 		uid: "7ce7dabf",
 		type: "dimension",

@@ -1,5 +1,7 @@
 {
 	version: 9,
+	title: "NuclearParasites",
+	icon: "hbm:medal_liquidator",
 	default_reward_team: false,
 	default_consume_items: false,
 	default_autoclaim_rewards: "disabled",

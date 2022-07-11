@@ -1,0 +1,228 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "micdoodlecore": {
+        "": {}
+    },
+    "itemphysic": {
+        "": {}
+    },
+    "littletilescore": {
+        "": {}
+    },
+    "PlayerAPI": {
+        "": {}
+    },
+    "RenderPlayerAPI": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "ClientFixer": {
+        "": {}
+    },
+    "foamfixcore": {
+        "": {}
+    },
+    "opencomputers|core": {
+        "": {}
+    },
+    "WarpDriveCore": {
+        "": {}
+    },
+    "randompatches": {
+        "": {}
+    },
+    "aiimprovements": {
+        "": {}
+    },
+    "animalnet": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "appleskin": {
+        "": {}
+    },
+    "ctm": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "galacticraftcore": {
+        "": {}
+    },
+    "galacticraftplanets": {
+        "": {}
+    },
+    "asmodeuscore": {
+        "": {}
+    },
+    "bettercaves": {
+        "": {}
+    },
+    "bettermineshafts": {
+        "": {}
+    },
+    "bookshelf": {
+        "": {}
+    },
+    "carryon": {
+        "": {}
+    },
+    "chisel": {
+        "": {}
+    },
+    "chunkpregenerator": {
+        "": {}
+    },
+    "classicbar": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "corpse": {
+        "": {}
+    },
+    "cosmeticarmorreworked": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "cyberware": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "emoticons": {
+        "": {}
+    },
+    "eplus": {
+        "": {}
+    },
+    "enderstorage": {
+        "": {}
+    },
+    "entityculling": {
+        "": {}
+    },
+    "extracells": {
+        "": {}
+    },
+    "firstaid": {
+        "": {}
+    },
+    "foamfix": {
+        "": {}
+    },
+    "ftblib": {
+        "": {}
+    },
+    "ftbutilities": {
+        "": {}
+    },
+    "itemfilters": {
+        "": {}
+    },
+    "ftbquests": {
+        "": {}
+    },
+    "galaxyspace": {
+        "": {}
+    },
+    "hbm": {
+        "": {}
+    },
+    "ironbackpacks": {
+        "": {}
+    },
+    "journeymap": {
+        "": {}
+    },
+    "littletiles": {
+        "": {}
+    },
+    "loliasm": {
+        "": {}
+    },
+    "mapfrontiers": {
+        "": {}
+    },
+    "netherportalfix": {
+        "": {}
+    },
+    "nopotionshift": {
+        "": {}
+    },
+    "opencomputers": {
+        "": {}
+    },
+    "opensecurity": {
+        "": {}
+    },
+    "particleculling": {
+        "": {}
+    },
+    "performant": {
+        "": {}
+    },
+    "renderlib": {
+        "": {}
+    },
+    "resourceloader": {
+        "": {}
+    },
+    "smartmoving": {
+        "": {}
+    },
+    "smartrender": {
+        "": {}
+    },
+    "soundfilters": {
+        "": {}
+    },
+    "surge": {
+        "": {}
+    },
+    "theoneprobe": {
+        "": {}
+    },
+    "toughasnails": {
+        "": {}
+    },
+    "veinminer": {
+        "": {}
+    },
+    "veinminermodsupport": {
+        "": {}
+    },
+    "gvc": {
+        "": {}
+    },
+    "warpdrive": {
+        "": {}
+    },
+    "phosphor-lighting": {
+        "": {}
+    },
+    "": {}
+}

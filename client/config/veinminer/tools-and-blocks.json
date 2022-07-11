@@ -14,35 +14,16 @@
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:stone_axe",
-        "minecraft:wooden_axe",
-        "tconstruct:hatchet"
+        "minecraft:wooden_axe"
       ],
       "blocklist": [
         "galaxyspace:barnarda_c_test_log/0",
-        "harvestcraft:pamcinnamon/0",
-        "harvestcraft:pammaple/0",
-        "harvestcraft:pampaperbark/0",
         "hbm:pink_log/0",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
-        "minecraft:log2",
-        "primal:corypha_stalk/0",
-        "primal:corypha_stalk/1",
-        "primal:logs/0",
-        "primal:logs/1",
-        "primal:logs_stacked",
-        "primal:logs_stacked_corypha",
-        "primal:logs_stripped",
-        "primal:logs_stripped/0",
-        "primal:logs_stripped/1",
-        "primal:logs_stripped/2",
-        "primal:logs_stripped/3",
-        "primal:logs_stripped/4",
-        "primal:logs_stripped/5",
-        "primal:logs_stripped/7",
-        "tconstruct:slime_leaves"
+        "minecraft:log2"
       ]
     },
     "hoe": {
@@ -57,8 +38,7 @@
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
         "minecraft:stone_hoe",
-        "minecraft:wooden_hoe",
-        "tconstruct:mattock"
+        "minecraft:wooden_hoe"
       ],
       "blocklist": [
         "minecraft:carrots",
@@ -246,21 +226,7 @@
         "minecraft:nether_brick_fence",
         "minecraft:obsidian",
         "minecraft:quartz_ore",
-        "minecraft:redstone_ore",
-        "primal:ore_bog_iron",
-        "primal:ore_magnetite",
-        "primal:ore_opal",
-        "primal:ore_zinc",
-        "projectred-exploration:ore/0",
-        "projectred-exploration:ore/1",
-        "projectred-exploration:ore/2",
-        "projectred-exploration:ore/3",
-        "projectred-exploration:ore/4",
-        "projectred-exploration:ore/5",
-        "projectred-exploration:ore/6",
-        "sgcraft:naquadahore/0",
-        "tconstruct:ore/0",
-        "tconstruct:ore/1"
+        "minecraft:redstone_ore"
       ]
     },
     "shears": {
@@ -290,9 +256,7 @@
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
-        "minecraft:wooden_shovel",
-        "tconstruct:mattock",
-        "tconstruct:shovel"
+        "minecraft:wooden_shovel"
       ],
       "blocklist": [
         "minecraft:clay",
