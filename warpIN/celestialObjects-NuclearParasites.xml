@@ -66,7 +66,7 @@
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="10080" z="10080" />
 				<name>Mercury\nМеркурий</name>
 				<dimension id="-1005" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
@@ -79,7 +79,7 @@
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="13020" z="13020" />
 				<name>Venus\nВенера</name>
 				<dimension id="-1006" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
@@ -90,7 +90,7 @@
 			
 			<celestialObject id="Earth">
 				<parent>
-					<center x="-45000" z="0" />
+					<center x="50000" z="0" />
 				</parent>
 				<size x="21000" z="21000" />
 				<name>Earth\nЗемля</name>
@@ -124,13 +124,12 @@
 						<center x="0" z="0" />
 					</dimension>
 				</celestialObject>
-			</celestialObject>
 
 				<celestialObject id="Moon">
 					<parent>
 						<center x="" z="0" />
 					</parent>
-					<size x="6000" z="6000" />
+					<size x="7980" z="7980" />
 					<name>Moon\nЛуна</name>
 					<dimension id="-28" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -138,25 +137,25 @@
 					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
+			</celestialObject>
 			
 			<celestialObject id="Mars">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="8820" z="8820" />
 				<name>Mars\nМарс</name>
 				<dimension id="-29" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftplanets:textures/gui/planets/mars.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
-			</celestialObject>
 			
 				<celestialObject id="Phobos" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
-					<size x="0" z="0" />
+					<size x="2000" z="2000" />
 					<name>Phobos\nФобос</name>
 					<dimension id="-1012" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -167,7 +166,7 @@
 			
 				<celestialObject id="Deimos" mods="galaxyspace">
 					<parent>
-						<center x="0" z="0" />
+						<center x="2000" z="2000" />
 					</parent>
 					<size x="0" z="0" />
 					<name>Deimos\nДеймос</name>
@@ -177,12 +176,13 @@
 					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/deimos.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
+			</celestialObject>
 			
 			<celestialObject id="Ceres" mods="galaxyspace">
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="7560" z="7560" />
 				<name>Ceres\nЦерера</name>
 				<dimension id="-1007" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
@@ -195,7 +195,7 @@
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="4200" z="4200" />
 				<name>Asteroid belt\nПояс астероидов</name>
 				<dimension id="-30" isBreathable="false" gravity="normal">
 					<center x="0" z="0" />
@@ -208,20 +208,19 @@
 				<parent>
 					<center x="0" z="0" />
 				</parent>
-				<size x="0" z="0" />
+				<size x="" z="" />
 				<name>Jupiter\nЮпитер</name>
 				<!-- <dimension id="-0" isBreathable="false" gravity="normal"> -->
 				<!-- 	<center x="0" z="0" /> -->
 				<!-- </dimension> -->
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/jupiter.png" periodU="150" />
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
-			</celestialObject>
 			
 				<celestialObject id="Io" mods="galaxyspace">
 					<parent>
 						<center x="0" z="0" />
 					</parent>
-					<size x="0" z="0" />
+					<size x="10080" z="10080" />
 					<name>Io\nИо</name>
 					<dimension id="-1014" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -234,7 +233,7 @@
 					<parent>
 						<center x="0" z="0" />
 					</parent>
-					<size x="0" z="0" />
+					<size x="7980" z="7980" />
 					<name>Europa\nЕвропа</name>
 					<dimension id="-1015" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -247,7 +246,7 @@
 					<parent>
 						<center x="0" z="0" />
 					</parent>
-					<size x="0" z="0" />
+					<size x="9030" z="9030" />
 					<name>Ganymede\nГанимед</name>
 					<dimension id="-1016" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -260,7 +259,7 @@
 					<parent>
 						<center x="0" z="0" />
 					</parent>
-					<size x="0" z="0" />
+					<size x="9660" z="9660" />
 					<name>Callisto\nКаллисто</name>
 					<dimension id="-1022" isBreathable="false" gravity="normal">
 						<center x="0" z="0" />
@@ -268,6 +267,7 @@
 					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/callisto.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
+			</celestialObject>
 
 			<celestialObject id="Saturn">
 				<parent>
@@ -282,7 +282,6 @@
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn_rings.png" periodU="150" additive="true" />
 
 				<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
-			</celestialObject>
 			
 				<celestialObject id="Mimas" mods="galaxyspace">
 					<parent>
@@ -374,6 +373,7 @@
 					<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/iapetus.png" periodU="150" />
 					<render red="0.80" green="0.90" blue="0.90" alpha="0.30" />
 				</celestialObject>
+			</celestialObject>
 			
 			<celestialObject id="Uranus">
 				<parent>

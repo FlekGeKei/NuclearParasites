@@ -18,6 +18,9 @@
       ],
       "blocklist": [
         "galaxyspace:barnarda_c_test_log/0",
+        "harvestcraft:pamcinnamon/0",
+        "harvestcraft:pammaple/0",
+        "harvestcraft:pampaperbark/0",
         "hbm:pink_log/0",
         "minecraft:fence",
         "minecraft:leaves",
