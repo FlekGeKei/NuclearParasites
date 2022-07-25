@@ -46,7 +46,21 @@
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
-        "minecraft:log2"
+        "minecraft:log2",
+        "primal:corypha_stalk/0",
+        "primal:corypha_stalk/1",
+        "primal:logs/0",
+        "primal:logs/1",
+        "primal:logs_stacked",
+        "primal:logs_stacked_corypha",
+        "primal:logs_stripped",
+        "primal:logs_stripped/0",
+        "primal:logs_stripped/1",
+        "primal:logs_stripped/2",
+        "primal:logs_stripped/3",
+        "primal:logs_stripped/4",
+        "primal:logs_stripped/5",
+        "primal:logs_stripped/7"
       ]
     },
     "hoe": {
@@ -256,7 +270,18 @@
         "minecraft:nether_brick_fence",
         "minecraft:obsidian",
         "minecraft:quartz_ore",
-        "minecraft:redstone_ore"
+        "minecraft:redstone_ore",
+        "primal:ore_bog_iron",
+        "primal:ore_magnetite",
+        "primal:ore_opal",
+        "primal:ore_zinc",
+        "projectred-exploration:ore/0",
+        "projectred-exploration:ore/1",
+        "projectred-exploration:ore/2",
+        "projectred-exploration:ore/3",
+        "projectred-exploration:ore/4",
+        "projectred-exploration:ore/5",
+        "projectred-exploration:ore/6"
       ]
     },
     "shears": {

@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 hbm-*.jar filter=lfs diff=lfs merge=lfs -text
+hbm-1.6.8a-Gv3.jar filter=lfs diff=lfs merge=lfs -text

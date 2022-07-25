@@ -47,7 +47,8 @@ https://www.curseforge.com/minecraft/mc-mods/tough-as-nails/files/2710969
 https://www.curseforge.com/minecraft/mc-mods/no-potion-shift/files/2498342
 https://www.curseforge.com/minecraft/mc-mods/corpse/files/3010808
 https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2937869
-https://www.curseforge.com/minecraft/mc-mods/new-tardis-mod/files/2903453
+https://www.curseforge.com/minecraft/mc-mods/hats/files/2960397
+https://www.curseforge.com/minecraft/mc-mods/ichunutil/files/2801262
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=6481
 https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/files/2919497
 https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
