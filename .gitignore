@@ -14,6 +14,5 @@ minecraft/resourcepacks
 *.jar
 
 
-
 !minecraft/mods/vintagium-*.jar
 !*/overrides/mods/vintagium-*.jar
