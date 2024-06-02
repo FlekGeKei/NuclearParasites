@@ -193,7 +193,7 @@ minecraft:command_block, Command Block
 minecraft:beacon, Beacon
 minecraft:cobblestone_wall:0, Cobblestone Wall
 minecraft:cobblestone_wall:1, Mossy Cobblestone Wall
-minecraft:wooden_button, Oak Button
+minecraft:wooden_button, Button
 minecraft:anvil:0, Anvil
 minecraft:anvil:1, Slightly Damaged Anvil
 minecraft:anvil:2, Very Damaged Anvil
@@ -750,7 +750,6 @@ aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid XP
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Sunshine
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Cloud Seed
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Concentrated Cloud Seed
-aeadditions:pattern.fluid:0, ME Fluid Pattern: Ichor
 aeadditions:terminal.fluid.wireless, item.com.the9grounds.aeadditions.terminal.fluid.wireless.name
 aeadditions:storage.component:0, 256k ME Storage Component
 aeadditions:storage.component:1, 1024k ME Storage Component
@@ -772,147 +771,6 @@ aeadditions:fluidfiller, ME Fluid Auto Filler
 aeadditions:hardmedrive, Blast resistant ME Drive
 aeadditions:vibrantchamberfluid, Fluid Vibration Chamber
 aeadditions:gas_interface, ME Gas Interface
-betternether:block_eyeball, Eyeball Block
-betternether:block_eyeball_small, Small Eyeball Block
-betternether:eye_seed, Eye Seed
-betternether:netherrack_moss, Nether Moss
-betternether:nether_grass, Nether Grass
-betternether:nether_reed, Nether Reed
-betternether:stalagnate_stem, Stalagnate
-betternether:stalagnate_seed, Stalagnate Seed
-betternether:stalagnate_bark, Stalagnate Bark
-betternether:stalagnate_planks, Stalagnate Planks
-betternether:stalagnate_planks_stairs, Stalagnate Stairs
-betternether:stalagnate_planks_slab_half:0, Stalagnate Slab
-betternether:stalagnate_planks_fence, Stalagnate Fence
-betternether:stalagnate_planks_gate, Stalagnate Gate
-betternether:stalagnate_planks_button, Stalagnate Button
-betternether:stalagnate_planks_plate, Stalagnate Pressure Plate
-betternether:reeds_block, Reeds Block
-betternether:reeds_stairs, Reeds Stairs
-betternether:reeds_slab_half:0, Reeds Slab
-betternether:reeds_fence, Reeds Fence
-betternether:reeds_gate, Reeds Gate
-betternether:reeds_button, Reeds Button
-betternether:reeds_plate, Reeds Pressure Plate
-betternether:lucis_spore, Lucis Spore
-betternether:nether_cactus, Nether Cactus
-betternether:wart_seed, Wart Seed
-betternether:barrel_cactus, Barrel Cactus
-betternether:agave, Agave
-betternether:black_bush, Black Bush
-betternether:ink_bush_seed, Ink Bush Seed
-betternether:smoker, Smoker
-betternether:egg_plant, Egg Plant
-betternether:black_apple_seed, Black Apple Seed
-betternether:magma_flower, Magma flower seed
-betternether:nether_mycelium, Nether Mycelium
-betternether:orange_mushroom, Orange Mushroom
-betternether:red_mold, Red Mold
-betternether:gray_mold, Gray Mold
-betternether:cincinnasite_ore, Cincinnasite Ore
-betternether:cincinnasite_block, Cincinnasite Block
-betternether:cincinnasite_forged, Forged Cincinnasite Block
-betternether:cincinnasite_pillar, Cincinnasite Pillar
-betternether:cincinnasite_bricks, Cincinnasite Bricks
-betternether:cincinnasite_brick_plate, Cincinnasite Brick Plate
-betternether:cincinnasite_stairs, Cincinnasite Stairs
-betternether:cincinnasite_slab_half:0, Cincinnasite Slab
-betternether:cincinnasite_button, Cincinnasite Button
-betternether:cincinnasite_plate, Cincinnasite Plate
-betternether:cincinnasite_lantern, Cincinnasite Lantern
-betternether:cincinnasite_tile_large, Large Cincinnasite Tile
-betternether:cincinnasite_tile_small, Small Cincinnasite Tile
-betternether:cincinnasite_carved, Cincinnasite Carved
-betternether:nether_brick_tile_large, Large Nether Brick Tile
-betternether:nether_brick_tile_small, Small Nether Brick Tile
-betternether:cincinnasite_wall, Cincinnasite Wall
-betternether:bone_block, Bone Block
-betternether:bone_stairs, Bone Stairs
-betternether:bone_slab_half:0, Bone Slab
-betternether:bone_button, Bone Button
-betternether:bone_plate, Bone Pressure Plate
-betternether:cincinnasite_fire_bowl, Cincinnasite Fire Bowl
-betternether:bone_wall, Bone Wall
-betternether:nether_brick_wall, Nether Brick Wall
-betternether:nether_brick_tile_slab_half:0, Small Nether Brick Tile Slab
-betternether:nether_brick_tile_stairs, Small Nether Brick Tile Stairs
-betternether:bone_mushroom, Bone Mushroom Spores
-betternether:reeds_ladder, Reeds Ladder
-betternether:cincinnasite_bricks_pillar, Cincinnasite Brick Pillar
-betternether:bone_tile, Bone Tile
-betternether:cincinnasite_pedestal, Cincinnasite Pedestal
-betternether:pig_statue_01, Respawner Statue
-betternether:cincinnasite_pot, Cincinnasite Pot
-betternether:cincinnasite_frame, Cincinnasite Frame
-betternether:quartz_glass, Quartz Glass
-betternether:quartz_glass_framed, Framed Quartz Glass
-betternether:quartz_stained_glass:0, Quartz Stained Glass White
-betternether:quartz_stained_glass:1, Quartz Stained Glass Orange
-betternether:quartz_stained_glass:2, Quartz Stained Glass Magenta
-betternether:quartz_stained_glass:3, Quartz Stained Glass Light Blue
-betternether:quartz_stained_glass:4, Quartz Stained Glass Yellow
-betternether:quartz_stained_glass:5, Quartz Stained Glass Lime
-betternether:quartz_stained_glass:6, Quartz Stained Glass Pink
-betternether:quartz_stained_glass:7, Quartz Stained Glass Gray
-betternether:quartz_stained_glass:8, Quartz Stained Glass Silver
-betternether:quartz_stained_glass:9, Quartz Stained Glass Cyan
-betternether:quartz_stained_glass:10, Quartz Stained Glass Purple
-betternether:quartz_stained_glass:11, Quartz Stained Glass Blue
-betternether:quartz_stained_glass:12, Quartz Stained Glass Brown
-betternether:quartz_stained_glass:13, Quartz Stained Glass Green
-betternether:quartz_stained_glass:14, Quartz Stained Glass Red
-betternether:quartz_stained_glass:15, Quartz Stained Glass Black
-betternether:cincinnasite_bars, Cincinnasite Bars
-betternether:quartz_glass_pane, Quartz Glass Pane
-betternether:quartz_glass_framed_pane, Framed Quartz Glass Pane
-betternether:cincinnasite_forge, Cincinnasite Forge
-betternether:netherrack_furnace, Netherrack Furnace
-betternether:bone_reed_door, Bone-Reed Door
-betternether:bone_cincinnasite_door, Bone-Cincinnasite Door
-betternether:quartz_stained_glass_framed:0, Framed Quartz Stained Glass White
-betternether:quartz_stained_glass_framed:1, Framed Quartz Stained Glass Orange
-betternether:quartz_stained_glass_framed:2, Framed Quartz Stained Glass Magenta
-betternether:quartz_stained_glass_framed:3, Framed Quartz Stained Glass Light Blue
-betternether:quartz_stained_glass_framed:4, Framed Quartz Stained Glass Yellow
-betternether:quartz_stained_glass_framed:5, Framed Quartz Stained Glass Lime
-betternether:quartz_stained_glass_framed:6, Framed Quartz Stained Glass Pink
-betternether:quartz_stained_glass_framed:7, Framed Quartz Stained Glass Gray
-betternether:quartz_stained_glass_framed:8, Framed Quartz Stained Glass Silver
-betternether:quartz_stained_glass_framed:9, Framed Quartz Stained Glass Cyan
-betternether:quartz_stained_glass_framed:10, Framed Quartz Stained Glass Purple
-betternether:quartz_stained_glass_framed:11, Framed Quartz Stained Glass Blue
-betternether:quartz_stained_glass_framed:12, Framed Quartz Stained Glass Brown
-betternether:quartz_stained_glass_framed:13, Framed Quartz Stained Glass Green
-betternether:quartz_stained_glass_framed:14, Framed Quartz Stained Glass Red
-betternether:quartz_stained_glass_framed:15, Framed Quartz Stained Glass Black
-betternether:quartz_stained_glass_pane:0, tile.quartz_stained_glass_pane.white.name
-betternether:quartz_stained_glass_pane:1, tile.quartz_stained_glass_pane.orange.name
-betternether:quartz_stained_glass_pane:2, tile.quartz_stained_glass_pane.magenta.name
-betternether:quartz_stained_glass_pane:3, tile.quartz_stained_glass_pane.lightBlue.name
-betternether:quartz_stained_glass_pane:4, tile.quartz_stained_glass_pane.yellow.name
-betternether:quartz_stained_glass_pane:5, tile.quartz_stained_glass_pane.lime.name
-betternether:quartz_stained_glass_pane:6, tile.quartz_stained_glass_pane.pink.name
-betternether:quartz_stained_glass_pane:7, tile.quartz_stained_glass_pane.gray.name
-betternether:quartz_stained_glass_pane:8, tile.quartz_stained_glass_pane.silver.name
-betternether:quartz_stained_glass_pane:9, tile.quartz_stained_glass_pane.cyan.name
-betternether:quartz_stained_glass_pane:10, tile.quartz_stained_glass_pane.purple.name
-betternether:quartz_stained_glass_pane:11, tile.quartz_stained_glass_pane.blue.name
-betternether:quartz_stained_glass_pane:12, tile.quartz_stained_glass_pane.brown.name
-betternether:quartz_stained_glass_pane:13, tile.quartz_stained_glass_pane.green.name
-betternether:quartz_stained_glass_pane:14, tile.quartz_stained_glass_pane.red.name
-betternether:quartz_stained_glass_pane:15, tile.quartz_stained_glass_pane.black.name
-betternether:chest_of_drawers, Chest Of Drawers
-betternether:black_apple, Black Apple
-betternether:cincinnasite, Cincinnasite
-betternether:cincinnasite_pickaxe, Cincinnasite Pickaxe
-betternether:cincinnasite_pickaxe_diamond, Cincinnasite-Diamond Pickaxe
-betternether:stalagnate_bowl, Stalagnate Bowl
-betternether:stalagnate_bowl_wart, Wart Soup
-betternether:stalagnate_bowl_mushroom, Mushroom Stew
-betternether:stalagnate_bowl_apple, Black Apple
-betternether:cincinnasite_axe, Cincinnasite Axe
-betternether:cincinnasite_axe_diamond, Cincinnasite-Diamond Axe
 biomesoplenty:grass:0, Spectral Moss
 biomesoplenty:grass:1, Overgrown Stone
 biomesoplenty:grass:2, Loamy Grass Block
@@ -2704,7 +2562,6 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid XP
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Sunshine
 hbm:fluid_tank_full:0, Universal Fluid Tank: Cloud Seed
 hbm:fluid_tank_full:0, Universal Fluid Tank: Concentrated Cloud Seed
-hbm:fluid_tank_full:0, Universal Fluid Tank: Ichor
 hbm:fluid_barrel_full:0, Empty Fluid Barrel
 hbm:fluid_barrel_full:0, Fluid Barrel: Water
 hbm:fluid_barrel_full:0, Fluid Barrel: Lava
@@ -2799,7 +2656,6 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Liquid XP
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Sunshine
 hbm:fluid_barrel_full:0, Fluid Barrel: Cloud Seed
 hbm:fluid_barrel_full:0, Fluid Barrel: Concentrated Cloud Seed
-hbm:fluid_barrel_full:0, Fluid Barrel: Ichor
 hbm:fluid_barrel_infinite, Infinite Fluid Barrel
 hbm:inf_water, Infinite Water Tank
 hbm:inf_water_mk2, Heavy Infinite Water Tank
@@ -5011,7 +4867,6 @@ hbm:fluid_icon:0, Liquid XP
 hbm:fluid_icon:0, Liquid Sunshine
 hbm:fluid_icon:0, Cloud Seed
 hbm:fluid_icon:0, Concentrated Cloud Seed
-hbm:fluid_icon:0, Ichor
 hbm:gadget_explosive, First Generation Explosive Lens
 hbm:gadget_explosive8, Bundle of First Generation Implosion Propellant
 hbm:gadget_wireing, Wiring
@@ -6772,27 +6627,6 @@ appliedenergistics2:facade:0, Cable Facade - Brown Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Green Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Red Concrete Powder
 appliedenergistics2:facade:0, Cable Facade - Black Concrete Powder
-appliedenergistics2:facade:0, Cable Facade - Eyeball Block
-appliedenergistics2:facade:0, Cable Facade - Nether Moss
-appliedenergistics2:facade:0, Cable Facade - Stalagnate Bark
-appliedenergistics2:facade:0, Cable Facade - Stalagnate Planks
-appliedenergistics2:facade:0, Cable Facade - Reeds Block
-appliedenergistics2:facade:0, Cable Facade - Nether Mycelium
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Ore
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Block
-appliedenergistics2:facade:0, Cable Facade - Forged Cincinnasite Block
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Pillar
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Bricks
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Brick Plate
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Lantern
-appliedenergistics2:facade:0, Cable Facade - Large Cincinnasite Tile
-appliedenergistics2:facade:0, Cable Facade - Small Cincinnasite Tile
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Carved
-appliedenergistics2:facade:0, Cable Facade - Large Nether Brick Tile
-appliedenergistics2:facade:0, Cable Facade - Small Nether Brick Tile
-appliedenergistics2:facade:0, Cable Facade - Bone Block
-appliedenergistics2:facade:0, Cable Facade - Cincinnasite Brick Pillar
-appliedenergistics2:facade:0, Cable Facade - Bone Tile
 appliedenergistics2:facade:0, Cable Facade - Spectral Moss
 appliedenergistics2:facade:0, Cable Facade - Loamy Dirt
 appliedenergistics2:facade:0, Cable Facade - White Sand
@@ -7305,6 +7139,9 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -7322,9 +7159,6 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Electrical Steel Block
 appliedenergistics2:facade:0, Cable Facade - Infinity Dust Block
 appliedenergistics2:facade:0, Cable Facade - Compressed Infinity Dust Block
@@ -7378,29 +7212,6 @@ appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Sulfur Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
 appliedenergistics2:facade:0, Cable Facade - Graphite Ore
-appliedenergistics2:facade:0, Cable Facade - Gloomy Netherrack
-appliedenergistics2:facade:0, Cable Facade - Lively Netherrack
-appliedenergistics2:facade:0, Cable Facade - Fiery Netherrack
-appliedenergistics2:facade:0, Cable Facade - Icy Netherrack
-appliedenergistics2:facade:0, Cable Facade - Gloomy Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Lively Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Fiery Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Icy Nether Bricks
-appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Smooth Basalt
-appliedenergistics2:facade:0, Cable Facade - Basalt Bricks
-appliedenergistics2:facade:0, Cable Facade - Basalt Pillar
-appliedenergistics2:facade:0, Cable Facade - Hyphae
-appliedenergistics2:facade:0, Cable Facade - Frostburn Ice
-appliedenergistics2:facade:0, Cable Facade - Nether Amethyst Block
-appliedenergistics2:facade:0, Cable Facade - Nether Rime Block
-appliedenergistics2:facade:0, Cable Facade - Worn Iron Block
-appliedenergistics2:facade:0, Cable Facade - Nether Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Nether Amethyst Ore
-appliedenergistics2:facade:0, Cable Facade - Nether Rime Ore
-appliedenergistics2:facade:0, Cable Facade - Brown Elder Mushroom Cap
-appliedenergistics2:facade:0, Cable Facade - Red Elder Mushroom Cap
-appliedenergistics2:facade:0, Cable Facade - Elder Mushroom Stem
 appliedenergistics2:facade:0, Cable Facade - Infested Dirt
 appliedenergistics2:facade:0, Cable Facade - Infested Log
 appliedenergistics2:facade:0, Cable Facade - Infested Stone
@@ -7676,6 +7487,7 @@ appliedenergistics2:part:220, ME Storage Bus
 appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
+quark:witch_hat, item.witch_hat.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -7776,7 +7588,6 @@ quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -8097,6 +7908,44 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
+quark:soul_compass, item.soul_compass.name
+quark:pipe, tile.pipe.name
+quark:backpack, item.backpack.name
+quark:tiny_potato, tile.tiny_potato.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -8252,45 +8101,7 @@ quark:glowcelium, tile.glowcelium.name
 quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
-quark:smoker, Smoker
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:soul_compass, item.soul_compass.name
-quark:pipe, tile.pipe.name
-quark:backpack, item.backpack.name
-quark:tiny_potato, tile.tiny_potato.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
+quark:smoker, tile.smoker.name
 coroutil:repairing_block, Repairing Block
 coroutil:item_repairing_gel, Repairing Gel
 enderio:item_enderface, Enderface
@@ -9497,24 +9308,21 @@ endertanks:ender_bucket:0, Ender Bucket
 endertanks:ender_bucket:0, Ender Bucket
 endertanks:ender_bucket:0, Ender Bucket
 endertanks:ender_bucket:0, Ender Bucket
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+itemfilters:filter, Item Filter
+itemfilters:missing, Missing Item
+ftbquests:screen, Task Screen
+ftbquests:progress_detector, Quest Progress Detector
+ftbquests:detector:0, Redstone Detector
+ftbquests:detector:1, Player Detector
+ftbquests:progress_screen, Progress Screen
+ftbquests:chest, Quest Chest
+ftbquests:loot_crate_storage, Loot Crate Storage
+ftbquests:loot_crate_opener, Loot Crate Opener
+ftbquests:barrier, Quest Barrier
+ftbquests:reward_collector, Reward Collector
+ftbquests:book, Quest Book
+ftbquests:lootcrate, Loot Crate
+ftbquests:custom_icon, Custom Icon
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -9635,6 +9443,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mwc:copper_ore, Copper Ore
 mwc:tin_ore, Tin Ore
 mwc:sulfur_ore, Sulfur Ore
@@ -9655,150 +9481,6 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-netherex:gloomy_netherrack, Gloomy Netherrack
-netherex:lively_netherrack, Lively Netherrack
-netherex:fiery_netherrack, Fiery Netherrack
-netherex:icy_netherrack, Icy Netherrack
-netherex:netherrack_path, Trodden Netherrack
-netherex:gloomy_netherrack_path, Gloomy Trodden Netherrack
-netherex:lively_netherrack_path, Lively Trodden Netherrack
-netherex:fiery_netherrack_path, Fiery Trodden Netherrack
-netherex:icy_netherrack_path, Icy Trodden Netherrack
-netherex:gloomy_nether_brick, Gloomy Nether Bricks
-netherex:lively_nether_brick, Lively Nether Bricks
-netherex:fiery_nether_brick, Fiery Nether Bricks
-netherex:icy_nether_brick, Icy Nether Bricks
-netherex:basalt, Basalt
-netherex:smooth_basalt, Smooth Basalt
-netherex:basalt_brick, Basalt Bricks
-netherex:basalt_pillar, Basalt Pillar
-netherex:hyphae, Hyphae
-netherex:frostburn_ice, Frostburn Ice
-netherex:soul_glass, Soul Glass
-netherex:soul_glass_pane, Soul Glass Pane
-netherex:amethyst_block, Nether Amethyst Block
-netherex:rime_block, Nether Rime Block
-netherex:bone_sliver, Bone Sliver
-netherex:bone_chunk, Bone Chunk
-netherex:worn_iron, Worn Iron Block
-netherex:urn_of_sorrow, Urn of Sorrow
-netherex:quartz_ore, Nether Quartz Ore
-netherex:amethyst_ore, Nether Amethyst Ore
-netherex:rime_ore, Nether Rime Ore
-netherex:brown_elder_mushroom, Brown Elder Mushroom
-netherex:red_elder_mushroom, Red Elder Mushroom
-netherex:brown_elder_mushroom_cap, Brown Elder Mushroom Cap
-netherex:red_elder_mushroom_cap, Red Elder Mushroom Cap
-netherex:enoki_mushroom_cap, Enoki Mushroom Cap
-netherex:elder_mushroom_stem, Elder Mushroom Stem
-netherex:enoki_mushroom_stem, Enoki Mushroom Stem
-netherex:thornstalk, Thornstalk
-netherex:ichor, Ichor
-netherex:red_nether_brick_slab:0, Red Nether Brick Slab
-netherex:gloomy_nether_brick_slab:0, Gloomy Nether Brick Slab
-netherex:lively_nether_brick_slab:0, Lively Nether Brick Slab
-netherex:fiery_nether_brick_slab:0, Fiery Nether Brick Slab
-netherex:icy_nether_brick_slab:0, Icy Nether Brick Slab
-netherex:basalt_slab:0, Basalt Slab
-netherex:smooth_basalt_slab:0, Smooth Basalt Slab
-netherex:basalt_brick_slab:0, Basalt Brick Slab
-netherex:basalt_pillar_slab:0, Basalt Pillar Slab
-netherex:red_nether_brick_stairs, Red Nether Brick Stairs
-netherex:gloomy_nether_brick_stairs, Gloomy Nether Brick Stairs
-netherex:lively_nether_brick_stairs, Lively Nether Brick Stairs
-netherex:fiery_nether_brick_stairs, Fiery Nether Brick Stairs
-netherex:icy_nether_brick_stairs, Icy Nether Brick Stairs
-netherex:basalt_stairs, Basalt Stairs
-netherex:smooth_basalt_stairs, Smooth Basalt Stairs
-netherex:basalt_brick_stairs, Basalt Brick Stairs
-netherex:basalt_pillar_stairs, Basalt Pillar Stairs
-netherex:quartz_wall, Quartz Wall
-netherex:nether_brick_wall, Nether Brick Wall
-netherex:red_nether_brick_wall, Red Nether Brick Wall
-netherex:gloomy_nether_brick_wall, Gloomy Nether Brick Wall
-netherex:lively_nether_brick_wall, Lively Nether Brick Wall
-netherex:fiery_nether_brick_wall, Fiery Nether Brick Wall
-netherex:icy_nether_brick_wall, Icy Nether Brick Wall
-netherex:basalt_wall, Basalt Wall
-netherex:smooth_basalt_wall, Smooth Basalt Wall
-netherex:basalt_brick_wall, Basalt Brick Wall
-netherex:basalt_pillar_wall, Basalt Pillar Wall
-netherex:quartz_fence, Quartz Fence
-netherex:red_nether_brick_fence, Red Nether Brick Fence
-netherex:gloomy_nether_brick_fence, Gloomy Nether Brick Fence
-netherex:lively_nether_brick_fence, Lively Nether Brick Fence
-netherex:fiery_nether_brick_fence, Fiery Nether Brick Fence
-netherex:icy_nether_brick_fence, Icy Nether Brick Fence
-netherex:basalt_fence, Basalt Fence
-netherex:smooth_basalt_fence, Smooth Basalt Fence
-netherex:basalt_brick_fence, Basalt Brick Fence
-netherex:basalt_pillar_fence, Basalt Pillar Fence
-netherex:quartz_fence_gate, Quartz Fence Gate
-netherex:nether_brick_fence_gate, Nether Brick Fence Gate
-netherex:red_nether_brick_fence_gate, Red Nether Brick Fence Gate
-netherex:basalt_fence_gate, Basalt Fence Gate
-netherex:smooth_basalt_fence_gate, Smooth Basalt Fence Gate
-netherex:basalt_brick_fence_gate, Basalt Brick Fence Gate
-netherex:basalt_pillar_fence_gate, Basalt Pillar Fence Gate
-netherex:gloomy_nether_brick_fence_gate, Gloomy Nether Brick Fence Gate
-netherex:lively_nether_brick_fence_gate, Lively Nether Brick Fence Gate
-netherex:fiery_nether_brick_fence_gate, Fiery Nether Brick Fence Gate
-netherex:icy_nether_brick_fence_gate, Icy Nether Brick Fence Gate
-netherex:gloomy_netherbrick, Gloomy Nether Brick
-netherex:lively_netherbrick, Lively Nether Brick
-netherex:fiery_netherbrick, Fiery Nether Brick
-netherex:icy_netherbrick, Icy Nether Brick
-netherex:wither_bone, Wither Bone
-netherex:wither_dust, Wither Dust
-netherex:frost_rod, Frost Rod
-netherex:frost_powder, Frost Powder
-netherex:blazed_wither_bone, Blazed Wither Bone
-netherex:frosted_wither_bone, Frosted Wither Bone
-netherex:orange_salamander_hide, Orange Salamander Hide
-netherex:black_salamander_hide, Black Salamander Hide
-netherex:amethyst_crystal, Nether Amethyst Crystal
-netherex:rime_crystal, Nether Rime Crystal
-netherex:rime_and_steel, Rime and Steel
-netherex:spore, Spore
-netherex:coolmar_spider_fang, Frost Fang
-netherex:ghast_queen_tear, Ghast Queen Tears
-netherex:obsidian_boat, Obsidian Boat
-netherex:ghast_meat_raw, Raw Ghast Meat
-netherex:ghast_meat_cooked, Cooked Ghast Meat
-netherex:congealed_magma_cream, Congealed Magma Cream
-netherex:enoki_mushroom, Enoki Mushroom
-netherex:dull_mirror, Dull Mirror
-netherex:withered_amedian_sword, Withered Amedian Sword
-netherex:withered_amedian_pickaxe, Withered Amedian Pickaxe
-netherex:withered_amedian_shovel, Withered Amedian Shovel
-netherex:withered_amedian_axe, Withered Amedian Axe
-netherex:withered_amedian_hoe, Withered Amedian Hoe
-netherex:withered_amedian_hammer, Withered Amedian Hammer
-netherex:blazed_amedian_sword, Blazed Amedian Sword
-netherex:blazed_amedian_pickaxe, Blazed Amedian Pickaxe
-netherex:blazed_amedian_shovel, Blazed Amedian Shovel
-netherex:blazed_amedian_axe, Blazed Amedian Axe
-netherex:blazed_amedian_hoe, Blazed Amedian Hoe
-netherex:blazed_amedian_hammer, Blazed Amedian Hammer
-netherex:frosted_amedian_sword, Frosted Amedian Sword
-netherex:frosted_amedian_pickaxe, Frosted Amedian Pickaxe
-netherex:frosted_amedian_shovel, Frosted Amedian Shovel
-netherex:frosted_amedian_axe, Frosted Amedian Axe
-netherex:frosted_amedian_hoe, Frosted Amedian Hoe
-netherex:frosted_amedian_hammer, Frosted Amedian Hammer
-netherex:wither_bone_helmet, Wither Bone Helmet
-netherex:wither_bone_chestplate, Wither Bone Chestplate
-netherex:wither_bone_leggings, Wither Bone Leggings
-netherex:wither_bone_boots, Wither Bone Boots
-netherex:orange_salamander_hide_helmet, Orange Salamander Hide Helmet
-netherex:orange_salamander_hide_chestplate, Orange Salamander Hide Chestplate
-netherex:orange_salamander_hide_leggings, Orange Salamander Hide Leggings
-netherex:orange_salamander_hide_boots, Orange Salamander Hide Boots
-netherex:black_salamander_hide_helmet, Black Salamander Hide Helmet
-netherex:black_salamander_hide_chestplate, Black Salamander Hide Chestplate
-netherex:black_salamander_hide_leggings, Black Salamander Hide Leggings
-netherex:black_salamander_hide_boots, Black Salamander Hide Boots
-srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -10035,6 +9717,7 @@ srparasites:armor_helm_sentient, §6Sentient Helm
 srparasites:armor_chest_sentient, §6Sentient Chest
 srparasites:armor_pants_sentient, §6Sentient Pants
 srparasites:armor_boots_sentient, §6Sentient Boots
+srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 firstaid:bandage, Bandage
 firstaid:plaster, Plaster
 firstaid:morphine, Morphine

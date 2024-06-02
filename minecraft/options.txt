@@ -126,10 +126,13 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:37
 key_key.death_history:0
 key_keybinds.show_wounds:35
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211
+key_key.ftbquests.quests:0
 key_key.opendoor:46
 key_key.reload:19
 key_key.unload:22
@@ -163,6 +166,10 @@ key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
 key_key.categories.hbm.craneMoveRight:205
 key_key.categories.hbm.craneLoad:28
+key_key.toggleFoVChanges:51:SHIFT
+key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleTimeOfDayOverlay:0
+key_key.togglePotionParticles:66:CONTROL
 key_walljump.key.walljump:42
 key_key.pickup.item:0
 key_key.dismount:42
@@ -187,8 +194,26 @@ key_key.carry.desc:42
 key_Options Gui:0
 key_Dynamic Lights toggle:0
 key_invtweaks.key.sort:211
+key_Camera left:203
+key_Camera right:205
+key_Camera closer:200
+key_Camera farther:208
+key_Camera up:201
+key_Camera down:209
+key_Swap shoulder:24
+key_Toggle perspective:0
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
+key_key.push_to_talk:0
+key_key.whisper:0
+key_key.mute_microphone:50
+key_key.disable_voice_chat:49
+key_key.hide_icons:35
+key_key.voice_chat:47
+key_key.voice_chat_settings:0
+key_key.voice_chat_group:34
+key_key.voice_chat_toggle_recording:0
+key_key.voice_chat_adjust_volumes:0
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
