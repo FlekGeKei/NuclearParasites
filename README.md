@@ -21,3 +21,4 @@ Also, if I successful complile Oculus for 1.12.2, I'll add Oculus to the modpack
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by way2muchnoise
 - [Epic Siege Mod](https://www.curseforge.com/minecraft/mc-mods/epic-siege-mod) by Funwayguy
 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
+- [File Director](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector)

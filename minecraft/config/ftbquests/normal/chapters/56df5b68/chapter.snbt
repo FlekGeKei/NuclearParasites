@@ -1,0 +1,7 @@
+{
+	title: "Modern Warfare Cubed",
+	icon: "mwc:ak74mag",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
