@@ -14,18 +14,10 @@ BUT you may have a brain. You can make weapons. You can defend yourself.
 
 Also, if I successful complile Oculus for 1.12.2, I'll add Oculus to the modpack...
 
-## RECOMMENDED MODS AND RESOURCEPACKS
-
-- [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
-- [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-20)
-- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
-
-[comment]: [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
-
 ## CREDITS
 
 - [Corpse](https://minecraft.curseforge.com/projects/corpse) by Max Henkel
 - [AE2 Unofficial Extended Life](https://github.com/AE2-UEL/Applied-Energistics-2) by NotMyWing, Serenibyss, PrototypeTrousers, AlgorithmX2, contributors <3
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by way2muchnoise
 - [Epic Siege Mod](https://www.curseforge.com/minecraft/mc-mods/epic-siege-mod) by Funwayguy
-
+- [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)

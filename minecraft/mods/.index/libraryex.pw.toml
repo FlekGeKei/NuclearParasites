@@ -1,0 +1,13 @@
+filename = 'LibraryEx-1.12.2-1.2.2.jar'
+name = 'LibraryEx'
+side = 'both'
+
+[download]
+hash = '5d7a987ce176d23e49c2f3bedd9bda218ef1160f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3374254
+project-id = 298965

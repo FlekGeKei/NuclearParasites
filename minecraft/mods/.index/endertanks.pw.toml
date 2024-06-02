@@ -1,0 +1,13 @@
+filename = 'endertanks-1.12.0-1.6.8.jar'
+name = 'EnderTanks'
+side = 'both'
+
+[download]
+hash = 'e1fd8ab46b3f34a19391fd77c10a2443bc83f059'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2664673
+project-id = 59613

@@ -1,0 +1,13 @@
+filename = 'NTM-Extended-1.12.2-2.0.2.jar'
+name = "Hbm's Nuclear Tech - Extended Edition"
+side = 'both'
+
+[download]
+hash = '634c73edff4010f26d6239b3b3b7bae68ec87280'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5254559
+project-id = 708939

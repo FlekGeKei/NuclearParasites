@@ -1,0 +1,13 @@
+filename = 'stg-1.12.2-1.2.3.jar'
+name = 'SwingThroughGrass'
+side = 'both'
+
+[download]
+hash = 'd79494b27d6b9193714fbad2f054951dc9c2320f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2508268
+project-id = 264353

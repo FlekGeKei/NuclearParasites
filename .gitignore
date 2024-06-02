@@ -1,0 +1,12 @@
+minecraft/coremods
+minecraft/essential
+minecraft/logs
+minecraft/saves
+minecraft/screenshots
+minecraft/server-resource-packs
+minecraft/shaderpacks
+minecraft/texturepacks
+minecraft/XaeroWorldMap
+minecraft/mods/memory_repo
+minecraft/mods/*.jar
+!minecraft/mods/vintagium-*.jar

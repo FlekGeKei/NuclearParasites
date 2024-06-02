@@ -1,0 +1,13 @@
+filename = 'ItemPhysic_Full_1.4.37_mc1.12.2.jar'
+name = 'ItemPhysic Full'
+side = 'both'
+
+[download]
+hash = 'b8ceb668c021e137d8354e75df864127ba5756e7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3487676
+project-id = 258587
