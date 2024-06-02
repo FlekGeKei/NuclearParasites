@@ -12,6 +12,7 @@ minecraft/*.log
 minecraft/mods/memory_repo
 minecraft/resourcepacks
 *.jar
+minecraft/XaeroWaypoints_*/
 
 
 !minecraft/mods/vintagium-*.jar
