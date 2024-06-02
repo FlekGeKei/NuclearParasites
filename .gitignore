@@ -10,7 +10,7 @@ minecraft/XaeroWorldMap
 minecraft/local
 minecraft/*.log
 minecraft/mods/memory_repo
-minecraft/mods/*.jar
-*/overrides/mods/*.jar
 !minecraft/mods/vintagium-*.jar
 !*/overrides/mods/vintagium-*.jar
+
+*.jar
