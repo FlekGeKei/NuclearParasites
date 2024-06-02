@@ -1,1 +1,1 @@
-/home/flekgekei/Documents/NuclearParasites/minecraft/config/xaerominimap.txt
+../../../minecraft/config/xaerominimap.txt

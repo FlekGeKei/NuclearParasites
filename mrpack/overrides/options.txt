@@ -1,1 +1,1 @@
-/home/flekgekei/Documents/NuclearParasites/minecraft/options.txt
+../../minecraft/options.txt

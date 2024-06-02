@@ -10,6 +10,7 @@ minecraft/XaeroWorldMap
 minecraft/local
 minecraft/*.log
 minecraft/mods/memory_repo
+minecraft/resourcepacks
 *.jar
 
 
