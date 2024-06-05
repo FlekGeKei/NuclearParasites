@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<worldGeneration  version="3"
+		  xmlns="http://warpdrive.lemadec.org"
+		  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="http://warpdrive.lemadec.org WarpDrive.xsd"
+		  mods="galaxyspace">
+
+  <celestialObjectObject id="Hyperspace">
+    <size x="2000000" z="2000000" />
+    <name>Hyperspace</name>
+    <description></description>
+    <dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
+      <center x="0" z="0" />
+      <provider type="WarpDriveHyperspace" />
+    </dimension>
+    <skybox>
+      <backgroundColor red="1.0" green="0.0" blue="0.0" />
+      <starBrightnessBase>0.2</starBrightnessBase>
+      <starBrightnessVanilla>0.0</starBrightnessVanilla>
+      <celestialObjectOpacity>0.3</celestialObjectOpacity>
+      <fogColor red="0.15" green="0.0" blue="0.0" />
+      <fogFactor red="0.0" green="0.0" blue="0.0" />
+    </skybox>
+
+    <celestialObject id="solarSystem">
+      <parent>
+	<center x="0" z="0"/>
+      </parent>
+      <size x="1000000" z="1000000" />
+      <name>Solar System</name>
+      <description></description>
+      <dimension id="-101" isBreathable="false" gravity="legacySpace">
+	<center x="0" z="0" />
+	<provider type="WarpDriveSpace" />
+	<generate group="moon" ratio="0.00125" />
+	<generate group="asteroid" ratio="0.0067" />
+	<generate group="asteroids_field" ratio="0.0016" />
+      </dimension>
+      <skybox>
+	<backgroundColor red="0.0" green="0.0" blue="0.0" />
+	<boxTextures  back  ="warpdrive:textures/celestial/skybox-small_blue/back.png"
+		      bottom="warpdrive:textures/celestial/skybox-small_blue/bottom.png"
+		      front ="warpdrive:textures/celestial/skybox-small_blue/front.png"
+		      left  ="warpdrive:textures/celestial/skybox-small_blue/left.png"
+		      right ="warpdrive:textures/celestial/skybox-small_blue/right.png"
+		      top   ="warpdrive:textures/celestial/skybox-small_blue/top.png" />
+	<boxBrightness>1.0</boxBrightness>
+	<starBrightnessBase>0.9</starBrightnessBase>
+	<starBrightnessVanilla>0.0</starBrightnessVanilla>
+	<celestialObjectOpacity>1.0</celestialObjectOpacity>
+	<fogColor red="0.0" green="0.0" blue="0.0" />
+	<fogFactor red="0.0" green="0.0" blue="0.0" />
+      </skybox>
+
+      <celestialObject id="sun">
+	<parent>
+	  <center x="0" z="0" />
+	</parent>
+	<size x="10000" z="10000" />
+      </celestialObject>
+
+      <celestialObject id="mercury" mods="galaxyspace">
+	<name><\name>
+	<discription></discription>
+	<parent>
+	  <center x="" z=""/>
+	</parent>
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="" z="">
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture=":" periodU="" />
+      </celestialObject>
+      
+    </celestialObject>
+
+  </celestialObject>
+
+</worldGeneration>
