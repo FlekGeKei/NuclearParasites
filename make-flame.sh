@@ -1,3 +1,4 @@
 #!/bin/sh
+VERSION=$(cat flame/manifest.json | jq -r '.version')
 cd flame
-zip -r ../../NP.zip .
+zip -r ../../NP_$VERSION.zip .
