@@ -9,7 +9,7 @@
     <size x="2000000" z="2000000" />
     <name>Hyperspace</name>
     <description></description>
-    <dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
+    <dimension id="-100" isBreathable="true" isHyperspace="true" gravity="legacyHyperspace">
       <center x="0" z="0" />
       <provider type="WarpDriveHyperspace" />
     </dimension>
@@ -29,7 +29,7 @@
       <size x="1000000" z="1000000" />
       <name>Solar System</name>
       <description></description>
-      <dimension id="-101" isBreathable="false" gravity="legacySpace">
+      <dimension id="-101" isBreathable="true" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
 	<generate group="moon" ratio="0.00125" />
@@ -65,7 +65,7 @@
 	<parent>
 	  <center x="" z=""/>
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="" isBreathable="true" gravity="normal">
 	  <center x="" z="">
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture=":" periodU="" />
