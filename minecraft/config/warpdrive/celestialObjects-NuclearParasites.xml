@@ -28,7 +28,7 @@
       </parent>
       <size x="1000000" z="1000000" />
       <name>Solar System</name>
-      <description></description>
+      <description>some freacy shit</description>
       <dimension id="-101" isBreathable="true" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
@@ -57,19 +57,100 @@
 	  <center x="0" z="0" />
 	</parent>
 	<size x="10000" z="10000" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
+
       <celestialObject id="mercury" mods="galaxyspace">
-	<name><\name>
-	<discription></discription>
+	<name>Mercury</name>
+	<discription>some freaky shit</discription>
 	<parent>
 	  <center x="" z=""/>
 	</parent>
 	<dimension id="" isBreathable="true" gravity="normal">
 	  <center x="" z="">
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture=":" periodU="" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
+
+
+      <celestialObject id="venus" mods="galaxyspace">
+	<name>Venus</name>
+	<discription>some freaky shit</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<dimension id="" isBreatheble="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
+      </celestialObject>
+
+
+      <celestialObject id="earth">
+	<name>Earth</name>
+	<discription>some freaky home</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<dimension id="" isBreathable="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
+      </celestialObject>
+
+      <celestialObject id="moon" mods="galacticraft">
+	<name>Moon</name>
+	<discription>some freaky shit</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<dimension id="" isBreathable="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
+      </celestialObject>
+
+
+      <celestialObject id="mars" mods="galacticraft">
+	<name>Mars</name>
+	<discription>some freaky shit</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<dimension id="" isBreathable="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
+      </celestialObject>
+
+      <celestialObject id="phobos" mods="galaxyspace">
+	<name>Phobos</name>
+	<discription>some freaky shit</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<dimension id="" isBreathable="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
+      </celestialObject>
+
+      <celestialObject id="deimos">
+	<name>Deimeos</name>
+	<discription>some freaky shit</discription>
+	<parent>
+	  <center x="" y="" />
+	</parent>
+	<!--
+	<dimension id="" isBreathable="true" gravity="normal">
+	  <center x="0" y="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
+      </celestialObject>
+
+
       
     </celestialObject>
 
