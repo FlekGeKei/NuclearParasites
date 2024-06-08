@@ -762,7 +762,7 @@ ship {
      >
 
     # Maximum ship mass (in blocks) to jump on a planet
-    I:volume_max_on_planet_surface=3000
+    I:volume_max_on_planet_surface=99999999
 
     # Minimum ship mass (in blocks) to enter or exit hyperspace without a jumpgate
     I:volume_min_for_hyperspace=4000

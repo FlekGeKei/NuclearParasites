@@ -23,9 +23,8 @@
 		<name>Hyperspace\n超空间</name>
 		<description>Your ship warp bubble is your\nonly protection.\n你的飞船扭曲气泡\n是你唯一的保护.</description>
 		
-		<dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
+		<dimension id="-1127" isBreathable="true" isHyperspace="true" gravity="normal">
 			<center x="0" z="0" />
-			<provider type="WarpDriveHyperspace" />
 		</dimension>
 		
 		<skybox>
@@ -44,9 +43,8 @@
 			<size x="1900000" z="1900000" />
 			<name>Solar system\n太阳系</name>
 			<description>The void, filled with §6resources§r.\n§r§l太阳终将燃尽\n§6寻找类地行星...</description>
-			<dimension id="-101" isBreathable="false" gravity="legacySpace">
+			<dimension id="-1126" isBreathable="true" gravity="normal">
 				<center x="0" z="0" />
-				<provider type="WarpDriveSpace" />
 				<generate group="moon" ratio="0.00125" />
 				<generate group="asteroid" ratio="0.0067" />
 				<generate group="asteroids_field" ratio="0.0016" />
@@ -131,7 +129,7 @@
 					<center x="-65000" z="0" />
 				</parent>
 				<size x="6000" z="6000" />
-				<dimension id="-28" isBreathable="false" gravity="normal">
+				<dimension id="-28" isBreathable="true" gravity="normal">
 					<center x="0" z="0" />
 				</dimension>
 				<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="150" />
