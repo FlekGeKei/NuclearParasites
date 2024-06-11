@@ -67,7 +67,7 @@
 	<parent>
 	  <center x="" z=""/>
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1005" isBreathable="false" gravity="normal">
 	  <center x="" z="">
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -80,7 +80,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreatheble="false" gravity="normal">
+	<dimension id="-1006" isBreatheble="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -93,7 +93,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="true" gravity="normal">
+	<dimension id="0" isBreathable="true" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
@@ -105,7 +105,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-28" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
@@ -118,7 +118,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-29" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraft:" periodU="150" />
@@ -130,7 +130,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1012" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -155,19 +155,19 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1007" isBreathable="false" gravity="normal">
 	  <center x="0" z"0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="asteroids">
+      <celestialObject id="asteroidsBelt">
 	<name>Asteroids belt</name>
 	<discription>some freaky shit</discription>
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-30" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -187,7 +187,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1014" isBreathable="false" gravity="normal">
 	  <center x="0" y"0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -199,7 +199,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1015" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -211,19 +211,19 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1016" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="calisto" mods="galaxyspace">
-	<name>Calisto</name>
+      <celestialObject id="callisto" mods="galaxyspace">
+	<name>Callisto</name>
 	<discription>some freaky shit</discription>
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1022" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -257,7 +257,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1017" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -311,7 +311,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1018" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -345,7 +345,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1024" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -399,11 +399,9 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<!--
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1019" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	-->
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -421,11 +419,9 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<!--
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1020" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	-->
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -435,7 +431,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1021" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -448,7 +444,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1008" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -475,7 +471,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1009" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
@@ -488,7 +484,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
-	<dimension id="" isBreathable="false" gravity="normal">
+	<dimension id="-1023" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />

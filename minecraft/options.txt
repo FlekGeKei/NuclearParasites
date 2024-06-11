@@ -9,7 +9,7 @@ guiScale:2
 particles:2
 bobView:false
 anaglyph3d:false
-maxFps:61
+maxFps:60
 fboEnable:true
 difficulty:2
 fancyGraphics:false
@@ -104,14 +104,8 @@ key_Zoom:46
 key_Galaxy Map:50:ALT
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -130,12 +124,20 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:44
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_key.death_history:0
+key_cos.key.opencosarmorinventory:0
 key_keybinds.show_wounds:35:SHIFT
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
+key_key.fart.desc:34
 key_keybind.togglehelmet.name:33
 key_keybind.togglechest.name:34
 key_keybind.togglelegs.name:35
@@ -183,6 +185,7 @@ key_walljump.key.walljump:42
 key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:48:CONTROL
+key_smoothfont.key.guiOpen:199
 key_key.toggle_focus.desc:15
 key_key.open_wireless_terminal.desc:20:SHIFT
 key_key.open_wireless_crafting_terminal.desc:18:SHIFT
