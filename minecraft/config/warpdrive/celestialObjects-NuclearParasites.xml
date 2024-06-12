@@ -67,8 +67,9 @@
 	<parent>
 	  <center x="" z=""/>
 	</parent>
+	<size x="5000" z="5000" />
 	<dimension id="-1005" isBreathable="false" gravity="normal">
-	  <center x="" z="">
+	  <center x="0" z="0">
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
@@ -80,6 +81,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="12250" z="12250" />
 	<dimension id="-1006" isBreatheble="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -93,6 +95,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="12500" z="12500" />
 	<dimension id="0" isBreathable="true" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -105,6 +108,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3000" z="3000" />
 	<dimension id="-28" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -118,6 +122,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="6500" z="6500" />
 	<dimension id="-29" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -130,6 +135,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1500" z="1500" />
 	<dimension id="-1012" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -142,6 +148,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1520" z="1520" />
 	<dimension id="-1013" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -155,6 +162,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1900" z="1900" />
 	<dimension id="-1007" isBreathable="false" gravity="normal">
 	  <center x="0" z"0" />
 	</dimension>
@@ -167,6 +175,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2000" z="2000" />
 	<dimension id="-30" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -178,6 +187,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="50000" z="50000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -187,6 +197,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3000" z="3000" />
 	<dimension id="-1014" isBreathable="false" gravity="normal">
 	  <center x="0" y"0" />
 	</dimension>
@@ -199,6 +210,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3200" z="3200" />
 	<dimension id="-1015" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -211,6 +223,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3110" z="3110" />
 	<dimension id="-1016" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -223,6 +236,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2998" z="2998" />
 	<dimension id="-1022" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -234,6 +248,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="60000" z="60000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -243,6 +258,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3400" z="3400" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -257,6 +273,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2900" z="2900" />
 	<dimension id="-1017" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -269,6 +286,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3050" z="3050" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -283,6 +301,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2890" z="2890" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -297,6 +316,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2800" z="2800" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -311,6 +331,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2850" z="2850" />
 	<dimension id="-1018" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -323,6 +344,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3100" z="3100" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -336,6 +358,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="25000" z="25000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -345,6 +368,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3000" z="3000" />
 	<dimension id="-1024" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -357,6 +381,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2500" z="2500" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -371,6 +396,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3050" z="3050" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -385,6 +411,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2860" z="2860" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -399,6 +426,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3050" z="3050" />
 	<dimension id="-1019" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -410,6 +438,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2400" z="24500" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
@@ -419,6 +448,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="3020" z="3020" />
 	<dimension id="-1020" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -431,6 +461,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2910" z="2910" />
 	<dimension id="-1021" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -444,6 +475,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1990" z="1990" />
 	<dimension id="-1008" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -456,6 +488,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1880" z="1880" />
 	<!--
 	<dimension id="" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
@@ -471,6 +504,7 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="1000" z="1000" />
 	<dimension id="-1009" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -484,9 +518,11 @@
 	<parent>
 	  <center x="" z="" />
 	</parent>
+	<size x="2000" z="2000" />
 	<dimension id="-1023" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:" periodU="150" />
       </celestialObject>
 
