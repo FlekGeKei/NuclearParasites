@@ -300,20 +300,6 @@ entity_tags {
     S:"pneumaticcraft:harvesting_drone"=LivingWithoutAir
     S:"pneumaticcraft:logistic_drone"=LivingWithoutAir
     S:"sgcraft:stargate_iris"=NoReveal
-    S:"techguns:turret"=NoMass LivingWithoutAir LeftBehind
-    S:"testdummy:dummy"=NoMass LivingWithoutAir
-    S:"thaumcraft:brainyzombie"=LivingWithoutAir
-    S:"thaumcraft:giantbrainyzombie"=LivingWithoutAir
-    S:"thaumcraft:mindspider"=LivingWithoutAir
-    S:"thaumcraft:taintacle"=LivingWithoutAir
-    S:"thaumcraft:taintaclegiant"=LivingWithoutAir
-    S:"thaumcraft:taintcrawler"=LivingWithoutAir
-    S:"thaumcraft:taintseed"=LivingWithoutAir
-    S:"thaumcraft:taintseedprime"=LivingWithoutAir
-    S:"thaumcraft:taintswarm"=LivingWithoutAir
-    S:"thaumcraft:wisp"=LivingWithoutAir
-    S:twilightforest.skeleton_druid=LivingWithoutAir
-    S:"warpdrive:entity_offline_avatar"=LivingWithoutAir
     S:"srparasites:ada_arachnida"=LivingWithoutAir
     S:"srparasites:ada_bolster"=LivingWithoutAir
     S:"srparasites:ada_longarms"=LivingWithoutAir
@@ -439,6 +425,20 @@ entity_tags {
     S:"srparasites:worker"=LivingWithoutAir
     S:"srparasites:worm"=LivingWithoutAir
     S:"srparasites:wraith"=LivingWithoutAir
+    S:"techguns:turret"=NoMass LivingWithoutAir LeftBehind
+    S:"testdummy:dummy"=NoMass LivingWithoutAir
+    S:"thaumcraft:brainyzombie"=LivingWithoutAir
+    S:"thaumcraft:giantbrainyzombie"=LivingWithoutAir
+    S:"thaumcraft:mindspider"=LivingWithoutAir
+    S:"thaumcraft:taintacle"=LivingWithoutAir
+    S:"thaumcraft:taintaclegiant"=LivingWithoutAir
+    S:"thaumcraft:taintcrawler"=LivingWithoutAir
+    S:"thaumcraft:taintseed"=LivingWithoutAir
+    S:"thaumcraft:taintseedprime"=LivingWithoutAir
+    S:"thaumcraft:taintswarm"=LivingWithoutAir
+    S:"thaumcraft:wisp"=LivingWithoutAir
+    S:twilightforest.skeleton_druid=LivingWithoutAir
+    S:"warpdrive:entity_offline_avatar"=LivingWithoutAir
 }
 
 
