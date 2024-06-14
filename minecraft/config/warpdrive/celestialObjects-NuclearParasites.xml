@@ -5,7 +5,7 @@
 		  xsi:schemaLocation="http://warpdrive.lemadec.org WarpDrive.xsd"
 		  mods="galacticraftcore">
 
-  <celestialObjectObject id="Hyperspace">
+  <celestialObject id="Hyperspace">
     <size x="2000000" z="2000000" />
     <name>Hyperspace</name>
     <description></description>
@@ -26,7 +26,7 @@
       <parent>
 	<center x="0" z="0"/>
       </parent>
-      <size x="1000000" z="1000000" />
+      <size x="700000" z="700000" />
       <name>Solar System</name>
       <description>some freacy shit</description>
       <dimension id="-101" isBreathable="false" gravity="legacySpace">
@@ -61,28 +61,28 @@
       </celestialObject>
 
 
-      <celestialObject id="mercury" mods="galaxyspace">
+      <celestialObject id="mercury">
 	<name>Mercury</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z=""/>
+	  <center x="15000" z="15000" />
 	</parent>
 	<size x="5000" z="5000" />
 	<dimension id="-1005" isBreathable="false" gravity="normal">
-	  <center x="0" z="0">
+	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/mercury.png" periodU="150" />
       </celestialObject>
 
 
-      <celestialObject id="venus" mods="galaxyspace">
+      <celestialObject id="venus">
 	<name>Venus</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="23630" />
 	</parent>
 	<size x="12250" z="12250" />
-	<dimension id="-1006" isBreatheble="false" gravity="normal">
+	<dimension id="-1006" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/venus.png" periodU="150" />
@@ -93,7 +93,7 @@
 	<name>Earth</name>
 	<discription>some freaky home</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-41005" z="0" />
 	</parent>
 	<size x="12500" z="12500" />
 	<dimension id="0" isBreathable="true" gravity="normal">
@@ -106,7 +106,7 @@
 	<name>Moon</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-41005" z="9750" />
 	</parent>
 	<size x="3000" z="3000" />
 	<dimension id="-28" isBreathable="false" gravity="normal">
@@ -120,7 +120,7 @@
 	<name>Mars</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-54005" />
 	</parent>
 	<size x="6500" z="6500" />
 	<dimension id="-29" isBreathable="false" gravity="normal">
@@ -129,24 +129,24 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/mars.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="phobos" mods="galaxyspace">
+      <celestialObject id="phobos">
 	<name>Phobos</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="6000" z="-54005" />
 	</parent>
 	<size x="1500" z="1500" />
 	<dimension id="-1012" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" periodU="0" />
       </celestialObject>
 
-      <celestialObject id="deimos" mods="galaxyspace">
+      <celestialObject id="deimos">
 	<name>Deimeos</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="8510" z="-54005" />
 	</parent>
 	<size x="1520" z="1520" />
 	<dimension id="-1013" isBreathable="false" gravity="normal">
@@ -156,24 +156,24 @@
       </celestialObject>
 
 
-      <celestialObject id="ceres" mods="galaxyspace">
+      <celestialObject id="ceres">
 	<name>Ceres</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="62205" z="0" />
 	</parent>
 	<size x="1900" z="1900" />
 	<dimension id="-1007" isBreathable="false" gravity="normal">
-	  <center x="0" z"0" />
+	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" periodU="0" />
       </celestialObject>
 
       <celestialObject id="asteroidsBelt">
 	<name>Asteroids belt</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="62205" />
 	</parent>
 	<size x="2000" z="2000" />
 	<dimension id="-30" isBreathable="false" gravity="normal">
@@ -185,30 +185,30 @@
 
       <celestialObject id="jupiter">
 	<parent>
-	  <center x="" z="" />
+	  <center x="-93205" z="0" />
 	</parent>
 	<size x="50000" z="50000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/jupiter.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="io" mods="galaxyspace">
+      <celestialObject id="io">
 	<name>Io</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-93205" z="27500" />
 	</parent>
 	<size x="3000" z="3000" />
 	<dimension id="-1014" isBreathable="false" gravity="normal">
-	  <center x="0" y"0" />
+	  <center x="0" y="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/io.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="europa" mods="galaxyspace">
+      <celestialObject id="europa">
 	<name>Europa</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-63205" z="0" />
 	</parent>
 	<size x="3200" z="3200" />
 	<dimension id="-1015" isBreathable="false" gravity="normal">
@@ -217,11 +217,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/europa.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="ganymede" mods="galaxyspace">
+      <celestialObject id="ganymede">
 	<name>Ganymede</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-93205" z="-34155" />
 	</parent>
 	<size x="3110" z="3110" />
 	<dimension id="-1016" isBreathable="false" gravity="normal">
@@ -230,11 +230,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ganymede.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="callisto" mods="galaxyspace">
+      <celestialObject id="callisto">
 	<name>Callisto</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-131414" z="0" />
 	</parent>
 	<size x="2998" z="2998" />
 	<dimension id="-1022" isBreathable="false" gravity="normal">
@@ -246,18 +246,18 @@
 
       <celestialObject id="saturn">
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-172913" />
 	</parent>
 	<size x="60000" z="60000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn_rings.png" periodU="150" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="mimas" mods="galaxyspace">
+      <celestialObject id="mimas">
 	<name>Mimas</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="33700" z="-172913" />
 	</parent>
 	<size x="3400" z="3400" />
 	<!--
@@ -268,11 +268,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/mimas.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="enceladus" mods="galaxyspace">
+      <celestialObject id="enceladus">
 	<name>Enceladus</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-211763" />
 	</parent>
 	<size x="2900" z="2900" />
 	<dimension id="-1017" isBreathable="false" gravity="normal">
@@ -281,11 +281,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/enceladus.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="tethys" mods="galaxyspace">
+      <celestialObject id="tethys">
 	<name>Tethys</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-43025" z="-172913" />
 	</parent>
 	<size x="3050" z="3050" />
 	<!--
@@ -296,11 +296,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/tethys.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="dione" mods="galaxyspace">
+      <celestialObject id="dione">
 	<name>Dione</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-123473" />
 	</parent>
 	<size x="2890" z="2890" />
 	<!--
@@ -311,11 +311,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/dione.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="rheya" mods="galaxyspace">
+      <celestialObject id="rheya">
 	<name>Rheya</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="53285" z="-172913" />
 	</parent>
 	<size x="2800" z="2800" />
 	<!--
@@ -326,11 +326,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/rheya.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="titan" mods="galaxyspace">
+      <celestialObject id="titan">
 	<name>Titan</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-230023" />
 	</parent>
 	<size x="2850" z="2850" />
 	<dimension id="-1018" isBreathable="false" gravity="normal">
@@ -339,11 +339,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titan.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="iapetus" mods="galaxyspace">
+      <celestialObject id="iapetus">
 	<name>Iapetus</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-61085" z="-172913" />
 	</parent>
 	<size x="3100" z="3100" />
 	<!--
@@ -355,20 +355,20 @@
       </celestialObject>
 
 
-      <celestialObject id="uranus" mods="galaxyspace">
+      <celestialObject id="uranus">
 	<parent>
-	  <center x="" z="" />
+	  <center x="248048" z="0" />
 	</parent>
 	<size x="25000" z="25000" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus_rings.png" periodU="150" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="miranda" mods="galaxyspace">
+      <celestialObject id="miranda">
 	<name>Miranda</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="248048" z="16000" />
 	</parent>
 	<size x="3000" z="3000" />
 	<dimension id="-1024" isBreathable="false" gravity="normal">
@@ -377,11 +377,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/miranda.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="ariel" mods="galaxyspace">
+      <celestialObject id="ariel">
 	<name>Ariel</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="228298" z="0" />
 	</parent>
 	<size x="2500" z="2500" />
 	<!--
@@ -392,11 +392,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ariel.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="umbriel" mods="galaxyspace">
+      <celestialObject id="umbriel">
 	<name>Umbriel</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="248048" z="-23725" />
 	</parent>
 	<size x="3050" z="3050" />
 	<!--
@@ -407,11 +407,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/umbriel.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="titania" mods="galaxyspace">
+      <celestialObject id="titania">
 	<name>Titania</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="275728" z="0" />
 	</parent>
 	<size x="2860" z="2860" />
 	<!--
@@ -422,11 +422,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titania.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="oberon" mods="galaxyspace">
+      <celestialObject id="oberon">
 	<name>Oberon</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="248048" z="31635" />
 	</parent>
 	<size x="3050" z="3050" />
 	<dimension id="-1019" isBreathable="false" gravity="normal">
@@ -436,19 +436,19 @@
       </celestialObject>
 
 
-      <celestialObject id="neptune" mods="galaxyspace">
+      <celestialObject id="neptune">
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="287408" />
 	</parent>
 	<size x="2400" z="24500" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/neptune.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="proteus" mods="galaxyspace">
+      <celestialObject id="proteus">
 	<name>Proteus</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="15260" z="287408" />
 	</parent>
 	<size x="3020" z="3020" />
 	<dimension id="-1020" isBreathable="false" gravity="normal">
@@ -457,11 +457,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/proteus.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="triton" mods="galaxyspace">
+      <celestialObject id="triton">
 	<name>Triton</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-19225" z="287408" />
 	</parent>
 	<size x="2910" z="2910" />
 	<dimension id="-1021" isBreathable="false" gravity="normal">
@@ -471,11 +471,11 @@
       </celestialObject>
 
 
-      <celestialObject id="pluto" mods="galaxyspace">
+      <celestialObject id="pluto">
 	<name>Pluto</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-314088" z="3935" />
 	</parent>
 	<size x="1990" z="1990" />
 	<dimension id="-1008" isBreathable="false" gravity="normal">
@@ -484,11 +484,11 @@
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/pluto.png" periodU="150" />
       </celestialObject>
 
-      <celestialObject id="charon" mods="galaxyspace">
+      <celestialObject id="charon">
 	<name>Charon</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="-314088" z="-3935" />
 	</parent>
 	<size x="1880" z="1880" />
 	<!--
@@ -500,11 +500,11 @@
       </celestialObject>
 
 
-      <celestialObject id="kuiperBelt" mods="galaxyspace">
+      <celestialObject id="kuiperBelt">
 	<name>Kuiper Belt</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="0" z="-314088" />
 	</parent>
 	<size x="1000" z="1000" />
 	<dimension id="-1009" isBreathable="false" gravity="normal">
@@ -514,11 +514,11 @@
       </celestialObject>
 
 
-      <celestialObject id="haumea" mods="galaxyspace">
+      <celestialObject id="haumea">
 	<name>Haumea</name>
 	<discription>some freaky shit</discription>
 	<parent>
-	  <center x="" z="" />
+	  <center x="314088" z="0" />
 	</parent>
 	<size x="2000" z="2000" />
 	<dimension id="-1023" isBreathable="false" gravity="normal">

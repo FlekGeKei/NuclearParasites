@@ -101,10 +101,9 @@ key_keybind.name.EMOTE_SLOT_6:0
 key_keybind.name.EMOTE_SLOT_7:0
 key_keybind.name.EMOTE_SLOT_8:0
 key_Zoom:46
-key_Galaxy Map:50:ALT
+key_Galaxy Map:211
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
-key_quark.keybind.lockBuilding:37
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -123,14 +122,15 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:44
+key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
 key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_key.death_history:0
 key_keybinds.show_wounds:35:SHIFT
 key_key.ftbutilities.nbt:49:ALT
@@ -206,7 +206,7 @@ key_Options Gui:0
 key_Dynamic Lights toggle:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.clipboardPaste:210
-key_invtweaks.key.sort:211
+key_invtweaks.key.sort:0
 key_Camera left:203
 key_Camera right:205
 key_Camera closer:200
@@ -220,11 +220,11 @@ key_key.toggleVisible:0
 key_key.push_to_talk:0
 key_key.whisper:0
 key_key.mute_microphone:50
-key_key.disable_voice_chat:49
+key_key.disable_voice_chat:0
 key_key.hide_icons:35
 key_key.voice_chat:47
 key_key.voice_chat_settings:0
-key_key.voice_chat_group:34
+key_key.voice_chat_group:0
 key_key.voice_chat_toggle_recording:0
 key_key.voice_chat_adjust_volumes:0
 key_gui.xaero_switch_waypoint_set:0
