@@ -104,6 +104,13 @@ key_Zoom:46
 key_Galaxy Map:211
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -124,13 +131,6 @@ key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_key.death_history:0
 key_keybinds.show_wounds:35:SHIFT
 key_key.ftbutilities.nbt:49:ALT
@@ -213,7 +213,7 @@ key_Camera closer:200
 key_Camera farther:208
 key_Camera up:201
 key_Camera down:209
-key_Swap shoulder:24
+key_Swap shoulder:0
 key_Toggle perspective:0
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
@@ -254,11 +254,11 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
 key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
-key_enderio.keybind.inventory:23
+key_enderio.keybind.inventory:0
 key_enderio.keybind.dsu:0
-key_enderio.keybind.glidertoggle:34
+key_enderio.keybind.glidertoggle:0
 key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:25
+key_enderio.keybind.nightvision:0
 key_enderio.keybind.gogglesofrevealing:0
 key_enderio.keybind.stepassist:0
 key_enderio.keybind.speed:0

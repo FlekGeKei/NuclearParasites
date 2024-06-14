@@ -57,7 +57,7 @@
 	  <center x="0" z="0" />
 	</parent>
 	<size x="10000" z="10000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/sun.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/sun.png" periodU="0" />
       </celestialObject>
 
 
@@ -249,7 +249,6 @@
 	  <center x="0" z="-172913" />
 	</parent>
 	<size x="60000" z="60000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn_rings.png" periodU="150" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn.png" periodU="150" />
       </celestialObject>
 
@@ -360,7 +359,6 @@
 	  <center x="248048" z="0" />
 	</parent>
 	<size x="25000" z="25000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus_rings.png" periodU="150" />
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus.png" periodU="150" />
       </celestialObject>
 
@@ -524,8 +522,7 @@
 	<dimension id="-1023" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea_rings.png" periodU="150" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="0" />
       </celestialObject>
 
     </celestialObject>
