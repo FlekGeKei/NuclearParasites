@@ -8,7 +8,9 @@ Also, to this broken world was coming not only zombies, parasites joined this pa
 
 BUT you may have a brain. You can make weapons. You can defend yourself.
 
+# Tips
 
+- After inslalling mods by [File Direcrotr](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector) close modpack and start again. It will turn on mods installed by File Director.
 
 # SOMETHING'S
 
