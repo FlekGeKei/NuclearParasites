@@ -91,7 +91,7 @@
 
       <celestialObject id="earth">
 	<name>Earth</name>
-	<discription>some freaky home</discription>
+	<discription>some freaky shit</discription>
 	<parent>
 	  <center x="-41005" z="0" />
 	</parent>

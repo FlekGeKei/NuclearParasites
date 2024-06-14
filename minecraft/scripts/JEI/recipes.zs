@@ -1,4 +1,4 @@
-import mods.jei;
+import mods.jei.JEI;
 
 mods.jei.JEI.removeAndHide(<galacticraftcore:oxygen_mask>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:oxygen_gear>);
@@ -7,8 +7,6 @@ mods.jei.JEI.removeAndHide(<galacticraftcore:oxygen_tank_med_full>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:oxygen_tank_heavy_full>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:parachute>);
 mods.jei.JEI.hide(<galacticraftcore:rocket_t1>);
-mods.jei.JEI.hide(<galacticraftcore:rocket_t3>);
-mods.jei.JEI.hide(<galacticraftcore:rocket_t2>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:landing_pad>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:distributor>);
 mods.jei.JEI.removeAndHide(<galacticraftcore:collector>);
