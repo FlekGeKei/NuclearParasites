@@ -199,7 +199,7 @@
 	</parent>
 	<size x="3000" z="3000" />
 	<dimension id="-1014" isBreathable="false" gravity="normal">
-	  <center x="0" y="0" />
+	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/io.png" periodU="150" />
       </celestialObject>
