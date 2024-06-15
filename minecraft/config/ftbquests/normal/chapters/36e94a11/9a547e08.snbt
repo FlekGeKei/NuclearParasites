@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: -0.5d,
+	dependencies: [
+		"ae71d7b7"
+	],
+	tasks: [{
+		uid: "43675df8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_assembler"
+		}]
+	}]
+}

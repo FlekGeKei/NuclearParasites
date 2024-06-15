@@ -1,0 +1,17 @@
+{
+	x: 6.5d,
+	y: 1.0d,
+	text: [
+		"right now you can make amo for your guns (for examle for glock)"
+	],
+	dependencies: [
+		"ae71d7b7"
+	],
+	tasks: [{
+		uid: "8e10fa66",
+		type: "item",
+		items: [{
+			item: "mwc:bullet9x19mm"
+		}]
+	}]
+}

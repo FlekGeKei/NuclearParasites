@@ -37,3 +37,7 @@ mods.ntm.Anvil.addRecipe(<mwc:bullet57x28mm>*8, [<hbm:ingot_lead>, <hbm:plate_co
 mods.ntm.Anvil.addRecipe(<mwc:bullet46x30mm>*8, [<hbm:ingot_lead>, <hbm:plate_copper>*2, <minecraft:gunpowder>*3], 2);
 mods.ntm.Anvil.addRecipe(<mwc:bullet10mm>*8, [<hbm:ingot_lead>, <hbm:plate_copper>*2, <minecraft:gunpowder>*3], 2);
 mods.ntm.Anvil.addRecipe(<mwc:bullet473x33mm>*8, [<hbm:ingot_lead>, <hbm:plate_copper>*2, <minecraft:gunpowder>*3], 2);
+
+mods.ntm.Anvil.addRecipe(<mwc:grenade40mm>*3, [<hbm:wire_gold>, <hbm:wire_red_copper>*3, <hbm:plate_aluminium>*5, <ore:ingotAnyHighexplosive>*3], 2);
+mods.ntm.Anvil.addRecipe(<mwc:rpg7_rocket>*3, [<hbm:wire_gold>, <hbm:wire_red_copper>*3, <hbm:plate_aluminium>*5, <ore:ingotAnyHighexplosive>*3], 2);
+mods.ntm.Anvil.addRecipe(<mwc:m202rocket>*3, [<hbm:wire_gold>, <hbm:wire_red_copper>*3, <hbm:plate_aluminium>*5, <ore:ingotAnyHighexplosive>*3], 2);

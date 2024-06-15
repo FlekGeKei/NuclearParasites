@@ -1,0 +1,32 @@
+{
+	x: 9.0d,
+	y: 1.0d,
+	text: [
+		"now you can make guns and other stuff like magazines and scopes"
+	],
+	dependencies: [
+		"9a547e08"
+	],
+	tasks: [{
+		uid: "a795c5ba",
+		type: "item",
+		items: [{
+			item: "mwc:ak12_kal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4d495db6",
+		type: "item",
+		items: [{
+			item: "mwc:ak12mag_2"
+		}]
+	}],
+	rewards: [{
+		uid: "f9bef233",
+		type: "item",
+		item: "mwc:bullet545x39",
+		count: 30
+	}]
+}
