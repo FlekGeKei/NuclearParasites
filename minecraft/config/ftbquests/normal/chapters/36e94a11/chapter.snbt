@@ -1,6 +1,4 @@
 {
-	title: "Hbm's Nuclear Tech",
-	icon: "hbm:ammo_folly_nuclear",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

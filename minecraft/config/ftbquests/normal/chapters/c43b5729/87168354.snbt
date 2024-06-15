@@ -1,6 +1,8 @@
 {
-	x: 3.5d,
-	y: 3.0d,
+	title: "Parasites comming...",
+	icon: "srparasites:itemtab",
+	x: 18.5d,
+	y: 2.0d,
 	dependencies: [
 		"204e215e",
 		"9a547e08"
@@ -15,7 +17,7 @@
 		uid: "1980183d",
 		type: "gamestage",
 		team_reward: true,
-		auto: "disabled",
+		auto: "enabled",
 		stage: "badMobs"
 	}]
 }

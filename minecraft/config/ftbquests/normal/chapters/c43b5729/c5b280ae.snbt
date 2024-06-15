@@ -1,14 +1,14 @@
 {
-	x: 0.0d,
-	y: 0.0d,
+	x: 2.0d,
+	y: -4.5d,
 	dependencies: [
 		"cf253d78"
 	],
 	tasks: [{
-		uid: "f04a7091",
+		uid: "78cf331a",
 		type: "item",
 		items: [{
-			item: "hbm:anvil_iron"
+			item: "hbm:machine_press"
 		}]
 	}]
 }
