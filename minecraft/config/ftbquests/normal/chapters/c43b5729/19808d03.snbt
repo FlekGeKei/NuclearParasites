@@ -1,0 +1,17 @@
+{
+	title: "Turn on Hardcore mod in start",
+	icon: "minecraft:skull",
+	x: -2.5d,
+	y: -4.0d,
+	shape: "octagon",
+	tasks: [{
+		uid: "cecc7702",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "63f97547",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "badMobs"
+	}]
+}
