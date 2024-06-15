@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"fc71d901"
+	],
+	tasks: [{
+		uid: "c2340e4e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_off"
+		}]
+	}]
+}

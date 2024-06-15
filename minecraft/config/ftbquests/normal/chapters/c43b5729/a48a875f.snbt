@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	text: [
+		"it will save you from dying by coal shit"
+	],
+	dependencies: [
+		"56b5e371"
+	],
+	tasks: [{
+		uid: "c1ef4bc0",
+		type: "item",
+		items: [{
+			item: "hbm:mask_rag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,6 +1,9 @@
 {
-	x: 2.0d,
-	y: 1.0d,
+	x: 3.5d,
+	y: 3.0d,
+	dependencies: [
+		"56df5b68"
+	],
 	tasks: [{
 		uid: "43ca93a5",
 		type: "stat",
@@ -11,7 +14,7 @@
 		uid: "1980183d",
 		type: "gamestage",
 		team_reward: true,
-		auto: "no_toast",
+		auto: "disabled",
 		stage: "badMobs"
 	}]
 }

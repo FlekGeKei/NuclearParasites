@@ -1,0 +1,17 @@
+{
+	title: "Introduction to Hbm Nuclear Teach Mod",
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"a48a875f"
+	],
+	tasks: [{
+		uid: "e3c5289d",
+		type: "item",
+		items: [{
+			item: "hbm:template_folder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

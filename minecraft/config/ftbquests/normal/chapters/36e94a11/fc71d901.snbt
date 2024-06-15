@@ -1,0 +1,56 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	text: [
+		"and by mashine template foloder create some specific stamps"
+	],
+	dependencies: [
+		"c5b280ae"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "7eb51283",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_stone_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b29c8ef6",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_iron_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "798bdc2f",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_steel_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d87ad0eb",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_titanium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bb3215c9",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_obsidian_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
