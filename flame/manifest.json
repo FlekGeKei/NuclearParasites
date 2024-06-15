@@ -72,6 +72,11 @@
       "required": true
     },
     {
+      "fileID": 2836960,
+      "projectID": 228525,
+      "required": true
+    },
+    {
       "fileID": 2915363,
       "projectID": 267602,
       "required": true
@@ -192,6 +197,11 @@
       "required": true
     },
     {
+      "fileID": 2951840,
+      "projectID": 268655,
+      "required": true
+    },
+    {
       "fileID": 5229422,
       "projectID": 557549,
       "required": true
@@ -214,6 +224,11 @@
     {
       "fileID": 4440935,
       "projectID": 240630,
+      "required": true
+    },
+    {
+      "fileID": 2644034,
+      "projectID": 278359,
       "required": true
     },
     {
@@ -447,11 +462,6 @@
       "required": true
     },
     {
-      "fileID": 2533316,
-      "projectID": 271998,
-      "required": true
-    },
-    {
       "fileID": 5232916,
       "projectID": 298408,
       "required": true
@@ -545,5 +555,5 @@
   },
   "name": "NuclearParasites",
   "overrides": "overrides",
-  "version": "0.0.4"
+  "version": "0.0.5"
 }

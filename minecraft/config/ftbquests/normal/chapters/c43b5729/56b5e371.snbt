@@ -1,0 +1,29 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"Welcome to the \"best\" apocalyptic modpack in the univers!!!"
+	],
+	tasks: [{
+		uid: "7af858e9",
+		type: "checkmark",
+		title: "Introduction",
+		icon: "mwc:glock_19"
+	}],
+	rewards: [{
+		uid: "5360b3e1",
+		type: "item",
+		item: "mwc:glock_19"
+	},
+	{
+		uid: "7b27acd4",
+		type: "item",
+		item: {
+			id: "mwc:glock18cmag_2",
+			tag: {
+				Ammo: 20
+			}
+		},
+		count: 6
+	}]
+}

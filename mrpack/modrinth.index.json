@@ -123,6 +123,21 @@
         "sha512": "c85959d17da1fd4b3dad3bca55d3baa603c58f795ebfc57e093ddc942ca6b57eee6ea7acede3873598131917999a1cec173cc37092e8180eee473714880f48f2"
       },
       "path": "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+    },    
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/uy4Cnpcm/versions/VdfPMCPQ/Bookshelf-1.12.2-2.3.590.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 266636,
+      "hashes": {
+        "sha1": "83a1864dd78f48102609849dd36866d6cf32b907",
+        "sha512": "a3217d1072d98c9c3ff2d9190a7c37cc81aad390179ac72abea7edea3485c6f2851a6cc5f94f07c229d5ac1fd78db58f558b45a299ceaae11ccdfd1aa351fcd7"
+      },
+      "path": "mods/Bookshelf-1.12.2-2.3.590.jar"
     },
     {
       "downloads": [
@@ -183,6 +198,21 @@
         "sha512": "dbe0ab49c8e99b719e6f0d4e94c5db66f257369b07fd64d1db01717062511270fac13a473b5bcd7890f1d9ae7c0889fffcbfdd32f73cd9825fc0102a8b29031d"
       },
       "path": "mods/GalaxySpace-1.12.2-2.1.3.jar"
+    },    
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/iAlZk5aS/versions/yZOGAZFy/GameStages-1.12.2-2.0.123.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 54375,
+      "hashes": {
+        "sha1": "83b6e36d415f6679495b2c04ffe453817d43419e",
+        "sha512": "7c2a834f148c89d475bd286e1fc9e5a5632be7409edae5426cc50887da84eab67c8785252349e1abd53f61a3b506f116d4699bbaa485901437b14ec4cd9e33e0"
+      },
+      "path": "mods/GameStages-1.12.2-2.0.123.jar"
     },
     {
       "downloads": [
@@ -198,6 +228,21 @@
         "sha512": "c48bec2ed920a595808abc487f4e5746cb0ce0e4e565ce5f4e2b6df64b6a01d54ed9b297627b9eb1ba4075d9b06dd6dfb88b9c8b3faec580097bb1186c7a6773"
       },
       "path": "mods/IdleTweaks-1.0.5.jar"
+    },    
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/VvtFLOJa/versions/PqHqTWbc/MobStages-1.12.2-2.0.13.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 24847,
+      "hashes": {
+        "sha1": "44751d75268438accb1581fffccad6e1c8ab6a2f",
+        "sha512": "7cfc438ac9959d7c2ddefe5fda85d61e76d39bc69f50ac1e778adb4964904b489685c581246b3f2598e3f30d5e9aae723db89d080aab4b428f0aa25ac7bfb617"
+      },
+      "path": "mods/MobStages-1.12.2-2.0.13.jar"
     },
     {
       "downloads": [
@@ -546,21 +591,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3Unrx5yh/versions/wh0WJ7Ln/lostsouls-1.12-1.1.4.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 30677,
-      "hashes": {
-        "sha1": "4126212c6faa12c112a2de8854fa9257f4c7d3c6",
-        "sha512": "1413d022dae88eac1485a4ef4bfaf12cb54c03a60fe4e792688a2dcf00707cfa8959f85b7e86e1ae2bd2ea1f1aa7a793bcdfc26fa15fb88be979d2f958ca8d3a"
-      },
-      "path": "mods/lostsouls-1.12-1.1.4.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/rWSwwjTs/versions/31hDeGI9/mobsunscreen-1.12.2-3.1.6.jar"
       ],
       "env": {
@@ -639,5 +669,5 @@
   "game": "minecraft",
   "name": "NuclearParasites",
   "summary": "Zombie and Scape and Run Parasites apocalyptic Minecraft modpack",
-  "versionId": "0.0.4"
+  "versionId": "0.0.5"
 }

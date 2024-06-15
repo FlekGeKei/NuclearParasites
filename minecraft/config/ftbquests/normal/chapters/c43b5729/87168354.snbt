@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "43ca93a5",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 150000
+	}],
+	rewards: [{
+		uid: "1980183d",
+		type: "gamestage",
+		team_reward: true,
+		auto: "no_toast",
+		stage: "badMobs"
+	}]
+}
