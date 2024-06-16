@@ -1,8 +1,8 @@
 {
-	title: "Parasites comming...",
+	title: "Parasites are comming...",
 	icon: "srparasites:itemtab",
-	x: 18.5d,
-	y: 2.0d,
+	x: 13.0d,
+	y: -1.0d,
 	dependencies: [
 		"204e215e",
 		"9a547e08"
@@ -17,7 +17,6 @@
 		uid: "1980183d",
 		type: "gamestage",
 		team_reward: true,
-		auto: "enabled",
 		stage: "badMobs"
 	}]
 }

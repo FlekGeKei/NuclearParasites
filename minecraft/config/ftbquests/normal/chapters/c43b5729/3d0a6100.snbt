@@ -1,0 +1,22 @@
+{
+	x: 17.0d,
+	y: -7.0d,
+	text: [
+		"You can made it like Templates but you don't need any resources"
+	],
+	dependencies: [
+		"906481a0"
+	],
+	tasks: [{
+		uid: "d0a7e3c8",
+		type: "item",
+		items: [{
+			id: "hbm:forge_fluid_identifier",
+			tag: {
+				fluidtype: "water"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

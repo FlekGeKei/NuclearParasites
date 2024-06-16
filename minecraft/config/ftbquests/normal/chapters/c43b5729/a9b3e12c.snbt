@@ -1,0 +1,14 @@
+{
+	x: 25.5d,
+	y: -3.0d,
+	dependencies: [
+		"f04eedb7"
+	],
+	tasks: [{
+		uid: "83b9bd17",
+		type: "item",
+		items: [{
+			item: "hbm:machine_epress"
+		}]
+	}]
+}

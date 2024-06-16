@@ -1,0 +1,21 @@
+{
+	x: 21.0d,
+	y: -1.5d,
+	text: [
+		"Work like boiler (only for steam turbine)"
+	],
+	dependencies: [
+		"f04eedb7",
+		"34cb2d50",
+		"5bf3da36",
+		"dd75a1a3",
+		"1b6fad81"
+	],
+	tasks: [{
+		uid: "af6c4096",
+		type: "item",
+		items: [{
+			item: "hbm:machine_reactor_small"
+		}]
+	}]
+}

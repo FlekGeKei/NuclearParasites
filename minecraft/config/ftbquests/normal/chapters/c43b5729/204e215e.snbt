@@ -1,11 +1,12 @@
 {
-	x: 13.5d,
-	y: -1.0d,
+	x: 12.0d,
+	y: -2.0d,
 	text: [
 		"now you can make guns and other stuff like magazines and scopes"
 	],
 	dependencies: [
-		"9a547e08"
+		"9a547e08",
+		"e9c09e2c"
 	],
 	tasks: [{
 		uid: "a795c5ba",

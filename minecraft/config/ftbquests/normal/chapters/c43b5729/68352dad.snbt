@@ -1,0 +1,33 @@
+{
+	icon: "hbm:machine_shredder",
+	x: 16.0d,
+	y: -5.5d,
+	dependencies: [
+		"e9c09e2c"
+	],
+	tasks: [{
+		uid: "c4954b9f",
+		type: "item",
+		items: [{
+			item: "hbm:machine_shredder"
+		}]
+	},
+	{
+		uid: "406679e1",
+		type: "item",
+		items: [{
+			item: "hbm:blades_aluminum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b3faa2ab",
+		type: "item",
+		items: [{
+			item: "hbm:blades_aluminum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

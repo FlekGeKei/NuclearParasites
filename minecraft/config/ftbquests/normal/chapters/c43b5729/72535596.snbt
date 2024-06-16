@@ -1,0 +1,21 @@
+{
+	x: 11.5d,
+	y: -5.0d,
+	dependencies: [
+		"ae71d7b7"
+	],
+	tasks: [{
+		uid: "73eb0f3e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_coal_off"
+		}]
+	},
+	{
+		uid: "e3f2ebe4",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable"
+		}]
+	}]
+}

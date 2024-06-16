@@ -1,0 +1,14 @@
+{
+	x: 26.0d,
+	y: -1.5d,
+	dependencies: [
+		"f04eedb7"
+	],
+	tasks: [{
+		uid: "83524ade",
+		type: "item",
+		items: [{
+			item: "hbm:machine_cyclotron"
+		}]
+	}]
+}

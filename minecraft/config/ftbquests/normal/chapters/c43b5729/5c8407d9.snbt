@@ -1,0 +1,14 @@
+{
+	x: 21.0d,
+	y: -4.0d,
+	dependencies: [
+		"60394c6f"
+	],
+	tasks: [{
+		uid: "3e2f55fe",
+		type: "item",
+		items: [{
+			item: "hbm:machine_refinery"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: -4.5d,
+	text: [
+		"It's need to finde oil "
+	],
+	dependencies: [
+		"e9c09e2c"
+	],
+	tasks: [{
+		uid: "37df0c69",
+		type: "item",
+		items: [{
+			item: "hbm:oil_detector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

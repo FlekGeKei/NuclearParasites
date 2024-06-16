@@ -1,0 +1,25 @@
+{
+	x: 14.5d,
+	y: -4.0d,
+	text: [
+		"Create your first Template using Masine Template Foloder",
+		"For it you need have in inventory Paper and any Dye",
+		"Next you need open Mashine Template Foloder and choose any template do you need",
+		"P.S. in bottom of Mashine Template meny you have search (not JEI search)"
+	],
+	dependencies: [
+		"9a547e08"
+	],
+	tasks: [{
+		uid: "d8a59865",
+		type: "item",
+		title: "Assembly Template",
+		items: [{
+			id: "hbm:assembly_template",
+			tag: {
+				type: 663
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}
