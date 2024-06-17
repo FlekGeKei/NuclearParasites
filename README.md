@@ -12,6 +12,8 @@ BUT you may have a brain. You can make weapons. You can defend yourself.
 
 - After inslalling mods by [File Direcrotr](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector) close modpack and start again. It will turn on mods installed by File Director.
 
+- You may get in your first playing session some artefacts (with clouds) and freezes. If you get it, restart minecraft, it will resolve it.
+
 # SOMETHING'S
 
 Also, if I successful complile Oculus for 1.12.2, I'll add Oculus to the modpack...
