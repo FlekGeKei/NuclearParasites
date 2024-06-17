@@ -1,0 +1,19 @@
+{
+	x: 23.5d,
+	y: -3.5d,
+	text: [
+		"By that you can defuse Dud"
+	],
+	dependencies: [
+		"f04eedb7"
+	],
+	tasks: [{
+		uid: "f8fc1663",
+		type: "item",
+		items: [{
+			item: "hbm:defuser"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 23.5d,
+	y: -5.0d,
+	text: [
+		"You can get it by defusing Bud",
+		"P.S. you dead"
+	],
+	dependencies: [
+		"86165036",
+		"1b6fad81"
+	],
+	tasks: [{
+		uid: "0d528a4b",
+		type: "item",
+		items: [{
+			item: "hbm:egg_balefire_shard"
+		}]
+	}]
+}

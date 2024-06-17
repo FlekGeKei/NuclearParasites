@@ -1,6 +1,6 @@
 {
 	x: 22.5d,
-	y: -5.0d,
+	y: -6.0d,
 	text: [
 		"For using that shit you need any of boilers for generate steam",
 		"P.S. if you wont to work with any types of Steam you need configure Industrial Steam Turbine in \"his\" UI with Fluid Indentifier"

@@ -21,13 +21,13 @@
       "minecraft:weakness:200:1",
       "minecraft:mining_fatigue:200:2"
     ],
-    "Pillaring": false,
+    "Pillaring": true,
     "Pillar Block": "minecraft:cobblestone:0",
-    "Digging": false,
+    "Digging": true,
     "Digging Blacklist": [],
     "Invert Blacklist": false,
     "Requires Tools": true,
-    "Griefing": false,
+    "Griefing": true,
     "Grief Targets": [
       "minecraft:chest",
       "minecraft:furnace",

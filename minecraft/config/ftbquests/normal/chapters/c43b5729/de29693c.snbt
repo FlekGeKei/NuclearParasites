@@ -5,6 +5,7 @@
 		"Work like boiler (only for steam turbine)"
 	],
 	dependencies: [
+		"c1f2cc72",
 		"f04eedb7",
 		"34cb2d50",
 		"5bf3da36",

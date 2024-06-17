@@ -1,0 +1,16 @@
+{
+	x: 23.0d,
+	y: 0.0d,
+	dependencies: [
+		"f04eedb7"
+	],
+	tasks: [{
+		uid: "a129a103",
+		type: "item",
+		items: [{
+			item: "hbm:geiger_counter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
