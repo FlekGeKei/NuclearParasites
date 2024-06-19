@@ -62,3 +62,5 @@ mods.jei.JEI.removeAndHide(<warpdrive:warp_armor.superior.boots>);
 mods.jei.JEI.removeAndHide(<warpdrive:laser_camera>);
 mods.jei.JEI.removeAndHide(<galaxyspace:rocket_assembler>);
 
+mods.jei.JEI.removeAndHide(<secretroomsmod:iron_exposing_helmet>);
+mods.jei.JEI.removeAndHide(<secretroomsmod:diamond_exposing_helmet>);

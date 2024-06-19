@@ -100,7 +100,6 @@ mods.ntm.Anvil.addRecipe(<mwc:origin12handguard>, [<hbm:wire_aluminium>, <hbm:pl
 mods.ntm.Anvil.addRecipe(<mwc:vectorcarbinehandguard>, [<hbm:wire_aluminium>, <hbm:plate_aluminium>], 3);
 mods.ntm.Anvil.addRecipe(<mwc:fnfalparahandguard>, [<hbm:wire_aluminium>, <hbm:plate_aluminium>], 3);
 //MOUNTs
-mods.ntm.Anvil.addRecipe(<mwc:fabdefensemount>, <hbm:plate_aluminium>, 3);
 mods.ntm.Anvil.addRecipe(<mwc:vssvintoreztrirailmount>, <hbm:plate_aluminium>, 3);
 mods.ntm.Anvil.addRecipe(<mwc:samuraiedgemount>, <hbm:plate_aluminium>, 3);
 mods.ntm.Anvil.addRecipe(<mwc:famasf1scopemount>, <hbm:plate_aluminium>, 3);
