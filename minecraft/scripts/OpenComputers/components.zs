@@ -11,6 +11,21 @@ mods.ntm.Anvil.addRecipe(<opencomputers:component:3>, [<opencomputers:material:7
 mods.ntm.Anvil.addRecipe(<opencomputers:component:4>, [<opencomputers:material:8>, <hbm:wire_gold>, <opencomputers:material:6>*3, <hbm:ingot_polymer>], 5);
 mods.ntm.Anvil.addRecipe(<opencomputers:component:5>, [<opencomputers:material:9>, <hbm:wire_gold>, <opencomputers:material:6>*3, <hbm:ingot_polymer>], 5);
 mods.ntm.Anvil.addRecipe(<opencomputers:material:4>, [<hbm:ingot_polymer>, <hbm:plate_advanced_alloy>*2, <hbm:wire_gold>*2, <hbm:powder_gold>], 5);
+mods.ntm.Anvil.addRecipe(<opencomputers:component:16>, [<ore:oc:graphicsCard1>, <ore:oc:cpu2>], 5);
+mods.ntm.Anvil.addRecipe(<opencomputers:component:17>, [<ore:oc:graphicsCard2>, <ore:oc:cpu3>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "dig"}, "oc:color": 3, display: {Name: "Digger"}, "oc:lootFactory": "opencomputers:dig"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "oppm"}, "oc:color": 6, display: {Name: "OPPM (Package Manager)"}, "oc:lootFactory": "opencomputers:oppm"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "generator"}, "oc:color": 5, display: {Name: "Generator Upgrade Software"}, "oc:lootFactory": "opencomputers:generator"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "builder"}, "oc:color": 11, display: {Name: "Builder"}, "oc:lootFactory": "opencomputers:builder"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "openloader"}, "oc:color": 13, display: {Name: "OpenLoader (Boot Loader)"}, "oc:lootFactory": "opencomputers:openloader"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "data"}, "oc:color": 9, display: {Name: "Data Card Software"}, "oc:lootFactory": "opencomputers:data"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "opencomputers:openos"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "network"}, "oc:color": 10, display: {Name: "Network (Network Stack)"}, "oc:lootFactory": "opencomputers:network"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "plan9k"}, "oc:color": 1, display: {Name: "Plan9k (Operating System)"}, "oc:lootFactory": "opencomputers:plan9k"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "explode"}, "oc:color": 1, "oc:lootFactory": "computronics:explode"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "tape"}, "oc:color": 15, "oc:lootFactory": "computronics:tape"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "irc"}, "oc:color": 12, display: {Name: "OpenIRC (IRC Client)"}, "oc:lootFactory": "opencomputers:irc"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
+mods.ntm.Anvil.addRecipe([<opencomputers:tool:4>, <opencomputers:storage:1>.withTag({"oc:data": {"oc:fs.label": "maze"}, "oc:color": 14, display: {Name: "Mazer"}, "oc:lootFactory": "opencomputers:maze"})], [<ore:oc:manual>, <ore:oc:floppy>], 5);
 
 mods.ntm.Assembler.addRecipe(<opencomputers:component>, [<opencomputers:material:7>*3, <opencomputers:material:6>*5, <appliedenergistics2:material:1>, <hbm:circuit_copper>, <hbm:wire_gold>, <hbm:plate_advanced_alloy>], 60);
 mods.ntm.Assembler.addRecipe(<opencomputers:component:1>, [<opencomputers:material:8>*3, <opencomputers:material:6>, <appliedenergistics2:material:10>, <hbm:circuit_red_copper>, <hbm:wire_gold>, <hbm:plate_advanced_alloy>], 30);
@@ -36,5 +51,7 @@ mods.ntm.Assembler.addRecipe(<opencomputers:card:7>, [<ore:oc:materialCircuitBoa
 mods.ntm.Assembler.addRecipe(<opencomputers:storage:2>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
 mods.ntm.Assembler.addRecipe(<opencomputers:storage:3>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
 mods.ntm.Assembler.addRecipe(<opencomputers:storage:4>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
+mods.ntm.Assembler.addRecipe(<opencomputers:storage:1>, [<ore:crystalCertusQuartz>, <minecraft:paper>, <hbm:ingot_polymer>, <ore:oc:circuitChip1>*2, <ore:oc:materialTransistor>*2], 30);
+
 //mods.ntm.Assembler.addRecipe(, [], 30);
 //mods.ntm.Anvil.addRecipe(, [], 5);
