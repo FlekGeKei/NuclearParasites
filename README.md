@@ -10,9 +10,9 @@ BUT you may have a brain. You can make weapons. You can defend yourself.
 
 # Tips
 
-- After inslalling mods by [File Direcrotr](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector) close modpack and start again. It will turn on mods installed by File Director.
+- After inslalling mods by [File Direcrotr](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector#:~:text=Modrinth%20Mod%20Download-,Previews,-%3B) close modpack and start again. It will turn on mods installed by File Director.
 
-- You may get in your first playing session some artefacts (with clouds) and freezes. If you get it, restart minecraft, it will resolve it.
+- You may get in your first playing session some freezes. If you get it, restart minecraft, it will resolve it.
 
 # SOMETHING'S
 

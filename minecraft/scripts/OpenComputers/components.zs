@@ -33,5 +33,8 @@ mods.ntm.Assembler.addRecipe(<opencomputers:card:9>, [<ore:oc:materialCircuitBoa
 mods.ntm.Assembler.addRecipe(<opencomputers:card:6>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:circuitChip1>*3, <ore:oc:materialTransistor>, <hbm:coil_gold_torus>, <hbm:coil_gold>], 30);
 mods.ntm.Assembler.addRecipe(<opencomputers:card:5>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:coil_copper_torus>, <hbm:coil_copper>, <ore:oc:circuitChip2>*2, <ore:oc:materialTransistor>], 30);
 mods.ntm.Assembler.addRecipe(<opencomputers:card:7>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip3>, <ore:oc:componentBus2>, <hbm:coil_gold_torus>], 30);
+mods.ntm.Assembler.addRecipe(<opencomputers:storage:2>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
+mods.ntm.Assembler.addRecipe(<opencomputers:storage:3>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
+mods.ntm.Assembler.addRecipe(<opencomputers:storage:4>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:materialTransistor>*3, <ore:oc:circuitChip1>*2, <ore:crystalPureCertusQuartz>], 30);
 //mods.ntm.Assembler.addRecipe(, [], 30);
 //mods.ntm.Anvil.addRecipe(, [], 5);
