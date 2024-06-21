@@ -66,6 +66,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/DSVgwcji/versions/kOyZhvg3/AIImprovements-1.12-0.0.1b3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7266,
+      "hashes": {
+        "sha1": "ef4b64cd4fc10522ead1f659b81e471af455c3fe",
+        "sha512": "90e12cb0d98cc1003cfee3bc9e97adc27292d9c42ac5447237588bd3705f03a599b55ef060e32e119a9d00eb57fb52426f6e72ec60611de9b2ed7e40b74f1809"
+      },
+      "path": "mods/AIImprovements-1.12-0.0.1b3.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/Tsz4BT2X/AppleSkin-mc1.12-1.0.14.jar"
       ],
       "env": {
