@@ -16,18 +16,36 @@
 		uid: "406679e1",
 		type: "item",
 		items: [{
-			item: "hbm:blades_aluminum"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Shreder Blade"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "shredderBlade"
+				}
+			}
+		}]
 	},
 	{
 		uid: "b3faa2ab",
 		type: "item",
 		items: [{
-			item: "hbm:blades_aluminum"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Shreder Blade"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "shredderBlade"
+				}
+			}
+		}]
 	}]
 }

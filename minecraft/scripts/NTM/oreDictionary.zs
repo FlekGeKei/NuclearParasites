@@ -1,0 +1,106 @@
+import crafttweaker.oredict.IOreDict;
+
+//STAMPs
+<ore:stamp>.addItems(
+  [
+    <hbm:stamp_desh_circuit>,
+    <hbm:stamp_titanium_circuit>,
+    <hbm:stamp_obsidian_circuit>,
+    <hbm:stamp_schrabidium_circuit>,
+    <hbm:stamp_stone_circuit>,
+    <hbm:stamp_iron_circuit>,
+    <hbm:stamp_steel_circuit>,
+    <hbm:stamp_desh_wire>,
+    <hbm:stamp_obsidian_wire>,
+    <hbm:stamp_schrabidium_wire>,
+    <hbm:stamp_steel_wire>,
+    <hbm:stamp_stone_wire>,
+    <hbm:stamp_iron_wire>,
+    <hbm:stamp_titanium_wire>,
+    <hbm:stamp_iron_flat>,
+    <hbm:stamp_desh_flat>,
+    <hbm:stamp_schrabidium_flat>,
+    <hbm:stamp_titanium_flat>,
+    <hbm:stamp_obsidian_flat>,
+    <hbm:stamp_steel_flat>,
+    <hbm:stamp_stone_flat>,
+    <hbm:stamp_desh_plate>,
+    <hbm:stamp_schrabidium_plate>,
+    <hbm:stamp_obsidian_plate>,
+    <hbm:stamp_titanium_plate>,
+    <hbm:stamp_steel_plate>,
+    <hbm:stamp_iron_plate>,
+    <hbm:stamp_stone_plate>
+  ]
+);
+<ore:stampCircuit>.addItems(
+  [
+    <hbm:stamp_desh_circuit>,
+    <hbm:stamp_titanium_circuit>,
+    <hbm:stamp_obsidian_circuit>,
+    <hbm:stamp_schrabidium_circuit>,
+    <hbm:stamp_stone_circuit>,
+    <hbm:stamp_iron_circuit>,
+    <hbm:stamp_steel_circuit>
+  ]
+);
+<ore:stampWire>.addItems(
+  [
+    <hbm:stamp_desh_wire>,
+    <hbm:stamp_obsidian_wire>,
+    <hbm:stamp_schrabidium_wire>,
+    <hbm:stamp_steel_wire>,
+    <hbm:stamp_stone_wire>,
+    <hbm:stamp_iron_wire>,
+    <hbm:stamp_titanium_wire>
+  ]
+);
+<ore:stampFlat>.addItems(
+  [
+    <hbm:stamp_iron_flat>,
+    <hbm:stamp_desh_flat>,
+    <hbm:stamp_schrabidium_flat>,
+    <hbm:stamp_titanium_flat>,
+    <hbm:stamp_obsidian_flat>,
+    <hbm:stamp_steel_flat>,
+    <hbm:stamp_stone_flat>
+  ]
+);
+<ore:stampPlate>.addItems(
+  [
+    <hbm:stamp_desh_plate>,
+    <hbm:stamp_schrabidium_plate>,
+    <hbm:stamp_obsidian_plate>,
+    <hbm:stamp_titanium_plate>,
+    <hbm:stamp_steel_plate>,
+    <hbm:stamp_iron_plate>,
+    <hbm:stamp_stone_plate>
+  ]
+);
+<ore:stampCasing>.addItems(
+  [
+    <hbm:stamp_desh_357>,
+    <hbm:stamp_desh_44>,
+    <hbm:stamp_desh_9>,
+    <hbm:stamp_desh_50>,
+    <hbm:stamp_357>,
+    <hbm:stamp_44>,
+    <hbm:stamp_9>,
+    <hbm:stamp_50>
+  ]
+);
+
+//SHREDDER BLADEs
+<ore:shredderBlade>.addItems(
+  [
+    <hbm:blades_aluminum>,
+    <hbm:blades_gold>,
+    <hbm:blades_iron>,
+    <hbm:blades_steel>,
+    <hbm:blades_titanium>,
+    <hbm:blades_advanced_alloy>,
+    <hbm:blades_combine_steel>,
+    <hbm:blades_schrabidium>,
+    <hbm:blades_desh>
+  ]
+);

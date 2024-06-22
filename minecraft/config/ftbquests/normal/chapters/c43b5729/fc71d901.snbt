@@ -1,10 +1,6 @@
 {
 	x: 5.0d,
 	y: -4.5d,
-	text: [
-		"And by Mashine Template Folder create some specific stamps",
-		"To do it you need open Mashine Template Foloder and choose any specific shamp do you need"
-	],
 	dependencies: [
 		"c5b280ae"
 	],
@@ -13,9 +9,18 @@
 		uid: "b29c8ef6",
 		type: "item",
 		items: [{
-			item: "hbm:stamp_iron_plate"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Flat Stamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stampFlat"
+				}
+			}
+		}]
 	}]
 }

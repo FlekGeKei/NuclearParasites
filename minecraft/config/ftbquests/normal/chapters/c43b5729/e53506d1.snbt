@@ -1,0 +1,59 @@
+{
+	title: "Any Modified Stamp",
+	x: 6.0d,
+	y: -3.0d,
+	text: [
+		"You can create that stuff using Mashine Template Foloder.",
+		"For it you need have in your inventory some Flate Stamps."
+	],
+	dependencies: [
+		"fc71d901"
+	],
+	tasks: [{
+		uid: "d2c4d4ec",
+		type: "item",
+		title: "Any Modified Stamp",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Circuit Stamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stampCircuit"
+				}
+			}
+		},
+		{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Wire Stamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stampWire"
+				}
+			}
+		},
+		{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Plate Stamp"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stampPlate"
+				}
+			}
+		}]
+	}]
+}
