@@ -1,3 +1,5 @@
+![Logo](https://github.com/FlekGeKei/NuclearParasites/blob/main/visual/NP_logo_main.png)
+
 # INTRODUCTION
 
 You need to survive. Humanity is extinct.
