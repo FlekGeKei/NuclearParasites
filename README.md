@@ -1,4 +1,4 @@
-![Logo](https://github.com/FlekGeKei/NuclearParasites/blob/main/visual/NP_logo_main.png)
+![Logo](https://github.com/FlekGeKei/NuclearParasites/blob/main/visual/logos/NP_logo_main.png)
 
 # INTRODUCTION
 
