@@ -24,7 +24,7 @@
     "disable_incompatible_mod_warnings": false
   },
   "performance": {
-    "chunk_builder_threads": 5,
+    "chunk_builder_threads": 12,
     "always_defer_chunk_updates": true
   },
   "notifications": {

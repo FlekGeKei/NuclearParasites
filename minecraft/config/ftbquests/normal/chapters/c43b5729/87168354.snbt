@@ -17,6 +17,7 @@
 		uid: "1980183d",
 		type: "gamestage",
 		team_reward: true,
+		auto: "enabled",
 		stage: "badMobs"
 	}]
 }
