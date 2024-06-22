@@ -4,19 +4,19 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:8
 guiScale:2
 particles:2
 bobView:false
 anaglyph3d:false
 maxFps:60
 fboEnable:true
-difficulty:2
-fancyGraphics:true
+difficulty:3
+fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Default-Dark-Mode-1.12-2023.6.0.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Default-Dark-Mode-1.12-2023.6.0.zip","1.zip"]
+incompatibleResourcePacks:["1.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -104,7 +104,6 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
-key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -130,6 +129,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
 key_key.death_history:0
 key_keybinds.show_wounds:35:SHIFT
