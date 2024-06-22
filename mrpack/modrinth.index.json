@@ -351,6 +351,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/qXkLFB0L/versions/QFPOlT3V/RecipeStages-1.1.3.8.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 45386,
+      "hashes": {
+        "sha1": "fa16c9222e94633429c85b885fdead763e176c24",
+        "sha512": "c25e33ad1d02ee8f2ae996d727761c626009610521ed6fca25c97552100abe35b2aa879a07dfbe7879c529767fa8244e2f4036e515412f5822464658cc705d3d"
+      },
+      "path": "mods/RecipeStages-1.1.3.8.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/TWsbC6jW/versions/stoSMZ1p/Rex%27s-AdditionalStructures-1.12.x%28v.2.5.0%29.jar"
       ],
       "env": {

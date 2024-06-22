@@ -10,5 +10,11 @@
 		items: [{
 			item: "hbm:machine_chemplant"
 		}]
+	}],
+	rewards: [{
+		uid: "4be21e7e",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "accessToEnderIO"
 	}]
 }
