@@ -132,6 +132,11 @@
       "required": true
     },
     {
+      "fileID": 2857869,
+      "projectID": 226406,
+      "required": true
+    },
+    {
       "fileID": 2842452,
       "projectID": 354571,
       "required": true
@@ -542,11 +547,6 @@
       "required": true
     },
     {
-      "fileID": 4574973,
-      "projectID": 349116,
-      "required": true
-    },
-    {
       "fileID": 4034040,
       "projectID": 312822,
       "required": true
@@ -570,5 +570,5 @@
   },
   "name": "NuclearParasites",
   "overrides": "overrides",
-  "version": "0.0.8"
+  "version": "0.0.9"
 }

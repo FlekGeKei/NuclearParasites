@@ -678,26 +678,11 @@
         "sha512": "ccf2ff0e799ea44106ae216c7752ab27f795a8b3bee212ba60ecd7bc2a5acca1e6da35e9da8f2b36968f9d2805b312bc21d68301c359690f2ba4a11b86a35474"
       },
       "path": "mods/walljump-1.12.2-1.3.2.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/6SLU7tS5/versions/T0zILsSP/Default-Dark-Mode-1.12-2023.6.0.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 163914,
-      "hashes": {
-        "sha1": "3cc1db1169b057f2319cbc4c98c677d68427d343",
-        "sha512": "0313f2a2578041cb4d52238c7db544c344fe5ddf6ae4c99befe3abecc937e053aa7188f74517e75db138bfbbf01fad24d0d7bd00307ef614d7f7a7da0da8c65f"
-      },
-      "path": "resourcepacks/Default-Dark-Mode-1.12-2023.6.0.zip"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "NuclearParasites",
   "summary": "Zombie and Scape and Run Parasites apocalyptic Minecraft modpack",
-  "versionId": "0.0.8"
+  "versionId": "0.0.9"
 }
