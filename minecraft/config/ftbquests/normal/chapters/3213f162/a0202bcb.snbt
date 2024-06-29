@@ -1,0 +1,16 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"c0db337e",
+		"0850d3d9",
+		"9f6f4cfc"
+	],
+	tasks: [{
+		uid: "1ecda926",
+		type: "item",
+		items: [{
+			item: "opencomputers:keyboard"
+		}]
+	}]
+}

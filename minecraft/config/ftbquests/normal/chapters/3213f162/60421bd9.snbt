@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: 3.5d,
+	dependencies: [
+		"bfb38317",
+		"3ca74fd1",
+		"f9dffc68",
+		"7e2c1d76",
+		"a0202bcb",
+		"b3c375fe",
+		"ec8e38b0"
+	],
+	tasks: [{
+		uid: "bb275292",
+		type: "item",
+		items: [{
+			item: "opencomputers:case1"
+		}]
+	}]
+}

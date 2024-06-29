@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "5f2a80cf",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_bismuth"
+		}]
+	}]
+}

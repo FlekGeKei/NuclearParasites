@@ -1,0 +1,16 @@
+// Creative Tabs
+itemGroup.appliedenergistics2=§fApplied Energistics 2
+itemGroup.appliedenergistics2.facades=§fApplied Energistics 2 - Facades
+
+// GUI
+gui.appliedenergistics2.CraftingTerminal=§fCrafting Terminal
+gui.appliedenergistics2.METunnel=§fME
+gui.appliedenergistics2.ItemTunnel=§fItem
+gui.appliedenergistics2.FluidTunnel=§fFluid
+gui.appliedenergistics2.RedstoneTunnel=§fRedstone
+gui.appliedenergistics2.EUTunnel=§fEU
+gui.appliedenergistics2.FETunnel=§fFE
+gui.appliedenergistics2.GTEUTunnel=§fGTEU
+gui.appliedenergistics2.LightTunnel=§fLight
+gui.appliedenergistics2.OCTunnel=§fOpenComputers
+gui.appliedenergistics2.PressureTunnel=§fPressure

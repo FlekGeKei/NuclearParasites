@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -1.5d,
+	dependencies: [
+		"c0db337e"
+	],
+	tasks: [{
+		uid: "6b1b2ed1",
+		type: "item",
+		items: [{
+			item: "opencomputers:diskdrive"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 6.0d,
+	dependencies: [
+		"60421bd9"
+	],
+	tasks: [{
+		uid: "56d9945a",
+		type: "item",
+		items: [{
+			item: "opencomputers:card 1 10"
+		}]
+	}]
+}

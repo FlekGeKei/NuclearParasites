@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"46094871"
+	],
+	tasks: [{
+		uid: "ba8a82da",
+		type: "item",
+		items: [{
+			item: "opencomputers:cable"
+		}]
+	}]
+}
