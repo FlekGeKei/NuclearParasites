@@ -456,33 +456,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/TyOkVRGf/XaerosWorldMap_1.38.4_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/3vzQ401W/XaerosWorldMap_1.38.8_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 845315,
+      "fileSize": 849632,
       "hashes": {
-        "sha1": "bf856f7e67114b210ca3b4db23ea1950b92cdbfe",
-        "sha512": "01e4682d055dc10f684c9df1318a76684c6552a625cb10c0ad6131deedaa373d5cfacedb01cb9e75f008f70dfd43fda108da2ac0120f815c929b0b106b913365"
+        "sha1": "749d5912e802aab1cbab162a9023511792d1399d",
+        "sha512": "535b53d443896f7f8249f0025bf4062ec305dbb0b447ce65e9a6ce6bec3ebd0fc6fa73aa2f1d317699d20e882b29fd2cd6484c271914a7d175d8e67dc2df5968"
       },
-      "path": "mods/XaerosWorldMap_1.38.4_Forge_1.12.jar"
+      "path": "mods/XaerosWorldMap_1.38.8_Forge_1.12.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/pzvtRv7A/Xaeros_Minimap_24.1.1_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/quthv9KV/Xaeros_Minimap_24.2.0_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1592547,
+      "fileSize": 1640395,
       "hashes": {
-        "sha1": "b61382885a6275df0b2c396ad03aa2346a34ace0",
-        "sha512": "612a660eec301a45f813041f37c6dea0749df7143761df2d0c7a9832db2bde711186508e7c09af8ebb0da9f174bd21447ea020b7b2cd76c1d7884e1aa4068ef3"
+        "sha1": "bafed63dc8b7679e2bb133d2c9ae63f5dc363d55",
+        "sha512": "00f259a4a03870d68c4309a357985609da61ee89b42920eaadfd8ccbce18347a3bc9cd93e3e4fc1dc53bd2f698ac99ee7419f4ffeed2ea549cc97193254e39db"
       },
-      "path": "mods/Xaeros_Minimap_24.1.1_Forge_1.12.jar"
+      "path": "mods/Xaeros_Minimap_24.2.0_Forge_1.12.jar"
     },
     {
       "downloads": [

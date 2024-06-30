@@ -1,0 +1,14 @@
+{
+	x: 34.5d,
+	y: -4.0d,
+	dependencies: [
+		"47829036"
+	],
+	tasks: [{
+		uid: "d82cf4a8",
+		type: "item",
+		items: [{
+			item: "opencomputers:storage 1 3"
+		}]
+	}]
+}

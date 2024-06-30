@@ -1,6 +1,11 @@
 {
-	x: 25.5d,
-	y: -4.5d,
+	title: "Tier 3",
+	x: 49.5d,
+	y: -5.0d,
+	shape: "diamond",
+	text: [
+		"Tier 3"
+	],
 	dependencies: [
 		"47829036"
 	],

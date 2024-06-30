@@ -1,0 +1,21 @@
+{
+	x: 33.0d,
+	y: -3.0d,
+	dependencies: [
+		"47829036"
+	],
+	tasks: [{
+		uid: "475ab8dc",
+		type: "item",
+		items: [{
+			item: "opencomputers:assembler"
+		}]
+	},
+	{
+		uid: "97d7d1f3",
+		type: "item",
+		items: [{
+			item: "opencomputers:disassembler"
+		}]
+	}]
+}

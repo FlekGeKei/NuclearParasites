@@ -1,0 +1,14 @@
+{
+	x: 38.0d,
+	y: -2.0d,
+	dependencies: [
+		"dd437e3b"
+	],
+	tasks: [{
+		uid: "ffff5517",
+		type: "item",
+		items: [{
+			item: "opencomputers:screen2"
+		}]
+	}]
+}

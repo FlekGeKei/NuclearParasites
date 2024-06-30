@@ -1,0 +1,14 @@
+{
+	x: 31.0d,
+	y: -2.0d,
+	dependencies: [
+		"47829036"
+	],
+	tasks: [{
+		uid: "48136dcb",
+		type: "item",
+		items: [{
+			item: "opencomputers:relay"
+		}]
+	}]
+}

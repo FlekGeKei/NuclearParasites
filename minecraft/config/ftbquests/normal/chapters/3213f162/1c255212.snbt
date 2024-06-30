@@ -1,0 +1,14 @@
+{
+	x: 38.0d,
+	y: -3.0d,
+	dependencies: [
+		"dd437e3b"
+	],
+	tasks: [{
+		uid: "f5538430",
+		type: "item",
+		items: [{
+			item: "opencomputers:raid"
+		}]
+	}]
+}

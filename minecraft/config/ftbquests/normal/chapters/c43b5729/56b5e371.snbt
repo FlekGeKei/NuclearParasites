@@ -1,6 +1,7 @@
 {
 	x: -2.0d,
 	y: 0.5d,
+	shape: "square",
 	text: [
 		"Welcome to the \"best\" apocalyptic modpack in the univers!!!"
 	],

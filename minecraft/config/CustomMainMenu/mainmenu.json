@@ -81,7 +81,7 @@
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "menu.quit",
@@ -113,11 +113,11 @@
             }
         },
         
-        "fml":
+        "versions":
         {
-            "text" : "",
+            "text" : "Minecraft 1.12.2\nNuclearParasites 0.0.9 (BETA)",
             "posX" : 2,
-            "posY" : -46,
+            "posY" : -19,
             "color" : -1,
             "alignment" : "bottom_left"
         }

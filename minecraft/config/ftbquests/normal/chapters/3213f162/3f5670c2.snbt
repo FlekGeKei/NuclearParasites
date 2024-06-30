@@ -1,0 +1,15 @@
+{
+	x: 30.0d,
+	y: -1.5d,
+	dependencies: [
+		"47829036"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "de5a0072",
+		type: "item",
+		items: [{
+			item: "opencomputers:motionsensor"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 35.0d,
+	y: 3.0d,
+	dependencies: [
+		"6e0780f0",
+		"d4fc214b",
+		"bf942def"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "44a031e4",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_schrabidate"
+		}]
+	}]
+}

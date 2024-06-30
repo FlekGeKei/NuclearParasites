@@ -1,0 +1,14 @@
+{
+	x: 37.5d,
+	y: 1.0d,
+	dependencies: [
+		"82c2c712"
+	],
+	tasks: [{
+		uid: "60d97327",
+		type: "item",
+		items: [{
+			item: "opencomputers:redstone"
+		}]
+	}]
+}
