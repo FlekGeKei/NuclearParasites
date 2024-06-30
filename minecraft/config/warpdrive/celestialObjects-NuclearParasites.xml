@@ -100,8 +100,8 @@
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/earth.png" periodU="150" periodV="150" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="0.35" texture="warpdrive:textures/celestial/cloud_large2.png" periodU="200" periodV="150" />
-	<render red="0.00" green="0.00" blue="1.00" alpha="0.25" periodV="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="0.35" texture="warpdrive:textures/celestial/cloud_large2.png" periodU="200" periodV="200" />
+	<render red="0.00" green="0.00" blue="1.00" alpha="0.25" />
       </celestialObject>
 
       <celestialObject id="moon">
@@ -129,6 +129,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/mars.png" periodU="150" periodV="150" />
+	<render red="0.76" green="0.27" blue="0.05" alpha="0.15" />
       </celestialObject>
 
       <celestialObject id="phobos">

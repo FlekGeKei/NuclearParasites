@@ -104,14 +104,6 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -130,7 +122,15 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_key.death_history:0
 key_keybinds.show_wounds:35:SHIFT
 key_key.ftbutilities.nbt:0
@@ -151,7 +151,7 @@ key_key.nightVision:49
 key_key.add:23
 key_key.subtract:24
 key_key.fire_mode:48
-key_key.proning:44
+key_key.proning:44:SHIFT
 key_debug.freecamLock:199
 key_debug.freecamRotate:29
 key_key.custom_inventory:45
@@ -174,13 +174,13 @@ key_key.categories.hbm.craneMoveDown:208
 key_key.categories.hbm.craneMoveLeft:203
 key_key.categories.hbm.craneMoveRight:205
 key_key.categories.hbm.craneLoad:28
-key_key.toggleFoVChanges:51:SHIFT
-key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleFoVChanges:0
+key_key.reloadSoundSystem:0
 key_key.toggleTimeOfDayOverlay:0
-key_key.togglePotionParticles:66:CONTROL
+key_key.togglePotionParticles:0
 key_Difficulty Meter - Show:0
 key_Difficulty Meter - Show Always:0
-key_key.secretroomsmod.oneWayface:43
+key_key.secretroomsmod.oneWayface:0
 key_walljump.key.walljump:42
 key_key.pickup.item:0
 key_key.dismount:42
