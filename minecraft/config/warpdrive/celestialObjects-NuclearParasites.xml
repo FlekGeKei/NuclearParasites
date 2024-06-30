@@ -6,7 +6,7 @@
 		  mods="galacticraftcore">
 
   <celestialObject id="Hyperspace">
-    <size x="2000000" z="2000000" />
+    <size x="59999968" z="59999968" />
     <name>Hyperspace</name>
     <description>some freaky shit</description>
     <dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
@@ -57,7 +57,7 @@
 	  <center x="0" z="0" />
 	</parent>
 	<size x="10000" z="10000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/sun.png" periodU="0" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/sun.png" periodU="0" periodV="0" />
       </celestialObject>
 
 
@@ -71,7 +71,7 @@
 	<dimension id="-1005" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/mercury.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/mercury.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -85,7 +85,7 @@
 	<dimension id="-1006" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/venus.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/venus.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -99,7 +99,9 @@
 	<dimension id="0" isBreathable="true" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/earth.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/earth.png" periodU="150" periodV="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="0.35" texture="warpdrive:textures/celestial/cloud_large2.png" periodU="200" periodV="150" />
+	<render red="0.00" green="0.00" blue="1.00" alpha="0.25" periodV="150" />
       </celestialObject>
 
       <celestialObject id="moon">
@@ -112,7 +114,7 @@
 	<dimension id="-28" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/moon.png" periodU="0" periodV="0" />
       </celestialObject>
 
 
@@ -126,7 +128,7 @@
 	<dimension id="-29" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/mars.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/mars.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="phobos">
@@ -139,7 +141,7 @@
 	<dimension id="-1012" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" periodU="0" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/phobos.png" periodU="0" periodV="0" />
       </celestialObject>
 
       <celestialObject id="deimos">
@@ -152,7 +154,7 @@
 	<dimension id="-1013" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/deimos.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/deimos.png" periodU="150" periodV="0" />
       </celestialObject>
 
 
@@ -166,7 +168,7 @@
 	<dimension id="-1007" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" periodU="0" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/ceres.png" periodU="0" periodV="0" />
       </celestialObject>
 
       <celestialObject id="asteroidsBelt">
@@ -179,7 +181,7 @@
 	<dimension id="-30" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/asteroid.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/asteroid.png" periodU="0" periodV="0" />
       </celestialObject>
 
 
@@ -188,7 +190,7 @@
 	  <center x="-93205" z="0" />
 	</parent>
 	<size x="50000" z="50000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/jupiter.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/jupiter.png" periodU="500" periodV="500" />
       </celestialObject>
 
       <celestialObject id="io">
@@ -201,7 +203,7 @@
 	<dimension id="-1014" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/io.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/io.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="europa">
@@ -214,7 +216,7 @@
 	<dimension id="-1015" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/europa.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/europa.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="ganymede">
@@ -227,7 +229,7 @@
 	<dimension id="-1016" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ganymede.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ganymede.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="callisto">
@@ -240,7 +242,7 @@
 	<dimension id="-1022" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/callisto.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/callisto.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -249,7 +251,7 @@
 	  <center x="0" z="-172913" />
 	</parent>
 	<size x="60000" z="60000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/saturn.png" periodU="500" periodV="500" />
       </celestialObject>
 
       <celestialObject id="mimas">
@@ -264,7 +266,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/mimas.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/mimas.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="enceladus">
@@ -277,7 +279,7 @@
 	<dimension id="-1017" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/enceladus.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/enceladus.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="tethys">
@@ -292,7 +294,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/tethys.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/tethys.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="dione">
@@ -307,7 +309,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/dione.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/dione.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="rheya">
@@ -322,7 +324,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/rheya.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/rheya.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="titan">
@@ -335,7 +337,7 @@
 	<dimension id="-1018" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titan.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titan.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="iapetus">
@@ -350,7 +352,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/iapetus.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/iapetus.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -359,7 +361,7 @@
 	  <center x="248048" z="0" />
 	</parent>
 	<size x="25000" z="25000" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/uranus.png" periodU="500" periodV="500" />
       </celestialObject>
 
       <celestialObject id="miranda">
@@ -372,7 +374,7 @@
 	<dimension id="-1024" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/miranda.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/miranda.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="ariel">
@@ -387,7 +389,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ariel.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/ariel.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="umbriel">
@@ -402,7 +404,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/umbriel.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/umbriel.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="titania">
@@ -417,7 +419,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titania.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/titania.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="oberon">
@@ -430,7 +432,7 @@
 	<dimension id="-1019" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/oberon.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/oberon.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -439,7 +441,7 @@
 	  <center x="0" z="287408" />
 	</parent>
 	<size x="2400" z="24500" />
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/neptune.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/neptune.png" periodU="500" periodV="500" />
       </celestialObject>
 
       <celestialObject id="proteus">
@@ -452,7 +454,7 @@
 	<dimension id="-1020" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/proteus.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/proteus.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="triton">
@@ -465,7 +467,7 @@
 	<dimension id="-1021" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/triton.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/triton.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -479,7 +481,7 @@
 	<dimension id="-1008" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/pluto.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/pluto.png" periodU="150" periodV="150" />
       </celestialObject>
 
       <celestialObject id="charon">
@@ -494,7 +496,7 @@
 	  <center x="0" z="0" />
 	</dimension>
 	-->
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/charon.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/moons/charon.png" periodU="150" periodV="150" />
       </celestialObject>
 
 
@@ -508,7 +510,7 @@
 	<dimension id="-1009" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/kuiperbelt.png" periodU="150" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/kuiperbelt.png" periodU="0" periodV="0" />
       </celestialObject>
 
 
@@ -522,7 +524,7 @@
 	<dimension id="-1023" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
-	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="0" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="0" periodV="0" />
       </celestialObject>
 
     </celestialObject>
