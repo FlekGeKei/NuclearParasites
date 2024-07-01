@@ -1,0 +1,20 @@
+{
+  "populate": {
+    "freakyBlock": {
+      "distribution": "uniform",
+      "generator": {
+	"block": "contenttweaker:freaky_block",
+	"material": "minecraft:diamond_ore",
+	"type": "sparse-cluster",
+	"cluster-size": 1
+      },
+      "cluster-count": 1,
+      "min-height": 0,
+      "max-height": 256,
+      "dimension": {
+	"restriction": "whitelist",
+	"value": [ 0 ]
+      }
+    }
+  }
+}

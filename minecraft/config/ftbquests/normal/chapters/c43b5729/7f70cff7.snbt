@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: -5.0d,
+	text: [
+		"Can mine Bedrock Ore",
+		"For mine Bedrock Ore you need Sulfuric Acid"
+	],
+	dependencies: [
+		"9a547e08"
+	],
+	tasks: [{
+		uid: "e31a21d2",
+		type: "item",
+		items: [{
+			item: "hbm:machine_excavator"
+		}]
+	}]
+}

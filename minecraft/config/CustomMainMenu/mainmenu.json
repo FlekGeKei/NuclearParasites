@@ -118,7 +118,12 @@
             "posX" : 2,
             "posY" : -19,
             "color" : -1,
-            "alignment" : "bottom_left"
+            "alignment" : "bottom_left",
+	    "action" :
+	    {
+		"type" : "openLink",
+		"link" : "https://github.com/FlekGeKei/NuclearParasites/releases"
+	    }
         }
     },
     
