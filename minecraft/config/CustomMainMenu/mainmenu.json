@@ -101,7 +101,6 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
             "posX" : -163,
             "posY" : -10,
             "color" : -1,
