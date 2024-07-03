@@ -1,0 +1,14 @@
+{
+	x: 22.5d,
+	y: 16.5d,
+	dependencies: [
+		"e73c82b9"
+	],
+	tasks: [{
+		uid: "712954f0",
+		type: "item",
+		items: [{
+			item: "computronics:camera"
+		}]
+	}]
+}

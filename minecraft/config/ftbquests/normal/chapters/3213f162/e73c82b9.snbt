@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: 16.5d,
+	dependencies: [
+		"ddc3b48a"
+	],
+	tasks: [{
+		uid: "b8003ae6",
+		type: "item",
+		items: [{
+			item: "computronics:cipher"
+		}]
+	}]
+}

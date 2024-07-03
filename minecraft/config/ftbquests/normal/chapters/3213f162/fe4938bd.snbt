@@ -1,0 +1,14 @@
+{
+	x: 28.5d,
+	y: 15.0d,
+	dependencies: [
+		"875a5c5a"
+	],
+	tasks: [{
+		uid: "21c636d8",
+		type: "item",
+		items: [{
+			item: "computronics:tape_reader"
+		}]
+	}]
+}

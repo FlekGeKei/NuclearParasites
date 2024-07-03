@@ -1,0 +1,14 @@
+{
+	x: 24.5d,
+	y: 13.0d,
+	dependencies: [
+		"ddc3b48a"
+	],
+	tasks: [{
+		uid: "21db4f26",
+		type: "item",
+		items: [{
+			item: "computronics:audio_cable"
+		}]
+	}]
+}

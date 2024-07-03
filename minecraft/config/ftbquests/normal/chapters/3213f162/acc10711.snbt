@@ -1,0 +1,14 @@
+{
+	x: 33.5d,
+	y: 13.5d,
+	dependencies: [
+		"1bbef934"
+	],
+	tasks: [{
+		uid: "c1f9702f",
+		type: "item",
+		items: [{
+			item: "computronics:oc_parts 1 1"
+		}]
+	}]
+}

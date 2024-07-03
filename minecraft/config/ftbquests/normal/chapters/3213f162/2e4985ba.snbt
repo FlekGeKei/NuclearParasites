@@ -1,0 +1,14 @@
+{
+	x: 47.0d,
+	y: -1.5d,
+	dependencies: [
+		"14f91d40"
+	],
+	tasks: [{
+		uid: "5a8a2aaf",
+		type: "item",
+		items: [{
+			item: "opencomputers:geolyzer"
+		}]
+	}]
+}

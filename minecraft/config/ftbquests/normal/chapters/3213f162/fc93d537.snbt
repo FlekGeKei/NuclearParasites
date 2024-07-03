@@ -1,0 +1,14 @@
+{
+	x: 21.5d,
+	y: 18.5d,
+	dependencies: [
+		"e73c82b9"
+	],
+	tasks: [{
+		uid: "23cbc43c",
+		type: "item",
+		items: [{
+			item: "computronics:cipher_advanced"
+		}]
+	}]
+}

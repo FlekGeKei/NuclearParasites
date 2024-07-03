@@ -1,0 +1,17 @@
+{
+	x: 20.25d,
+	y: 12.0d,
+	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"9f6f4cfc"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "91057e94",
+		type: "item",
+		items: [{
+			item: "computronics:iron_note_block"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 22.0d,
+	y: 14.0d,
+	dependencies: [
+		"ddc3b48a"
+	],
+	tasks: [{
+		uid: "e066915f",
+		type: "item",
+		items: [{
+			item: "computronics:colorful_lamp"
+		}]
+	}]
+}

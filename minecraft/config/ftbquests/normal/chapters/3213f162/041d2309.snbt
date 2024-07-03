@@ -1,0 +1,14 @@
+{
+	x: 20.0d,
+	y: 18.5d,
+	dependencies: [
+		"e73c82b9"
+	],
+	tasks: [{
+		uid: "906076de",
+		type: "item",
+		items: [{
+			item: "computronics:radar"
+		}]
+	}]
+}

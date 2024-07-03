@@ -5,6 +5,7 @@
 	text: [
 		"Welcome to the \"best\" apocalyptic modpack in the univers!!!"
 	],
+	size: 1.7d,
 	tasks: [{
 		uid: "7af858e9",
 		type: "checkmark",

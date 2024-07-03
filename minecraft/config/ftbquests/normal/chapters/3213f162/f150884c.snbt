@@ -1,0 +1,16 @@
+{
+	x: 57.0d,
+	y: -1.5d,
+	dependencies: [
+		"d6b252ab",
+		"763fe3fa"
+	],
+	tasks: [{
+		uid: "324bdaef",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 15"
+		}],
+		ignore_nbt: 1b
+	}]
+}

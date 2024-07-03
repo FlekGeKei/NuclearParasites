@@ -1,0 +1,14 @@
+{
+	x: 27.0d,
+	y: 11.0d,
+	dependencies: [
+		"2b31202c"
+	],
+	tasks: [{
+		uid: "66a8c45b",
+		type: "item",
+		items: [{
+			item: "computronics:speaker"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 43.0d,
+	y: 12.0d,
+	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"d1d775ff"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "4eae3900",
+		type: "item",
+		items: [{
+			item: "opensecurity:security_terminal"
+		}]
+	}]
+}
