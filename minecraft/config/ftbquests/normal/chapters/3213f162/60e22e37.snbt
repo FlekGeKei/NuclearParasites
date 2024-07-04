@@ -1,0 +1,14 @@
+{
+	x: 44.5d,
+	y: 12.0d,
+	dependencies: [
+		"020acf38"
+	],
+	tasks: [{
+		uid: "2e7e2094",
+		type: "item",
+		items: [{
+			item: "opensecurity:card_writer"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 40.0d,
+	y: 11.5d,
+	dependencies: [
+		"2860e3d0"
+	],
+	tasks: [{
+		uid: "0b85881c",
+		type: "item",
+		items: [{
+			item: "opensecurity:rolldoor"
+		}]
+	}]
+}

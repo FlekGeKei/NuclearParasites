@@ -1,0 +1,14 @@
+{
+	x: 40.5d,
+	y: 13.0d,
+	dependencies: [
+		"020acf38"
+	],
+	tasks: [{
+		uid: "e51e7eec",
+		type: "item",
+		items: [{
+			item: "opensecurity:keypad"
+		}]
+	}]
+}

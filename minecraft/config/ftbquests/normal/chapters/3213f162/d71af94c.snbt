@@ -1,0 +1,15 @@
+{
+	x: 48.5d,
+	y: 14.0d,
+	dependencies: [
+		"88b3187d",
+		"96f196ea"
+	],
+	tasks: [{
+		uid: "14be4a9a",
+		type: "item",
+		items: [{
+			item: "opensecurity:mag_secure_door"
+		}]
+	}]
+}

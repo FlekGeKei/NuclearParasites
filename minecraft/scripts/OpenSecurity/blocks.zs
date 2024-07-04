@@ -14,9 +14,9 @@ mods.ntm.Assembler.addRecipe(<opensecurity:rfid_reader>, [<ore:oc:materialCircui
 mods.ntm.Assembler.addRecipe(<opensecurity:nanofog_terminal>, [<ore:oc:materialCircuitBoardPrinted>, <ore:oc:wlanCard2>, <ore:oc:circuitChip3>, <ore:oc:materialTransistor>*5, <hbm:circuit_aluminium>, <hbm:coil_copper>*2, <hbm:plate_steel>*4], 30);
 mods.ntm.Assembler.addRecipe(<opensecurity:private_secure_door>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*5, <ore:oc:circuitChip2>*3, <ore:oc:materialTransistor>*4], 30);
 mods.ntm.Assembler.addRecipe(<opensecurity:secure_door>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*5, <ore:oc:circuitChip2>*3, <ore:oc:materialTransistor>*4, <hbm:glass_lead>], 30);
-mods.ntm.Assembler.addRecipe(<opensecurity:rolldoor_controller>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*6, <ore:oc:circuitChip3>*3, <ore:oc:materialTransistor>*2, <ore:oc:cpu1>], 30);
+mods.ntm.Assembler.addRecipe(<opensecurity:rolldoor_controller>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*6, <ore:oc:circuitChip3>*3, <ore:oc:materialTransistor>*2, <ore:oc:cpu1>, <secretroomsmod:camouflage_paste>], 30);
 mods.ntm.Assembler.addRecipe(<opensecurity:door_controller>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*6, <ore:oc:circuitChip2>*3, <ore:oc:materialTransistor>*2, <ore:oc:cpu1>], 30);
-mods.ntm.Assembler.addRecipe(<opensecurity:rolldoor>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*6, <ore:oc:circuitChip2>*3], 30);
+mods.ntm.Assembler.addRecipe(<opensecurity:rolldoor>, [<ore:oc:materialCircuitBoardPrinted>, <hbm:ingot_advanced_alloy>*6, <ore:oc:circuitChip2>*3, <secretroomsmod:camouflage_paste>], 30);
 
 mods.ntm.Anvil.addRecipe(<opensecurity:mag_reader_camo>, [<opensecurity:mag_reader>, <secretroomsmod:camouflage_paste>], 5);
 mods.ntm.Anvil.addRecipe(<opensecurity:mag_secure_door>, [<opensecurity:private_secure_door>, <opensecurity:mag_reader>, <ore:oc:circuitChip3>, <hbm:wire_gold>*2], 5);

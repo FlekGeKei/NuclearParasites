@@ -1,0 +1,14 @@
+{
+	x: 46.5d,
+	y: 11.5d,
+	dependencies: [
+		"60e22e37"
+	],
+	tasks: [{
+		uid: "cfd06b21",
+		type: "item",
+		items: [{
+			item: "opensecurity:rfid_card"
+		}]
+	}]
+}

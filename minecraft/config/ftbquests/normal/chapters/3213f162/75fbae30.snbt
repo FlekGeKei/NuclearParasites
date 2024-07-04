@@ -1,0 +1,14 @@
+{
+	x: 47.0d,
+	y: 10.0d,
+	dependencies: [
+		"52f816a3"
+	],
+	tasks: [{
+		uid: "16b14fad",
+		type: "item",
+		items: [{
+			item: "opensecurity:rfid_reader_card"
+		}]
+	}]
+}

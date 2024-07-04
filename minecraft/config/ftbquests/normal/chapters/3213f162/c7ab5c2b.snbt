@@ -1,0 +1,17 @@
+{
+	x: 44.5d,
+	y: 10.5d,
+	text: [
+		"just Data Card in block"
+	],
+	dependencies: [
+		"020acf38"
+	],
+	tasks: [{
+		uid: "955008fa",
+		type: "item",
+		items: [{
+			item: "opensecurity:data_block"
+		}]
+	}]
+}

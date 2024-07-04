@@ -150,7 +150,7 @@
 	<parent>
 	  <center x="-13000" z="-54005" />
 	</parent>
-	<size x="10000" z="10000" />
+	<size x="8000" z="8000" />
 	<dimension id="-1012" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
@@ -163,7 +163,7 @@
 	<parent>
 	  <center x="14000" z="-54005" />
 	</parent>
-	<size x="10000" z="10000" />
+	<size x="8000" z="8000" />
 	<dimension id="-1013" isBreathable="false" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>

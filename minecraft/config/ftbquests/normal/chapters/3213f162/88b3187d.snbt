@@ -1,0 +1,14 @@
+{
+	x: 46.5d,
+	y: 15.0d,
+	dependencies: [
+		"fad0c43b"
+	],
+	tasks: [{
+		uid: "a944f295",
+		type: "item",
+		items: [{
+			item: "opensecurity:private_secure_door"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 42.5d,
+	y: 14.0d,
+	dependencies: [
+		"46bc5001",
+		"020acf38"
+	],
+	tasks: [{
+		uid: "495f01e4",
+		type: "item",
+		items: [{
+			item: "opensecurity:biometric_reader"
+		}]
+	}]
+}

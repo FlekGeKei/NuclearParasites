@@ -1,0 +1,14 @@
+{
+	x: 42.0d,
+	y: 13.0d,
+	dependencies: [
+		"020acf38"
+	],
+	tasks: [{
+		uid: "69ddce9b",
+		type: "item",
+		items: [{
+			item: "opensecurity:alarm"
+		}]
+	}]
+}
