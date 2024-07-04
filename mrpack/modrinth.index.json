@@ -6,6 +6,21 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/TTZtsNrf/versions/UNewFQPv/serializationisbad-1.5.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 511085,
+      "hashes": {
+        "sha1": "da05f7344986d425c858decb36cf776b3fe53dad",
+        "sha512": "40391775653921f408b04c8dc08f033d03af612bb397e85e2731717c70a92ec339c53add179fc6487dbfe1db33120ef56870c96740d7c8861461012dd058895d"
+      },
+      "path": "mods/!1serializationisbad-1.5.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Bnsrfd1o/versions/Ha5RG6IC/%21configanytime-3.0.jar"
       ],
       "env": {
