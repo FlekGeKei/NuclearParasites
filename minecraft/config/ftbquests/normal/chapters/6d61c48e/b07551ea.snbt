@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"28c9ac81"
+	],
+	tasks: [{
+		uid: "318fc32a",
+		type: "item",
+		items: [{
+			item: "warpdrive:ship_core.basic"
+		}]
+	}]
+}

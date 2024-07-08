@@ -7,5 +7,32 @@
     "thirst": 6,
     "hydration": 0.7,
     "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "contenttweaker:baltika9",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  };
+  {
+    "item": {
+      "name": "contenttweaker:budweiser",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "contenttweaker:infinite_purified_water_bottle",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.6,
+    "poisonChance": 0.0
   }
 ]

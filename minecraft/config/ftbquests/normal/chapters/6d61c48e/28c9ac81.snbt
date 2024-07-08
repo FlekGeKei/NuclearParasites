@@ -1,0 +1,13 @@
+{
+	title: "Preparing to wihout air, extracold and extrahot environment",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Get armor with temperature immunity",
+		"For example T-45"
+	],
+	tasks: [{
+		uid: "a36eb848",
+		type: "checkmark"
+	}]
+}
