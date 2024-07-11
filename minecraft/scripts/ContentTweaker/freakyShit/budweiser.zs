@@ -15,6 +15,7 @@ budweiser.beaconPayment = true;
 budweiser.alwaysEdible = true;
 budweiser.wolfFood = true;
 budweiser.setSaturation(0.0);
+budweiser.creativeTab = <creativetab:nuclearparasites>;
 budweiser.onItemFoodEaten = function(stack, world, player) {
   player.addPotionEffect(<potion:minecraft:speed>.makePotionEffect(5000, 2));
   player.addPotionEffect(<potion:minecraft:strength>.makePotionEffect(5000, 2));

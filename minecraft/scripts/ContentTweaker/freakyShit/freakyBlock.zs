@@ -19,6 +19,7 @@ freakyBlock.setDropHandler(function(drops, world, position, state, fortune){
 freakyBlock.setBlockSoundType(<soundtype:stone>);
 freakyBlock.setToolLevel(0);
 freakyBlock.setBlockHardness(1.5);
+freakyBlock.creativeTab = <creativetab:nuclearparasites>;
 freakyBlock.onBlockBreak = function(world, blockPos, blockState){
   server.commandManager.executeCommand(server, "tellraw @a [\"\",{\"text\":\"<\"},{\"text\":\"Freaky Block\",\"color\":\"light_purple\"},{\"text\":\"> \"},{\"text\":\"KYS\",\"bold\":true,\"color\":\"dark_red\"}]");
 };

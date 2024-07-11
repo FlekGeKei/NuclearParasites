@@ -13,6 +13,7 @@ infinitePurifiedWaterBottle.setItemUseAction("DRINK");
 infinitePurifiedWaterBottle.setRarity("COMMON");
 infinitePurifiedWaterBottle.alwaysEdible = true;
 infinitePurifiedWaterBottle.setSaturation(0.0);
+infinitePurifiedWaterBottle.creativeTab = <creativetab:nuclearparasites>;
 infinitePurifiedWaterBottle.onItemFoodEaten = function(stack, world, player) {
   stack.grow(1);
 };
