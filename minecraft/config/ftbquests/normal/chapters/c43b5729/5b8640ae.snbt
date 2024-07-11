@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b220a55e",
+		type: "item",
+		items: [{
+			item: "theoneprobe:probe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

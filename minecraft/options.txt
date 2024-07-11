@@ -102,8 +102,9 @@ key_keybind.name.EMOTE_SLOT_7:0
 key_keybind.name.EMOTE_SLOT_8:0
 key_Zoom:46
 key_Galaxy Map:0
-key_Open Spaceship Inventory:33
-key_Toggle Sensor Goggles Mode:37
+key_Open Spaceship Inventory:0
+key_Toggle Sensor Goggles Mode:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -122,6 +123,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -129,10 +131,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_key.death_history:0
-key_keybinds.show_wounds:35:SHIFT
+key_keybinds.show_wounds:40
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
@@ -151,9 +151,9 @@ key_key.nightVision:49
 key_key.add:23
 key_key.subtract:24
 key_key.fire_mode:48
-key_key.proning:44:SHIFT
-key_debug.freecamLock:199
-key_debug.freecamRotate:29
+key_key.proning:0
+key_debug.freecamLock:0
+key_debug.freecamRotate:0
 key_key.custom_inventory:45
 key_vehicle.throttle:17
 key_vehicle.brake:31
@@ -180,12 +180,11 @@ key_key.toggleTimeOfDayOverlay:0
 key_key.togglePotionParticles:0
 key_Difficulty Meter - Show:0
 key_Difficulty Meter - Show Always:0
-key_key.secretroomsmod.oneWayface:0
 key_walljump.key.walljump:42
 key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:48:CONTROL
-key_smoothfont.key.guiOpen:199
+key_smoothfont.key.guiOpen:0
 key_key.toggle_focus.desc:15
 key_key.open_wireless_terminal.desc:20:SHIFT
 key_key.open_wireless_crafting_terminal.desc:18:SHIFT
@@ -207,7 +206,7 @@ key_Options Gui:0
 key_key.clipboardPaste:210
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
-key_cyberware.keybinds.menu:26
+key_cyberware.keybinds.menu:19
 key_Dynamic Lights toggle:0
 key_invtweaks.key.sort:0
 key_Camera left:203
