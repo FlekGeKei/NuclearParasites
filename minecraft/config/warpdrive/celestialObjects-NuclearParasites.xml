@@ -26,7 +26,7 @@
       <parent>
 	<center x="0" z="0"/>
       </parent>
-      <size x="800000" z="800000" />
+      <size x="700000" z="700000" />
       <name>Solar System</name>
       <description>some freacy shit</description>
       <dimension id="-101" isBreathable="false" gravity="legacySpace">
@@ -551,9 +551,331 @@
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/haumea.png" periodU="0" periodV="0" />
       </celestialObject>
-
     </celestialObject>
 
-  </celestialObject>
+    <celestialObject id="tauCetiSystem">
+      <parent>
+	<center x="401796" z="0"/>
+      </parent>
+      <size x="93592" z="93592" />
+      <name>Tau Ceti System</name>
+      <description>some freacy shit</description>
+      <dimension id="-102" isBreathable="false" gravity="legacySpace">
+	<center x="0" z="0" />
+	<provider type="WarpDriveSpace" />
+	<generate group="moon" ratio="0.00125" />
+	<generate group="asteroid" ratio="0.0067" />
+	<generate group="asteroids_field" ratio="0.0016" />
+      </dimension>
+      <skybox>
+	<backgroundColor red="0.0" green="0.0" blue="0.0" />
+	<boxTextures  back  ="warpdrive:textures/celestial/skybox-large_yellow/back.png"
+		      bottom="warpdrive:textures/celestial/skybox-large_yellow/bottom.png"
+		      front ="warpdrive:textures/celestial/skybox-large_yellow/front.png"
+		      left  ="warpdrive:textures/celestial/skybox-large_yellow/left.png"
+		      right ="warpdrive:textures/celestial/skybox-large_yellow/right.png"
+		      top   ="warpdrive:textures/celestial/skybox-large_yellow/top.png" />
+	<boxBrightness>1.0</boxBrightness>
+	<starBrightnessBase>0.9</starBrightnessBase>
+	<starBrightnessVanilla>0.0</starBrightnessVanilla>
+	<celestialObjectOpacity>1.0</celestialObjectOpacity>
+	<fogColor red="0.0" green="0.0" blue="0.0" />
+	<fogFactor red="0.0" green="0.0" blue="0.0" />
+      </skybox>
 
+      <celestialObject id="tauCeti">
+	<parent>
+	  <center x="0" z="0" />
+	</parent>
+	<size x="10000" z="10000" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/tauceti/tauceti.png" periodU="0" periodV="0" />
+      </celestialObject>
+
+
+      <celestialObject id="tauCetiG">
+	<name>Tau Ceti G</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="13451" z="0" />
+	</parent>
+	<size x="10902" z="10902" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/tauceti/tauceti_g.png" periodU="100" periodV="100" />
+      </celestialObject>
+      
+
+      <celestialObject id="tauCetiH">
+	<name>Tau Ceti H</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="0" z="19551" />
+	</parent>
+	<size x="12000" z="12000" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/tauceti/tauceti_h.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+
+      <celestialObject id="tauCetiE">
+	<name>Tau Ceti E</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="-25296" z="0" />
+	</parent>
+	<size x="11090" z="11090" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/tauceti/tauceti_e.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+
+      <celestialObject id="tauCetiF">
+	<name>Tau Ceti F</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="0" z="-35746" />
+	</parent>
+	<size x="20100" z="20100" />
+	<dimension id="-1338" isBreathable="true" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/tauceti/tauceti_f.png" periodU="100" periodV="100" />
+      </celestialObject>
+    </celestialObject>
+
+    <celestialObject id="barnardsSystem">
+      <parent>
+	<center x="0" z="414310"/>
+      </parent>
+      <size x="126620" z="126620" />
+      <name>Barnard's System</name>
+      <description>some freacy shit</description>
+      <dimension id="-103" isBreathable="false" gravity="legacySpace">
+	<center x="0" z="0" />
+	<provider type="WarpDriveSpace" />
+	<generate group="moon" ratio="0.00125" />
+	<generate group="asteroid" ratio="0.0067" />
+	<generate group="asteroids_field" ratio="0.0016" />
+      </dimension>
+      <skybox>
+	<backgroundColor red="0.0" green="0.0" blue="0.0" />
+	<boxTextures  back  ="warpdrive:textures/celestial/skybox-full_green_purple/back.png"
+		      bottom="warpdrive:textures/celestial/skybox-full_green_purple/bottom.png"
+		      front ="warpdrive:textures/celestial/skybox-full_green_purple/front.png"
+		      left  ="warpdrive:textures/celestial/skybox-full_green_purple/left.png"
+		      right ="warpdrive:textures/celestial/skybox-full_green_purple/right.png"
+		      top   ="warpdrive:textures/celestial/skybox-full_green_purple/top.png" />
+	<boxBrightness>1.0</boxBrightness>
+	<starBrightnessBase>0.9</starBrightnessBase>
+	<starBrightnessVanilla>0.0</starBrightnessVanilla>
+	<celestialObjectOpacity>1.0</celestialObjectOpacity>
+	<fogColor red="0.0" green="0.0" blue="0.0" />
+	<fogFactor red="0.0" green="0.0" blue="0.0" />
+      </skybox>
+
+      <celestialObject id="barnardaA">
+	<parent>
+	  <center x="0" z="0" />
+	</parent>
+	<size x="10000" z="10000" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_a.png" periodU="0" periodV="0" />
+      </celestialObject>
+
+
+      <celestialObject id="barnardaB">
+	<name>Barnarda B</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="11505" z="0" />
+	</parent>
+	<size x="11010" z="11010" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_b.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+      <celestialObject id="barnardaBRing">
+	<name>Barnarda B Ring</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="11505" z="11355" />
+	</parent>
+	<size x="10700" z="10700" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/moons/barnarda_b1.png" periodU="0" periodV="0" />
+      </celestialObject>
+
+
+      <celestialObject id="barnardaC">
+	<name>Barnarda C</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="0" z="28510" />
+	</parent>
+	<size x="23000" z="23000" />
+	<dimension id="-1030" isBreathable="true" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_c.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+      <celestialObject id="barnardaC1">
+	<name>Barnarda </name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="17510" z="28510" />
+	</parent>
+	<size x="10020" z="10020" />
+	<dimension id="-1031" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/moons/barnarda_c1.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+      <celestialObject id="barnardaC2">
+	<name>Barnarda </name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="-17500" z="28510" />
+	</parent>
+	<size x="10000" z="10000" />
+	<dimension id="-1032" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/moons/barnarda_c2.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+
+      <celestialObject id="barnardaAsteroidsBelt">
+	<name>Barnarda Asteroids Belt</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="-45810" z="0" />
+	</parent>
+	<size x="11000" z="11000" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_d.png" periodU="100" periodV="100" />
+      </celestialObject>
+
+
+      <celestialObject id="barnardaE">
+	<name>Barnarda E</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="0" z="-56910" />
+	</parent>
+	<size x="10800" z="10800" />
+	<!--
+	<dimension id="" isBreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/barnards/barnarda_e.png" periodU="100" periodV="100" />
+      </celestialObject>
+    </celestialObject>
+
+    <celestialObject id="proximaCentauriSystem">
+      <parent>
+	<center x="-402840" z="0"/>
+      </parent>
+      <size x="99680" z="99680" />
+      <name>Proxima Centauri System</name>
+      <description>some freacy shit</description>
+      <dimension id="-104" isBreathable="false" gravity="legacySpace">
+	<center x="0" z="0" />
+	<provider type="WarpDriveSpace" />
+	<generate group="moon" ratio="0.00125" />
+	<generate group="asteroid" ratio="0.0067" />
+	<generate group="asteroids_field" ratio="0.0016" />
+      </dimension>
+      <skybox>
+	<backgroundColor red="0.0" green="0.0" blue="0.0" />
+	<boxTextures  back  ="warpdrive:textures/celestial/skybox-full_blue_pink/back.png"
+		      bottom="warpdrive:textures/celestial/skybox-full_blue_pink/bottom.png"
+		      front ="warpdrive:textures/celestial/skybox-full_blue_pink/front.png"
+		      left  ="warpdrive:textures/celestial/skybox-full_blue_pink/left.png"
+		      right ="warpdrive:textures/celestial/skybox-full_blue_pink/right.png"
+		      top   ="warpdrive:textures/celestial/skybox-full_blue_pink/top.png" />
+	<boxBrightness>1.0</boxBrightness>
+	<starBrightnessBase>0.9</starBrightnessBase>
+	<starBrightnessVanilla>0.0</starBrightnessVanilla>
+	<celestialObjectOpacity>1.0</celestialObjectOpacity>
+	<fogColor red="0.0" green="0.0" blue="0.0" />
+	<fogFactor red="0.0" green="0.0" blue="0.0" />
+      </skybox>
+
+      <celestialObject id="proximaCentauri">
+	<parent>
+	  <center x="0" z="0" />
+	</parent>
+	<size x="10000" z="10000" />
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/proxima/proxima.png" periodU="0" periodV="0" />
+      </celestialObject>
+
+      <celestialobject id="proximaD">
+	<name>Proxima D</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="11250" z="0" />
+	</parent>
+	<size x="10500" z="10500" />
+	<!--
+	<dimension id="" isbreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/proxima/proxima_d.png" periodu="100" periodv="100" />
+      </celestialobject>
+
+      <celestialobject id="proximaB">
+	<name>Proxima B</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="0" z="27400" />
+	</parent>
+	<size x="20800" z="20800" />
+	<dimension id="-1025" isbreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/proxima/proxima_b.png" periodu="100" periodv="100" />
+      </celestialobject>
+
+      <celestialobject id="proximaC">
+	<name>Proxima C</name>
+	<description>some freaky shit</description>
+	<parent>
+	  <center x="-43395" z="0" />
+	</parent>
+	<size x="10890" z="10890" />
+	<!--
+	<dimension id="" isbreathable="false" gravity="normal">
+	  <center x="0" z="0" />
+	</dimension>
+	-->
+	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/proxima/proxima_c.png" periodu="100" periodv="100" />
+      </celestialobject>
+    </celestialObject>
+  </celestialObject>
 </worldGeneration>
