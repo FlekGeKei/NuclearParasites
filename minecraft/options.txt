@@ -9,13 +9,13 @@ guiScale:2
 particles:2
 bobView:false
 anaglyph3d:false
-maxFps:50
+maxFps:60
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:0
 renderClouds:false
-resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip"]
+resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Black Icons§r"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -104,8 +104,15 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
-key_quark.keybind.lockBuilding:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -124,13 +131,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_key.death_history:0
 key_keybinds.show_wounds:40
 key_key.ftbutilities.nbt:0
@@ -191,7 +191,7 @@ key_key.open_wireless_terminal.desc:20:SHIFT
 key_key.open_wireless_crafting_terminal.desc:18:SHIFT
 key_key.open_wireless_pattern_terminal.desc:19:SHIFT
 key_key.open_wireless_fluid_terminal.desc:33:SHIFT
-key_key.jei.toggleOverlay:59
+key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
