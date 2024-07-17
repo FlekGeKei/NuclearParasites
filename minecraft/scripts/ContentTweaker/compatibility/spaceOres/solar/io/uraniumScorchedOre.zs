@@ -1,0 +1,17 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.DropHandler;
+
+var UraniumScorchedOre = VanillaFactory.createBlock("_uranium_scorched_ore", <blockmaterial:rock>);
+
+UraniumScorchedOre.setDropHandler(function(drops, world, position, state, fortune){
+  drops.clear();
+  drops.add(<item:hbm:ore_uranium_scorched> % 100);
+  return;
+});
+UraniumScorchedOre.setBlockSoundType(<soundtype:stone>);
+UraniumScorchedOre.setToolLevel(2);
+UraniumScorchedOre.creativeTab = <creativetab:nuclearparasites>;
+UraniumScorchedOre.register();

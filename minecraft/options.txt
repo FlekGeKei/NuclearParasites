@@ -12,7 +12,7 @@ anaglyph3d:false
 maxFps:60
 fboEnable:true
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:0
 renderClouds:false
 resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Black Icons§r"]
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:true
 useVbo:true
@@ -104,15 +104,6 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -131,7 +122,17 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_key.death_history:0
+key_cos.key.opencosarmorinventory:0
 key_keybinds.show_wounds:40
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
@@ -218,6 +219,7 @@ key_Camera up:201
 key_Camera down:209
 key_Swap shoulder:0
 key_Toggle perspective:0
+key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_key.push_to_talk:0
 key_key.whisper:0
 key_key.mute_microphone:0
