@@ -651,21 +651,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/rWSwwjTs/versions/31hDeGI9/mobsunscreen-1.12.2-3.1.6.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 6188,
-      "hashes": {
-        "sha1": "764c44b615cab460ffd38c04bcc557f81a31cecd",
-        "sha512": "1455ebe0ed9cebfe1933f7f86e467fb3403bad0c784a24be48d16c8073af02c4f7d161acad598436aa90b79a14decfce29a1674c955a74d7b6eaefaa594a7a51"
-      },
-      "path": "mods/mobsunscreen-1.12.2-3.1.6.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
       ],
       "env": {
