@@ -4,9 +4,9 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LapisOre = VanillaFactory.createBlock("_lapis_ore", <blockmaterial:rock>);
+var solarAsteroidBeltLapisOre = VanillaFactory.createBlock("solar_asteroid_belt_lapis_ore", <blockmaterial:rock>);
 
-LapisOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltLapisOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:minecraft:dye:4>*4 % 100);
   drops.add(<item:minecraft:dye:4> % 50);
@@ -15,7 +15,7 @@ LapisOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.add(<item:minecraft:dye:4> % 30);
   return;
 });
-LapisOre.setBlockSoundType(<soundtype:stone>);
-LapisOre.setToolLevel(1);
-LapisOre.creativeTab = <creativetab:nuclearparasites>;
-LapisOre.register();
+solarAsteroidBeltLapisOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltLapisOre.setToolLevel(1);
+solarAsteroidBeltLapisOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltLapisOre.register();

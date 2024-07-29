@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LeadOre = VanillaFactory.createBlock("_lead_ore", <blockmaterial:rock>);
+var solarAsteroidBeltLeadOre = VanillaFactory.createBlock("solar_asteroid_belt_lead_ore", <blockmaterial:rock>);
 
-LeadOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltLeadOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_lead> % 100);
   return;
 });
-LeadOre.setBlockSoundType(<soundtype:stone>);
-LeadOre.setToolLevel(2);
-LeadOre.creativeTab = <creativetab:nuclearparasites>;
-LeadOre.register();
+solarAsteroidBeltLeadOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltLeadOre.setToolLevel(2);
+solarAsteroidBeltLeadOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltLeadOre.register();

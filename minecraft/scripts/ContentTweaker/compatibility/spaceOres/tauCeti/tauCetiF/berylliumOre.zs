@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BerylliumOre = VanillaFactory.createBlock("_beryllium_ore", <blockmaterial:rock>);
+var tauCetiFBerylliumOre = VanillaFactory.createBlock("tau_ceti_f_beryllium_ore", <blockmaterial:rock>);
 
-BerylliumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFBerylliumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_beryllium> % 100);
   return;
 });
-BerylliumOre.setBlockSoundType(<soundtype:stone>);
-BerylliumOre.setToolLevel(2);
-BerylliumOre.creativeTab = <creativetab:nuclearparasites>;
-BerylliumOre.register();
+tauCetiFBerylliumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFBerylliumOre.setToolLevel(2);
+tauCetiFBerylliumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFBerylliumOre.register();

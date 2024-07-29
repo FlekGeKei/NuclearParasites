@@ -1,0 +1,18 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.DropHandler;
+
+var RedstoneOre = VanillaFactory.createBlock("solar_enceladus_redstone_ore", <blockmaterial:rock>);
+
+RedstoneOre.setDropHandler(function(drops, world, position, state, fortune){
+  drops.clear();
+  drops.add(<item:minecraft:redstone>*4 % 100);
+  drops.add(<item:minecraft:redstone> % 50);
+  return;
+});
+RedstoneOre.setBlockSoundType(<soundtype:stone>);
+RedstoneOre.setToolLevel(2);
+RedstoneOre.creativeTab = <creativetab:nuclearparasites>;
+RedstoneOre.register();

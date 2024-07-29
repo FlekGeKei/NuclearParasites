@@ -4,15 +4,15 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RedstoneOre = VanillaFactory.createBlock("_redstone_ore", <blockmaterial:rock>);
+var tauCetiFRedstoneOre = VanillaFactory.createBlock("tau_ceti_f_redstone_ore", <blockmaterial:rock>);
 
-RedstoneOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFRedstoneOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:minecraft:redstone>*4 % 100);
   drops.add(<item:minecraft:redstone> % 50);
   return;
 });
-RedstoneOre.setBlockSoundType(<soundtype:stone>);
-RedstoneOre.setToolLevel(2);
-RedstoneOre.creativeTab = <creativetab:nuclearparasites>;
-RedstoneOre.register();
+tauCetiFRedstoneOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFRedstoneOre.setToolLevel(2);
+tauCetiFRedstoneOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFRedstoneOre.register();

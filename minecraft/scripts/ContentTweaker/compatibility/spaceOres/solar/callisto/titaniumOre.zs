@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TitanOre = VanillaFactory.createBlock("_titan_ore", <blockmaterial:rock>);
+var TitanOre = VanillaFactory.createBlock("solar_callisto_titan_ore", <blockmaterial:rock>);
 
 TitanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

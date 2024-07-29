@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var VerticiumOre = VanillaFactory.createBlock("_verticium_ore", <blockmaterial:rock>);
+var VerticiumOre = VanillaFactory.createBlock("solar_io_verticium_ore", <blockmaterial:rock>);
 
 VerticiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

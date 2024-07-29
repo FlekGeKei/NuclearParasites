@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TrinititeOre = VanillaFactory.createBlock("_trinitite_ore", <blockmaterial:rock>);
+var tauCetiFTrinititeOre = VanillaFactory.createBlock("tau_ceti_f_trinitite_ore", <blockmaterial:rock>);
 
-TrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFTrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:trinitite> % 100);
   return;
 });
-TrinititeOre.setBlockSoundType(<soundtype:stone>);
-TrinititeOre.setToolLevel(0);
-TrinititeOre.creativeTab = <creativetab:nuclearparasites>;
-TrinititeOre.register();
+tauCetiFTrinititeOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFTrinititeOre.setToolLevel(0);
+tauCetiFTrinititeOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFTrinititeOre.register();

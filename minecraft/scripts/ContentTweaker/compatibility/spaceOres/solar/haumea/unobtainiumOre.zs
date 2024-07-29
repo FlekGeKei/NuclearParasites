@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BrightblendeOre = VanillaFactory.createBlock("_brightblende_ore", <blockmaterial:rock>);
+var BrightblendeOre = VanillaFactory.createBlock("solar_haumea_brightblende_ore", <blockmaterial:rock>);
 
 BrightblendeOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

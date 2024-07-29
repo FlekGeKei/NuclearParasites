@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ReiiumOre = VanillaFactory.createBlock("_reiium_ore", <blockmaterial:rock>);
+var ReiiumOre = VanillaFactory.createBlock("solar_ganymede_reiium_ore", <blockmaterial:rock>);
 
 ReiiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

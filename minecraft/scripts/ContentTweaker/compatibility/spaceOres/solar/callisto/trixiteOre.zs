@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TrixiteOre = VanillaFactory.createBlock("_trixite_ore", <blockmaterial:rock>);
+var TrixiteOre = VanillaFactory.createBlock("solar_callisto_trixite_ore", <blockmaterial:rock>);
 
 TrixiteOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -14,5 +14,4 @@ RedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune)
 RedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
 RedPhosphorusOre.setToolLevel(2);
 RedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
-RedPhosphorusOre.textureLocation = OresPath;
 RedPhosphorusOre.register();

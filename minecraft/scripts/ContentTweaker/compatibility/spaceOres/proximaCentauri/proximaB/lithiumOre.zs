@@ -8,7 +8,7 @@ var proximaBLithiumOre = VanillaFactory.createBlock("proxima_b_lithium_ore", <bl
 
 proximaBLithiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
-  drops.add(<hbm:ore_meteor_lithium> % 100);
+  drops.add(<item:hbm:ore_meteor_lithium> % 100);
   return;
 });
 proximaBLithiumOre.setBlockSoundType(<soundtype:stone>);

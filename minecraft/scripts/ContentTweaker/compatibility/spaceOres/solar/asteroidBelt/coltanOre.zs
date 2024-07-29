@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ColtanOre = VanillaFactory.createBlock("_coltan_ore", <blockmaterial:rock>);
+var solarAsteroidBeltColtanOre = VanillaFactory.createBlock("solar_asteroid_belt_coltan_ore", <blockmaterial:rock>);
 
-ColtanOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltColtanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_coltan> % 100);
   return;
 });
-ColtanOre.setBlockSoundType(<soundtype:stone>);
-ColtanOre.setToolLevel(3);
-ColtanOre.creativeTab = <creativetab:nuclearparasites>;
-ColtanOre.register();
+solarAsteroidBeltColtanOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltColtanOre.setToolLevel(3);
+solarAsteroidBeltColtanOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltColtanOre.register();

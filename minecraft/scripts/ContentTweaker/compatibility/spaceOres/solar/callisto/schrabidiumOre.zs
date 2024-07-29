@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var SchrabidiumOre = VanillaFactory.createBlock("_schrabidium_ore", <blockmaterial:rock>);
+var SchrabidiumOre = VanillaFactory.createBlock("solar_callisto_schrabidium_ore", <blockmaterial:rock>);
 
 SchrabidiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

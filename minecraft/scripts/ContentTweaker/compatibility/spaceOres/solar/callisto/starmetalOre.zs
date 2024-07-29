@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var StarmetalOre = VanillaFactory.createBlock("_starmetal_ore", <blockmaterial:rock>);
+var StarmetalOre = VanillaFactory.createBlock("solar_callisto_starmetal_ore", <blockmaterial:rock>);
 
 StarmetalOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ColtanOre = VanillaFactory.createBlock("_coltan_ore", <blockmaterial:rock>);
+var ColtanOre = VanillaFactory.createBlock("solar_callisto_coltan_ore", <blockmaterial:rock>);
 
 ColtanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

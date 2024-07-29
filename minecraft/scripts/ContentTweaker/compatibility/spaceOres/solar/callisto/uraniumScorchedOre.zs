@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var UraniumScorchedOre = VanillaFactory.createBlock("_uranium_scorched_ore", <blockmaterial:rock>);
+var UraniumScorchedOre = VanillaFactory.createBlock("solar_callisto_uranium_scorched_ore", <blockmaterial:rock>);
 
 UraniumScorchedOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

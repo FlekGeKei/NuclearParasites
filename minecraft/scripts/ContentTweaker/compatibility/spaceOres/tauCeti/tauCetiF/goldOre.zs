@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var GoldOre = VanillaFactory.createBlock("_gold_ore", <blockmaterial:rock>);
+var tauCetiFGoldOre = VanillaFactory.createBlock("tau_ceti_f_gold_ore", <blockmaterial:rock>);
 
-GoldOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFGoldOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:minecraft:gold_ore> % 100);
   return;
 });
-GoldOre.setBlockSoundType(<soundtype:stone>);
-GoldOre.setToolLevel(2);
-GoldOre.creativeTab = <creativetab:nuclearparasites>;
-GoldOre.register();
+tauCetiFGoldOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFGoldOre.setToolLevel(2);
+tauCetiFGoldOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFGoldOre.register();

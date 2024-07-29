@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RareOre = VanillaFactory.createBlock("_rare_ore", <blockmaterial:rock>);
+var tauCetiFRareOre = VanillaFactory.createBlock("tau_ceti_f_rare_ore", <blockmaterial:rock>);
 
-RareOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFRareOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_rare> % 100);
   return;
 });
-RareOre.setBlockSoundType(<soundtype:stone>);
-RareOre.setToolLevel(2);
-RareOre.creativeTab = <creativetab:nuclearparasites>;
-RareOre.register();
+tauCetiFRareOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFRareOre.setToolLevel(2);
+tauCetiFRareOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFRareOre.register();

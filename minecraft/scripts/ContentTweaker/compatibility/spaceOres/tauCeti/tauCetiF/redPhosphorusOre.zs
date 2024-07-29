@@ -4,15 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RedPhosphorusOre = VanillaFactory.createBlock("_red_phosphorus_ore", <blockmaterial:rock>);
+var tauCetiFRedPhosphorusOre = VanillaFactory.createBlock("tau_ceti_f_red_phosphorus_ore", <blockmaterial:rock>);
 
-RedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFRedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:powder_fire> % 100);
   return;
 });
-RedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
-RedPhosphorusOre.setToolLevel(2);
-RedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
-RedPhosphorusOre.textureLocation = OresPath;
-RedPhosphorusOre.register();
+tauCetiFRedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFRedPhosphorusOre.setToolLevel(2);
+tauCetiFRedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFRedPhosphorusOre.register();

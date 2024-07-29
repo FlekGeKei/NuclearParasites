@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var GoldOre = VanillaFactory.createBlock("_gold_ore", <blockmaterial:rock>);
+var GoldOre = VanillaFactory.createBlock("solar_io_gold_ore", <blockmaterial:rock>);
 
 GoldOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

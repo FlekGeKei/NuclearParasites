@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RareOre = VanillaFactory.createBlock("_rare_ore", <blockmaterial:rock>);
+var RareOre = VanillaFactory.createBlock("solar_haumea_rare_ore", <blockmaterial:rock>);
 
 RareOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

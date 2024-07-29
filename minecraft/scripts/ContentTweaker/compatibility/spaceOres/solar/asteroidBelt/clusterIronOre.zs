@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterIronOre = VanillaFactory.createBlock("_cluster_iron_ore", <blockmaterial:rock>);
+var solarAsteroidBeltClusterIronOre = VanillaFactory.createBlock("solar_asteroid_belt_cluster_iron_ore", <blockmaterial:rock>);
 
-ClusterIronOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltClusterIronOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:cluster_iron> % 100);
   return;
 });
-ClusterIronOre.setBlockSoundType(<soundtype:stone>);
-ClusterIronOre.setToolLevel(1);
-ClusterIronOre.creativeTab = <creativetab:nuclearparasites>;
-ClusterIronOre.register();
+solarAsteroidBeltClusterIronOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltClusterIronOre.setToolLevel(1);
+solarAsteroidBeltClusterIronOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltClusterIronOre.register();

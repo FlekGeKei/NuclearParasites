@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterAluminiumOre = VanillaFactory.createBlock("_cluster_aluminium_ore", <blockmaterial:rock>);
+var ClusterAluminiumOre = VanillaFactory.createBlock("solar_io_cluster_aluminium_ore", <blockmaterial:rock>);
 
 ClusterAluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

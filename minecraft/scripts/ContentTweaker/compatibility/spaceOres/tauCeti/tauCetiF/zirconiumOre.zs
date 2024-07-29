@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ZirconiumOre = VanillaFactory.createBlock("_zirconium_ore", <blockmaterial:rock>);
+var tauCetiFZirconiumOre = VanillaFactory.createBlock("tau_ceti_f_zirconium_ore", <blockmaterial:rock>);
 
-ZirconiumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFZirconiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_depth_zirconium> % 100);
   return;
 });
-ZirconiumOre.setBlockSoundType(<soundtype:stone>);
-ZirconiumOre.setToolLevel(3);
-ZirconiumOre.creativeTab = <creativetab:nuclearparasites>;
-ZirconiumOre.register();
+tauCetiFZirconiumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFZirconiumOre.setToolLevel(3);
+tauCetiFZirconiumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFZirconiumOre.register();

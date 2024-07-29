@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterTitanOre = VanillaFactory.createBlock("_cluster_titan_ore", <blockmaterial:rock>);
+var solarAsteroidBeltClusterTitanOre = VanillaFactory.createBlock("solar_asteroid_belt_cluster_titan_ore", <blockmaterial:rock>);
 
-ClusterTitanOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltClusterTitanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:cluster_titanium> % 100);
   return;
 });
-ClusterTitanOre.setBlockSoundType(<soundtype:stone>);
-ClusterTitanOre.setToolLevel(1);
-ClusterTitanOre.creativeTab = <creativetab:nuclearparasites>;
-ClusterTitanOre.register();
+solarAsteroidBeltClusterTitanOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltClusterTitanOre.setToolLevel(1);
+solarAsteroidBeltClusterTitanOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltClusterTitanOre.register();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var DiamondOre = VanillaFactory.createBlock("_diamond_ore", <blockmaterial:rock>);
+var DiamondOre = VanillaFactory.createBlock("solar_ceres_diamond_ore", <blockmaterial:rock>);
 
 DiamondOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

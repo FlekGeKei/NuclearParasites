@@ -1136,7 +1136,7 @@ biomesoplenty:biome_finder, Biome Finder
 biomesoplenty:record_wanderer, Music Disc
 biomesoplenty:mudball, Mud Ball
 biomesoplenty:mud_brick, Mud Brick
-biomesoplenty:ash, Pile of Ashes
+biomesoplenty:ash, Ash
 biomesoplenty:fleshchunk, Chunk of Flesh
 biomesoplenty:gem:0, Ender Amethyst
 biomesoplenty:gem:1, Ruby
@@ -10391,28 +10391,6 @@ appliedenergistics2:facade:0, Cable Facade - Triton Subsurface Rock
 appliedenergistics2:facade:0, Cable Facade - Triton Stone
 appliedenergistics2:facade:0, Cable Facade - Triton Geyser
 appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
-appliedenergistics2:facade:0, Cable Facade - Surface
-appliedenergistics2:facade:0, Cable Facade - Subsurface
-appliedenergistics2:facade:0, Cable Facade - Stone
-appliedenergistics2:facade:0, Cable Facade - Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Rocky Surface
-appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
-appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
-appliedenergistics2:facade:0, Cable Facade - Mud
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
-appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
-appliedenergistics2:facade:0, Cable Facade - Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
@@ -10440,6 +10418,28 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
+appliedenergistics2:facade:0, Cable Facade - Surface
+appliedenergistics2:facade:0, Cable Facade - Subsurface
+appliedenergistics2:facade:0, Cable Facade - Stone
+appliedenergistics2:facade:0, Cable Facade - Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Rocky Surface
+appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
+appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
+appliedenergistics2:facade:0, Cable Facade - Mud
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
+appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
+appliedenergistics2:facade:0, Cable Facade - Grass
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10468,13 +10468,6 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -10492,6 +10485,13 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -12670,6 +12670,7 @@ appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_neody
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_nether_coal_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_nitan_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_plutonium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_rare_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_red_phosphorus_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_redstone_ore.name
@@ -12689,52 +12690,49 @@ appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_urani
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_verticium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_weidanium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._asbestos_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._australium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._beryllium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._borax_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cinnebar_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cobalt_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._coltan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._diamond_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._fluorite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._gold_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lapis_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lead_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lignite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lithium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._neodynium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._nether_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._nitan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._niter_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._rare_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._red_phosphorus_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._redstone_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._reiium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._schrabidium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._smoldering_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._starmetal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._thoruim_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._trinitite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._trixite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._tungsten_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._brightblende_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._uranium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._uranium_scorched_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._verticium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._weidanium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - Freaky Block
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - Sulphur Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Sulphur
+appliedenergistics2:facade:0, Cable Facade - Cocaine Bag 1kg
+appliedenergistics2:facade:0, Cable Facade - Empty Barrel
+appliedenergistics2:facade:0, Cable Facade - Blue Sludge Barrel
+appliedenergistics2:facade:0, Cable Facade - Berrel With Liquid Amphetamine
+appliedenergistics2:facade:0, Cable Facade - Barrel With Liqud Ketamine
+appliedenergistics2:facade:0, Cable Facade - Barrel With Liquid Cocaine
 appliedenergistics2:facade:0, Cable Facade - Particles Collider
 appliedenergistics2:facade:0, Cable Facade - Plain Void Shell
 appliedenergistics2:facade:0, Cable Facade - Glass Void Shell
@@ -13724,7 +13722,7 @@ galaxyspace:gs_basic:34, Steel Fan
 galaxyspace:gs_basic:35, Plastic Fan
 galaxyspace:gs_basic:36, Carbon Fan
 galaxyspace:gs_basic:37, Raw Plastic
-galaxyspace:gs_basic:38, Plastic Fragment
+galaxyspace:gs_basic:38, Plastic
 galaxyspace:gs_basic:39, Gas Extractor
 galaxyspace:ingots:0, Cobalt Ingot
 galaxyspace:ingots:1, Magnesium Ingot
@@ -13845,49 +13843,6 @@ galaxyspace:plasma_axe, Plasma Axe
 galaxyspace:plasma_pickaxe, Plasma Pickaxe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:100, Geological Scanner
-galaxyspace:proxima_b_blocks:0, Surface
-galaxyspace:proxima_b_blocks:1, Subsurface
-galaxyspace:proxima_b_blocks:2, Stone
-galaxyspace:proxima_b_blocks:3, Ice Surface
-galaxyspace:proxima_b_blocks:4, Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_blocks:11, Rocky Surface
-galaxyspace:proxima_b_blocks:12, Mushroom Skin
-galaxyspace:proxima_b_blocks:13, Mushroom Geyser
-galaxyspace:proxima_b_blocks:14, Mud
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
-galaxyspace:proxima_b_mushroom_log, Mushroom Stem
-galaxyspace:proxima_b_grasses, Grass
-galaxyspace:proxima_b_dandelions:0, Red Tallgrass
-galaxyspace:proxima_b_dandelions:1, Red Tallgrass
-galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
-galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
-galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
-galaxyspace:tauceti_f_watergrass:0, Red Algae
-galaxyspace:tauceti_f_watergrass:1, Algae Base
-galaxyspace:tauceti_f_watergrass:2, Algae
-galaxyspace:tauceti_f_watergrass:3, Algae Top
-galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
-galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
-galaxyspace:tauceti_f_watergrass:6, Thick Algae
-galaxyspace:tauceti_f_watergrass:7, Small Kelp
-galaxyspace:tauceti_f_corals:0, Brain Coral
-galaxyspace:tauceti_f_corals:1, Brain Coral Fan
-galaxyspace:tauceti_f_corals:2, Bubble Coral
-galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
-galaxyspace:tauceti_f_corals:4, Fire Coral
-galaxyspace:tauceti_f_corals:5, Fire Coral Fan
-galaxyspace:tauceti_f_corals:6, Horn Coral
-galaxyspace:tauceti_f_corals:7, Horn Coral Fan
-galaxyspace:tauceti_f_corals:8, Tube Coral
-galaxyspace:tauceti_f_corals:9, Tube Coral Fan
-galaxyspace:tauceti_f_corals:10, Sponge Coral
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -13938,6 +13893,50 @@ galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
 galaxyspace:barnarda_c_violet_door, item.barnarda_c_violet_door.name
+galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
+galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
+galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
+galaxyspace:tauceti_f_watergrass:0, Red Algae
+galaxyspace:tauceti_f_watergrass:1, Algae Base
+galaxyspace:tauceti_f_watergrass:2, Algae
+galaxyspace:tauceti_f_watergrass:3, Algae Top
+galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
+galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
+galaxyspace:tauceti_f_watergrass:6, Thick Algae
+galaxyspace:tauceti_f_watergrass:7, Small Kelp
+galaxyspace:tauceti_f_corals:0, Brain Coral
+galaxyspace:tauceti_f_corals:1, Brain Coral Fan
+galaxyspace:tauceti_f_corals:2, Bubble Coral
+galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
+galaxyspace:tauceti_f_corals:4, Fire Coral
+galaxyspace:tauceti_f_corals:5, Fire Coral Fan
+galaxyspace:tauceti_f_corals:6, Horn Coral
+galaxyspace:tauceti_f_corals:7, Horn Coral Fan
+galaxyspace:tauceti_f_corals:8, Tube Coral
+galaxyspace:tauceti_f_corals:9, Tube Coral Fan
+galaxyspace:tauceti_f_corals:10, Sponge Coral
+galaxyspace:proxima_b_blocks:0, Surface
+galaxyspace:proxima_b_blocks:1, Subsurface
+galaxyspace:proxima_b_blocks:2, Stone
+galaxyspace:proxima_b_blocks:3, Ice Surface
+galaxyspace:proxima_b_blocks:4, Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_blocks:11, Rocky Surface
+galaxyspace:proxima_b_blocks:12, Mushroom Skin
+galaxyspace:proxima_b_blocks:13, Mushroom Geyser
+galaxyspace:proxima_b_blocks:14, Mud
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:proxima_b_mushroom_log, Mushroom Stem
+galaxyspace:proxima_b_grasses, Grass
+galaxyspace:proxima_b_dandelions:0, Red Tallgrass
+galaxyspace:proxima_b_dandelions:1, Red Tallgrass
+quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -14258,158 +14257,9 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:pickarang, item.pickarang.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
 quark:pipe, tile.pipe.name
 quark:backpack, item.backpack.name
 quark:tiny_potato, tile.tiny_potato.name
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:charcoal_block, tile.charcoal_block.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -14534,7 +14384,155 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
-quark:witch_hat, item.witch_hat.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, item.tallow.name
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:charcoal_block, tile.charcoal_block.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
 quark:glass_shards:0, Glass Shard
 quark:glass_shards:1, White Glass Shard
 quark:glass_shards:2, Orange Glass Shard
@@ -16281,6 +16279,24 @@ cfm:item_kebab_cooked, Cooked Kebab
 cfm:item_crow_bar, Crow Bar
 cfm:ceiling_fan_fans, item.ceiling_fan_fans.name
 cfm:tv_remote, TV Remote
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -16401,29 +16417,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16439,34 +16432,39 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:energy_turret, Energy Turret
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:alarm, Alarm
+opensecurity:card_writer, Card Writer
 opensecurity:rfid_reader, RFID Reader
+opensecurity:keypad, Keypad
+opensecurity:energy_turret, Energy Turret
 opensecurity:data_block, Data Block
 opensecurity:security_terminal, Security Terminal
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:alarm, Alarm
-opensecurity:keypad, Keypad
-opensecurity:card_writer, Card Writer
-opensecurity:mag_reader, Magnetic Card Reader
 opensecurity:entity_detector, Entity Detector
-opensecurity:secure_door, Security Door
-opensecurity:private_secure_door, Private Security Door
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:mag_secure_door, MagReader Security Door
-opensecurity:nanofog, NanoFog
-opensecurity:mag_reader_camo, Camo Magnetic Card Reader
-opensecurity:rolldoor, Rolldoor
+opensecurity:private_secure_door, Private Security Door
+opensecurity:secure_door, Security Door
 opensecurity:door_controller, Door Controller
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:mag_reader_camo, Camo Magnetic Card Reader
+opensecurity:nanofog, NanoFog
+opensecurity:rolldoor, Rolldoor
+opensecurity:energy_upgrade, Energy Upgrade
 opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:rfid_card, RFID Card
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:movement_upgrade, Movement Upgrade
 opensecurity:mag_card, Magnetic Strip Card
 opensecurity:nanodna, NanoDNA
-opensecurity:rfid_card, RFID Card
 opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:energy_upgrade, Energy Upgrade
 portality:controller, Portal Controller
 portality:frame, Portal Frame
 portality:module_interdimensional, Interdimensional Module
@@ -16484,6 +16482,7 @@ scalinghealth:healingitem:0, Bandages
 scalinghealth:healingitem:1, Medkit
 scalinghealth:difficultychanger:0, Enchanted Heart
 scalinghealth:difficultychanger:1, Cursed Heart
+srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -16720,7 +16719,6 @@ srparasites:armor_helm_sentient, §6Sentient Helm
 srparasites:armor_chest_sentient, §6Sentient Chest
 srparasites:armor_pants_sentient, §6Sentient Pants
 srparasites:armor_boots_sentient, §6Sentient Boots
-srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 weather2:sand_layer_placeable, Sand Layer
 weather2:weather_item, Weather Item
 weather2:pocket_sand, Pocket Sand!
@@ -18154,6 +18152,7 @@ contenttweaker:proxima_b_neodynium_ore:0, tile.contenttweaker.proxima_b_neodyniu
 contenttweaker:proxima_b_nether_coal_ore:0, tile.contenttweaker.proxima_b_nether_coal_ore.name
 contenttweaker:proxima_b_nitan_ore:0, tile.contenttweaker.proxima_b_nitan_ore.name
 contenttweaker:proxima_b_niter_ore:0, tile.contenttweaker.proxima_b_niter_ore.name
+contenttweaker:proxima_b_plutonium_ore:0, tile.contenttweaker.proxima_b_plutonium_ore.name
 contenttweaker:proxima_b_rare_ore:0, tile.contenttweaker.proxima_b_rare_ore.name
 contenttweaker:proxima_b_red_phosphorus_ore:0, tile.contenttweaker.proxima_b_red_phosphorus_ore.name
 contenttweaker:proxima_b_redstone_ore:0, tile.contenttweaker.proxima_b_redstone_ore.name
@@ -18173,55 +18172,41 @@ contenttweaker:proxima_b_uranium_scorched_ore:0, tile.contenttweaker.proxima_b_u
 contenttweaker:proxima_b_verticium_ore:0, tile.contenttweaker.proxima_b_verticium_ore.name
 contenttweaker:proxima_b_weidanium_ore:0, tile.contenttweaker.proxima_b_weidanium_ore.name
 contenttweaker:proxima_b_zirconium_ore:0, tile.contenttweaker.proxima_b_zirconium_ore.name
-contenttweaker:_aluminium_ore:0, tile.contenttweaker._aluminium_ore.name
-contenttweaker:_asbestos_ore:0, tile.contenttweaker._asbestos_ore.name
-contenttweaker:_australium_ore:0, tile.contenttweaker._australium_ore.name
-contenttweaker:_beryllium_ore:0, tile.contenttweaker._beryllium_ore.name
-contenttweaker:_borax_ore:0, tile.contenttweaker._borax_ore.name
-contenttweaker:_cinnebar_ore:0, tile.contenttweaker._cinnebar_ore.name
-contenttweaker:_cluster_aluminium_ore:0, tile.contenttweaker._cluster_aluminium_ore.name
-contenttweaker:_cluster_copper_ore:0, tile.contenttweaker._cluster_copper_ore.name
-contenttweaker:_cluster_iron_ore:0, tile.contenttweaker._cluster_iron_ore.name
-contenttweaker:_cluster_titan_ore:0, tile.contenttweaker._cluster_titan_ore.name
-contenttweaker:_coal_ore:0, tile.contenttweaker._coal_ore.name
-contenttweaker:_cobalt_ore:0, tile.contenttweaker._cobalt_ore.name
-contenttweaker:_coltan_ore:0, tile.contenttweaker._coltan_ore.name
-contenttweaker:_copper_ore:0, tile.contenttweaker._copper_ore.name
-contenttweaker:_diamond_ore:0, tile.contenttweaker._diamond_ore.name
-contenttweaker:_fluorite_ore:0, tile.contenttweaker._fluorite_ore.name
-contenttweaker:_gold_ore:0, tile.contenttweaker._gold_ore.name
-contenttweaker:_iron_ore:0, tile.contenttweaker._iron_ore.name
-contenttweaker:_lapis_ore:0, tile.contenttweaker._lapis_ore.name
-contenttweaker:_lead_ore:0, tile.contenttweaker._lead_ore.name
-contenttweaker:_lignite_ore:0, tile.contenttweaker._lignite_ore.name
-contenttweaker:_lithium_ore:0, tile.contenttweaker._lithium_ore.name
-contenttweaker:_neodynium_ore:0, tile.contenttweaker._neodynium_ore.name
-contenttweaker:_nether_coal_ore:0, tile.contenttweaker._nether_coal_ore.name
-contenttweaker:_nitan_ore:0, tile.contenttweaker._nitan_ore.name
-contenttweaker:_niter_ore:0, tile.contenttweaker._niter_ore.name
-contenttweaker:_rare_ore:0, tile.contenttweaker._rare_ore.name
-contenttweaker:_red_phosphorus_ore:0, tile.contenttweaker._red_phosphorus_ore.name
-contenttweaker:_redstone_ore:0, tile.contenttweaker._redstone_ore.name
-contenttweaker:_reiium_ore:0, tile.contenttweaker._reiium_ore.name
-contenttweaker:_schrabidium_ore:0, tile.contenttweaker._schrabidium_ore.name
-contenttweaker:_smoldering_ore:0, tile.contenttweaker._smoldering_ore.name
-contenttweaker:_starmetal_ore:0, tile.contenttweaker._starmetal_ore.name
-contenttweaker:_sulfur_ore:0, tile.contenttweaker._sulfur_ore.name
-contenttweaker:_thoruim_ore:0, tile.contenttweaker._thoruim_ore.name
-contenttweaker:_trinitite_ore:0, tile.contenttweaker._trinitite_ore.name
-contenttweaker:_titan_ore:0, tile.contenttweaker._titan_ore.name
-contenttweaker:_trixite_ore:0, tile.contenttweaker._trixite_ore.name
-contenttweaker:_tungsten_ore:0, tile.contenttweaker._tungsten_ore.name
-contenttweaker:_brightblende_ore:0, tile.contenttweaker._brightblende_ore.name
-contenttweaker:_uranium_ore:0, tile.contenttweaker._uranium_ore.name
-contenttweaker:_uranium_scorched_ore:0, tile.contenttweaker._uranium_scorched_ore.name
-contenttweaker:_verticium_ore:0, tile.contenttweaker._verticium_ore.name
-contenttweaker:_weidanium_ore:0, tile.contenttweaker._weidanium_ore.name
-contenttweaker:_zirconium_ore:0, tile.contenttweaker._zirconium_ore.name
-contenttweaker:baltika9, Балтика 9
-contenttweaker:budweiser, Budweiser
-contenttweaker:freaky_block:0, Freaky Block
-contenttweaker:infinite_purified_water_bottle, Infinite Purified Water Bottle
+contenttweaker:solar_asteroid_belt_aluminium_ore:0, tile.contenttweaker.solar_asteroid_belt_aluminium_ore.name
+contenttweaker:solar_asteroid_belt_asbestos_ore:0, tile.contenttweaker.solar_asteroid_belt_asbestos_ore.name
+contenttweaker:solar_asteroid_belt_australium_ore:0, tile.contenttweaker.solar_asteroid_belt_australium_ore.name
+contenttweaker:solar_asteroid_belt_beryllium_ore:0, tile.contenttweaker.solar_asteroid_belt_beryllium_ore.name
+contenttweaker:solar_asteroid_belt_borax_ore:0, tile.contenttweaker.solar_asteroid_belt_borax_ore.name
+contenttweaker:solar_asteroid_belt_cinnebar_ore:0, tile.contenttweaker.solar_asteroid_belt_cinnebar_ore.name
+contenttweaker:solar_asteroid_belt_cluster_aluminium_ore:0, tile.contenttweaker.solar_asteroid_belt_cluster_aluminium_ore.name
+contenttweaker:solar_asteroid_belt_cluster_copper_ore:0, tile.contenttweaker.solar_asteroid_belt_cluster_copper_ore.name
+contenttweaker:solar_asteroid_belt_cluster_iron_ore:0, tile.contenttweaker.solar_asteroid_belt_cluster_iron_ore.name
+contenttweaker:solar_asteroid_belt_cluster_titan_ore:0, tile.contenttweaker.solar_asteroid_belt_cluster_titan_ore.name
+contenttweaker:solar_asteroid_belt_coal_ore:0, tile.contenttweaker.solar_asteroid_belt_coal_ore.name
+contenttweaker:solar_asteroid_belt_cobalt_ore:0, tile.contenttweaker.solar_asteroid_belt_cobalt_ore.name
+contenttweaker:solar_asteroid_belt_coltan_ore:0, tile.contenttweaker.solar_asteroid_belt_coltan_ore.name
+contenttweaker:solar_asteroid_belt_copper_ore:0, tile.contenttweaker.solar_asteroid_belt_copper_ore.name
+contenttweaker:solar_asteroid_belt_diamond_ore:0, tile.contenttweaker.solar_asteroid_belt_diamond_ore.name
+contenttweaker:solar_asteroid_belt_fluorite_ore:0, tile.contenttweaker.solar_asteroid_belt_fluorite_ore.name
+contenttweaker:solar_asteroid_belt_gold_ore:0, tile.contenttweaker.solar_asteroid_belt_gold_ore.name
+contenttweaker:solar_asteroid_belt_iron_ore:0, tile.contenttweaker.solar_asteroid_belt_iron_ore.name
+contenttweaker:solar_asteroid_belt_lapis_ore:0, tile.contenttweaker.solar_asteroid_belt_lapis_ore.name
+contenttweaker:solar_asteroid_belt_lead_ore:0, tile.contenttweaker.solar_asteroid_belt_lead_ore.name
+contenttweaker:solar_asteroid_belt_lignite_ore:0, tile.contenttweaker.solar_asteroid_belt_lignite_ore.name
+contenttweaker:solar_asteroid_belt_lithium_ore:0, tile.contenttweaker.solar_asteroid_belt_lithium_ore.name
+contenttweaker:solar_asteroid_belt_neodynium_ore:0, tile.contenttweaker.solar_asteroid_belt_neodynium_ore.name
+contenttweaker:solar_asteroid_belt_nether_coal_ore:0, tile.contenttweaker.solar_asteroid_belt_nether_coal_ore.name
+contenttweaker:solar_asteroid_belt_nitan_ore:0, tile.contenttweaker.solar_asteroid_belt_nitan_ore.name
+contenttweaker:solar_asteroid_belt_niter_ore:0, tile.contenttweaker.solar_asteroid_belt_niter_ore.name
+contenttweaker:solar_asteroid_belt_plutonium_ore:0, tile.contenttweaker.solar_asteroid_belt_plutonium_ore.name
+contenttweaker:solar_asteroid_belt_rare_ore:0, tile.contenttweaker.solar_asteroid_belt_rare_ore.name
+contenttweaker:solar_asteroid_belt_red_phosphorus_ore:0, tile.contenttweaker.solar_asteroid_belt_red_phosphorus_ore.name
+contenttweaker:solar_asteroid_belt_redstone_ore:0, tile.contenttweaker.solar_asteroid_belt_redstone_ore.name
+contenttweaker:solar_asteroid_belt_reiium_ore:0, tile.contenttweaker.solar_asteroid_belt_reiium_ore.name
+contenttweaker:solar_asteroid_belt_schrabidium_ore:0, tile.contenttweaker.solar_asteroid_belt_schrabidium_ore.name
+contenttweaker:solar_asteroid_belt_smoldering_ore:0, tile.contenttweaker.solar_asteroid_belt_smoldering_ore.name
+contenttweaker:solar_asteroid_belt_starmetal_ore:0, tile.contenttweaker.solar_asteroid_belt_starmetal_ore.name
+contenttweaker:solar_asteroid_belt_sulfur_ore:0, tile.contenttweaker.solar_asteroid_belt_sulfur_ore.name
 firstaid:bandage, Bandage
 firstaid:plaster, Plaster
 firstaid:morphine, Morphine
@@ -18280,6 +18265,180 @@ brewcraft:borgiaabsintheitem, Borgia Absinthe
 brewcraft:redbeeritem, Red Beer
 brewcraft:bluebeeritem, Blue Beer
 brewcraft:malortitem, Mal§ko§rrt
+narcocraft:sulphur_dust, Sulphur
+narcocraft:sulphur_ore, Sulphur Ore
+narcocraft:sulphur_block, Block of Sulphur
+narcocraft:water_jug, Water Jug
+narcocraft:hydrogen_tank, Hydrogen Tank
+narcocraft:jug, Jug
+narcocraft:sulfuric_acid, Sulfuric Acid
+narcocraft:screwdriver, Screwdriver
+narcocraft:mojar_and_pistil, Mojar And Pistil
+narcocraft:coca_leaf, Coca Leaf
+narcocraft:dry_coca_leaf, Dry Coca Leaf
+narcocraft:cocaine, Cocaine
+narcocraft:bag, Bag
+narcocraft:cocaine_bag_1g, Cocaine Bag 1g
+narcocraft:cocaine_bag_5g, Cocaine Bag 5g
+narcocraft:cocaine_bag_10g, Cocain Bag 10g
+narcocraft:cocaine_bag_20g, Cocaine Bag 20g
+narcocraft:cocaine_bag_15g, Cocaine Bag 15g
+narcocraft:cocaine_bag_1kg, Cocaine Bag 1kg
+narcocraft:extractor, Extractor
+narcocraft:centrifuge, Centrifuge
+narcocraft:carbon, Carbon
+narcocraft:battery_acid, Battery Acid
+narcocraft:plastic, Plastic
+narcocraft:coca_seed, Coca Seed
+narcocraft:coca_plant, Coca Plant
+narcocraft:cannabis_bud, Cannabis Bud
+narcocraft:weed, Weed
+narcocraft:grinder, Grinder
+narcocraft:grinded_weed, Grinded Weed
+narcocraft:rolling_papers_box, Rolling Papers Box
+narcocraft:rolling_paper, Rolling Paper
+narcocraft:filter, Filter
+narcocraft:tabacco_seed, Tobacco Seed
+narcocraft:lighter, Lighter
+narcocraft:lighter_oil, Lighter Oil
+narcocraft:joint, Joint
+narcocraft:nitrogen_tank, Nitrogen Tank
+narcocraft:oxygen_tank, Oxygen Tank
+narcocraft:cannabis_bag_1g, Cannabis Bag 1g
+narcocraft:cannabis_bag_5g, Cannabis Bag 5g
+narcocraft:cannabis_bag_10g, Cannabis Bag 10g
+narcocraft:cannabis_bag_15g, Cannabis Bag 15g
+narcocraft:cannabis_bag_20g, Cannabis Bag 20g
+narcocraft:cannabis_bag_25g, Cannabis Bag 25g
+narcocraft:cannabis_bag_30g, Cannabis Bag 30g
+narcocraft:methylamine_mixer, Methylamine Mixer
+narcocraft:propane_mixer, Propane Mixer
+narcocraft:crate, Crate
+narcocraft:hazmat_suitbody, Hazmat Suit Body
+narcocraft:hazmat_suitlegs, Hazmat Suit Pants
+narcocraft:hazmat_suitboots, Hazmat Suit Boots
+narcocraft:coolant_liquid, Coolant Liquid
+narcocraft:phenylacetone_processer, Phenylacetone Processer
+narcocraft:phenylacetone, Phenylactone
+narcocraft:mixing_barrel, Mixing Barrel
+narcocraft:methylamine_pill, Methylamine Pill
+narcocraft:pill_tablet, Pill Tablet
+narcocraft:ice_pick, Ice Pick
+narcocraft:crystallizer, Crystallizer
+narcocraft:amphetamine, Amphetamine
+narcocraft:fluid_filter, Fluid Filter
+narcocraft:methamphetamine, Methamphetamine
+narcocraft:meth_bag_10g, Meth Bag 10g
+narcocraft:meth_bag_20g, Meth Bag 20g
+narcocraft:meth_bag_30g, Meth Bag 30g
+narcocraft:amph_bag_10g, Amph Bag 10g
+narcocraft:amph_bag_20g, Amph Bag 20g
+narcocraft:amph_bag_30g, Amph Bag 20g
+narcocraft:phenylacetic_acid, Phenylacetic Acid
+narcocraft:glass_pipe, Glass Pipe
+narcocraft:glass_pipe_with_amph, Glass Pipe With Amph
+narcocraft:glass_pipe_with_meth, Glass Pipe With Meth
+narcocraft:lsd, LSD
+narcocraft:ecstasy_pill, Ecstasy Pill
+narcocraft:the_punisher, The Punisher
+narcocraft:cb, 2cb
+narcocraft:rolex, Rolex
+narcocraft:xanax, NAXA Anti-Digamma Medication
+narcocraft:adderall, Adderall
+narcocraft:plus_minus, + -
+narcocraft:mdma, MDMA
+narcocraft:syringe, Syringe
+narcocraft:syringe_with_meth, Syringe With Meth
+narcocraft:syringe_with_amph, Syringe With Amph
+narcocraft:syringe_with_coca, Syringe With Coca
+narcocraft:heroin, Heroin
+narcocraft:ketamine, Ketamine
+narcocraft:cup, Cup
+narcocraft:lean, Lean
+narcocraft:hashish_joint, Hashish Joint
+narcocraft:hashish, Hashish
+narcocraft:syringe_with_heroin, Syringe With Heroin
+narcocraft:shrooms, Shroom
+narcocraft:methylenedioxymethamphetamine_mixer, Methylenedioxymethamphetamine Mixer
+narcocraft:pill_assembler, Pill Assembler
+narcocraft:crack_cocaine, Crack Cocaine
+narcocraft:glass_pipe_with_crack, Glass Pipe With Crack
+narcocraft:totenkopf, Totenkopf
+narcocraft:tesla, Tesla
+narcocraft:lion, Lion
+narcocraft:bitcoin, Bitcoin
+narcocraft:herz, Herz
+narcocraft:mickey_mouse, Mickey Mouse
+narcocraft:cubensis, Cubensis
+narcocraft:cubensis_shroom, Cubensis Shroom
+narcocraft:lysergic_acid, Lysergic Acid
+narcocraft:postage_stamp, Postage Stamp
+narcocraft:diethylamide, Diethylamide
+narcocraft:pcp_pill, PCP Pill
+narcocraft:tobacco_plant, Tobacco Plant
+narcocraft:tobacco_plant_2, Tobacco Plant2
+narcocraft:tobacco_plant_3, Tobacco Plant3
+narcocraft:tobacco_leaf, Tobacco Leaf
+narcocraft:weed_seeds, Cannabis Seeds
+narcocraft:dry_tobacco_leaf, Dry Tobacco Leaf
+narcocraft:grinded_tobacco, Grinded Tobacco
+narcocraft:tobacco_paper, Tobacco Paper
+narcocraft:cigar, Cigar
+narcocraft:bleach, Bleach
+narcocraft:oxycodone_syrup, Codeine Syrup
+narcocraft:soda, Soda
+narcocraft:tobacco_joint, Tobacco Joint
+narcocraft:hookah, Hookah
+narcocraft:loaded_hookah, Loaded Hookah
+narcocraft:morphine, Morphine
+narcocraft:syringe_with_morphine, Syringe With Morphine
+narcocraft:opium, Opium
+narcocraft:latex_milk, Latex Milk
+narcocraft:opium_plant, Opium Plant
+narcocraft:khat, Khat
+narcocraft:peyote_cactus, Peyote Cactus
+narcocraft:peyote_flower, Peyote Flower
+narcocraft:syringe_with_ketamine, Syringe With Ketamine
+narcocraft:ash, Ash
+narcocraft:slica_gel, Slica Gel
+narcocraft:citric_acid, Citric Acid
+narcocraft:oxycodone_pill, Oxycodone Pill
+narcocraft:o_xycodone_tablet, Oxycodone Tablet
+narcocraft:melatonin_pill, Melatonin Pill
+narcocraft:khat_plant, Khat Plant
+narcocraft:empty_tray, Empty Tray
+narcocraft:methylamine_barrel, Methylamine Barrel
+narcocraft:meth_tray, Meth Tray
+narcocraft:empty_barrel, Empty Barrel
+narcocraft:blue_sludge_barrel, Blue Sludge Barrel
+narcocraft:berrel_with_liquid_amphetamine, Berrel With Liquid Amphetamine
+narcocraft:barrel_with_liqud_ketamine, Barrel With Liqud Ketamine
+narcocraft:propane_tank, Propane Tank
+narcocraft:car_battery, Car Battery
+narcocraft:lily_extract, Lily Extract
+narcocraft:gas_maskhelmet, Gas Mask Helmet
+narcocraft:bong, Bong
+narcocraft:bong_with_cannabis, Bong With Cannabis
+narcocraft:weed_sap, Weed
+narcocraft:coca_sap, Coca Plant
+narcocraft:grower, Grower
+narcocraft:ricin, Ricin
+narcocraft:cooked_steak, Cooked Steak
+narcocraft:iron_plate, Iron Plate
+narcocraft:gold_plate, Gold Plate
+narcocraft:circuit_board, Circuit Board
+narcocraft:mechanical_components, Mechanical Components
+narcocraft:hammer, Hammer
+narcocraft:mixing_crate, Mixing Crate
+narcocraft:mixing_crate_full, Mixing Crate Full
+narcocraft:kerosene, Kerosene
+narcocraft:coca_mixture, Coca Mixture
+narcocraft:barrel_with_liquid_cocaine, Barrel With Liquid Cocaine
+narcocraft:potassium, Potassium Chloride
+narcocraft:pure_cocaine_tray, Pure Cocaine Tray
+narcocraft:pure_cocaine, Pure Cocaine
+narcocraft:press, Press
+narcocraft:cannabis_oil, Cannabis Oil
 warpdrive:laser, Laser
 warpdrive:chunk_loader.basic, Basic Chunk Loader
 warpdrive:chunk_loader.advanced, Advanced Chunk Loader

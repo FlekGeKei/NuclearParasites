@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LigniteOre = VanillaFactory.createBlock("_lignite_ore", <blockmaterial:rock>);
+var LigniteOre = VanillaFactory.createBlock("solar_haumea_lignite_ore", <blockmaterial:rock>);
 
 LigniteOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

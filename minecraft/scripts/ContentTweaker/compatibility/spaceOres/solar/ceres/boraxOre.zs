@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BoraxOre = VanillaFactory.createBlock("_borax_ore", <blockmaterial:rock>);
+var BoraxOre = VanillaFactory.createBlock("solar_ceres_borax_ore", <blockmaterial:rock>);
 
 BoraxOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

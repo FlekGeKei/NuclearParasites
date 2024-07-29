@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var FluoriteOre = VanillaFactory.createBlock("_fluorite_ore", <blockmaterial:rock>);
+var tauCetiFFluoriteOre = VanillaFactory.createBlock("tau_ceti_f_fluorite_ore", <blockmaterial:rock>);
 
-FluoriteOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFFluoriteOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_fluorite> % 100);
   return;
 });
-FluoriteOre.setBlockSoundType(<soundtype:stone>);
-FluoriteOre.setToolLevel(1);
-FluoriteOre.creativeTab = <creativetab:nuclearparasites>;
-FluoriteOre.register();
+tauCetiFFluoriteOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFFluoriteOre.setToolLevel(1);
+tauCetiFFluoriteOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFFluoriteOre.register();

@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterIronOre = VanillaFactory.createBlock("_cluster_iron_ore", <blockmaterial:rock>);
+var tauCetiFClusterIronOre = VanillaFactory.createBlock("tau_ceti_f_cluster_iron_ore", <blockmaterial:rock>);
 
-ClusterIronOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFClusterIronOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:cluster_iron> % 100);
   return;
 });
-ClusterIronOre.setBlockSoundType(<soundtype:stone>);
-ClusterIronOre.setToolLevel(1);
-ClusterIronOre.creativeTab = <creativetab:nuclearparasites>;
-ClusterIronOre.register();
+tauCetiFClusterIronOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFClusterIronOre.setToolLevel(1);
+tauCetiFClusterIronOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFClusterIronOre.register();

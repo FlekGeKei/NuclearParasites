@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CoalOre = VanillaFactory.createBlock("_coal_ore", <blockmaterial:rock>);
+var CoalOre = VanillaFactory.createBlock("solar_haumea_coal_ore", <blockmaterial:rock>);
 
 CoalOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

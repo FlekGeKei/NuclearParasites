@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var VerticiumOre = VanillaFactory.createBlock("_verticium_ore", <blockmaterial:rock>);
+var tauCetiFVerticiumOre = VanillaFactory.createBlock("tau_ceti_f_verticium_ore", <blockmaterial:rock>);
 
-VerticiumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFVerticiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_verticium> % 100);
   return;
 });
-VerticiumOre.setBlockSoundType(<soundtype:stone>);
-VerticiumOre.setToolLevel(4);
-VerticiumOre.creativeTab = <creativetab:nuclearparasites>;
-VerticiumOre.register();
+tauCetiFVerticiumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFVerticiumOre.setToolLevel(4);
+tauCetiFVerticiumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFVerticiumOre.register();

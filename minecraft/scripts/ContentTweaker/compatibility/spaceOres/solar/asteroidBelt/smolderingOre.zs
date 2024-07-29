@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var SmolderingOre = VanillaFactory.createBlock("_smoldering_ore", <blockmaterial:rock>);
+var solarAsteroidBeltSmolderingOre = VanillaFactory.createBlock("solar_asteroid_belt_smoldering_ore", <blockmaterial:rock>);
 
-SmolderingOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltSmolderingOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:powder_fire> % 100);
   return;
 });
-SmolderingOre.setBlockSoundType(<soundtype:stone>);
-SmolderingOre.setToolLevel(2);
-SmolderingOre.creativeTab = <creativetab:nuclearparasites>;
-SmolderingOre.register();
+solarAsteroidBeltSmolderingOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltSmolderingOre.setToolLevel(2);
+solarAsteroidBeltSmolderingOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltSmolderingOre.register();

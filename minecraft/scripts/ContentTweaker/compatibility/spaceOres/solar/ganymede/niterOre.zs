@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NiterOre = VanillaFactory.createBlock("_niter_ore", <blockmaterial:rock>);
+var NiterOre = VanillaFactory.createBlock("solar_ganymede_niter_ore", <blockmaterial:rock>);
 
 NiterOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

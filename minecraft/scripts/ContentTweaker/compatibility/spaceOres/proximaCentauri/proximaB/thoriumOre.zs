@@ -8,7 +8,7 @@ var proximaBThoriumOre = VanillaFactory.createBlock("proxima_b_thoruim_ore", <bl
 
 proximaBThoriumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
-  drops.add(<hbm:ore_thorium> % 100);
+  drops.add(<item:hbm:ore_thorium> % 100);
   return;
 });
 proximaBThoriumOre.setBlockSoundType(<soundtype:stone>);

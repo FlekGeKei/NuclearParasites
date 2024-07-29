@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var SmolderingOre = VanillaFactory.createBlock("_smoldering_ore", <blockmaterial:rock>);
+var tauCetiFSmolderingOre = VanillaFactory.createBlock("tau_ceti_f_smoldering_ore", <blockmaterial:rock>);
 
-SmolderingOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFSmolderingOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:powder_fire> % 100);
   return;
 });
-SmolderingOre.setBlockSoundType(<soundtype:stone>);
-SmolderingOre.setToolLevel(2);
-SmolderingOre.creativeTab = <creativetab:nuclearparasites>;
-SmolderingOre.register();
+tauCetiFSmolderingOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFSmolderingOre.setToolLevel(2);
+tauCetiFSmolderingOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFSmolderingOre.register();

@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CopperOre = VanillaFactory.createBlock("_copper_ore", <blockmaterial:rock>);
+var tauCetiFCopperOre = VanillaFactory.createBlock("tau_ceti_f_copper_ore", <blockmaterial:rock>);
 
-CopperOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFCopperOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_copper> % 100);
   return;
 });
-CopperOre.setBlockSoundType(<soundtype:stone>);
-CopperOre.setToolLevel(1);
-CopperOre.creativeTab = <creativetab:nuclearparasites>;
-CopperOre.register();
+tauCetiFCopperOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFCopperOre.setToolLevel(1);
+tauCetiFCopperOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFCopperOre.register();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var AustraliumOre = VanillaFactory.createBlock("_australium_ore", <blockmaterial:rock>);
+var AustraliumOre = VanillaFactory.createBlock("solar_ceres_australium_ore", <blockmaterial:rock>);
 
 AustraliumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -14,5 +14,4 @@ proximaBRedPhosphorusOre.setDropHandler(function(drops, world, position, state, 
 proximaBRedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
 proximaBRedPhosphorusOre.setToolLevel(2);
 proximaBRedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
-proximaBRedPhosphorusOre.textureLocation = OresPath;
 proximaBRedPhosphorusOre.register();

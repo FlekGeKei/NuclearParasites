@@ -4,15 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RedPhosphorusOre = VanillaFactory.createBlock("_red_phosphorus_ore", <blockmaterial:rock>);
+var solarAsteroidBeltRedPhosphorusOre = VanillaFactory.createBlock("solar_asteroid_belt_red_phosphorus_ore", <blockmaterial:rock>);
 
-RedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltRedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:powder_fire> % 100);
   return;
 });
-RedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
-RedPhosphorusOre.setToolLevel(2);
-RedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
-RedPhosphorusOre.textureLocation = OresPath;
-RedPhosphorusOre.register();
+solarAsteroidBeltRedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltRedPhosphorusOre.setToolLevel(2);
+solarAsteroidBeltRedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltRedPhosphorusOre.register();

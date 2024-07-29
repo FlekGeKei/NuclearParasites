@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ZirconiumOre = VanillaFactory.createBlock("_zirconium_ore", <blockmaterial:rock>);
+var ZirconiumOre = VanillaFactory.createBlock("solar_callisto_zirconium_ore", <blockmaterial:rock>);
 
 ZirconiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

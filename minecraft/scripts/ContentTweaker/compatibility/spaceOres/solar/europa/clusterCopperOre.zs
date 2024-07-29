@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterCopperOre = VanillaFactory.createBlock("_cluster_copper_ore", <blockmaterial:rock>);
+var ClusterCopperOre = VanillaFactory.createBlock("solar_europa_cluster_copper_ore", <blockmaterial:rock>);
 
 ClusterCopperOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

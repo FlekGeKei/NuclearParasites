@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var IronOre = VanillaFactory.createBlock("_iron_ore", <blockmaterial:rock>);
+var IronOre = VanillaFactory.createBlock("solar_ceres_iron_ore", <blockmaterial:rock>);
 
 IronOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var PlutoniumOre = VanillaFactory.createBlock("_plutonium_ore", <blockmaterial:rock>);
+var tauCetiFPlutoniumOre = VanillaFactory.createBlock("tau_ceti_f_plutonium_ore", <blockmaterial:rock>);
 
-PlutoinumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFPlutoniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_nether_plutonium> % 100);
   return;
 });
-PlutoniumOre.setBlockSoundType(<soundtype:stone>);
-PlutoniumOre.setToolLevel(3);
-PlutoniumOre.creativeTab = <creativetab:nuclearparasites>;
-PlutoniumOre.register();
+tauCetiFPlutoniumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFPlutoniumOre.setToolLevel(3);
+tauCetiFPlutoniumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFPlutoniumOre.register();

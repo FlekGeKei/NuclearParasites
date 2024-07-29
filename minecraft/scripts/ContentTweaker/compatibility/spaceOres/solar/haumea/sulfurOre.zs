@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var SulfurOre = VanillaFactory.createBlock("_sulfur_ore", <blockmaterial:rock>);
+var SulfurOre = VanillaFactory.createBlock("solar_haumea_sulfur_ore", <blockmaterial:rock>);
 
 SulfurOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

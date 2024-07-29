@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var WeidaniumOre = VanillaFactory.createBlock("_weidanium_ore", <blockmaterial:rock>);
+var solarAsteroidBeltWeidaniumOre = VanillaFactory.createBlock("solar_asteroid_belt_weidanium_ore", <blockmaterial:rock>);
 
-WeidaniumOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltWeidaniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_weidanium> % 100);
   return;
 });
-WeidaniumOre.setBlockSoundType(<soundtype:stone>);
-WeidaniumOre.setToolLevel(4);
-WeidaniumOre.creativeTab = <creativetab:nuclearparasites>;
-WeidaniumOre.register();
+solarAsteroidBeltWeidaniumOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltWeidaniumOre.setToolLevel(4);
+solarAsteroidBeltWeidaniumOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltWeidaniumOre.register();

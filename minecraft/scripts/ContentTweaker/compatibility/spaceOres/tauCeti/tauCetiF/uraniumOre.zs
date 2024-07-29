@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var UraniumOre = VanillaFactory.createBlock("_uranium_ore", <blockmaterial:rock>);
+var tauCetiFUraniumOre = VanillaFactory.createBlock("tau_ceti_f_uranium_ore", <blockmaterial:rock>);
 
-UraniumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFUraniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_uranium> % 100);
   return;
 });
-UraniumOre.setBlockSoundType(<soundtype:stone>);
-UraniumOre.setToolLevel(2);
-UraniumOre.creativeTab = <creativetab:nuclearparasites>;
-UraniumOre.register();
+tauCetiFUraniumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFUraniumOre.setToolLevel(2);
+tauCetiFUraniumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFUraniumOre.register();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LeadOre = VanillaFactory.createBlock("_lead_ore", <blockmaterial:rock>);
+var LeadOre = VanillaFactory.createBlock("solar_kuiper_belt_lead_ore", <blockmaterial:rock>);
 
 LeadOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

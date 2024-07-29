@@ -6,7 +6,7 @@ import mods.contenttweaker.DropHandler;
 
 var PlutoniumOre = VanillaFactory.createBlock("_plutonium_ore", <blockmaterial:rock>);
 
-PlutoinumOre.setDropHandler(function(drops, world, position, state, fortune){
+PlutoniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_nether_plutonium> % 100);
   return;

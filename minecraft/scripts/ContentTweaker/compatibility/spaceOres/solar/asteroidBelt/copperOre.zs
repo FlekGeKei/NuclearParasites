@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CopperOre = VanillaFactory.createBlock("_copper_ore", <blockmaterial:rock>);
+var solarAsteroidBeltCopperOre = VanillaFactory.createBlock("solar_asteroid_belt_copper_ore", <blockmaterial:rock>);
 
-CopperOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltCopperOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_copper> % 100);
   return;
 });
-CopperOre.setBlockSoundType(<soundtype:stone>);
-CopperOre.setToolLevel(1);
-CopperOre.creativeTab = <creativetab:nuclearparasites>;
-CopperOre.register();
+solarAsteroidBeltCopperOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltCopperOre.setToolLevel(1);
+solarAsteroidBeltCopperOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltCopperOre.register();

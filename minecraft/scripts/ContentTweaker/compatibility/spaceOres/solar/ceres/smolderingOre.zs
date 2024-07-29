@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var SmolderingOre = VanillaFactory.createBlock("_smoldering_ore", <blockmaterial:rock>);
+var SmolderingOre = VanillaFactory.createBlock("solar_ceres_smoldering_ore", <blockmaterial:rock>);
 
 SmolderingOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

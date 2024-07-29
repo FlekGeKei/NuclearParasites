@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var AluminiumOre = VanillaFactory.createBlock("_aluminium_ore", <blockmaterial:rock>);
+var tauCetiFAluminiumOre = VanillaFactory.createBlock("tau_ceti_f_aluminium_ore", <blockmaterial:rock>);
 
-AluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFAluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_aluminium> % 100);
   return;
 });
-AluminiumOre.setBlockSoundType(<soundtype:stone>);
-AluminiumOre.setToolLevel(1);
-AluminiumOre.creativeTab = <creativetab:nuclearparasites>;
-AluminiumOre.register();
+tauCetiFAluminiumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFAluminiumOre.setToolLevel(1);
+tauCetiFAluminiumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFAluminiumOre.register();

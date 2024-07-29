@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CopperOre = VanillaFactory.createBlock("_copper_ore", <blockmaterial:rock>);
+var CopperOre = VanillaFactory.createBlock("solar_callisto_copper_ore", <blockmaterial:rock>);
 
 CopperOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CinnebarOre = VanillaFactory.createBlock("_cinnebar_ore", <blockmaterial:rock>);
+var CinnebarOre = VanillaFactory.createBlock("solar_ganymede_cinnebar_ore", <blockmaterial:rock>);
 
 CinnebarOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var AluminiumOre = VanillaFactory.createBlock("_aluminium_ore", <blockmaterial:rock>);
+var solarAsteroidBeltAluminiumOre = VanillaFactory.createBlock("solar_asteroid_belt_aluminium_ore", <blockmaterial:rock>);
 
-AluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltAluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_aluminium> % 100);
   return;
 });
-AluminiumOre.setBlockSoundType(<soundtype:stone>);
-AluminiumOre.setToolLevel(1);
-AluminiumOre.creativeTab = <creativetab:nuclearparasites>;
-AluminiumOre.register();
+solarAsteroidBeltAluminiumOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltAluminiumOre.setToolLevel(1);
+solarAsteroidBeltAluminiumOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltAluminiumOre.register();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var CobaltOre = VanillaFactory.createBlock("_cobalt_ore", <blockmaterial:rock>);
+var CobaltOre = VanillaFactory.createBlock("solar_io_cobalt_ore", <blockmaterial:rock>);
 
 CobaltOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

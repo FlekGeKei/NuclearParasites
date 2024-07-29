@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BerylliumOre = VanillaFactory.createBlock("_beryllium_ore", <blockmaterial:rock>);
+var BerylliumOre = VanillaFactory.createBlock("solar_kuiper_belt_beryllium_ore", <blockmaterial:rock>);
 
 BerylliumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

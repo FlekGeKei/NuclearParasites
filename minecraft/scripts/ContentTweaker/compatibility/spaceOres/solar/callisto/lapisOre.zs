@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LapisOre = VanillaFactory.createBlock("_lapis_ore", <blockmaterial:rock>);
+var LapisOre = VanillaFactory.createBlock("solar_callisto_lapis_ore", <blockmaterial:rock>);
 
 LapisOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

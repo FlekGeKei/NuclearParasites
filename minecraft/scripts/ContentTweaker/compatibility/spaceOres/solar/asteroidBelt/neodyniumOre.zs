@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NeodyniumOre = VanillaFactory.createBlock("_neodynium_ore", <blockmaterial:rock>);
+var solarAsteroidBeltNeodyniumOre = VanillaFactory.createBlock("solar_asteroid_belt_neodynium_ore", <blockmaterial:rock>);
 
-NeodyniumOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltNeodyniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_depth_nether_neodymium> % 100);
   return;
 });
-NeodyniumOre.setBlockSoundType(<soundtype:stone>);
-NeodyniumOre.setToolLevel(3);
-NeodyniumOre.creativeTab = <creativetab:nuclearparasites>;
-NeodyniumOre.register();
+solarAsteroidBeltNeodyniumOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltNeodyniumOre.setToolLevel(3);
+solarAsteroidBeltNeodyniumOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltNeodyniumOre.register();

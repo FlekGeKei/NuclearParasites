@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NetherCoalOre = VanillaFactory.createBlock("_nether_coal_ore", <blockmaterial:rock>);
+var tauCetiFNetherCoalOre = VanillaFactory.createBlock("tau_ceti_f_nether_coal_ore", <blockmaterial:rock>);
 
-NetherCoalOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFNetherCoalOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_nether_coal> % 100);
   return;
 });
-NetherCoalOre.setBlockSoundType(<soundtype:stone>);
-NetherCoalOre.setToolLevel(1);
-NetherCoalOre.creativeTab = <creativetab:nuclearparasites>;
-NetherCoalOre.register();
+tauCetiFNetherCoalOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFNetherCoalOre.setToolLevel(1);
+tauCetiFNetherCoalOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFNetherCoalOre.register();

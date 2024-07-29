@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var WeidaniumOre = VanillaFactory.createBlock("_weidanium_ore", <blockmaterial:rock>);
+var tauCetiFWeidaniumOre = VanillaFactory.createBlock("tau_ceti_f_weidanium_ore", <blockmaterial:rock>);
 
-WeidaniumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFWeidaniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_weidanium> % 100);
   return;
 });
-WeidaniumOre.setBlockSoundType(<soundtype:stone>);
-WeidaniumOre.setToolLevel(4);
-WeidaniumOre.creativeTab = <creativetab:nuclearparasites>;
-WeidaniumOre.register();
+tauCetiFWeidaniumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFWeidaniumOre.setToolLevel(4);
+tauCetiFWeidaniumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFWeidaniumOre.register();

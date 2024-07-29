@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BerylliumOre = VanillaFactory.createBlock("_beryllium_ore", <blockmaterial:rock>);
+var solarAsteroidBeltBerylliumOre = VanillaFactory.createBlock("solar_asteroid_belt_beryllium_ore", <blockmaterial:rock>);
 
-BerylliumOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltBerylliumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_beryllium> % 100);
   return;
 });
-BerylliumOre.setBlockSoundType(<soundtype:stone>);
-BerylliumOre.setToolLevel(2);
-BerylliumOre.creativeTab = <creativetab:nuclearparasites>;
-BerylliumOre.register();
+solarAsteroidBeltBerylliumOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltBerylliumOre.setToolLevel(2);
+solarAsteroidBeltBerylliumOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltBerylliumOre.register();

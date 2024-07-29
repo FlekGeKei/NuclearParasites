@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RedPhosphorusOre = VanillaFactory.createBlock("_red_phosphorus_ore", <blockmaterial:rock>);
+var RedPhosphorusOre = VanillaFactory.createBlock("solar_europa_red_phosphorus_ore", <blockmaterial:rock>);
 
 RedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
@@ -14,5 +14,4 @@ RedPhosphorusOre.setDropHandler(function(drops, world, position, state, fortune)
 RedPhosphorusOre.setBlockSoundType(<soundtype:stone>);
 RedPhosphorusOre.setToolLevel(2);
 RedPhosphorusOre.creativeTab = <creativetab:nuclearparasites>;
-RedPhosphorusOre.textureLocation = OresPath;
 RedPhosphorusOre.register();

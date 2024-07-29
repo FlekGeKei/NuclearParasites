@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TungstenOre = VanillaFactory.createBlock("_tungsten_ore", <blockmaterial:rock>);
+var tauCetiFTungstenOre = VanillaFactory.createBlock("tau_ceti_f_tungsten_ore", <blockmaterial:rock>);
 
-TungstenOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFTungstenOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_tungsten> % 100);
   return;
 });
-TungstenOre.setBlockSoundType(<soundtype:stone>);
-TungstenOre.setToolLevel(2);
-TungstenOre.creativeTab = <creativetab:nuclearparasites>;
-TungstenOre.register();
+tauCetiFTungstenOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFTungstenOre.setToolLevel(2);
+tauCetiFTungstenOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFTungstenOre.register();

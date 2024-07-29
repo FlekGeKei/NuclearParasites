@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TitanOre = VanillaFactory.createBlock("_titan_ore", <blockmaterial:rock>);
+var tauCetiFTitanOre = VanillaFactory.createBlock("tau_ceti_f_titan_ore", <blockmaterial:rock>);
 
-TitanOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFTitanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_titanium> % 100);
   return;
 });
-TitanOre.setBlockSoundType(<soundtype:stone>);
-TitanOre.setToolLevel(2);
-TitanOre.creativeTab = <creativetab:nuclearparasites>;
-TitanOre.register();
+tauCetiFTitanOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFTitanOre.setToolLevel(2);
+tauCetiFTitanOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFTitanOre.register();

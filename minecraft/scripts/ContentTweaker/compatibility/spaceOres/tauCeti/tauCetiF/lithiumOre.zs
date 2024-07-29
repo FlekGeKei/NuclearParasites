@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LithiumOre = VanillaFactory.createBlock("_lithium_ore", <blockmaterial:rock>);
+var tauCetiFLithiumOre = VanillaFactory.createBlock("tau_ceti_f_lithium_ore", <blockmaterial:rock>);
 
-LithiumOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFLithiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
-  drops.add(<hbm:ore_meteor_lithium> % 100);
+  drops.add(<item:hbm:ore_meteor_lithium> % 100);
   return;
 });
-LithiumOre.setBlockSoundType(<soundtype:stone>);
-LithiumOre.setToolLevel(2);
-LithiumOre.creativeTab = <creativetab:nuclearparasites>;
-LithiumOre.register();
+tauCetiFLithiumOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFLithiumOre.setToolLevel(2);
+tauCetiFLithiumOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFLithiumOre.register();

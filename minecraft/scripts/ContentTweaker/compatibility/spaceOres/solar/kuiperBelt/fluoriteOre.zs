@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var FluoriteOre = VanillaFactory.createBlock("_fluorite_ore", <blockmaterial:rock>);
+var FluoriteOre = VanillaFactory.createBlock("solar_kuiper_belt_fluorite_ore", <blockmaterial:rock>);
 
 FluoriteOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

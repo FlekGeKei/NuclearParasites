@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var UraniumOre = VanillaFactory.createBlock("_uranium_ore", <blockmaterial:rock>);
+var UraniumOre = VanillaFactory.createBlock("solar_haumea_uranium_ore", <blockmaterial:rock>);
 
 UraniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

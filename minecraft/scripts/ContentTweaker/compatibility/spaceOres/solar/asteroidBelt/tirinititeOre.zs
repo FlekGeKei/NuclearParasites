@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TrinititeOre = VanillaFactory.createBlock("_trinitite_ore", <blockmaterial:rock>);
+var solarAsteroidBeltTrinititeOre = VanillaFactory.createBlock("solar_asteroid_belt_trinitite_ore", <blockmaterial:rock>);
 
-TrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltTrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:trinitite> % 100);
   return;
 });
-TrinititeOre.setBlockSoundType(<soundtype:stone>);
-TrinititeOre.setToolLevel(0);
-TrinititeOre.creativeTab = <creativetab:nuclearparasites>;
-TrinititeOre.register();
+solarAsteroidBeltTrinititeOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltTrinititeOre.setToolLevel(0);
+solarAsteroidBeltTrinititeOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltTrinititeOre.register();

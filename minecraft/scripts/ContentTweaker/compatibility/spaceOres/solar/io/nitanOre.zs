@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NitanOre = VanillaFactory.createBlock("_nitan_ore", <blockmaterial:rock>);
+var NitanOre = VanillaFactory.createBlock("solar_io_nitan_ore", <blockmaterial:rock>);
 
 NitanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

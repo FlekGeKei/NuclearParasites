@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var VerticiumOre = VanillaFactory.createBlock("_verticium_ore", <blockmaterial:rock>);
+var solarAsteroidBeltVerticiumOre = VanillaFactory.createBlock("solar_asteroid_belt_verticium_ore", <blockmaterial:rock>);
 
-VerticiumOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltVerticiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_verticium> % 100);
   return;
 });
-VerticiumOre.setBlockSoundType(<soundtype:stone>);
-VerticiumOre.setToolLevel(4);
-VerticiumOre.creativeTab = <creativetab:nuclearparasites>;
-VerticiumOre.register();
+solarAsteroidBeltVerticiumOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltVerticiumOre.setToolLevel(4);
+solarAsteroidBeltVerticiumOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltVerticiumOre.register();

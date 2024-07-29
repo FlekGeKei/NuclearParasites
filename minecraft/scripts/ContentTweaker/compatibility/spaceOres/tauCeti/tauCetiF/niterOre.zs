@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NiterOre = VanillaFactory.createBlock("_niter_ore", <blockmaterial:rock>);
+var tauCetiFNiterOre = VanillaFactory.createBlock("tau_ceti_f_niter_ore", <blockmaterial:rock>);
 
-NiterOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFNiterOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_niter> % 100);
   return;
 });
-NiterOre.setBlockSoundType(<soundtype:stone>);
-NiterOre.setToolLevel(1);
-NiterOre.creativeTab = <creativetab:nuclearparasites>;
-NiterOre.register();
+tauCetiFNiterOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFNiterOre.setToolLevel(1);
+tauCetiFNiterOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFNiterOre.register();

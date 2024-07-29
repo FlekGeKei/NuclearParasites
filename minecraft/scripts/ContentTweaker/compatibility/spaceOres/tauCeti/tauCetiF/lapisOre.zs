@@ -4,9 +4,9 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LapisOre = VanillaFactory.createBlock("_lapis_ore", <blockmaterial:rock>);
+var tauCetiFLapisOre = VanillaFactory.createBlock("tau_ceti_f_lapis_ore", <blockmaterial:rock>);
 
-LapisOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFLapisOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:minecraft:dye:4>*4 % 100);
   drops.add(<item:minecraft:dye:4> % 50);
@@ -15,7 +15,7 @@ LapisOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.add(<item:minecraft:dye:4> % 30);
   return;
 });
-LapisOre.setBlockSoundType(<soundtype:stone>);
-LapisOre.setToolLevel(1);
-LapisOre.creativeTab = <creativetab:nuclearparasites>;
-LapisOre.register();
+tauCetiFLapisOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFLapisOre.setToolLevel(1);
+tauCetiFLapisOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFLapisOre.register();

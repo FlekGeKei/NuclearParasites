@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var BoraxOre = VanillaFactory.createBlock("_borax_ore", <blockmaterial:rock>);
+var tauCetiFBoraxOre = VanillaFactory.createBlock("tau_ceti_f_borax_ore", <blockmaterial:rock>);
 
-BoraxOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFBoraxOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_depth_borax> % 100);
   return;
 });
-BoraxOre.setBlockSoundType(<soundtype:stone>);
-BoraxOre.setToolLevel(3);
-BoraxOre.creativeTab = <creativetab:nuclearparasites>;
-BoraxOre.register();
+tauCetiFBoraxOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFBoraxOre.setToolLevel(3);
+tauCetiFBoraxOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFBoraxOre.register();

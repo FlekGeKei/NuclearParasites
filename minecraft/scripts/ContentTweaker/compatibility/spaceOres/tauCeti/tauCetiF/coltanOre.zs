@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ColtanOre = VanillaFactory.createBlock("_coltan_ore", <blockmaterial:rock>);
+var tauCetiFColtanOre = VanillaFactory.createBlock("tau_ceti_f_coltan_ore", <blockmaterial:rock>);
 
-ColtanOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFColtanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_coltan> % 100);
   return;
 });
-ColtanOre.setBlockSoundType(<soundtype:stone>);
-ColtanOre.setToolLevel(3);
-ColtanOre.creativeTab = <creativetab:nuclearparasites>;
-ColtanOre.register();
+tauCetiFColtanOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFColtanOre.setToolLevel(3);
+tauCetiFColtanOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFColtanOre.register();

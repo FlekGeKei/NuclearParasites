@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LeadOre = VanillaFactory.createBlock("_lead_ore", <blockmaterial:rock>);
+var tauCetiFLeadOre = VanillaFactory.createBlock("tau_ceti_f_lead_ore", <blockmaterial:rock>);
 
-LeadOre.setDropHandler(function(drops, world, position, state, fortune){
+tauCetiFLeadOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:hbm:ore_lead> % 100);
   return;
 });
-LeadOre.setBlockSoundType(<soundtype:stone>);
-LeadOre.setToolLevel(2);
-LeadOre.creativeTab = <creativetab:nuclearparasites>;
-LeadOre.register();
+tauCetiFLeadOre.setBlockSoundType(<soundtype:stone>);
+tauCetiFLeadOre.setToolLevel(2);
+tauCetiFLeadOre.creativeTab = <creativetab:nuclearparasites>;
+tauCetiFLeadOre.register();

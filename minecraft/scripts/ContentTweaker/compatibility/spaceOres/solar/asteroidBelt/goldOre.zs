@@ -4,14 +4,14 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var GoldOre = VanillaFactory.createBlock("_gold_ore", <blockmaterial:rock>);
+var solarAsteroidBeltGoldOre = VanillaFactory.createBlock("solar_asteroid_belt_gold_ore", <blockmaterial:rock>);
 
-GoldOre.setDropHandler(function(drops, world, position, state, fortune){
+solarAsteroidBeltGoldOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
   drops.add(<item:minecraft:gold_ore> % 100);
   return;
 });
-GoldOre.setBlockSoundType(<soundtype:stone>);
-GoldOre.setToolLevel(2);
-GoldOre.creativeTab = <creativetab:nuclearparasites>;
-GoldOre.register();
+solarAsteroidBeltGoldOre.setBlockSoundType(<soundtype:stone>);
+solarAsteroidBeltGoldOre.setToolLevel(2);
+solarAsteroidBeltGoldOre.creativeTab = <creativetab:nuclearparasites>;
+solarAsteroidBeltGoldOre.register();
