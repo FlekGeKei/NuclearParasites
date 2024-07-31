@@ -2,8 +2,8 @@
 	x: 22.5d,
 	y: -6.0d,
 	text: [
-		"For using that shit you need any of boilers for generate steam",
-		"And you need to configure Turbine for type of Steam witch you wont to use by Fluid Indentifiers"
+		"For using that shit, you need any of boilers to generate steam",
+		"And you need to configure Turbine for type of Steam which you want to use by Fluid Identifiers"
 	],
 	dependencies: [
 		"3d0a6100",

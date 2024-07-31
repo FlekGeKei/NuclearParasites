@@ -3,11 +3,11 @@
 	y: 12.0d,
 	shape: "diamond",
 	text: [
-		"it's allow to clame some area",
-		"P.S. Also you can try for all security stuff:",
+		"it's allow to claim some area",
+		"P.S. Also, you can use those stuff from links below to figure out how to use all shit from OpenSecurity:",
 		"https://github.com/cadergator10/opencomputer-security-system",
 		"https://github.com/cadergator10/Opencomputers-servertine",
-		"And watch guide https://youtu.be/w1Ib2rgXxzs"
+		"https://youtu.be/w1Ib2rgXxzs"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

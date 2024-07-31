@@ -2,10 +2,9 @@
 	x: 14.5d,
 	y: -4.0d,
 	text: [
-		"Create your first Template using Masine Template Foloder",
-		"For it you need have in inventory Paper and any Dye",
-		"Next you need open Mashine Template Foloder and choose any template do you need",
-		"P.S. in bottom of Mashine Template meny you have search (not JEI search)"
+		"To create Template, you need to have in inventory Paper and any Dye",
+		"Next you need to open Machine Template Folder and choose any template which you need",
+		"P.S. in the bottom of Machine Template menu, you have search bar"
 	],
 	dependencies: [
 		"9a547e08"

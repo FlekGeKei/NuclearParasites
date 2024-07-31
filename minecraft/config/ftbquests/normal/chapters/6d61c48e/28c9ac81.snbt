@@ -4,7 +4,7 @@
 	y: 0.0d,
 	text: [
 		"Get armor with temperature immunity",
-		"For example T-45 and higher levels of armor from HBM"
+		"For example, T-45 or higher levels of armor from HBM"
 	],
 	tasks: [{
 		uid: "a36eb848",

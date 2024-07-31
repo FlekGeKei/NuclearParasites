@@ -3,7 +3,7 @@
 	y: -5.0d,
 	text: [
 		"Can mine Bedrock Ore",
-		"For mine Bedrock Ore you need some fluids"
+		"To mine Bedrock Ore, you need some fluids"
 	],
 	dependencies: [
 		"9a547e08"

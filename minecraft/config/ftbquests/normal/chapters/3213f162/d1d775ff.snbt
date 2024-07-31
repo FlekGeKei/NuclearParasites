@@ -4,7 +4,7 @@
 	y: -5.0d,
 	shape: "diamond",
 	text: [
-		"Also you can try https://github.com/IgorTimofeev/MineOS"
+		"Also, you can try MineOS to use"
 	],
 	dependencies: [
 		"47829036"

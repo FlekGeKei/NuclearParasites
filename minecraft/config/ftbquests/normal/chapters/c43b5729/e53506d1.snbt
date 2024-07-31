@@ -3,8 +3,8 @@
 	x: 6.0d,
 	y: -3.0d,
 	text: [
-		"You can create that stuff using Mashine Template Foloder.",
-		"For it you need have in your inventory some Flate Stamps."
+		"You can create this stuff using Machine Template Folder.",
+		"For it, you need to have in your inventory some Flat Stamps."
 	],
 	dependencies: [
 		"fc71d901"

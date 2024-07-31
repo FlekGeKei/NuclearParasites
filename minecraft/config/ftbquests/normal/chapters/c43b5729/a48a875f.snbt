@@ -2,7 +2,7 @@
 	x: 0.5d,
 	y: -1.0d,
 	text: [
-		"it will save you from dying by coal shit"
+		"it'll save you from dying by coal shit"
 	],
 	dependencies: [
 		"56b5e371"

@@ -3,7 +3,7 @@
 	y: -5.0d,
 	text: [
 		"You can get it by defusing Bud",
-		"P.S. you dead"
+		"P.S. Keep Yourself Safe"
 	],
 	dependencies: [
 		"86165036",

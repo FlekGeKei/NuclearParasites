@@ -1136,7 +1136,7 @@ biomesoplenty:biome_finder, Biome Finder
 biomesoplenty:record_wanderer, Music Disc
 biomesoplenty:mudball, Mud Ball
 biomesoplenty:mud_brick, Mud Brick
-biomesoplenty:ash, Ash
+biomesoplenty:ash, Pile of Ashes
 biomesoplenty:fleshchunk, Chunk of Flesh
 biomesoplenty:gem:0, Ender Amethyst
 biomesoplenty:gem:1, Ruby
@@ -7021,6 +7021,50 @@ hbm:mud_block, Oxidized Watz Mud
 hbm:schrabidic_block, Schrabidic Acid
 hbm:corium_block, Liquid Corium
 hbm:volcanic_lava_block, Volcanic Lava
+reccomplex:block_selector, Block Selector
+reccomplex:block_selector_floating, Floating Block Selector
+reccomplex:inventory_generation_tag, Loot Generation Tag
+reccomplex:inventory_generation_single_tag, Single Loot Generation Tag
+reccomplex:inventory_generation_component_tag, Loot Table Component Tag
+reccomplex:artifact_generation_tag, Artifact Generation Tag
+reccomplex:book_generation_tag, Book Generation Tag
+reccomplex:generic_space:0, Space (0 ~ Negative Space)
+reccomplex:generic_space:1, Space (1 ~ Natural Air)
+reccomplex:generic_space:2, Space (2)
+reccomplex:generic_space:3, Space (3)
+reccomplex:generic_space:4, Space (4)
+reccomplex:generic_space:5, Space (5)
+reccomplex:generic_space:6, Space (6)
+reccomplex:generic_space:7, Space (7)
+reccomplex:generic_space:8, Space (8)
+reccomplex:generic_space:9, Space (9)
+reccomplex:generic_space:10, Space (10)
+reccomplex:generic_space:11, Space (11)
+reccomplex:generic_space:12, Space (12)
+reccomplex:generic_space:13, Space (13)
+reccomplex:generic_space:14, Space (14)
+reccomplex:generic_space:15, Space (15)
+reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
+reccomplex:generic_solid:1, Solid (1 ~ Barrier)
+reccomplex:generic_solid:2, Solid (2)
+reccomplex:generic_solid:3, Solid (3)
+reccomplex:generic_solid:4, Solid (4)
+reccomplex:generic_solid:5, Solid (5)
+reccomplex:generic_solid:6, Solid (6)
+reccomplex:generic_solid:7, Solid (7)
+reccomplex:generic_solid:8, Solid (8)
+reccomplex:generic_solid:9, Solid (9)
+reccomplex:generic_solid:10, Solid (10)
+reccomplex:generic_solid:11, Solid (11)
+reccomplex:generic_solid:12, Solid (12)
+reccomplex:generic_solid:13, Solid (13)
+reccomplex:generic_solid:14, Solid (14)
+reccomplex:generic_solid:15, Solid (15)
+reccomplex:structure_generator, Structure Generator
+reccomplex:maze_generator, Maze Generator
+reccomplex:weighted_command_block, tile.spawn_command.name
+reccomplex:spawn_script, Script Block
+reccomplex:inspector, Inspector
 rewired:stub, item.rewired.stub.name
 rewired:ecglass, Electrochromic Glass
 rewired:canopic_jar, Preservation Tank
@@ -10198,6 +10242,38 @@ appliedenergistics2:facade:0, Cable Facade - Dirt
 appliedenergistics2:facade:0, Cable Facade - Pink Log
 appliedenergistics2:facade:0, Cable Facade - Pink Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Pink Wood Double Slab
+appliedenergistics2:facade:0, Cable Facade - Space (0 ~ Negative Space)
+appliedenergistics2:facade:0, Cable Facade - Space (1 ~ Natural Air)
+appliedenergistics2:facade:0, Cable Facade - Space (2)
+appliedenergistics2:facade:0, Cable Facade - Space (3)
+appliedenergistics2:facade:0, Cable Facade - Space (4)
+appliedenergistics2:facade:0, Cable Facade - Space (5)
+appliedenergistics2:facade:0, Cable Facade - Space (6)
+appliedenergistics2:facade:0, Cable Facade - Space (7)
+appliedenergistics2:facade:0, Cable Facade - Space (8)
+appliedenergistics2:facade:0, Cable Facade - Space (9)
+appliedenergistics2:facade:0, Cable Facade - Space (10)
+appliedenergistics2:facade:0, Cable Facade - Space (11)
+appliedenergistics2:facade:0, Cable Facade - Space (12)
+appliedenergistics2:facade:0, Cable Facade - Space (13)
+appliedenergistics2:facade:0, Cable Facade - Space (14)
+appliedenergistics2:facade:0, Cable Facade - Space (15)
+appliedenergistics2:facade:0, Cable Facade - Solid (0 ~ Natural Floor)
+appliedenergistics2:facade:0, Cable Facade - Solid (1 ~ Barrier)
+appliedenergistics2:facade:0, Cable Facade - Solid (2)
+appliedenergistics2:facade:0, Cable Facade - Solid (3)
+appliedenergistics2:facade:0, Cable Facade - Solid (4)
+appliedenergistics2:facade:0, Cable Facade - Solid (5)
+appliedenergistics2:facade:0, Cable Facade - Solid (6)
+appliedenergistics2:facade:0, Cable Facade - Solid (7)
+appliedenergistics2:facade:0, Cable Facade - Solid (8)
+appliedenergistics2:facade:0, Cable Facade - Solid (9)
+appliedenergistics2:facade:0, Cable Facade - Solid (10)
+appliedenergistics2:facade:0, Cable Facade - Solid (11)
+appliedenergistics2:facade:0, Cable Facade - Solid (12)
+appliedenergistics2:facade:0, Cable Facade - Solid (13)
+appliedenergistics2:facade:0, Cable Facade - Solid (14)
+appliedenergistics2:facade:0, Cable Facade - Solid (15)
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -10418,9 +10494,6 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Surface
 appliedenergistics2:facade:0, Cable Facade - Subsurface
 appliedenergistics2:facade:0, Cable Facade - Stone
@@ -10440,6 +10513,9 @@ appliedenergistics2:facade:0, Cable Facade - Burnt Wood
 appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
 appliedenergistics2:facade:0, Cable Facade - Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10485,13 +10561,13 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -12534,6 +12610,8 @@ appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
+appliedenergistics2:facade:0, Cable Facade - Cursed Block of Diamond
+appliedenergistics2:facade:0, Cable Facade - Purified Block of Diamond
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Sulfur Ore
@@ -12598,6 +12676,7 @@ appliedenergistics2:facade:0, Cable Facade - Honey Block
 appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
+appliedenergistics2:facade:0, Cable Facade - Freaky Block
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_aluminium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_asbestos_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_australium_ore.name
@@ -12725,14 +12804,478 @@ appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_smoldering_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_starmetal_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - Sulphur Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Sulphur
-appliedenergistics2:facade:0, Cable Facade - Cocaine Bag 1kg
-appliedenergistics2:facade:0, Cable Facade - Empty Barrel
-appliedenergistics2:facade:0, Cable Facade - Blue Sludge Barrel
-appliedenergistics2:facade:0, Cable Facade - Berrel With Liquid Amphetamine
-appliedenergistics2:facade:0, Cable Facade - Barrel With Liqud Ketamine
-appliedenergistics2:facade:0, Cable Facade - Barrel With Liquid Cocaine
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_callisto_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ceres_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_enceladus_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_europa_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_ganymede_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_haumea_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_asbestos_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_australium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_beryllium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_borax_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cinnebar_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_aluminium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cobalt_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_coltan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_copper_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_diamond_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_fluorite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_gold_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_iron_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lapis_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lead_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lignite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lithium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_neodynium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_nether_coal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_nitan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_niter_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_plutonium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_rare_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_red_phosphorus_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_redstone_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_reiium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_schrabidium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_smoldering_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_starmetal_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_sulfur_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_thoruim_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_trinitite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_titan_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_trixite_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_tungsten_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_brightblende_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_uranium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_uranium_scorched_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_verticium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_weidanium_ore.name
+appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_zirconium_ore.name
+appliedenergistics2:facade:0, Cable Facade - Compact Raw Porkchop
 appliedenergistics2:facade:0, Cable Facade - Particles Collider
 appliedenergistics2:facade:0, Cable Facade - Plain Void Shell
 appliedenergistics2:facade:0, Cable Facade - Glass Void Shell
@@ -13722,7 +14265,7 @@ galaxyspace:gs_basic:34, Steel Fan
 galaxyspace:gs_basic:35, Plastic Fan
 galaxyspace:gs_basic:36, Carbon Fan
 galaxyspace:gs_basic:37, Raw Plastic
-galaxyspace:gs_basic:38, Plastic
+galaxyspace:gs_basic:38, Plastic Fragment
 galaxyspace:gs_basic:39, Gas Extractor
 galaxyspace:ingots:0, Cobalt Ingot
 galaxyspace:ingots:1, Magnesium Ingot
@@ -13893,6 +14436,27 @@ galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
 galaxyspace:barnarda_c_violet_door, item.barnarda_c_violet_door.name
+galaxyspace:proxima_b_blocks:0, Surface
+galaxyspace:proxima_b_blocks:1, Subsurface
+galaxyspace:proxima_b_blocks:2, Stone
+galaxyspace:proxima_b_blocks:3, Ice Surface
+galaxyspace:proxima_b_blocks:4, Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_blocks:11, Rocky Surface
+galaxyspace:proxima_b_blocks:12, Mushroom Skin
+galaxyspace:proxima_b_blocks:13, Mushroom Geyser
+galaxyspace:proxima_b_blocks:14, Mud
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:proxima_b_mushroom_log, Mushroom Stem
+galaxyspace:proxima_b_grasses, Grass
+galaxyspace:proxima_b_dandelions:0, Red Tallgrass
+galaxyspace:proxima_b_dandelions:1, Red Tallgrass
 galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
 galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
 galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
@@ -13915,28 +14479,6 @@ galaxyspace:tauceti_f_corals:7, Horn Coral Fan
 galaxyspace:tauceti_f_corals:8, Tube Coral
 galaxyspace:tauceti_f_corals:9, Tube Coral Fan
 galaxyspace:tauceti_f_corals:10, Sponge Coral
-galaxyspace:proxima_b_blocks:0, Surface
-galaxyspace:proxima_b_blocks:1, Subsurface
-galaxyspace:proxima_b_blocks:2, Stone
-galaxyspace:proxima_b_blocks:3, Ice Surface
-galaxyspace:proxima_b_blocks:4, Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_blocks:11, Rocky Surface
-galaxyspace:proxima_b_blocks:12, Mushroom Skin
-galaxyspace:proxima_b_blocks:13, Mushroom Geyser
-galaxyspace:proxima_b_blocks:14, Mud
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
-galaxyspace:proxima_b_mushroom_log, Mushroom Stem
-galaxyspace:proxima_b_grasses, Grass
-galaxyspace:proxima_b_dandelions:0, Red Tallgrass
-galaxyspace:proxima_b_dandelions:1, Red Tallgrass
-quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -14257,9 +14799,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:pipe, tile.pipe.name
-quark:backpack, item.backpack.name
-quark:tiny_potato, tile.tiny_potato.name
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -14384,23 +14923,26 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
+quark:pipe, tile.pipe.name
+quark:backpack, item.backpack.name
+quark:tiny_potato, tile.tiny_potato.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -14501,6 +15043,23 @@ quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -14533,23 +15092,7 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
 champions:champion_egg, Spawn Champion
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
@@ -16279,24 +16822,6 @@ cfm:item_kebab_cooked, Cooked Kebab
 cfm:item_crow_bar, Crow Bar
 cfm:ceiling_fan_fans, item.ceiling_fan_fans.name
 cfm:tv_remote, TV Remote
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -16417,6 +16942,48 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+herobrine:unholy_water, Unholy Water
+herobrine:herobrine_alter, §eAltar of Herobrine
+herobrine:holy_water, Holy Water
+herobrine:cursed_diamond_leggings, Cursed Diamond Leggings
+herobrine:cursed_diamond_helmet, Cursed Diamond Helmet
+herobrine:cursed_diamond_chestplate, Cursed Diamond Chestplate
+herobrine:cursed_diamond_boots, Cursed Diamond Boots
+herobrine:cursed_diamond_sword, Cursed Diamond Sword
+herobrine:cursed_diamond_hoe, Cursed Diamond Hoe
+herobrine:cursed_diamond_shovel, Cursed Diamond Shovel
+herobrine:cursed_diamond_pickaxe, Cursed Diamond Pickaxe
+herobrine:cursed_diamond_axe, Cursed Diamond Axe
+herobrine:bedrock_sword, §dBedrock Sword
+herobrine:cursed_diamond, Cursed Diamond
+herobrine:cursed_dust, Cursed Dust
+herobrine:purified_diamond, Purified Diamond
+herobrine:cursed_diamond_block, Cursed Block of Diamond
+herobrine:purified_diamond_block, Purified Block of Diamond
+herobrine:herobrine_statue, Statue of Herobrine
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16432,39 +16999,34 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:card_writer, Card Writer
+opensecurity:alarm, Alarm
+opensecurity:security_terminal, Security Terminal
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:mag_reader, Magnetic Card Reader
 opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:alarm, Alarm
-opensecurity:card_writer, Card Writer
-opensecurity:rfid_reader, RFID Reader
 opensecurity:keypad, Keypad
+opensecurity:rfid_reader, RFID Reader
+opensecurity:entity_detector, Entity Detector
 opensecurity:energy_turret, Energy Turret
 opensecurity:data_block, Data Block
-opensecurity:security_terminal, Security Terminal
-opensecurity:entity_detector, Entity Detector
-opensecurity:biometric_reader, Biometric Reader
 opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:private_secure_door, Private Security Door
 opensecurity:secure_door, Security Door
+opensecurity:nanofog, NanoFog
 opensecurity:door_controller, Door Controller
 opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:mag_reader_camo, Camo Magnetic Card Reader
-opensecurity:nanofog, NanoFog
 opensecurity:rolldoor, Rolldoor
-opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:damage_upgrade, Damage Upgrade
 opensecurity:rfid_card, RFID Card
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:nanodna, NanoDNA
+opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
 opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:nanodna, NanoDNA
-opensecurity:rfid_reader_card, RFID Reader Card
 portality:controller, Portal Controller
 portality:frame, Portal Frame
 portality:module_interdimensional, Interdimensional Module
@@ -18079,6 +18641,10 @@ theoneprobe:probenote, The One Probe Read Me
 theoneprobe:diamond_helmet_probe:0, Diamond Helmet with Probe
 theoneprobe:gold_helmet_probe:0, Gold Helmet with Probe
 theoneprobe:iron_helmet_probe:0, Iron Helmet with Probe
+contenttweaker:baltika9, Балтика 9
+contenttweaker:budweiser, Budweiser
+contenttweaker:freaky_block:0, Freaky Block
+contenttweaker:infinite_purified_water_bottle, Infinite Purified Water Bottle
 contenttweaker:lost_teleporter, Lost Teleporter
 contenttweaker:barnarda_c_aluminium_ore:0, tile.contenttweaker.barnarda_c_aluminium_ore.name
 contenttweaker:barnarda_c_asbestos_ore:0, tile.contenttweaker.barnarda_c_asbestos_ore.name
@@ -18207,9 +18773,481 @@ contenttweaker:solar_asteroid_belt_schrabidium_ore:0, tile.contenttweaker.solar_
 contenttweaker:solar_asteroid_belt_smoldering_ore:0, tile.contenttweaker.solar_asteroid_belt_smoldering_ore.name
 contenttweaker:solar_asteroid_belt_starmetal_ore:0, tile.contenttweaker.solar_asteroid_belt_starmetal_ore.name
 contenttweaker:solar_asteroid_belt_sulfur_ore:0, tile.contenttweaker.solar_asteroid_belt_sulfur_ore.name
+contenttweaker:solar_asteroid_belt_thoruim_ore:0, tile.contenttweaker.solar_asteroid_belt_thoruim_ore.name
+contenttweaker:solar_asteroid_belt_trinitite_ore:0, tile.contenttweaker.solar_asteroid_belt_trinitite_ore.name
+contenttweaker:solar_asteroid_belt_titan_ore:0, tile.contenttweaker.solar_asteroid_belt_titan_ore.name
+contenttweaker:solar_asteroid_belt_trixite_ore:0, tile.contenttweaker.solar_asteroid_belt_trixite_ore.name
+contenttweaker:solar_asteroid_belt_tungsten_ore:0, tile.contenttweaker.solar_asteroid_belt_tungsten_ore.name
+contenttweaker:solar_asteroid_belt_brightblende_ore:0, tile.contenttweaker.solar_asteroid_belt_brightblende_ore.name
+contenttweaker:solar_asteroid_belt_uranium_ore:0, tile.contenttweaker.solar_asteroid_belt_uranium_ore.name
+contenttweaker:solar_asteroid_belt_uranium_scorched_ore:0, tile.contenttweaker.solar_asteroid_belt_uranium_scorched_ore.name
+contenttweaker:solar_asteroid_belt_verticium_ore:0, tile.contenttweaker.solar_asteroid_belt_verticium_ore.name
+contenttweaker:solar_asteroid_belt_weidanium_ore:0, tile.contenttweaker.solar_asteroid_belt_weidanium_ore.name
+contenttweaker:solar_asteroid_belt_zirconium_ore:0, tile.contenttweaker.solar_asteroid_belt_zirconium_ore.name
+contenttweaker:solar_callisto_aluminium_ore:0, tile.contenttweaker.solar_callisto_aluminium_ore.name
+contenttweaker:solar_callisto_asbestos_ore:0, tile.contenttweaker.solar_callisto_asbestos_ore.name
+contenttweaker:solar_callisto_australium_ore:0, tile.contenttweaker.solar_callisto_australium_ore.name
+contenttweaker:solar_callisto_beryllium_ore:0, tile.contenttweaker.solar_callisto_beryllium_ore.name
+contenttweaker:solar_callisto_borax_ore:0, tile.contenttweaker.solar_callisto_borax_ore.name
+contenttweaker:solar_callisto_cinnebar_ore:0, tile.contenttweaker.solar_callisto_cinnebar_ore.name
+contenttweaker:solar_callisto_cluster_aluminium_ore:0, tile.contenttweaker.solar_callisto_cluster_aluminium_ore.name
+contenttweaker:solar_callisto_cluster_copper_ore:0, tile.contenttweaker.solar_callisto_cluster_copper_ore.name
+contenttweaker:solar_callisto_cluster_iron_ore:0, tile.contenttweaker.solar_callisto_cluster_iron_ore.name
+contenttweaker:solar_callisto_cluster_titan_ore:0, tile.contenttweaker.solar_callisto_cluster_titan_ore.name
+contenttweaker:solar_callisto_coal_ore:0, tile.contenttweaker.solar_callisto_coal_ore.name
+contenttweaker:solar_callisto_cobalt_ore:0, tile.contenttweaker.solar_callisto_cobalt_ore.name
+contenttweaker:solar_callisto_coltan_ore:0, tile.contenttweaker.solar_callisto_coltan_ore.name
+contenttweaker:solar_callisto_copper_ore:0, tile.contenttweaker.solar_callisto_copper_ore.name
+contenttweaker:solar_callisto_diamond_ore:0, tile.contenttweaker.solar_callisto_diamond_ore.name
+contenttweaker:solar_callisto_fluorite_ore:0, tile.contenttweaker.solar_callisto_fluorite_ore.name
+contenttweaker:solar_callisto_gold_ore:0, tile.contenttweaker.solar_callisto_gold_ore.name
+contenttweaker:solar_callisto_iron_ore:0, tile.contenttweaker.solar_callisto_iron_ore.name
+contenttweaker:solar_callisto_lapis_ore:0, tile.contenttweaker.solar_callisto_lapis_ore.name
+contenttweaker:solar_callisto_lead_ore:0, tile.contenttweaker.solar_callisto_lead_ore.name
+contenttweaker:solar_callisto_lignite_ore:0, tile.contenttweaker.solar_callisto_lignite_ore.name
+contenttweaker:solar_callisto_lithium_ore:0, tile.contenttweaker.solar_callisto_lithium_ore.name
+contenttweaker:solar_callisto_neodynium_ore:0, tile.contenttweaker.solar_callisto_neodynium_ore.name
+contenttweaker:solar_callisto_nether_coal_ore:0, tile.contenttweaker.solar_callisto_nether_coal_ore.name
+contenttweaker:solar_callisto_nitan_ore:0, tile.contenttweaker.solar_callisto_nitan_ore.name
+contenttweaker:solar_callisto_niter_ore:0, tile.contenttweaker.solar_callisto_niter_ore.name
+contenttweaker:solar_callisto_plutonium_ore:0, tile.contenttweaker.solar_callisto_plutonium_ore.name
+contenttweaker:solar_callisto_rare_ore:0, tile.contenttweaker.solar_callisto_rare_ore.name
+contenttweaker:solar_callisto_red_phosphorus_ore:0, tile.contenttweaker.solar_callisto_red_phosphorus_ore.name
+contenttweaker:solar_callisto_redstone_ore:0, tile.contenttweaker.solar_callisto_redstone_ore.name
+contenttweaker:solar_callisto_reiium_ore:0, tile.contenttweaker.solar_callisto_reiium_ore.name
+contenttweaker:solar_callisto_schrabidium_ore:0, tile.contenttweaker.solar_callisto_schrabidium_ore.name
+contenttweaker:solar_callisto_smoldering_ore:0, tile.contenttweaker.solar_callisto_smoldering_ore.name
+contenttweaker:solar_callisto_starmetal_ore:0, tile.contenttweaker.solar_callisto_starmetal_ore.name
+contenttweaker:solar_callisto_sulfur_ore:0, tile.contenttweaker.solar_callisto_sulfur_ore.name
+contenttweaker:solar_callisto_thoruim_ore:0, tile.contenttweaker.solar_callisto_thoruim_ore.name
+contenttweaker:solar_callisto_trinitite_ore:0, tile.contenttweaker.solar_callisto_trinitite_ore.name
+contenttweaker:solar_callisto_titan_ore:0, tile.contenttweaker.solar_callisto_titan_ore.name
+contenttweaker:solar_callisto_trixite_ore:0, tile.contenttweaker.solar_callisto_trixite_ore.name
+contenttweaker:solar_callisto_tungsten_ore:0, tile.contenttweaker.solar_callisto_tungsten_ore.name
+contenttweaker:solar_callisto_brightblende_ore:0, tile.contenttweaker.solar_callisto_brightblende_ore.name
+contenttweaker:solar_callisto_uranium_ore:0, tile.contenttweaker.solar_callisto_uranium_ore.name
+contenttweaker:solar_callisto_uranium_scorched_ore:0, tile.contenttweaker.solar_callisto_uranium_scorched_ore.name
+contenttweaker:solar_callisto_verticium_ore:0, tile.contenttweaker.solar_callisto_verticium_ore.name
+contenttweaker:solar_callisto_weidanium_ore:0, tile.contenttweaker.solar_callisto_weidanium_ore.name
+contenttweaker:solar_callisto_zirconium_ore:0, tile.contenttweaker.solar_callisto_zirconium_ore.name
+contenttweaker:solar_ceres_aluminium_ore:0, tile.contenttweaker.solar_ceres_aluminium_ore.name
+contenttweaker:solar_ceres_asbestos_ore:0, tile.contenttweaker.solar_ceres_asbestos_ore.name
+contenttweaker:solar_ceres_australium_ore:0, tile.contenttweaker.solar_ceres_australium_ore.name
+contenttweaker:solar_ceres_beryllium_ore:0, tile.contenttweaker.solar_ceres_beryllium_ore.name
+contenttweaker:solar_ceres_borax_ore:0, tile.contenttweaker.solar_ceres_borax_ore.name
+contenttweaker:solar_ceres_cinnebar_ore:0, tile.contenttweaker.solar_ceres_cinnebar_ore.name
+contenttweaker:solar_ceres_cluster_aluminium_ore:0, tile.contenttweaker.solar_ceres_cluster_aluminium_ore.name
+contenttweaker:solar_ceres_cluster_copper_ore:0, tile.contenttweaker.solar_ceres_cluster_copper_ore.name
+contenttweaker:solar_ceres_cluster_iron_ore:0, tile.contenttweaker.solar_ceres_cluster_iron_ore.name
+contenttweaker:solar_ceres_cluster_titan_ore:0, tile.contenttweaker.solar_ceres_cluster_titan_ore.name
+contenttweaker:solar_ceres_coal_ore:0, tile.contenttweaker.solar_ceres_coal_ore.name
+contenttweaker:solar_ceres_cobalt_ore:0, tile.contenttweaker.solar_ceres_cobalt_ore.name
+contenttweaker:solar_ceres_coltan_ore:0, tile.contenttweaker.solar_ceres_coltan_ore.name
+contenttweaker:solar_ceres_copper_ore:0, tile.contenttweaker.solar_ceres_copper_ore.name
+contenttweaker:solar_ceres_diamond_ore:0, tile.contenttweaker.solar_ceres_diamond_ore.name
+contenttweaker:solar_ceres_fluorite_ore:0, tile.contenttweaker.solar_ceres_fluorite_ore.name
+contenttweaker:solar_ceres_gold_ore:0, tile.contenttweaker.solar_ceres_gold_ore.name
+contenttweaker:solar_ceres_iron_ore:0, tile.contenttweaker.solar_ceres_iron_ore.name
+contenttweaker:solar_ceres_lapis_ore:0, tile.contenttweaker.solar_ceres_lapis_ore.name
+contenttweaker:solar_ceres_lead_ore:0, tile.contenttweaker.solar_ceres_lead_ore.name
+contenttweaker:solar_ceres_lignite_ore:0, tile.contenttweaker.solar_ceres_lignite_ore.name
+contenttweaker:solar_ceres_lithium_ore:0, tile.contenttweaker.solar_ceres_lithium_ore.name
+contenttweaker:solar_ceres_neodynium_ore:0, tile.contenttweaker.solar_ceres_neodynium_ore.name
+contenttweaker:solar_ceres_nether_coal_ore:0, tile.contenttweaker.solar_ceres_nether_coal_ore.name
+contenttweaker:solar_ceres_nitan_ore:0, tile.contenttweaker.solar_ceres_nitan_ore.name
+contenttweaker:solar_ceres_niter_ore:0, tile.contenttweaker.solar_ceres_niter_ore.name
+contenttweaker:solar_ceres_plutonium_ore:0, tile.contenttweaker.solar_ceres_plutonium_ore.name
+contenttweaker:solar_ceres_rare_ore:0, tile.contenttweaker.solar_ceres_rare_ore.name
+contenttweaker:solar_ceres_red_phosphorus_ore:0, tile.contenttweaker.solar_ceres_red_phosphorus_ore.name
+contenttweaker:solar_ceres_redstone_ore:0, tile.contenttweaker.solar_ceres_redstone_ore.name
+contenttweaker:solar_ceres_reiium_ore:0, tile.contenttweaker.solar_ceres_reiium_ore.name
+contenttweaker:solar_ceres_schrabidium_ore:0, tile.contenttweaker.solar_ceres_schrabidium_ore.name
+contenttweaker:solar_ceres_smoldering_ore:0, tile.contenttweaker.solar_ceres_smoldering_ore.name
+contenttweaker:solar_ceres_starmetal_ore:0, tile.contenttweaker.solar_ceres_starmetal_ore.name
+contenttweaker:solar_ceres_sulfur_ore:0, tile.contenttweaker.solar_ceres_sulfur_ore.name
+contenttweaker:solar_ceres_thoruim_ore:0, tile.contenttweaker.solar_ceres_thoruim_ore.name
+contenttweaker:solar_ceres_trinitite_ore:0, tile.contenttweaker.solar_ceres_trinitite_ore.name
+contenttweaker:solar_ceres_titan_ore:0, tile.contenttweaker.solar_ceres_titan_ore.name
+contenttweaker:solar_ceres_trixite_ore:0, tile.contenttweaker.solar_ceres_trixite_ore.name
+contenttweaker:solar_ceres_tungsten_ore:0, tile.contenttweaker.solar_ceres_tungsten_ore.name
+contenttweaker:solar_ceres_brightblende_ore:0, tile.contenttweaker.solar_ceres_brightblende_ore.name
+contenttweaker:solar_ceres_uranium_ore:0, tile.contenttweaker.solar_ceres_uranium_ore.name
+contenttweaker:solar_ceres_uranium_scorched_ore:0, tile.contenttweaker.solar_ceres_uranium_scorched_ore.name
+contenttweaker:solar_ceres_verticium_ore:0, tile.contenttweaker.solar_ceres_verticium_ore.name
+contenttweaker:solar_ceres_weidanium_ore:0, tile.contenttweaker.solar_ceres_weidanium_ore.name
+contenttweaker:solar_ceres_zirconium_ore:0, tile.contenttweaker.solar_ceres_zirconium_ore.name
+contenttweaker:solar_enceladus_aluminium_ore:0, tile.contenttweaker.solar_enceladus_aluminium_ore.name
+contenttweaker:solar_enceladus_asbestos_ore:0, tile.contenttweaker.solar_enceladus_asbestos_ore.name
+contenttweaker:solar_enceladus_australium_ore:0, tile.contenttweaker.solar_enceladus_australium_ore.name
+contenttweaker:solar_enceladus_beryllium_ore:0, tile.contenttweaker.solar_enceladus_beryllium_ore.name
+contenttweaker:solar_enceladus_borax_ore:0, tile.contenttweaker.solar_enceladus_borax_ore.name
+contenttweaker:solar_enceladus_cinnebar_ore:0, tile.contenttweaker.solar_enceladus_cinnebar_ore.name
+contenttweaker:solar_enceladus_cluster_aluminium_ore:0, tile.contenttweaker.solar_enceladus_cluster_aluminium_ore.name
+contenttweaker:solar_enceladus_cluster_copper_ore:0, tile.contenttweaker.solar_enceladus_cluster_copper_ore.name
+contenttweaker:solar_enceladus_cluster_iron_ore:0, tile.contenttweaker.solar_enceladus_cluster_iron_ore.name
+contenttweaker:solar_enceladus_cluster_titan_ore:0, tile.contenttweaker.solar_enceladus_cluster_titan_ore.name
+contenttweaker:solar_enceladus_coal_ore:0, tile.contenttweaker.solar_enceladus_coal_ore.name
+contenttweaker:solar_enceladus_cobalt_ore:0, tile.contenttweaker.solar_enceladus_cobalt_ore.name
+contenttweaker:solar_enceladus_coltan_ore:0, tile.contenttweaker.solar_enceladus_coltan_ore.name
+contenttweaker:solar_enceladus_copper_ore:0, tile.contenttweaker.solar_enceladus_copper_ore.name
+contenttweaker:solar_enceladus_diamond_ore:0, tile.contenttweaker.solar_enceladus_diamond_ore.name
+contenttweaker:solar_enceladus_fluorite_ore:0, tile.contenttweaker.solar_enceladus_fluorite_ore.name
+contenttweaker:solar_enceladus_gold_ore:0, tile.contenttweaker.solar_enceladus_gold_ore.name
+contenttweaker:solar_enceladus_iron_ore:0, tile.contenttweaker.solar_enceladus_iron_ore.name
+contenttweaker:solar_enceladus_lapis_ore:0, tile.contenttweaker.solar_enceladus_lapis_ore.name
+contenttweaker:solar_enceladus_lead_ore:0, tile.contenttweaker.solar_enceladus_lead_ore.name
+contenttweaker:solar_enceladus_lignite_ore:0, tile.contenttweaker.solar_enceladus_lignite_ore.name
+contenttweaker:solar_enceladus_lithium_ore:0, tile.contenttweaker.solar_enceladus_lithium_ore.name
+contenttweaker:solar_enceladus_neodynium_ore:0, tile.contenttweaker.solar_enceladus_neodynium_ore.name
+contenttweaker:solar_enceladus_nether_coal_ore:0, tile.contenttweaker.solar_enceladus_nether_coal_ore.name
+contenttweaker:solar_enceladus_nitan_ore:0, tile.contenttweaker.solar_enceladus_nitan_ore.name
+contenttweaker:solar_enceladus_niter_ore:0, tile.contenttweaker.solar_enceladus_niter_ore.name
+contenttweaker:solar_enceladus_plutonium_ore:0, tile.contenttweaker.solar_enceladus_plutonium_ore.name
+contenttweaker:solar_enceladus_rare_ore:0, tile.contenttweaker.solar_enceladus_rare_ore.name
+contenttweaker:solar_enceladus_red_phosphorus_ore:0, tile.contenttweaker.solar_enceladus_red_phosphorus_ore.name
+contenttweaker:solar_enceladus_redstone_ore:0, tile.contenttweaker.solar_enceladus_redstone_ore.name
+contenttweaker:solar_enceladus_reiium_ore:0, tile.contenttweaker.solar_enceladus_reiium_ore.name
+contenttweaker:solar_enceladus_schrabidium_ore:0, tile.contenttweaker.solar_enceladus_schrabidium_ore.name
+contenttweaker:solar_enceladus_smoldering_ore:0, tile.contenttweaker.solar_enceladus_smoldering_ore.name
+contenttweaker:solar_enceladus_starmetal_ore:0, tile.contenttweaker.solar_enceladus_starmetal_ore.name
+contenttweaker:solar_enceladus_sulfur_ore:0, tile.contenttweaker.solar_enceladus_sulfur_ore.name
+contenttweaker:solar_enceladus_thoruim_ore:0, tile.contenttweaker.solar_enceladus_thoruim_ore.name
+contenttweaker:solar_enceladus_trinitite_ore:0, tile.contenttweaker.solar_enceladus_trinitite_ore.name
+contenttweaker:solar_enceladus_titan_ore:0, tile.contenttweaker.solar_enceladus_titan_ore.name
+contenttweaker:solar_enceladus_trixite_ore:0, tile.contenttweaker.solar_enceladus_trixite_ore.name
+contenttweaker:solar_enceladus_tungsten_ore:0, tile.contenttweaker.solar_enceladus_tungsten_ore.name
+contenttweaker:solar_enceladus_brightblende_ore:0, tile.contenttweaker.solar_enceladus_brightblende_ore.name
+contenttweaker:solar_enceladus_uranium_ore:0, tile.contenttweaker.solar_enceladus_uranium_ore.name
+contenttweaker:solar_enceladus_uranium_scorched_ore:0, tile.contenttweaker.solar_enceladus_uranium_scorched_ore.name
+contenttweaker:solar_enceladus_verticium_ore:0, tile.contenttweaker.solar_enceladus_verticium_ore.name
+contenttweaker:solar_enceladus_weidanium_ore:0, tile.contenttweaker.solar_enceladus_weidanium_ore.name
+contenttweaker:solar_enceladus_zirconium_ore:0, tile.contenttweaker.solar_enceladus_zirconium_ore.name
+contenttweaker:solar_europa_aluminium_ore:0, tile.contenttweaker.solar_europa_aluminium_ore.name
+contenttweaker:solar_europa_asbestos_ore:0, tile.contenttweaker.solar_europa_asbestos_ore.name
+contenttweaker:solar_europa_australium_ore:0, tile.contenttweaker.solar_europa_australium_ore.name
+contenttweaker:solar_europa_beryllium_ore:0, tile.contenttweaker.solar_europa_beryllium_ore.name
+contenttweaker:solar_europa_borax_ore:0, tile.contenttweaker.solar_europa_borax_ore.name
+contenttweaker:solar_europa_cinnebar_ore:0, tile.contenttweaker.solar_europa_cinnebar_ore.name
+contenttweaker:solar_europa_cluster_aluminium_ore:0, tile.contenttweaker.solar_europa_cluster_aluminium_ore.name
+contenttweaker:solar_europa_cluster_copper_ore:0, tile.contenttweaker.solar_europa_cluster_copper_ore.name
+contenttweaker:solar_europa_cluster_iron_ore:0, tile.contenttweaker.solar_europa_cluster_iron_ore.name
+contenttweaker:solar_europa_cluster_titan_ore:0, tile.contenttweaker.solar_europa_cluster_titan_ore.name
+contenttweaker:solar_europa_coal_ore:0, tile.contenttweaker.solar_europa_coal_ore.name
+contenttweaker:solar_europa_cobalt_ore:0, tile.contenttweaker.solar_europa_cobalt_ore.name
+contenttweaker:solar_europa_coltan_ore:0, tile.contenttweaker.solar_europa_coltan_ore.name
+contenttweaker:solar_europa_copper_ore:0, tile.contenttweaker.solar_europa_copper_ore.name
+contenttweaker:solar_europa_diamond_ore:0, tile.contenttweaker.solar_europa_diamond_ore.name
+contenttweaker:solar_europa_fluorite_ore:0, tile.contenttweaker.solar_europa_fluorite_ore.name
+contenttweaker:solar_europa_gold_ore:0, tile.contenttweaker.solar_europa_gold_ore.name
+contenttweaker:solar_europa_iron_ore:0, tile.contenttweaker.solar_europa_iron_ore.name
+contenttweaker:solar_europa_lapis_ore:0, tile.contenttweaker.solar_europa_lapis_ore.name
+contenttweaker:solar_europa_lead_ore:0, tile.contenttweaker.solar_europa_lead_ore.name
+contenttweaker:solar_europa_lignite_ore:0, tile.contenttweaker.solar_europa_lignite_ore.name
+contenttweaker:solar_europa_lithium_ore:0, tile.contenttweaker.solar_europa_lithium_ore.name
+contenttweaker:solar_europa_neodynium_ore:0, tile.contenttweaker.solar_europa_neodynium_ore.name
+contenttweaker:solar_europa_nether_coal_ore:0, tile.contenttweaker.solar_europa_nether_coal_ore.name
+contenttweaker:solar_europa_nitan_ore:0, tile.contenttweaker.solar_europa_nitan_ore.name
+contenttweaker:solar_europa_niter_ore:0, tile.contenttweaker.solar_europa_niter_ore.name
+contenttweaker:solar_europa_plutonium_ore:0, tile.contenttweaker.solar_europa_plutonium_ore.name
+contenttweaker:solar_europa_rare_ore:0, tile.contenttweaker.solar_europa_rare_ore.name
+contenttweaker:solar_europa_red_phosphorus_ore:0, tile.contenttweaker.solar_europa_red_phosphorus_ore.name
+contenttweaker:solar_europa_redstone_ore:0, tile.contenttweaker.solar_europa_redstone_ore.name
+contenttweaker:solar_europa_reiium_ore:0, tile.contenttweaker.solar_europa_reiium_ore.name
+contenttweaker:solar_europa_schrabidium_ore:0, tile.contenttweaker.solar_europa_schrabidium_ore.name
+contenttweaker:solar_europa_smoldering_ore:0, tile.contenttweaker.solar_europa_smoldering_ore.name
+contenttweaker:solar_europa_starmetal_ore:0, tile.contenttweaker.solar_europa_starmetal_ore.name
+contenttweaker:solar_europa_sulfur_ore:0, tile.contenttweaker.solar_europa_sulfur_ore.name
+contenttweaker:solar_europa_thoruim_ore:0, tile.contenttweaker.solar_europa_thoruim_ore.name
+contenttweaker:solar_europa_trinitite_ore:0, tile.contenttweaker.solar_europa_trinitite_ore.name
+contenttweaker:solar_europa_titan_ore:0, tile.contenttweaker.solar_europa_titan_ore.name
+contenttweaker:solar_europa_trixite_ore:0, tile.contenttweaker.solar_europa_trixite_ore.name
+contenttweaker:solar_europa_tungsten_ore:0, tile.contenttweaker.solar_europa_tungsten_ore.name
+contenttweaker:solar_europa_brightblende_ore:0, tile.contenttweaker.solar_europa_brightblende_ore.name
+contenttweaker:solar_europa_uranium_ore:0, tile.contenttweaker.solar_europa_uranium_ore.name
+contenttweaker:solar_europa_uranium_scorched_ore:0, tile.contenttweaker.solar_europa_uranium_scorched_ore.name
+contenttweaker:solar_europa_verticium_ore:0, tile.contenttweaker.solar_europa_verticium_ore.name
+contenttweaker:solar_europa_weidanium_ore:0, tile.contenttweaker.solar_europa_weidanium_ore.name
+contenttweaker:solar_europa_zirconium_ore:0, tile.contenttweaker.solar_europa_zirconium_ore.name
+contenttweaker:solar_ganymede_aluminium_ore:0, tile.contenttweaker.solar_ganymede_aluminium_ore.name
+contenttweaker:solar_ganymede_asbestos_ore:0, tile.contenttweaker.solar_ganymede_asbestos_ore.name
+contenttweaker:solar_ganymede_australium_ore:0, tile.contenttweaker.solar_ganymede_australium_ore.name
+contenttweaker:solar_ganymede_beryllium_ore:0, tile.contenttweaker.solar_ganymede_beryllium_ore.name
+contenttweaker:solar_ganymede_borax_ore:0, tile.contenttweaker.solar_ganymede_borax_ore.name
+contenttweaker:solar_ganymede_cinnebar_ore:0, tile.contenttweaker.solar_ganymede_cinnebar_ore.name
+contenttweaker:solar_ganymede_cluster_aluminium_ore:0, tile.contenttweaker.solar_ganymede_cluster_aluminium_ore.name
+contenttweaker:solar_ganymede_cluster_copper_ore:0, tile.contenttweaker.solar_ganymede_cluster_copper_ore.name
+contenttweaker:solar_ganymede_cluster_iron_ore:0, tile.contenttweaker.solar_ganymede_cluster_iron_ore.name
+contenttweaker:solar_ganymede_cluster_titan_ore:0, tile.contenttweaker.solar_ganymede_cluster_titan_ore.name
+contenttweaker:solar_ganymede_coal_ore:0, tile.contenttweaker.solar_ganymede_coal_ore.name
+contenttweaker:solar_ganymede_cobalt_ore:0, tile.contenttweaker.solar_ganymede_cobalt_ore.name
+contenttweaker:solar_ganymede_coltan_ore:0, tile.contenttweaker.solar_ganymede_coltan_ore.name
+contenttweaker:solar_ganymede_copper_ore:0, tile.contenttweaker.solar_ganymede_copper_ore.name
+contenttweaker:solar_ganymede_diamond_ore:0, tile.contenttweaker.solar_ganymede_diamond_ore.name
+contenttweaker:solar_ganymede_fluorite_ore:0, tile.contenttweaker.solar_ganymede_fluorite_ore.name
+contenttweaker:solar_ganymede_gold_ore:0, tile.contenttweaker.solar_ganymede_gold_ore.name
+contenttweaker:solar_ganymede_iron_ore:0, tile.contenttweaker.solar_ganymede_iron_ore.name
+contenttweaker:solar_ganymede_lapis_ore:0, tile.contenttweaker.solar_ganymede_lapis_ore.name
+contenttweaker:solar_ganymede_lead_ore:0, tile.contenttweaker.solar_ganymede_lead_ore.name
+contenttweaker:solar_ganymede_lignite_ore:0, tile.contenttweaker.solar_ganymede_lignite_ore.name
+contenttweaker:solar_ganymede_lithium_ore:0, tile.contenttweaker.solar_ganymede_lithium_ore.name
+contenttweaker:solar_ganymede_neodynium_ore:0, tile.contenttweaker.solar_ganymede_neodynium_ore.name
+contenttweaker:solar_ganymede_nether_coal_ore:0, tile.contenttweaker.solar_ganymede_nether_coal_ore.name
+contenttweaker:solar_ganymede_nitan_ore:0, tile.contenttweaker.solar_ganymede_nitan_ore.name
+contenttweaker:solar_ganymede_niter_ore:0, tile.contenttweaker.solar_ganymede_niter_ore.name
+contenttweaker:solar_ganymede_plutonium_ore:0, tile.contenttweaker.solar_ganymede_plutonium_ore.name
+contenttweaker:solar_ganymede_rare_ore:0, tile.contenttweaker.solar_ganymede_rare_ore.name
+contenttweaker:solar_ganymede_red_phosphorus_ore:0, tile.contenttweaker.solar_ganymede_red_phosphorus_ore.name
+contenttweaker:solar_ganymede_redstone_ore:0, tile.contenttweaker.solar_ganymede_redstone_ore.name
+contenttweaker:solar_ganymede_reiium_ore:0, tile.contenttweaker.solar_ganymede_reiium_ore.name
+contenttweaker:solar_ganymede_schrabidium_ore:0, tile.contenttweaker.solar_ganymede_schrabidium_ore.name
+contenttweaker:solar_ganymede_smoldering_ore:0, tile.contenttweaker.solar_ganymede_smoldering_ore.name
+contenttweaker:solar_ganymede_starmetal_ore:0, tile.contenttweaker.solar_ganymede_starmetal_ore.name
+contenttweaker:solar_ganymede_sulfur_ore:0, tile.contenttweaker.solar_ganymede_sulfur_ore.name
+contenttweaker:solar_ganymede_thoruim_ore:0, tile.contenttweaker.solar_ganymede_thoruim_ore.name
+contenttweaker:solar_ganymede_trinitite_ore:0, tile.contenttweaker.solar_ganymede_trinitite_ore.name
+contenttweaker:solar_ganymede_titan_ore:0, tile.contenttweaker.solar_ganymede_titan_ore.name
+contenttweaker:solar_ganymede_trixite_ore:0, tile.contenttweaker.solar_ganymede_trixite_ore.name
+contenttweaker:solar_ganymede_tungsten_ore:0, tile.contenttweaker.solar_ganymede_tungsten_ore.name
+contenttweaker:solar_ganymede_brightblende_ore:0, tile.contenttweaker.solar_ganymede_brightblende_ore.name
+contenttweaker:solar_ganymede_uranium_ore:0, tile.contenttweaker.solar_ganymede_uranium_ore.name
+contenttweaker:solar_ganymede_uranium_scorched_ore:0, tile.contenttweaker.solar_ganymede_uranium_scorched_ore.name
+contenttweaker:solar_ganymede_verticium_ore:0, tile.contenttweaker.solar_ganymede_verticium_ore.name
+contenttweaker:solar_ganymede_weidanium_ore:0, tile.contenttweaker.solar_ganymede_weidanium_ore.name
+contenttweaker:solar_ganymede_zirconium_ore:0, tile.contenttweaker.solar_ganymede_zirconium_ore.name
+contenttweaker:solar_haumea_aluminium_ore:0, tile.contenttweaker.solar_haumea_aluminium_ore.name
+contenttweaker:solar_haumea_asbestos_ore:0, tile.contenttweaker.solar_haumea_asbestos_ore.name
+contenttweaker:solar_haumea_australium_ore:0, tile.contenttweaker.solar_haumea_australium_ore.name
+contenttweaker:solar_haumea_beryllium_ore:0, tile.contenttweaker.solar_haumea_beryllium_ore.name
+contenttweaker:solar_haumea_borax_ore:0, tile.contenttweaker.solar_haumea_borax_ore.name
+contenttweaker:solar_haumea_cinnebar_ore:0, tile.contenttweaker.solar_haumea_cinnebar_ore.name
+contenttweaker:solar_haumea_cluster_aluminium_ore:0, tile.contenttweaker.solar_haumea_cluster_aluminium_ore.name
+contenttweaker:solar_haumea_cluster_copper_ore:0, tile.contenttweaker.solar_haumea_cluster_copper_ore.name
+contenttweaker:solar_haumea_cluster_iron_ore:0, tile.contenttweaker.solar_haumea_cluster_iron_ore.name
+contenttweaker:solar_haumea_cluster_titan_ore:0, tile.contenttweaker.solar_haumea_cluster_titan_ore.name
+contenttweaker:solar_haumea_coal_ore:0, tile.contenttweaker.solar_haumea_coal_ore.name
+contenttweaker:solar_haumea_cobalt_ore:0, tile.contenttweaker.solar_haumea_cobalt_ore.name
+contenttweaker:solar_haumea_coltan_ore:0, tile.contenttweaker.solar_haumea_coltan_ore.name
+contenttweaker:solar_haumea_copper_ore:0, tile.contenttweaker.solar_haumea_copper_ore.name
+contenttweaker:solar_haumea_diamond_ore:0, tile.contenttweaker.solar_haumea_diamond_ore.name
+contenttweaker:solar_haumea_fluorite_ore:0, tile.contenttweaker.solar_haumea_fluorite_ore.name
+contenttweaker:solar_haumea_gold_ore:0, tile.contenttweaker.solar_haumea_gold_ore.name
+contenttweaker:solar_haumea_iron_ore:0, tile.contenttweaker.solar_haumea_iron_ore.name
+contenttweaker:solar_haumea_lapis_ore:0, tile.contenttweaker.solar_haumea_lapis_ore.name
+contenttweaker:solar_haumea_lead_ore:0, tile.contenttweaker.solar_haumea_lead_ore.name
+contenttweaker:solar_haumea_lignite_ore:0, tile.contenttweaker.solar_haumea_lignite_ore.name
+contenttweaker:solar_haumea_lithium_ore:0, tile.contenttweaker.solar_haumea_lithium_ore.name
+contenttweaker:solar_haumea_neodynium_ore:0, tile.contenttweaker.solar_haumea_neodynium_ore.name
+contenttweaker:solar_haumea_nether_coal_ore:0, tile.contenttweaker.solar_haumea_nether_coal_ore.name
+contenttweaker:solar_haumea_nitan_ore:0, tile.contenttweaker.solar_haumea_nitan_ore.name
+contenttweaker:solar_haumea_niter_ore:0, tile.contenttweaker.solar_haumea_niter_ore.name
+contenttweaker:solar_haumea_plutonium_ore:0, tile.contenttweaker.solar_haumea_plutonium_ore.name
+contenttweaker:solar_haumea_rare_ore:0, tile.contenttweaker.solar_haumea_rare_ore.name
+contenttweaker:solar_haumea_red_phosphorus_ore:0, tile.contenttweaker.solar_haumea_red_phosphorus_ore.name
+contenttweaker:solar_haumea_redstone_ore:0, tile.contenttweaker.solar_haumea_redstone_ore.name
+contenttweaker:solar_haumea_reiium_ore:0, tile.contenttweaker.solar_haumea_reiium_ore.name
+contenttweaker:solar_haumea_schrabidium_ore:0, tile.contenttweaker.solar_haumea_schrabidium_ore.name
+contenttweaker:solar_haumea_smoldering_ore:0, tile.contenttweaker.solar_haumea_smoldering_ore.name
+contenttweaker:solar_haumea_starmetal_ore:0, tile.contenttweaker.solar_haumea_starmetal_ore.name
+contenttweaker:solar_haumea_sulfur_ore:0, tile.contenttweaker.solar_haumea_sulfur_ore.name
+contenttweaker:solar_haumea_thoruim_ore:0, tile.contenttweaker.solar_haumea_thoruim_ore.name
+contenttweaker:solar_haumea_trinitite_ore:0, tile.contenttweaker.solar_haumea_trinitite_ore.name
+contenttweaker:solar_haumea_titan_ore:0, tile.contenttweaker.solar_haumea_titan_ore.name
+contenttweaker:solar_haumea_trixite_ore:0, tile.contenttweaker.solar_haumea_trixite_ore.name
+contenttweaker:solar_haumea_tungsten_ore:0, tile.contenttweaker.solar_haumea_tungsten_ore.name
+contenttweaker:solar_haumea_brightblende_ore:0, tile.contenttweaker.solar_haumea_brightblende_ore.name
+contenttweaker:solar_haumea_uranium_ore:0, tile.contenttweaker.solar_haumea_uranium_ore.name
+contenttweaker:solar_haumea_uranium_scorched_ore:0, tile.contenttweaker.solar_haumea_uranium_scorched_ore.name
+contenttweaker:solar_haumea_verticium_ore:0, tile.contenttweaker.solar_haumea_verticium_ore.name
+contenttweaker:solar_haumea_weidanium_ore:0, tile.contenttweaker.solar_haumea_weidanium_ore.name
+contenttweaker:solar_haumea_zirconium_ore:0, tile.contenttweaker.solar_haumea_zirconium_ore.name
+contenttweaker:solar_io_aluminium_ore:0, tile.contenttweaker.solar_io_aluminium_ore.name
+contenttweaker:solar_io_asbestos_ore:0, tile.contenttweaker.solar_io_asbestos_ore.name
+contenttweaker:solar_io_australium_ore:0, tile.contenttweaker.solar_io_australium_ore.name
+contenttweaker:solar_io_beryllium_ore:0, tile.contenttweaker.solar_io_beryllium_ore.name
+contenttweaker:solar_io_borax_ore:0, tile.contenttweaker.solar_io_borax_ore.name
+contenttweaker:solar_io_cinnebar_ore:0, tile.contenttweaker.solar_io_cinnebar_ore.name
+contenttweaker:solar_io_cluster_aluminium_ore:0, tile.contenttweaker.solar_io_cluster_aluminium_ore.name
+contenttweaker:solar_io_cluster_copper_ore:0, tile.contenttweaker.solar_io_cluster_copper_ore.name
+contenttweaker:solar_io_cluster_iron_ore:0, tile.contenttweaker.solar_io_cluster_iron_ore.name
+contenttweaker:solar_io_cluster_titan_ore:0, tile.contenttweaker.solar_io_cluster_titan_ore.name
+contenttweaker:solar_io_coal_ore:0, tile.contenttweaker.solar_io_coal_ore.name
+contenttweaker:solar_io_cobalt_ore:0, tile.contenttweaker.solar_io_cobalt_ore.name
+contenttweaker:solar_io_coltan_ore:0, tile.contenttweaker.solar_io_coltan_ore.name
+contenttweaker:solar_io_copper_ore:0, tile.contenttweaker.solar_io_copper_ore.name
+contenttweaker:solar_io_diamond_ore:0, tile.contenttweaker.solar_io_diamond_ore.name
+contenttweaker:solar_io_fluorite_ore:0, tile.contenttweaker.solar_io_fluorite_ore.name
+contenttweaker:solar_io_gold_ore:0, tile.contenttweaker.solar_io_gold_ore.name
+contenttweaker:solar_io_iron_ore:0, tile.contenttweaker.solar_io_iron_ore.name
+contenttweaker:solar_io_lapis_ore:0, tile.contenttweaker.solar_io_lapis_ore.name
+contenttweaker:solar_io_lead_ore:0, tile.contenttweaker.solar_io_lead_ore.name
+contenttweaker:solar_io_lignite_ore:0, tile.contenttweaker.solar_io_lignite_ore.name
+contenttweaker:solar_io_lithium_ore:0, tile.contenttweaker.solar_io_lithium_ore.name
+contenttweaker:solar_io_neodynium_ore:0, tile.contenttweaker.solar_io_neodynium_ore.name
+contenttweaker:solar_io_nether_coal_ore:0, tile.contenttweaker.solar_io_nether_coal_ore.name
+contenttweaker:solar_io_nitan_ore:0, tile.contenttweaker.solar_io_nitan_ore.name
+contenttweaker:solar_io_niter_ore:0, tile.contenttweaker.solar_io_niter_ore.name
+contenttweaker:solar_io_plutonium_ore:0, tile.contenttweaker.solar_io_plutonium_ore.name
+contenttweaker:solar_io_rare_ore:0, tile.contenttweaker.solar_io_rare_ore.name
+contenttweaker:solar_io_red_phosphorus_ore:0, tile.contenttweaker.solar_io_red_phosphorus_ore.name
+contenttweaker:solar_io_redstone_ore:0, tile.contenttweaker.solar_io_redstone_ore.name
+contenttweaker:solar_io_reiium_ore:0, tile.contenttweaker.solar_io_reiium_ore.name
+contenttweaker:solar_io_schrabidium_ore:0, tile.contenttweaker.solar_io_schrabidium_ore.name
+contenttweaker:solar_io_smoldering_ore:0, tile.contenttweaker.solar_io_smoldering_ore.name
+contenttweaker:solar_io_starmetal_ore:0, tile.contenttweaker.solar_io_starmetal_ore.name
+contenttweaker:solar_io_sulfur_ore:0, tile.contenttweaker.solar_io_sulfur_ore.name
+contenttweaker:solar_io_thoruim_ore:0, tile.contenttweaker.solar_io_thoruim_ore.name
+contenttweaker:solar_io_trinitite_ore:0, tile.contenttweaker.solar_io_trinitite_ore.name
+contenttweaker:solar_io_titan_ore:0, tile.contenttweaker.solar_io_titan_ore.name
+contenttweaker:solar_io_trixite_ore:0, tile.contenttweaker.solar_io_trixite_ore.name
+contenttweaker:solar_io_tungsten_ore:0, tile.contenttweaker.solar_io_tungsten_ore.name
+contenttweaker:solar_io_brightblende_ore:0, tile.contenttweaker.solar_io_brightblende_ore.name
+contenttweaker:solar_io_uranium_ore:0, tile.contenttweaker.solar_io_uranium_ore.name
+contenttweaker:solar_io_uranium_scorched_ore:0, tile.contenttweaker.solar_io_uranium_scorched_ore.name
+contenttweaker:solar_io_verticium_ore:0, tile.contenttweaker.solar_io_verticium_ore.name
+contenttweaker:solar_io_weidanium_ore:0, tile.contenttweaker.solar_io_weidanium_ore.name
+contenttweaker:solar_io_zirconium_ore:0, tile.contenttweaker.solar_io_zirconium_ore.name
+contenttweaker:solar_kuiper_belt_aluminium_ore:0, tile.contenttweaker.solar_kuiper_belt_aluminium_ore.name
+contenttweaker:solar_kuiper_belt_asbestos_ore:0, tile.contenttweaker.solar_kuiper_belt_asbestos_ore.name
+contenttweaker:solar_kuiper_belt_australium_ore:0, tile.contenttweaker.solar_kuiper_belt_australium_ore.name
+contenttweaker:solar_kuiper_belt_beryllium_ore:0, tile.contenttweaker.solar_kuiper_belt_beryllium_ore.name
+contenttweaker:solar_kuiper_belt_borax_ore:0, tile.contenttweaker.solar_kuiper_belt_borax_ore.name
+contenttweaker:solar_kuiper_belt_cinnebar_ore:0, tile.contenttweaker.solar_kuiper_belt_cinnebar_ore.name
+contenttweaker:solar_kuiper_belt_cluster_aluminium_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_aluminium_ore.name
+contenttweaker:solar_kuiper_belt_cluster_copper_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_copper_ore.name
+contenttweaker:solar_kuiper_belt_cluster_iron_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_iron_ore.name
+contenttweaker:solar_kuiper_belt_cluster_titan_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_titan_ore.name
+contenttweaker:solar_kuiper_belt_coal_ore:0, tile.contenttweaker.solar_kuiper_belt_coal_ore.name
+contenttweaker:solar_kuiper_belt_cobalt_ore:0, tile.contenttweaker.solar_kuiper_belt_cobalt_ore.name
+contenttweaker:solar_kuiper_belt_coltan_ore:0, tile.contenttweaker.solar_kuiper_belt_coltan_ore.name
+contenttweaker:solar_kuiper_belt_copper_ore:0, tile.contenttweaker.solar_kuiper_belt_copper_ore.name
+contenttweaker:solar_kuiper_belt_diamond_ore:0, tile.contenttweaker.solar_kuiper_belt_diamond_ore.name
+contenttweaker:solar_kuiper_belt_fluorite_ore:0, tile.contenttweaker.solar_kuiper_belt_fluorite_ore.name
+contenttweaker:solar_kuiper_belt_gold_ore:0, tile.contenttweaker.solar_kuiper_belt_gold_ore.name
+contenttweaker:solar_kuiper_belt_iron_ore:0, tile.contenttweaker.solar_kuiper_belt_iron_ore.name
+contenttweaker:solar_kuiper_belt_lapis_ore:0, tile.contenttweaker.solar_kuiper_belt_lapis_ore.name
+contenttweaker:solar_kuiper_belt_lead_ore:0, tile.contenttweaker.solar_kuiper_belt_lead_ore.name
+contenttweaker:solar_kuiper_belt_lignite_ore:0, tile.contenttweaker.solar_kuiper_belt_lignite_ore.name
+contenttweaker:solar_kuiper_belt_lithium_ore:0, tile.contenttweaker.solar_kuiper_belt_lithium_ore.name
+contenttweaker:solar_kuiper_belt_neodynium_ore:0, tile.contenttweaker.solar_kuiper_belt_neodynium_ore.name
+contenttweaker:solar_kuiper_belt_nether_coal_ore:0, tile.contenttweaker.solar_kuiper_belt_nether_coal_ore.name
+contenttweaker:solar_kuiper_belt_nitan_ore:0, tile.contenttweaker.solar_kuiper_belt_nitan_ore.name
+contenttweaker:solar_kuiper_belt_niter_ore:0, tile.contenttweaker.solar_kuiper_belt_niter_ore.name
+contenttweaker:solar_kuiper_belt_plutonium_ore:0, tile.contenttweaker.solar_kuiper_belt_plutonium_ore.name
+contenttweaker:solar_kuiper_belt_rare_ore:0, tile.contenttweaker.solar_kuiper_belt_rare_ore.name
+contenttweaker:solar_kuiper_belt_red_phosphorus_ore:0, tile.contenttweaker.solar_kuiper_belt_red_phosphorus_ore.name
+contenttweaker:solar_kuiper_belt_redstone_ore:0, tile.contenttweaker.solar_kuiper_belt_redstone_ore.name
+contenttweaker:solar_kuiper_belt_reiium_ore:0, tile.contenttweaker.solar_kuiper_belt_reiium_ore.name
+contenttweaker:solar_kuiper_belt_schrabidium_ore:0, tile.contenttweaker.solar_kuiper_belt_schrabidium_ore.name
+contenttweaker:solar_kuiper_belt_smoldering_ore:0, tile.contenttweaker.solar_kuiper_belt_smoldering_ore.name
+contenttweaker:solar_kuiper_belt_starmetal_ore:0, tile.contenttweaker.solar_kuiper_belt_starmetal_ore.name
+contenttweaker:solar_kuiper_belt_sulfur_ore:0, tile.contenttweaker.solar_kuiper_belt_sulfur_ore.name
+contenttweaker:solar_kuiper_belt_thoruim_ore:0, tile.contenttweaker.solar_kuiper_belt_thoruim_ore.name
+contenttweaker:solar_kuiper_belt_trinitite_ore:0, tile.contenttweaker.solar_kuiper_belt_trinitite_ore.name
+contenttweaker:solar_kuiper_belt_titan_ore:0, tile.contenttweaker.solar_kuiper_belt_titan_ore.name
+contenttweaker:solar_kuiper_belt_trixite_ore:0, tile.contenttweaker.solar_kuiper_belt_trixite_ore.name
+contenttweaker:solar_kuiper_belt_tungsten_ore:0, tile.contenttweaker.solar_kuiper_belt_tungsten_ore.name
+contenttweaker:solar_kuiper_belt_brightblende_ore:0, tile.contenttweaker.solar_kuiper_belt_brightblende_ore.name
+contenttweaker:solar_kuiper_belt_uranium_ore:0, tile.contenttweaker.solar_kuiper_belt_uranium_ore.name
+contenttweaker:solar_kuiper_belt_uranium_scorched_ore:0, tile.contenttweaker.solar_kuiper_belt_uranium_scorched_ore.name
+contenttweaker:solar_kuiper_belt_verticium_ore:0, tile.contenttweaker.solar_kuiper_belt_verticium_ore.name
+contenttweaker:solar_kuiper_belt_weidanium_ore:0, tile.contenttweaker.solar_kuiper_belt_weidanium_ore.name
+contenttweaker:solar_kuiper_belt_zirconium_ore:0, tile.contenttweaker.solar_kuiper_belt_zirconium_ore.name
+contenttweaker:_aluminium_ore:0, tile.contenttweaker._aluminium_ore.name
+contenttweaker:_asbestos_ore:0, tile.contenttweaker._asbestos_ore.name
+contenttweaker:_australium_ore:0, tile.contenttweaker._australium_ore.name
+contenttweaker:_beryllium_ore:0, tile.contenttweaker._beryllium_ore.name
+contenttweaker:_borax_ore:0, tile.contenttweaker._borax_ore.name
+contenttweaker:_cinnebar_ore:0, tile.contenttweaker._cinnebar_ore.name
+contenttweaker:_cluster_aluminium_ore:0, tile.contenttweaker._cluster_aluminium_ore.name
+contenttweaker:_cluster_copper_ore:0, tile.contenttweaker._cluster_copper_ore.name
+contenttweaker:_cluster_iron_ore:0, tile.contenttweaker._cluster_iron_ore.name
+contenttweaker:_cluster_titan_ore:0, tile.contenttweaker._cluster_titan_ore.name
+contenttweaker:_coal_ore:0, tile.contenttweaker._coal_ore.name
+contenttweaker:_cobalt_ore:0, tile.contenttweaker._cobalt_ore.name
+contenttweaker:_coltan_ore:0, tile.contenttweaker._coltan_ore.name
+contenttweaker:_copper_ore:0, tile.contenttweaker._copper_ore.name
+contenttweaker:_diamond_ore:0, tile.contenttweaker._diamond_ore.name
+contenttweaker:_fluorite_ore:0, tile.contenttweaker._fluorite_ore.name
+contenttweaker:_gold_ore:0, tile.contenttweaker._gold_ore.name
+contenttweaker:_iron_ore:0, tile.contenttweaker._iron_ore.name
+contenttweaker:_lapis_ore:0, tile.contenttweaker._lapis_ore.name
+contenttweaker:_lead_ore:0, tile.contenttweaker._lead_ore.name
+contenttweaker:_lignite_ore:0, tile.contenttweaker._lignite_ore.name
+contenttweaker:_lithium_ore:0, tile.contenttweaker._lithium_ore.name
+contenttweaker:_neodynium_ore:0, tile.contenttweaker._neodynium_ore.name
+contenttweaker:_nether_coal_ore:0, tile.contenttweaker._nether_coal_ore.name
+contenttweaker:_nitan_ore:0, tile.contenttweaker._nitan_ore.name
+contenttweaker:_niter_ore:0, tile.contenttweaker._niter_ore.name
+contenttweaker:_plutonium_ore:0, tile.contenttweaker._plutonium_ore.name
+contenttweaker:_rare_ore:0, tile.contenttweaker._rare_ore.name
+contenttweaker:_red_phosphorus_ore:0, tile.contenttweaker._red_phosphorus_ore.name
+contenttweaker:_redstone_ore:0, tile.contenttweaker._redstone_ore.name
+contenttweaker:_reiium_ore:0, tile.contenttweaker._reiium_ore.name
+contenttweaker:_schrabidium_ore:0, tile.contenttweaker._schrabidium_ore.name
+contenttweaker:_smoldering_ore:0, tile.contenttweaker._smoldering_ore.name
+contenttweaker:_starmetal_ore:0, tile.contenttweaker._starmetal_ore.name
+contenttweaker:_sulfur_ore:0, tile.contenttweaker._sulfur_ore.name
+contenttweaker:_thoruim_ore:0, tile.contenttweaker._thoruim_ore.name
+contenttweaker:_trinitite_ore:0, tile.contenttweaker._trinitite_ore.name
+contenttweaker:_titan_ore:0, tile.contenttweaker._titan_ore.name
+contenttweaker:_trixite_ore:0, tile.contenttweaker._trixite_ore.name
+contenttweaker:_tungsten_ore:0, tile.contenttweaker._tungsten_ore.name
+contenttweaker:_brightblende_ore:0, tile.contenttweaker._brightblende_ore.name
+contenttweaker:_uranium_ore:0, tile.contenttweaker._uranium_ore.name
+contenttweaker:_uranium_scorched_ore:0, tile.contenttweaker._uranium_scorched_ore.name
+contenttweaker:_verticium_ore:0, tile.contenttweaker._verticium_ore.name
+contenttweaker:_weidanium_ore:0, tile.contenttweaker._weidanium_ore.name
+contenttweaker:_zirconium_ore:0, tile.contenttweaker._zirconium_ore.name
+contenttweaker:tau_ceti_f_aluminium_ore:0, tile.contenttweaker.tau_ceti_f_aluminium_ore.name
+contenttweaker:tau_ceti_f_asbestos_ore:0, tile.contenttweaker.tau_ceti_f_asbestos_ore.name
+contenttweaker:tau_ceti_f_australium_ore:0, tile.contenttweaker.tau_ceti_f_australium_ore.name
+contenttweaker:tau_ceti_f_beryllium_ore:0, tile.contenttweaker.tau_ceti_f_beryllium_ore.name
+contenttweaker:tau_ceti_f_borax_ore:0, tile.contenttweaker.tau_ceti_f_borax_ore.name
+contenttweaker:tau_ceti_f_cinnebar_ore:0, tile.contenttweaker.tau_ceti_f_cinnebar_ore.name
+contenttweaker:tau_ceti_f_cluster_aluminium_ore:0, tile.contenttweaker.tau_ceti_f_cluster_aluminium_ore.name
+contenttweaker:tau_ceti_f_cluster_copper_ore:0, tile.contenttweaker.tau_ceti_f_cluster_copper_ore.name
+contenttweaker:tau_ceti_f_cluster_iron_ore:0, tile.contenttweaker.tau_ceti_f_cluster_iron_ore.name
+contenttweaker:tau_ceti_f_cluster_titan_ore:0, tile.contenttweaker.tau_ceti_f_cluster_titan_ore.name
+contenttweaker:tau_ceti_f_coal_ore:0, tile.contenttweaker.tau_ceti_f_coal_ore.name
+contenttweaker:tau_ceti_f_cobalt_ore:0, tile.contenttweaker.tau_ceti_f_cobalt_ore.name
+contenttweaker:tau_ceti_f_coltan_ore:0, tile.contenttweaker.tau_ceti_f_coltan_ore.name
+contenttweaker:tau_ceti_f_copper_ore:0, tile.contenttweaker.tau_ceti_f_copper_ore.name
+contenttweaker:tau_ceti_f_diamond_ore:0, tile.contenttweaker.tau_ceti_f_diamond_ore.name
+contenttweaker:tau_ceti_f_fluorite_ore:0, tile.contenttweaker.tau_ceti_f_fluorite_ore.name
+contenttweaker:tau_ceti_f_gold_ore:0, tile.contenttweaker.tau_ceti_f_gold_ore.name
+contenttweaker:tau_ceti_f_iron_ore:0, tile.contenttweaker.tau_ceti_f_iron_ore.name
+contenttweaker:tau_ceti_f_lapis_ore:0, tile.contenttweaker.tau_ceti_f_lapis_ore.name
+contenttweaker:tau_ceti_f_lead_ore:0, tile.contenttweaker.tau_ceti_f_lead_ore.name
+contenttweaker:tau_ceti_f_lignite_ore:0, tile.contenttweaker.tau_ceti_f_lignite_ore.name
+contenttweaker:tau_ceti_f_lithium_ore:0, tile.contenttweaker.tau_ceti_f_lithium_ore.name
+contenttweaker:tau_ceti_f_neodynium_ore:0, tile.contenttweaker.tau_ceti_f_neodynium_ore.name
+contenttweaker:tau_ceti_f_nether_coal_ore:0, tile.contenttweaker.tau_ceti_f_nether_coal_ore.name
+contenttweaker:tau_ceti_f_nitan_ore:0, tile.contenttweaker.tau_ceti_f_nitan_ore.name
+contenttweaker:tau_ceti_f_niter_ore:0, tile.contenttweaker.tau_ceti_f_niter_ore.name
+contenttweaker:tau_ceti_f_plutonium_ore:0, tile.contenttweaker.tau_ceti_f_plutonium_ore.name
+contenttweaker:tau_ceti_f_rare_ore:0, tile.contenttweaker.tau_ceti_f_rare_ore.name
+contenttweaker:tau_ceti_f_red_phosphorus_ore:0, tile.contenttweaker.tau_ceti_f_red_phosphorus_ore.name
+contenttweaker:tau_ceti_f_redstone_ore:0, tile.contenttweaker.tau_ceti_f_redstone_ore.name
+contenttweaker:tau_ceti_f_reiium_ore:0, tile.contenttweaker.tau_ceti_f_reiium_ore.name
+contenttweaker:tau_ceti_f_schrabidium_ore:0, tile.contenttweaker.tau_ceti_f_schrabidium_ore.name
+contenttweaker:tau_ceti_f_smoldering_ore:0, tile.contenttweaker.tau_ceti_f_smoldering_ore.name
+contenttweaker:tau_ceti_f_starmetal_ore:0, tile.contenttweaker.tau_ceti_f_starmetal_ore.name
+contenttweaker:tau_ceti_f_sulfur_ore:0, tile.contenttweaker.tau_ceti_f_sulfur_ore.name
+contenttweaker:tau_ceti_f_thoruim_ore:0, tile.contenttweaker.tau_ceti_f_thoruim_ore.name
+contenttweaker:tau_ceti_f_trinitite_ore:0, tile.contenttweaker.tau_ceti_f_trinitite_ore.name
+contenttweaker:tau_ceti_f_titan_ore:0, tile.contenttweaker.tau_ceti_f_titan_ore.name
+contenttweaker:tau_ceti_f_trixite_ore:0, tile.contenttweaker.tau_ceti_f_trixite_ore.name
+contenttweaker:tau_ceti_f_tungsten_ore:0, tile.contenttweaker.tau_ceti_f_tungsten_ore.name
+contenttweaker:tau_ceti_f_brightblende_ore:0, tile.contenttweaker.tau_ceti_f_brightblende_ore.name
+contenttweaker:tau_ceti_f_uranium_ore:0, tile.contenttweaker.tau_ceti_f_uranium_ore.name
+contenttweaker:tau_ceti_f_uranium_scorched_ore:0, tile.contenttweaker.tau_ceti_f_uranium_scorched_ore.name
+contenttweaker:tau_ceti_f_verticium_ore:0, tile.contenttweaker.tau_ceti_f_verticium_ore.name
+contenttweaker:tau_ceti_f_weidanium_ore:0, tile.contenttweaker.tau_ceti_f_weidanium_ore.name
+contenttweaker:tau_ceti_f_zirconium_ore:0, tile.contenttweaker.tau_ceti_f_zirconium_ore.name
 firstaid:bandage, Bandage
 firstaid:plaster, Plaster
 firstaid:morphine, Morphine
+ichunutil:compact_porkchop, Compact Raw Porkchop
 brewcraft:hopsitem, Hops
 brewcraft:hopsseeditem, Hops Seed
 brewcraft:distiller, Distiller
@@ -18265,180 +19303,6 @@ brewcraft:borgiaabsintheitem, Borgia Absinthe
 brewcraft:redbeeritem, Red Beer
 brewcraft:bluebeeritem, Blue Beer
 brewcraft:malortitem, Mal§ko§rrt
-narcocraft:sulphur_dust, Sulphur
-narcocraft:sulphur_ore, Sulphur Ore
-narcocraft:sulphur_block, Block of Sulphur
-narcocraft:water_jug, Water Jug
-narcocraft:hydrogen_tank, Hydrogen Tank
-narcocraft:jug, Jug
-narcocraft:sulfuric_acid, Sulfuric Acid
-narcocraft:screwdriver, Screwdriver
-narcocraft:mojar_and_pistil, Mojar And Pistil
-narcocraft:coca_leaf, Coca Leaf
-narcocraft:dry_coca_leaf, Dry Coca Leaf
-narcocraft:cocaine, Cocaine
-narcocraft:bag, Bag
-narcocraft:cocaine_bag_1g, Cocaine Bag 1g
-narcocraft:cocaine_bag_5g, Cocaine Bag 5g
-narcocraft:cocaine_bag_10g, Cocain Bag 10g
-narcocraft:cocaine_bag_20g, Cocaine Bag 20g
-narcocraft:cocaine_bag_15g, Cocaine Bag 15g
-narcocraft:cocaine_bag_1kg, Cocaine Bag 1kg
-narcocraft:extractor, Extractor
-narcocraft:centrifuge, Centrifuge
-narcocraft:carbon, Carbon
-narcocraft:battery_acid, Battery Acid
-narcocraft:plastic, Plastic
-narcocraft:coca_seed, Coca Seed
-narcocraft:coca_plant, Coca Plant
-narcocraft:cannabis_bud, Cannabis Bud
-narcocraft:weed, Weed
-narcocraft:grinder, Grinder
-narcocraft:grinded_weed, Grinded Weed
-narcocraft:rolling_papers_box, Rolling Papers Box
-narcocraft:rolling_paper, Rolling Paper
-narcocraft:filter, Filter
-narcocraft:tabacco_seed, Tobacco Seed
-narcocraft:lighter, Lighter
-narcocraft:lighter_oil, Lighter Oil
-narcocraft:joint, Joint
-narcocraft:nitrogen_tank, Nitrogen Tank
-narcocraft:oxygen_tank, Oxygen Tank
-narcocraft:cannabis_bag_1g, Cannabis Bag 1g
-narcocraft:cannabis_bag_5g, Cannabis Bag 5g
-narcocraft:cannabis_bag_10g, Cannabis Bag 10g
-narcocraft:cannabis_bag_15g, Cannabis Bag 15g
-narcocraft:cannabis_bag_20g, Cannabis Bag 20g
-narcocraft:cannabis_bag_25g, Cannabis Bag 25g
-narcocraft:cannabis_bag_30g, Cannabis Bag 30g
-narcocraft:methylamine_mixer, Methylamine Mixer
-narcocraft:propane_mixer, Propane Mixer
-narcocraft:crate, Crate
-narcocraft:hazmat_suitbody, Hazmat Suit Body
-narcocraft:hazmat_suitlegs, Hazmat Suit Pants
-narcocraft:hazmat_suitboots, Hazmat Suit Boots
-narcocraft:coolant_liquid, Coolant Liquid
-narcocraft:phenylacetone_processer, Phenylacetone Processer
-narcocraft:phenylacetone, Phenylactone
-narcocraft:mixing_barrel, Mixing Barrel
-narcocraft:methylamine_pill, Methylamine Pill
-narcocraft:pill_tablet, Pill Tablet
-narcocraft:ice_pick, Ice Pick
-narcocraft:crystallizer, Crystallizer
-narcocraft:amphetamine, Amphetamine
-narcocraft:fluid_filter, Fluid Filter
-narcocraft:methamphetamine, Methamphetamine
-narcocraft:meth_bag_10g, Meth Bag 10g
-narcocraft:meth_bag_20g, Meth Bag 20g
-narcocraft:meth_bag_30g, Meth Bag 30g
-narcocraft:amph_bag_10g, Amph Bag 10g
-narcocraft:amph_bag_20g, Amph Bag 20g
-narcocraft:amph_bag_30g, Amph Bag 20g
-narcocraft:phenylacetic_acid, Phenylacetic Acid
-narcocraft:glass_pipe, Glass Pipe
-narcocraft:glass_pipe_with_amph, Glass Pipe With Amph
-narcocraft:glass_pipe_with_meth, Glass Pipe With Meth
-narcocraft:lsd, LSD
-narcocraft:ecstasy_pill, Ecstasy Pill
-narcocraft:the_punisher, The Punisher
-narcocraft:cb, 2cb
-narcocraft:rolex, Rolex
-narcocraft:xanax, NAXA Anti-Digamma Medication
-narcocraft:adderall, Adderall
-narcocraft:plus_minus, + -
-narcocraft:mdma, MDMA
-narcocraft:syringe, Syringe
-narcocraft:syringe_with_meth, Syringe With Meth
-narcocraft:syringe_with_amph, Syringe With Amph
-narcocraft:syringe_with_coca, Syringe With Coca
-narcocraft:heroin, Heroin
-narcocraft:ketamine, Ketamine
-narcocraft:cup, Cup
-narcocraft:lean, Lean
-narcocraft:hashish_joint, Hashish Joint
-narcocraft:hashish, Hashish
-narcocraft:syringe_with_heroin, Syringe With Heroin
-narcocraft:shrooms, Shroom
-narcocraft:methylenedioxymethamphetamine_mixer, Methylenedioxymethamphetamine Mixer
-narcocraft:pill_assembler, Pill Assembler
-narcocraft:crack_cocaine, Crack Cocaine
-narcocraft:glass_pipe_with_crack, Glass Pipe With Crack
-narcocraft:totenkopf, Totenkopf
-narcocraft:tesla, Tesla
-narcocraft:lion, Lion
-narcocraft:bitcoin, Bitcoin
-narcocraft:herz, Herz
-narcocraft:mickey_mouse, Mickey Mouse
-narcocraft:cubensis, Cubensis
-narcocraft:cubensis_shroom, Cubensis Shroom
-narcocraft:lysergic_acid, Lysergic Acid
-narcocraft:postage_stamp, Postage Stamp
-narcocraft:diethylamide, Diethylamide
-narcocraft:pcp_pill, PCP Pill
-narcocraft:tobacco_plant, Tobacco Plant
-narcocraft:tobacco_plant_2, Tobacco Plant2
-narcocraft:tobacco_plant_3, Tobacco Plant3
-narcocraft:tobacco_leaf, Tobacco Leaf
-narcocraft:weed_seeds, Cannabis Seeds
-narcocraft:dry_tobacco_leaf, Dry Tobacco Leaf
-narcocraft:grinded_tobacco, Grinded Tobacco
-narcocraft:tobacco_paper, Tobacco Paper
-narcocraft:cigar, Cigar
-narcocraft:bleach, Bleach
-narcocraft:oxycodone_syrup, Codeine Syrup
-narcocraft:soda, Soda
-narcocraft:tobacco_joint, Tobacco Joint
-narcocraft:hookah, Hookah
-narcocraft:loaded_hookah, Loaded Hookah
-narcocraft:morphine, Morphine
-narcocraft:syringe_with_morphine, Syringe With Morphine
-narcocraft:opium, Opium
-narcocraft:latex_milk, Latex Milk
-narcocraft:opium_plant, Opium Plant
-narcocraft:khat, Khat
-narcocraft:peyote_cactus, Peyote Cactus
-narcocraft:peyote_flower, Peyote Flower
-narcocraft:syringe_with_ketamine, Syringe With Ketamine
-narcocraft:ash, Ash
-narcocraft:slica_gel, Slica Gel
-narcocraft:citric_acid, Citric Acid
-narcocraft:oxycodone_pill, Oxycodone Pill
-narcocraft:o_xycodone_tablet, Oxycodone Tablet
-narcocraft:melatonin_pill, Melatonin Pill
-narcocraft:khat_plant, Khat Plant
-narcocraft:empty_tray, Empty Tray
-narcocraft:methylamine_barrel, Methylamine Barrel
-narcocraft:meth_tray, Meth Tray
-narcocraft:empty_barrel, Empty Barrel
-narcocraft:blue_sludge_barrel, Blue Sludge Barrel
-narcocraft:berrel_with_liquid_amphetamine, Berrel With Liquid Amphetamine
-narcocraft:barrel_with_liqud_ketamine, Barrel With Liqud Ketamine
-narcocraft:propane_tank, Propane Tank
-narcocraft:car_battery, Car Battery
-narcocraft:lily_extract, Lily Extract
-narcocraft:gas_maskhelmet, Gas Mask Helmet
-narcocraft:bong, Bong
-narcocraft:bong_with_cannabis, Bong With Cannabis
-narcocraft:weed_sap, Weed
-narcocraft:coca_sap, Coca Plant
-narcocraft:grower, Grower
-narcocraft:ricin, Ricin
-narcocraft:cooked_steak, Cooked Steak
-narcocraft:iron_plate, Iron Plate
-narcocraft:gold_plate, Gold Plate
-narcocraft:circuit_board, Circuit Board
-narcocraft:mechanical_components, Mechanical Components
-narcocraft:hammer, Hammer
-narcocraft:mixing_crate, Mixing Crate
-narcocraft:mixing_crate_full, Mixing Crate Full
-narcocraft:kerosene, Kerosene
-narcocraft:coca_mixture, Coca Mixture
-narcocraft:barrel_with_liquid_cocaine, Barrel With Liquid Cocaine
-narcocraft:potassium, Potassium Chloride
-narcocraft:pure_cocaine_tray, Pure Cocaine Tray
-narcocraft:pure_cocaine, Pure Cocaine
-narcocraft:press, Press
-narcocraft:cannabis_oil, Cannabis Oil
 warpdrive:laser, Laser
 warpdrive:chunk_loader.basic, Basic Chunk Loader
 warpdrive:chunk_loader.advanced, Advanced Chunk Loader
