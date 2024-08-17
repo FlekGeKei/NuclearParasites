@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NeodyniumOre = VanillaFactory.createBlock("_neodynium_ore", <blockmaterial:rock>);
+var NeodyniumOre = VanillaFactory.createBlock("sol_mercury_neodynium_ore", <blockmaterial:rock>);
 
 NeodyniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

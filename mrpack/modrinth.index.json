@@ -291,18 +291,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/i7UykFeR/versions/1i29f2lu/Modern-Warfare-Cubed-0.1.7.jar"
+        "https://cdn.modrinth.com/data/i7UykFeR/versions/972ocxTt/Modern-Warfare-Cubed-0.1.8.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26888904,
+      "fileSize": 26888414,
       "hashes": {
-        "sha1": "9163be72ebe05617161ce2ef31f70c67923b5e6c",
-        "sha512": "2ed4afb1e4542adb14efd268e642925be4277990496d1c59d794e63aa681015b6fbc4aada39d1011119b0e7721e032eb5f49fc7c755448ddacdd2f49896d214d"
+        "sha1": "d36d489c75e56381367289fb4c4a05feba277e49",
+        "sha512": "a86df0ed8ea3c5fa796233ee21eb4a329a8ebca23ced39ac6fb9ffde80e7e77bdc066701518824637491f7a163b3cdc624c34eb69cb8f3b222b298e9937cb936"
       },
-      "path": "mods/Modern-Warfare-Cubed-0.1.7.jar"
+      "path": "mods/Modern-Warfare-Cubed-0.1.8.jar"
     },
     {
       "downloads": [

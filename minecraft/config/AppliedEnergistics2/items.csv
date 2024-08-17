@@ -580,9 +580,9 @@ minecraft:rabbit_stew, Rabbit Stew
 minecraft:rabbit_foot, Rabbit's Foot
 minecraft:rabbit_hide, Rabbit Hide
 minecraft:armor_stand, Armor Stand
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:iron_horse_armor, Iron Pet Armor
+minecraft:golden_horse_armor, Golden Pet Armor
+minecraft:diamond_horse_armor, Diamond Pet Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
@@ -693,6 +693,13 @@ aeadditions:pattern.fluid:0, ME Fluid Pattern: Helium-3
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Ethane
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Liquid Helium-Hydrogen
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Nature Gas
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.ooze
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.rabbitooze
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.moglava
+aeadditions:pattern.fluid:0, ME Fluid Pattern: Hydrogen Peroxide
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.sharacid
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.vesspoison
+aeadditions:pattern.fluid:0, ME Fluid Pattern: fluid.veshoney
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Low-Pressure Steam
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Steam
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Dense Steam
@@ -734,7 +741,6 @@ aeadditions:pattern.fluid:0, ME Fluid Pattern: Plutonium Hexafluoride
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Schrabidium Trisulfide
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Antimatter
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Antischrabidium
-aeadditions:pattern.fluid:0, ME Fluid Pattern: Hydrogen Peroxide
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Sulfuric Acid
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Nitric Acid
 aeadditions:pattern.fluid:0, ME Fluid Pattern: Solvent
@@ -3174,6 +3180,13 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Helium-3
 hbm:fluid_tank_full:0, Universal Fluid Tank: Ethane
 hbm:fluid_tank_full:0, Universal Fluid Tank: Liquid Helium-Hydrogen
 hbm:fluid_tank_full:0, Universal Fluid Tank: Nature Gas
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.ooze
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.rabbitooze
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.moglava
+hbm:fluid_tank_full:0, Universal Fluid Tank: Hydrogen Peroxide
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.sharacid
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.vesspoison
+hbm:fluid_tank_full:0, Universal Fluid Tank: fluid.veshoney
 hbm:fluid_tank_full:0, Universal Fluid Tank: Low-Pressure Steam
 hbm:fluid_tank_full:0, Universal Fluid Tank: Steam
 hbm:fluid_tank_full:0, Universal Fluid Tank: Dense Steam
@@ -3215,7 +3228,6 @@ hbm:fluid_tank_full:0, Universal Fluid Tank: Plutonium Hexafluoride
 hbm:fluid_tank_full:0, Universal Fluid Tank: Schrabidium Trisulfide
 hbm:fluid_tank_full:0, Universal Fluid Tank: Antimatter
 hbm:fluid_tank_full:0, Universal Fluid Tank: Antischrabidium
-hbm:fluid_tank_full:0, Universal Fluid Tank: Hydrogen Peroxide
 hbm:fluid_tank_full:0, Universal Fluid Tank: Sulfuric Acid
 hbm:fluid_tank_full:0, Universal Fluid Tank: Nitric Acid
 hbm:fluid_tank_full:0, Universal Fluid Tank: Solvent
@@ -3293,6 +3305,13 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Helium-3
 hbm:fluid_barrel_full:0, Fluid Barrel: Ethane
 hbm:fluid_barrel_full:0, Fluid Barrel: Liquid Helium-Hydrogen
 hbm:fluid_barrel_full:0, Fluid Barrel: Nature Gas
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.ooze
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.rabbitooze
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.moglava
+hbm:fluid_barrel_full:0, Fluid Barrel: Hydrogen Peroxide
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.sharacid
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.vesspoison
+hbm:fluid_barrel_full:0, Fluid Barrel: fluid.veshoney
 hbm:fluid_barrel_full:0, Fluid Barrel: Low-Pressure Steam
 hbm:fluid_barrel_full:0, Fluid Barrel: Steam
 hbm:fluid_barrel_full:0, Fluid Barrel: Dense Steam
@@ -3334,7 +3353,6 @@ hbm:fluid_barrel_full:0, Fluid Barrel: Plutonium Hexafluoride
 hbm:fluid_barrel_full:0, Fluid Barrel: Schrabidium Trisulfide
 hbm:fluid_barrel_full:0, Fluid Barrel: Antimatter
 hbm:fluid_barrel_full:0, Fluid Barrel: Antischrabidium
-hbm:fluid_barrel_full:0, Fluid Barrel: Hydrogen Peroxide
 hbm:fluid_barrel_full:0, Fluid Barrel: Sulfuric Acid
 hbm:fluid_barrel_full:0, Fluid Barrel: Nitric Acid
 hbm:fluid_barrel_full:0, Fluid Barrel: Solvent
@@ -5529,6 +5547,13 @@ hbm:fluid_icon:0, Helium-3
 hbm:fluid_icon:0, Ethane
 hbm:fluid_icon:0, Liquid Helium-Hydrogen
 hbm:fluid_icon:0, Nature Gas
+hbm:fluid_icon:0, fluid.ooze
+hbm:fluid_icon:0, fluid.rabbitooze
+hbm:fluid_icon:0, fluid.moglava
+hbm:fluid_icon:0, Hydrogen Peroxide
+hbm:fluid_icon:0, fluid.sharacid
+hbm:fluid_icon:0, fluid.vesspoison
+hbm:fluid_icon:0, fluid.veshoney
 hbm:fluid_icon:0, Low-Pressure Steam
 hbm:fluid_icon:0, Steam
 hbm:fluid_icon:0, Dense Steam
@@ -5570,7 +5595,6 @@ hbm:fluid_icon:0, Plutonium Hexafluoride
 hbm:fluid_icon:0, Schrabidium Trisulfide
 hbm:fluid_icon:0, Antimatter
 hbm:fluid_icon:0, Antischrabidium
-hbm:fluid_icon:0, Hydrogen Peroxide
 hbm:fluid_icon:0, Sulfuric Acid
 hbm:fluid_icon:0, Nitric Acid
 hbm:fluid_icon:0, Solvent
@@ -7021,50 +7045,6 @@ hbm:mud_block, Oxidized Watz Mud
 hbm:schrabidic_block, Schrabidic Acid
 hbm:corium_block, Liquid Corium
 hbm:volcanic_lava_block, Volcanic Lava
-reccomplex:block_selector, Block Selector
-reccomplex:block_selector_floating, Floating Block Selector
-reccomplex:inventory_generation_tag, Loot Generation Tag
-reccomplex:inventory_generation_single_tag, Single Loot Generation Tag
-reccomplex:inventory_generation_component_tag, Loot Table Component Tag
-reccomplex:artifact_generation_tag, Artifact Generation Tag
-reccomplex:book_generation_tag, Book Generation Tag
-reccomplex:generic_space:0, Space (0 ~ Negative Space)
-reccomplex:generic_space:1, Space (1 ~ Natural Air)
-reccomplex:generic_space:2, Space (2)
-reccomplex:generic_space:3, Space (3)
-reccomplex:generic_space:4, Space (4)
-reccomplex:generic_space:5, Space (5)
-reccomplex:generic_space:6, Space (6)
-reccomplex:generic_space:7, Space (7)
-reccomplex:generic_space:8, Space (8)
-reccomplex:generic_space:9, Space (9)
-reccomplex:generic_space:10, Space (10)
-reccomplex:generic_space:11, Space (11)
-reccomplex:generic_space:12, Space (12)
-reccomplex:generic_space:13, Space (13)
-reccomplex:generic_space:14, Space (14)
-reccomplex:generic_space:15, Space (15)
-reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
-reccomplex:generic_solid:1, Solid (1 ~ Barrier)
-reccomplex:generic_solid:2, Solid (2)
-reccomplex:generic_solid:3, Solid (3)
-reccomplex:generic_solid:4, Solid (4)
-reccomplex:generic_solid:5, Solid (5)
-reccomplex:generic_solid:6, Solid (6)
-reccomplex:generic_solid:7, Solid (7)
-reccomplex:generic_solid:8, Solid (8)
-reccomplex:generic_solid:9, Solid (9)
-reccomplex:generic_solid:10, Solid (10)
-reccomplex:generic_solid:11, Solid (11)
-reccomplex:generic_solid:12, Solid (12)
-reccomplex:generic_solid:13, Solid (13)
-reccomplex:generic_solid:14, Solid (14)
-reccomplex:generic_solid:15, Solid (15)
-reccomplex:structure_generator, Structure Generator
-reccomplex:maze_generator, Maze Generator
-reccomplex:weighted_command_block, tile.spawn_command.name
-reccomplex:spawn_script, Script Block
-reccomplex:inspector, Inspector
 rewired:stub, item.rewired.stub.name
 rewired:ecglass, Electrochromic Glass
 rewired:canopic_jar, Preservation Tank
@@ -10242,38 +10222,6 @@ appliedenergistics2:facade:0, Cable Facade - Dirt
 appliedenergistics2:facade:0, Cable Facade - Pink Log
 appliedenergistics2:facade:0, Cable Facade - Pink Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Pink Wood Double Slab
-appliedenergistics2:facade:0, Cable Facade - Space (0 ~ Negative Space)
-appliedenergistics2:facade:0, Cable Facade - Space (1 ~ Natural Air)
-appliedenergistics2:facade:0, Cable Facade - Space (2)
-appliedenergistics2:facade:0, Cable Facade - Space (3)
-appliedenergistics2:facade:0, Cable Facade - Space (4)
-appliedenergistics2:facade:0, Cable Facade - Space (5)
-appliedenergistics2:facade:0, Cable Facade - Space (6)
-appliedenergistics2:facade:0, Cable Facade - Space (7)
-appliedenergistics2:facade:0, Cable Facade - Space (8)
-appliedenergistics2:facade:0, Cable Facade - Space (9)
-appliedenergistics2:facade:0, Cable Facade - Space (10)
-appliedenergistics2:facade:0, Cable Facade - Space (11)
-appliedenergistics2:facade:0, Cable Facade - Space (12)
-appliedenergistics2:facade:0, Cable Facade - Space (13)
-appliedenergistics2:facade:0, Cable Facade - Space (14)
-appliedenergistics2:facade:0, Cable Facade - Space (15)
-appliedenergistics2:facade:0, Cable Facade - Solid (0 ~ Natural Floor)
-appliedenergistics2:facade:0, Cable Facade - Solid (1 ~ Barrier)
-appliedenergistics2:facade:0, Cable Facade - Solid (2)
-appliedenergistics2:facade:0, Cable Facade - Solid (3)
-appliedenergistics2:facade:0, Cable Facade - Solid (4)
-appliedenergistics2:facade:0, Cable Facade - Solid (5)
-appliedenergistics2:facade:0, Cable Facade - Solid (6)
-appliedenergistics2:facade:0, Cable Facade - Solid (7)
-appliedenergistics2:facade:0, Cable Facade - Solid (8)
-appliedenergistics2:facade:0, Cable Facade - Solid (9)
-appliedenergistics2:facade:0, Cable Facade - Solid (10)
-appliedenergistics2:facade:0, Cable Facade - Solid (11)
-appliedenergistics2:facade:0, Cable Facade - Solid (12)
-appliedenergistics2:facade:0, Cable Facade - Solid (13)
-appliedenergistics2:facade:0, Cable Facade - Solid (14)
-appliedenergistics2:facade:0, Cable Facade - Solid (15)
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -10467,6 +10415,28 @@ appliedenergistics2:facade:0, Cable Facade - Triton Subsurface Rock
 appliedenergistics2:facade:0, Cable Facade - Triton Stone
 appliedenergistics2:facade:0, Cable Facade - Triton Geyser
 appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
+appliedenergistics2:facade:0, Cable Facade - Surface
+appliedenergistics2:facade:0, Cable Facade - Subsurface
+appliedenergistics2:facade:0, Cable Facade - Stone
+appliedenergistics2:facade:0, Cable Facade - Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Rocky Surface
+appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
+appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
+appliedenergistics2:facade:0, Cable Facade - Mud
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
+appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
+appliedenergistics2:facade:0, Cable Facade - Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
@@ -10494,28 +10464,30 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Surface
-appliedenergistics2:facade:0, Cable Facade - Subsurface
-appliedenergistics2:facade:0, Cable Facade - Stone
-appliedenergistics2:facade:0, Cable Facade - Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Rocky Surface
-appliedenergistics2:facade:0, Cable Facade - Mushroom Skin
-appliedenergistics2:facade:0, Cable Facade - Mushroom Geyser
-appliedenergistics2:facade:0, Cable Facade - Mud
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
-appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
-appliedenergistics2:facade:0, Cable Facade - Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
+appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
+appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
+appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
+appliedenergistics2:facade:0, Cable Facade - Block of Biotite
+appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
+appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Marble
+appliedenergistics2:facade:0, Cable Facade - Limestone
+appliedenergistics2:facade:0, Cable Facade - Jasper
+appliedenergistics2:facade:0, Cable Facade - Slate
+appliedenergistics2:facade:0, Cable Facade - Brimstone
+appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
+appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
+appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
+appliedenergistics2:facade:0, Cable Facade - Glowcelium
+appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10544,30 +10516,6 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
-appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
-appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Biotite
-appliedenergistics2:facade:0, Cable Facade - Chiseled Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Biotite Block
-appliedenergistics2:facade:0, Cable Facade - Basalt
-appliedenergistics2:facade:0, Cable Facade - Marble
-appliedenergistics2:facade:0, Cable Facade - Limestone
-appliedenergistics2:facade:0, Cable Facade - Jasper
-appliedenergistics2:facade:0, Cable Facade - Slate
-appliedenergistics2:facade:0, Cable Facade - Brimstone
-appliedenergistics2:facade:0, Cable Facade - Brimstone Bricks
-appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
-appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
-appliedenergistics2:facade:0, Cable Facade - Glowcelium
-appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -12610,8 +12558,6 @@ appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
-appliedenergistics2:facade:0, Cable Facade - Cursed Block of Diamond
-appliedenergistics2:facade:0, Cable Facade - Purified Block of Diamond
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Sulfur Ore
@@ -12677,98 +12623,6 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Freaky Block
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_asbestos_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_australium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_beryllium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_borax_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cinnebar_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cluster_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cluster_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cluster_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cluster_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_cobalt_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_coltan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_diamond_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_fluorite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_gold_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_lapis_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_lead_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_lignite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_lithium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_neodynium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_nether_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_nitan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_niter_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_plutonium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_rare_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_red_phosphorus_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_redstone_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_reiium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_schrabidium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_smoldering_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_starmetal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_thoruim_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_trinitite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_trixite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_tungsten_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_brightblende_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_uranium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_uranium_scorched_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_verticium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_weidanium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.barnarda_c_zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_asbestos_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_australium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_beryllium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_borax_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cinnebar_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cluster_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cluster_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cluster_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cluster_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_cobalt_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_coltan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_diamond_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_fluorite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_gold_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_lapis_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_lead_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_lignite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_lithium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_neodynium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_nether_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_nitan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_niter_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_plutonium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_rare_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_red_phosphorus_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_redstone_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_reiium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_schrabidium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_smoldering_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_starmetal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_thoruim_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_trinitite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_trixite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_tungsten_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_brightblende_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_uranium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_uranium_scorched_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_verticium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_weidanium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.proxima_b_zirconium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_aluminium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_asbestos_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_asteroid_belt_australium_ore.name
@@ -13137,52 +12991,6 @@ appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_uraniu
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_verticium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_weidanium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_io_zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_asbestos_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_australium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_beryllium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_borax_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cinnebar_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cluster_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_cobalt_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_coltan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_diamond_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_fluorite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_gold_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lapis_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lead_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lignite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_lithium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_neodynium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_nether_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_nitan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_niter_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_plutonium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_rare_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_red_phosphorus_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_redstone_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_reiium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_schrabidium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_smoldering_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_starmetal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_thoruim_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_trinitite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_trixite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_tungsten_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_brightblende_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_uranium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_uranium_scorched_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_verticium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_weidanium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.solar_kuiper_belt_zirconium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._aluminium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._asbestos_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._australium_ore.name
@@ -13229,53 +13037,79 @@ appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._uranium_scorch
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._verticium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._weidanium_ore.name
 appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker._zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_asbestos_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_australium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_beryllium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_borax_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cinnebar_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_aluminium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cluster_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_cobalt_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_coltan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_copper_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_diamond_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_fluorite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_gold_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_iron_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lapis_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lead_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lignite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_lithium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_neodynium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_nether_coal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_nitan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_niter_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_plutonium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_rare_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_red_phosphorus_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_redstone_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_reiium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_schrabidium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_smoldering_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_starmetal_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_sulfur_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_thoruim_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_trinitite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_titan_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_trixite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_tungsten_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_brightblende_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_uranium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_uranium_scorched_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_verticium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_weidanium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.tau_ceti_f_zirconium_ore.name
-appliedenergistics2:facade:0, Cable Facade - Compact Raw Porkchop
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Brick
+appliedenergistics2:facade:0, Cable Facade - Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Frostweb
+appliedenergistics2:facade:0, Cable Facade - Lushstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Double Streamstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demon Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadow Crystal
+appliedenergistics2:facade:0, Cable Facade - Quickweb
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Tile
+appliedenergistics2:facade:0, Cable Facade - Doomfire
+appliedenergistics2:facade:0, Cable Facade - Poop Cloud
+appliedenergistics2:facade:0, Cable Facade - Polished Desertstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Demonstone
+appliedenergistics2:facade:0, Cable Facade - Double Aberrantstone Slab
+appliedenergistics2:facade:0, Cable Facade - Desertstone Tile
+appliedenergistics2:facade:0, Cable Facade - Polished Lushstone
+appliedenergistics2:facade:0, Cable Facade - Double Desertstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Desertstone
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Streamstone
+appliedenergistics2:facade:0, Cable Facade - Hellfire
+appliedenergistics2:facade:0, Cable Facade - Primefire
+appliedenergistics2:facade:0, Cable Facade - Double Shadowstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Icefire
+appliedenergistics2:facade:0, Cable Facade - Poison Cloud
+appliedenergistics2:facade:0, Cable Facade - Double Ashenstone Slab
+appliedenergistics2:facade:0, Cable Facade - Shadowfire
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Tile
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lush Crystal
+appliedenergistics2:facade:0, Cable Facade - Desert Crystal
+appliedenergistics2:facade:0, Cable Facade - Chiseled Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Aberrant Crystal
+appliedenergistics2:facade:0, Cable Facade - Propolis
+appliedenergistics2:facade:0, Cable Facade - Scorchfire
+appliedenergistics2:facade:0, Cable Facade - Demonstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Chiseled Lushstone
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Aberrant Soulcube
+appliedenergistics2:facade:0, Cable Facade - Demonic Soulcube
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Brick
+appliedenergistics2:facade:0, Cable Facade - Polished Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Undead Soulcube
+appliedenergistics2:facade:0, Cable Facade - Frostcloud
+appliedenergistics2:facade:0, Cable Facade - Streamstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone
+appliedenergistics2:facade:0, Cable Facade - Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Polished Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Ashen Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Brick
+appliedenergistics2:facade:0, Cable Facade - Lushstone Tile
+appliedenergistics2:facade:0, Cable Facade - Lushstone
+appliedenergistics2:facade:0, Cable Facade - Desertstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lushstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Lushstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demonstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Demonstone Slab
+appliedenergistics2:facade:0, Cable Facade - Frostfire
+appliedenergistics2:facade:0, Cable Facade - Stream Crystal
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Tile
+appliedenergistics2:facade:0, Cable Facade - Streamstone Brick
+appliedenergistics2:facade:0, Cable Facade - Demonstone Brick
+appliedenergistics2:facade:0, Cable Facade - Veswax
+appliedenergistics2:facade:0, Cable Facade - Chiseled Streamstone
+appliedenergistics2:facade:0, Cable Facade - Polished Demonstone
+appliedenergistics2:facade:0, Cable Facade - Demonstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone
 appliedenergistics2:facade:0, Cable Facade - Particles Collider
 appliedenergistics2:facade:0, Cable Facade - Plain Void Shell
 appliedenergistics2:facade:0, Cable Facade - Glass Void Shell
@@ -14386,6 +14220,49 @@ galaxyspace:plasma_axe, Plasma Axe
 galaxyspace:plasma_pickaxe, Plasma Pickaxe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:100, Geological Scanner
+galaxyspace:proxima_b_blocks:0, Surface
+galaxyspace:proxima_b_blocks:1, Subsurface
+galaxyspace:proxima_b_blocks:2, Stone
+galaxyspace:proxima_b_blocks:3, Ice Surface
+galaxyspace:proxima_b_blocks:4, Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_blocks:11, Rocky Surface
+galaxyspace:proxima_b_blocks:12, Mushroom Skin
+galaxyspace:proxima_b_blocks:13, Mushroom Geyser
+galaxyspace:proxima_b_blocks:14, Mud
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:proxima_b_mushroom_log, Mushroom Stem
+galaxyspace:proxima_b_grasses, Grass
+galaxyspace:proxima_b_dandelions:0, Red Tallgrass
+galaxyspace:proxima_b_dandelions:1, Red Tallgrass
+galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
+galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
+galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
+galaxyspace:tauceti_f_watergrass:0, Red Algae
+galaxyspace:tauceti_f_watergrass:1, Algae Base
+galaxyspace:tauceti_f_watergrass:2, Algae
+galaxyspace:tauceti_f_watergrass:3, Algae Top
+galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
+galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
+galaxyspace:tauceti_f_watergrass:6, Thick Algae
+galaxyspace:tauceti_f_watergrass:7, Small Kelp
+galaxyspace:tauceti_f_corals:0, Brain Coral
+galaxyspace:tauceti_f_corals:1, Brain Coral Fan
+galaxyspace:tauceti_f_corals:2, Bubble Coral
+galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
+galaxyspace:tauceti_f_corals:4, Fire Coral
+galaxyspace:tauceti_f_corals:5, Fire Coral Fan
+galaxyspace:tauceti_f_corals:6, Horn Coral
+galaxyspace:tauceti_f_corals:7, Horn Coral Fan
+galaxyspace:tauceti_f_corals:8, Tube Coral
+galaxyspace:tauceti_f_corals:9, Tube Coral Fan
+galaxyspace:tauceti_f_corals:10, Sponge Coral
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -14436,49 +14313,265 @@ galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
 galaxyspace:barnarda_c_violet_door, item.barnarda_c_violet_door.name
-galaxyspace:proxima_b_blocks:0, Surface
-galaxyspace:proxima_b_blocks:1, Subsurface
-galaxyspace:proxima_b_blocks:2, Stone
-galaxyspace:proxima_b_blocks:3, Ice Surface
-galaxyspace:proxima_b_blocks:4, Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_blocks:11, Rocky Surface
-galaxyspace:proxima_b_blocks:12, Mushroom Skin
-galaxyspace:proxima_b_blocks:13, Mushroom Geyser
-galaxyspace:proxima_b_blocks:14, Mud
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
-galaxyspace:proxima_b_mushroom_log, Mushroom Stem
-galaxyspace:proxima_b_grasses, Grass
-galaxyspace:proxima_b_dandelions:0, Red Tallgrass
-galaxyspace:proxima_b_dandelions:1, Red Tallgrass
-galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
-galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
-galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
-galaxyspace:tauceti_f_watergrass:0, Red Algae
-galaxyspace:tauceti_f_watergrass:1, Algae Base
-galaxyspace:tauceti_f_watergrass:2, Algae
-galaxyspace:tauceti_f_watergrass:3, Algae Top
-galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
-galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
-galaxyspace:tauceti_f_watergrass:6, Thick Algae
-galaxyspace:tauceti_f_watergrass:7, Small Kelp
-galaxyspace:tauceti_f_corals:0, Brain Coral
-galaxyspace:tauceti_f_corals:1, Brain Coral Fan
-galaxyspace:tauceti_f_corals:2, Bubble Coral
-galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
-galaxyspace:tauceti_f_corals:4, Fire Coral
-galaxyspace:tauceti_f_corals:5, Fire Coral Fan
-galaxyspace:tauceti_f_corals:6, Horn Coral
-galaxyspace:tauceti_f_corals:7, Horn Coral Fan
-galaxyspace:tauceti_f_corals:8, Tube Coral
-galaxyspace:tauceti_f_corals:9, Tube Coral Fan
-galaxyspace:tauceti_f_corals:10, Sponge Coral
+quark:roots, tile.roots.name
+quark:root, item.root.name
+quark:roots_blue_flower, tile.roots_blue_flower.name
+quark:roots_black_flower, tile.roots_black_flower.name
+quark:roots_white_flower, tile.roots_white_flower.name
+quark:root_flower:0, Blue Sprout
+quark:root_flower:1, Black Sprout
+quark:root_flower:2, White Sprout
+quark:root_dye:0, Blue Dye
+quark:root_dye:1, Black Dye
+quark:root_dye:2, White Dye
+quark:diamond_heart, item.diamond_heart.name
+quark:archaeologist_hat, item.archaeologist_hat.name
+quark:variant_leaves:0, Swamp Oak Leaves
+quark:variant_leaves:1, Blossoming Leaves
+quark:variant_sapling:0, Swamp Oak Sapling
+quark:variant_sapling:1, Blossoming Sapling
+quark:crystal:0, White Cave Crystal
+quark:crystal:1, Red Cave Crystal
+quark:crystal:2, Orange Cave Crystal
+quark:crystal:3, Yellow Cave Crystal
+quark:crystal:4, Green Cave Crystal
+quark:crystal:5, Blue Cave Crystal
+quark:crystal:6, Indigo Cave Crystal
+quark:crystal:7, Violet Cave Crystal
+quark:crystal:8, Black Cave Crystal
+quark:crystal_pane:0, White Cave Crystal Sheet
+quark:crystal_pane:1, Red Cave Crystal Sheet
+quark:crystal_pane:2, Orange Cave Crystal Sheet
+quark:crystal_pane:3, Yellow Cave Crystal Sheet
+quark:crystal_pane:4, Green Cave Crystal Sheet
+quark:crystal_pane:5, Blue Cave Crystal Sheet
+quark:crystal_pane:6, Indigo Cave Crystal Sheet
+quark:crystal_pane:7, Violet Cave Crystal Sheet
+quark:crystal_pane:8, Black Cave Crystal Sheet
+quark:stone_speleothem, tile.stone_speleothem.name
+quark:granite_speleothem, tile.granite_speleothem.name
+quark:diorite_speleothem, tile.diorite_speleothem.name
+quark:andesite_speleothem, tile.andesite_speleothem.name
+quark:netherrack_speleothem, tile.netherrack_speleothem.name
+quark:basalt_speleothem, tile.basalt_speleothem.name
+quark:marble_speleothem, tile.marble_speleothem.name
+quark:limestone_speleothem, tile.limestone_speleothem.name
+quark:jasper_speleothem, tile.jasper_speleothem.name
+quark:slate_speleothem, tile.slate_speleothem.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, Block of Biotite
+quark:biotite_block:1, Chiseled Biotite Block
+quark:biotite_block:2, Pillar Biotite Block
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, Biotite Slab
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:monster_box, tile.monster_box.name
+quark:basalt:0, Basalt
+quark:basalt:1, Polished Basalt
+quark:stone_basalt_slab:0, Basalt Slab
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:frog_leg, item.frog_leg.name
+quark:cooked_frog_leg, item.cooked_frog_leg.name
+quark:golden_frog_leg, item.golden_frog_leg.name
+quark:pirate_hat, item.pirate_hat.name
+quark:crab_leg, item.crab_leg.name
+quark:cooked_crab_leg, item.cooked_crab_leg.name
+quark:crab_shell, item.crab_shell.name
+quark:marble:0, Marble
+quark:marble:1, Polished Marble
+quark:stone_marble_slab:0, Marble Slab
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, Limestone
+quark:limestone:1, Polished Limestone
+quark:stone_limestone_slab:0, Limestone Slab
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:jasper:0, Jasper
+quark:jasper:1, Polished Jasper
+quark:stone_jasper_slab:0, Jasper Slab
+quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
+quark:jasper_wall, tile.jasper_wall.name
+quark:slate:0, Slate
+quark:slate:1, Polished Slate
+quark:stone_slate_slab:0, Slate Slab
+quark:stone_slate_stairs, tile.stone_slate_stairs.name
+quark:slate_wall, tile.slate_wall.name
+quark:biome_cobblestone:0, Brimstone
+quark:biome_cobblestone:1, Permafrost
+quark:biome_cobblestone:2, Cobbedstone
+quark:biome_brick:0, Brimstone Bricks
+quark:biome_brick:1, Permafrost Bricks
+quark:elder_prismarine:0, Elder Prismarine
+quark:elder_prismarine:1, Elder Prismarine Bricks
+quark:elder_prismarine:2, Dark Elder Prismarine
+quark:elder_sea_lantern, tile.elder_sea_lantern.name
+quark:fire_stone_slab:0, Brimstone Slab
+quark:fire_stone_stairs, tile.fire_stone_stairs.name
+quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
+quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
+quark:icy_stone_slab:0, Permafrost Slab
+quark:icy_stone_stairs, tile.icy_stone_stairs.name
+quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
+quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
+quark:cobbed_stone_slab:0, Cobbedstone Slab
+quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
+quark:elder_prismarine_slab:0, Elder Prismarine Slab
+quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
+quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
+quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
+quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
+quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
+quark:fire_stone_wall, tile.fire_stone_wall.name
+quark:icy_stone_wall, tile.icy_stone_wall.name
+quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
+quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
+quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
+quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
+quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
+quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
+quark:glowcelium, tile.glowcelium.name
+quark:glowshroom, tile.glowshroom.name
+quark:glowshroom_block, tile.glowshroom_block.name
+quark:soul_bead, item.soul_bead.name
+quark:smoker, tile.smoker.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
+quark:spruce_trapdoor, tile.spruce_trapdoor.name
+quark:birch_trapdoor, tile.birch_trapdoor.name
+quark:jungle_trapdoor, tile.jungle_trapdoor.name
+quark:acacia_trapdoor, tile.acacia_trapdoor.name
+quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
+quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
+quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
+quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
+quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
+quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
+quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
+quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
+quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
+quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
+quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
+quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
+quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
+quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
+quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
+quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
+quark:custom_bookshelf:0, Spruce Bookshelf
+quark:custom_bookshelf:1, Birch Bookshelf
+quark:custom_bookshelf:2, Jungle Bookshelf
+quark:custom_bookshelf:3, Acacia Bookshelf
+quark:custom_bookshelf:4, Dark Oak Bookshelf
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:lit_lamp, tile.lit_lamp.name
+quark:custom_chest:0, Spruce Chest
+quark:custom_chest:1, Birch Chest
+quark:custom_chest:2, Jungle Chest
+quark:custom_chest:3, Acacia Chest
+quark:custom_chest:4, Dark Oak Chest
+quark:custom_chest_trap:0, Spruce Trapped Chest
+quark:custom_chest_trap:1, Birch Trapped Chest
+quark:custom_chest_trap:2, Jungle Trapped Chest
+quark:custom_chest_trap:3, Acacia Trapped Chest
+quark:custom_chest_trap:4, Dark Oak Trapped Chest
+quark:candle:0, White Candle
+quark:candle:1, Orange Candle
+quark:candle:2, Magenta Candle
+quark:candle:3, Light Blue Candle
+quark:candle:4, Yellow Candle
+quark:candle:5, Lime Candle
+quark:candle:6, Pink Candle
+quark:candle:7, Gray Candle
+quark:candle:8, Light Gray Candle
+quark:candle:9, Cyan Candle
+quark:candle:10, Purple Candle
+quark:candle:11, Blue Candle
+quark:candle:12, Brown Candle
+quark:candle:13, Green Candle
+quark:candle:14, Red Candle
+quark:candle:15, Black Candle
+quark:tallow, item.tallow.name
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:leaf_carpet:0, Oak Leaf Carpet
+quark:leaf_carpet:1, Spruce Leaf Carpet
+quark:leaf_carpet:2, Birch Leaf Carpet
+quark:leaf_carpet:3, Jungle Leaf Carpet
+quark:leaf_carpet:4, Acacia Leaf Carpet
+quark:leaf_carpet:5, Dark Oak Leaf Carpet
+quark:leaf_carpet:6, Swamp Oak Leaf Carpet
+quark:leaf_carpet:7, Blossoming Leaf Carpet
+quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
+quark:birch_pressure_plate, tile.birch_pressure_plate.name
+quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
+quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
+quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
+quark:spruce_button, tile.spruce_button.name
+quark:birch_button, tile.birch_button.name
+quark:jungle_button, tile.jungle_button.name
+quark:acacia_button, tile.acacia_button.name
+quark:dark_oak_button, tile.dark_oak_button.name
+quark:grate, tile.grate.name
+quark:charcoal_block, tile.charcoal_block.name
+quark:glass_item_frame, item.glass_item_frame.name
+quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -14799,267 +14892,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:roots, tile.roots.name
-quark:root, item.root.name
-quark:roots_blue_flower, tile.roots_blue_flower.name
-quark:roots_black_flower, tile.roots_black_flower.name
-quark:roots_white_flower, tile.roots_white_flower.name
-quark:root_flower:0, Blue Sprout
-quark:root_flower:1, Black Sprout
-quark:root_flower:2, White Sprout
-quark:root_dye:0, Blue Dye
-quark:root_dye:1, Black Dye
-quark:root_dye:2, White Dye
-quark:diamond_heart, item.diamond_heart.name
-quark:archaeologist_hat, item.archaeologist_hat.name
-quark:variant_leaves:0, Swamp Oak Leaves
-quark:variant_leaves:1, Blossoming Leaves
-quark:variant_sapling:0, Swamp Oak Sapling
-quark:variant_sapling:1, Blossoming Sapling
-quark:crystal:0, White Cave Crystal
-quark:crystal:1, Red Cave Crystal
-quark:crystal:2, Orange Cave Crystal
-quark:crystal:3, Yellow Cave Crystal
-quark:crystal:4, Green Cave Crystal
-quark:crystal:5, Blue Cave Crystal
-quark:crystal:6, Indigo Cave Crystal
-quark:crystal:7, Violet Cave Crystal
-quark:crystal:8, Black Cave Crystal
-quark:crystal_pane:0, White Cave Crystal Sheet
-quark:crystal_pane:1, Red Cave Crystal Sheet
-quark:crystal_pane:2, Orange Cave Crystal Sheet
-quark:crystal_pane:3, Yellow Cave Crystal Sheet
-quark:crystal_pane:4, Green Cave Crystal Sheet
-quark:crystal_pane:5, Blue Cave Crystal Sheet
-quark:crystal_pane:6, Indigo Cave Crystal Sheet
-quark:crystal_pane:7, Violet Cave Crystal Sheet
-quark:crystal_pane:8, Black Cave Crystal Sheet
-quark:stone_speleothem, tile.stone_speleothem.name
-quark:granite_speleothem, tile.granite_speleothem.name
-quark:diorite_speleothem, tile.diorite_speleothem.name
-quark:andesite_speleothem, tile.andesite_speleothem.name
-quark:netherrack_speleothem, tile.netherrack_speleothem.name
-quark:basalt_speleothem, tile.basalt_speleothem.name
-quark:marble_speleothem, tile.marble_speleothem.name
-quark:limestone_speleothem, tile.limestone_speleothem.name
-quark:jasper_speleothem, tile.jasper_speleothem.name
-quark:slate_speleothem, tile.slate_speleothem.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, Block of Biotite
-quark:biotite_block:1, Chiseled Biotite Block
-quark:biotite_block:2, Pillar Biotite Block
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, Biotite Slab
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:monster_box, tile.monster_box.name
-quark:basalt:0, Basalt
-quark:basalt:1, Polished Basalt
-quark:stone_basalt_slab:0, Basalt Slab
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:frog_leg, item.frog_leg.name
-quark:cooked_frog_leg, item.cooked_frog_leg.name
-quark:golden_frog_leg, item.golden_frog_leg.name
-quark:pirate_hat, item.pirate_hat.name
-quark:crab_leg, item.crab_leg.name
-quark:cooked_crab_leg, item.cooked_crab_leg.name
-quark:crab_shell, item.crab_shell.name
-quark:marble:0, Marble
-quark:marble:1, Polished Marble
-quark:stone_marble_slab:0, Marble Slab
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, Limestone
-quark:limestone:1, Polished Limestone
-quark:stone_limestone_slab:0, Limestone Slab
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:jasper:0, Jasper
-quark:jasper:1, Polished Jasper
-quark:stone_jasper_slab:0, Jasper Slab
-quark:stone_jasper_stairs, tile.stone_jasper_stairs.name
-quark:jasper_wall, tile.jasper_wall.name
-quark:slate:0, Slate
-quark:slate:1, Polished Slate
-quark:stone_slate_slab:0, Slate Slab
-quark:stone_slate_stairs, tile.stone_slate_stairs.name
-quark:slate_wall, tile.slate_wall.name
-quark:biome_cobblestone:0, Brimstone
-quark:biome_cobblestone:1, Permafrost
-quark:biome_cobblestone:2, Cobbedstone
-quark:biome_brick:0, Brimstone Bricks
-quark:biome_brick:1, Permafrost Bricks
-quark:elder_prismarine:0, Elder Prismarine
-quark:elder_prismarine:1, Elder Prismarine Bricks
-quark:elder_prismarine:2, Dark Elder Prismarine
-quark:elder_sea_lantern, tile.elder_sea_lantern.name
-quark:fire_stone_slab:0, Brimstone Slab
-quark:fire_stone_stairs, tile.fire_stone_stairs.name
-quark:fire_stone_brick_slab:0, Brimstone Bricks Slab
-quark:fire_stone_brick_stairs, tile.fire_stone_brick_stairs.name
-quark:icy_stone_slab:0, Permafrost Slab
-quark:icy_stone_stairs, tile.icy_stone_stairs.name
-quark:icy_stone_brick_slab:0, Permafrost Bricks Slab
-quark:icy_stone_brick_stairs, tile.icy_stone_brick_stairs.name
-quark:cobbed_stone_slab:0, Cobbedstone Slab
-quark:cobbed_stone_stairs, tile.cobbed_stone_stairs.name
-quark:elder_prismarine_slab:0, Elder Prismarine Slab
-quark:elder_prismarine_stairs, tile.elder_prismarine_stairs.name
-quark:elder_prismarine_bricks_slab:0, Elder Prismarine Brick Slab
-quark:elder_prismarine_bricks_stairs, tile.elder_prismarine_bricks_stairs.name
-quark:elder_prismarine_dark_slab:0, Dark Elder Prismarine Slab
-quark:elder_prismarine_dark_stairs, tile.elder_prismarine_dark_stairs.name
-quark:fire_stone_wall, tile.fire_stone_wall.name
-quark:icy_stone_wall, tile.icy_stone_wall.name
-quark:cobbed_stone_wall, tile.cobbed_stone_wall.name
-quark:fire_stone_brick_wall, tile.fire_stone_brick_wall.name
-quark:icy_stone_brick_wall, tile.icy_stone_brick_wall.name
-quark:elder_prismarine_wall, tile.elder_prismarine_wall.name
-quark:elder_prismarine_bricks_wall, tile.elder_prismarine_bricks_wall.name
-quark:elder_prismarine_dark_wall, tile.elder_prismarine_dark_wall.name
-quark:glowcelium, tile.glowcelium.name
-quark:glowshroom, tile.glowshroom.name
-quark:glowshroom_block, tile.glowshroom_block.name
-quark:soul_bead, item.soul_bead.name
-quark:smoker, tile.smoker.name
-quark:pipe, tile.pipe.name
-quark:backpack, item.backpack.name
-quark:tiny_potato, tile.tiny_potato.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
-quark:spruce_trapdoor, tile.spruce_trapdoor.name
-quark:birch_trapdoor, tile.birch_trapdoor.name
-quark:jungle_trapdoor, tile.jungle_trapdoor.name
-quark:acacia_trapdoor, tile.acacia_trapdoor.name
-quark:dark_oak_trapdoor, tile.dark_oak_trapdoor.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_flowerpot_white, tile.colored_flowerpot_white.name
-quark:colored_flowerpot_orange, tile.colored_flowerpot_orange.name
-quark:colored_flowerpot_magenta, tile.colored_flowerpot_magenta.name
-quark:colored_flowerpot_light_blue, tile.colored_flowerpot_light_blue.name
-quark:colored_flowerpot_yellow, tile.colored_flowerpot_yellow.name
-quark:colored_flowerpot_lime, tile.colored_flowerpot_lime.name
-quark:colored_flowerpot_pink, tile.colored_flowerpot_pink.name
-quark:colored_flowerpot_gray, tile.colored_flowerpot_gray.name
-quark:colored_flowerpot_silver, tile.colored_flowerpot_silver.name
-quark:colored_flowerpot_cyan, tile.colored_flowerpot_cyan.name
-quark:colored_flowerpot_purple, tile.colored_flowerpot_purple.name
-quark:colored_flowerpot_blue, tile.colored_flowerpot_blue.name
-quark:colored_flowerpot_brown, tile.colored_flowerpot_brown.name
-quark:colored_flowerpot_green, tile.colored_flowerpot_green.name
-quark:colored_flowerpot_red, tile.colored_flowerpot_red.name
-quark:colored_flowerpot_black, tile.colored_flowerpot_black.name
-quark:custom_bookshelf:0, Spruce Bookshelf
-quark:custom_bookshelf:1, Birch Bookshelf
-quark:custom_bookshelf:2, Jungle Bookshelf
-quark:custom_bookshelf:3, Acacia Bookshelf
-quark:custom_bookshelf:4, Dark Oak Bookshelf
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:lit_lamp, tile.lit_lamp.name
-quark:custom_chest:0, Spruce Chest
-quark:custom_chest:1, Birch Chest
-quark:custom_chest:2, Jungle Chest
-quark:custom_chest:3, Acacia Chest
-quark:custom_chest:4, Dark Oak Chest
-quark:custom_chest_trap:0, Spruce Trapped Chest
-quark:custom_chest_trap:1, Birch Trapped Chest
-quark:custom_chest_trap:2, Jungle Trapped Chest
-quark:custom_chest_trap:3, Acacia Trapped Chest
-quark:custom_chest_trap:4, Dark Oak Trapped Chest
-quark:candle:0, White Candle
-quark:candle:1, Orange Candle
-quark:candle:2, Magenta Candle
-quark:candle:3, Light Blue Candle
-quark:candle:4, Yellow Candle
-quark:candle:5, Lime Candle
-quark:candle:6, Pink Candle
-quark:candle:7, Gray Candle
-quark:candle:8, Light Gray Candle
-quark:candle:9, Cyan Candle
-quark:candle:10, Purple Candle
-quark:candle:11, Blue Candle
-quark:candle:12, Brown Candle
-quark:candle:13, Green Candle
-quark:candle:14, Red Candle
-quark:candle:15, Black Candle
-quark:tallow, item.tallow.name
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:leaf_carpet:0, Oak Leaf Carpet
-quark:leaf_carpet:1, Spruce Leaf Carpet
-quark:leaf_carpet:2, Birch Leaf Carpet
-quark:leaf_carpet:3, Jungle Leaf Carpet
-quark:leaf_carpet:4, Acacia Leaf Carpet
-quark:leaf_carpet:5, Dark Oak Leaf Carpet
-quark:leaf_carpet:6, Swamp Oak Leaf Carpet
-quark:leaf_carpet:7, Blossoming Leaf Carpet
-quark:spruce_pressure_plate, tile.spruce_pressure_plate.name
-quark:birch_pressure_plate, tile.birch_pressure_plate.name
-quark:jungle_pressure_plate, tile.jungle_pressure_plate.name
-quark:acacia_pressure_plate, tile.acacia_pressure_plate.name
-quark:dark_oak_pressure_plate, tile.dark_oak_pressure_plate.name
-quark:spruce_button, tile.spruce_button.name
-quark:birch_button, tile.birch_button.name
-quark:jungle_button, tile.jungle_button.name
-quark:acacia_button, tile.acacia_button.name
-quark:dark_oak_button, tile.dark_oak_button.name
-quark:grate, tile.grate.name
-quark:charcoal_block, tile.charcoal_block.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 quark:pickarang, item.pickarang.name
 quark:arrow_ender, item.arrow_ender.name
 quark:arrow_explosive, item.arrow_explosive.name
@@ -15092,7 +14924,9 @@ quark:parrot_egg:2, Green Parrot Egg
 quark:parrot_egg:3, Cyan Parrot Egg
 quark:parrot_egg:4, Gray Parrot Egg
 quark:enderdragon_scale, item.enderdragon_scale.name
-quark:witch_hat, item.witch_hat.name
+quark:pipe, tile.pipe.name
+quark:backpack, item.backpack.name
+quark:tiny_potato, tile.tiny_potato.name
 champions:champion_egg, Spawn Champion
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
@@ -16960,25 +16794,6 @@ ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrad
 ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
 ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
 ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
-herobrine:unholy_water, Unholy Water
-herobrine:herobrine_alter, §eAltar of Herobrine
-herobrine:holy_water, Holy Water
-herobrine:cursed_diamond_leggings, Cursed Diamond Leggings
-herobrine:cursed_diamond_helmet, Cursed Diamond Helmet
-herobrine:cursed_diamond_chestplate, Cursed Diamond Chestplate
-herobrine:cursed_diamond_boots, Cursed Diamond Boots
-herobrine:cursed_diamond_sword, Cursed Diamond Sword
-herobrine:cursed_diamond_hoe, Cursed Diamond Hoe
-herobrine:cursed_diamond_shovel, Cursed Diamond Shovel
-herobrine:cursed_diamond_pickaxe, Cursed Diamond Pickaxe
-herobrine:cursed_diamond_axe, Cursed Diamond Axe
-herobrine:bedrock_sword, §dBedrock Sword
-herobrine:cursed_diamond, Cursed Diamond
-herobrine:cursed_dust, Cursed Dust
-herobrine:purified_diamond, Purified Diamond
-herobrine:cursed_diamond_block, Cursed Block of Diamond
-herobrine:purified_diamond_block, Purified Block of Diamond
-herobrine:herobrine_statue, Statue of Herobrine
 mwc:copper_ore, Copper Ore
 mwc:tin_ore, Tin Ore
 mwc:sulfur_ore, Sulfur Ore
@@ -16999,33 +16814,33 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:card_writer, Card Writer
 opensecurity:alarm, Alarm
 opensecurity:security_terminal, Security Terminal
+opensecurity:entity_detector, Entity Detector
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:rolldoor_element, Rolldoor Element
 opensecurity:biometric_reader, Biometric Reader
 opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:keypad, Keypad
-opensecurity:rfid_reader, RFID Reader
-opensecurity:entity_detector, Entity Detector
+opensecurity:card_writer, Card Writer
 opensecurity:energy_turret, Energy Turret
+opensecurity:rfid_reader, RFID Reader
 opensecurity:data_block, Data Block
-opensecurity:mag_secure_door, MagReader Security Door
+opensecurity:keypad, Keypad
 opensecurity:private_secure_door, Private Security Door
 opensecurity:secure_door, Security Door
-opensecurity:nanofog, NanoFog
-opensecurity:door_controller, Door Controller
+opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:mag_reader_camo, Camo Magnetic Card Reader
+opensecurity:door_controller, Door Controller
 opensecurity:rolldoor, Rolldoor
+opensecurity:nanofog, NanoFog
+opensecurity:mag_reader_camo, Camo Magnetic Card Reader
 opensecurity:rfid_card, RFID Card
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:nanodna, NanoDNA
+opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:damage_upgrade, Damage Upgrade
 opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:nanodna, NanoDNA
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:movement_upgrade, Movement Upgrade
 portality:controller, Portal Controller
 portality:frame, Portal Frame
@@ -17044,7 +16859,6 @@ scalinghealth:healingitem:0, Bandages
 scalinghealth:healingitem:1, Medkit
 scalinghealth:difficultychanger:0, Enchanted Heart
 scalinghealth:difficultychanger:1, Cursed Heart
-srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -17281,6 +17095,7 @@ srparasites:armor_helm_sentient, §6Sentient Helm
 srparasites:armor_chest_sentient, §6Sentient Chest
 srparasites:armor_pants_sentient, §6Sentient Pants
 srparasites:armor_boots_sentient, §6Sentient Boots
+srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
 weather2:sand_layer_placeable, Sand Layer
 weather2:weather_item, Weather Item
 weather2:pocket_sand, Pocket Sand!
@@ -18646,98 +18461,6 @@ contenttweaker:budweiser, Budweiser
 contenttweaker:freaky_block:0, Freaky Block
 contenttweaker:infinite_purified_water_bottle, Infinite Purified Water Bottle
 contenttweaker:lost_teleporter, Lost Teleporter
-contenttweaker:barnarda_c_aluminium_ore:0, tile.contenttweaker.barnarda_c_aluminium_ore.name
-contenttweaker:barnarda_c_asbestos_ore:0, tile.contenttweaker.barnarda_c_asbestos_ore.name
-contenttweaker:barnarda_c_australium_ore:0, tile.contenttweaker.barnarda_c_australium_ore.name
-contenttweaker:barnarda_c_beryllium_ore:0, tile.contenttweaker.barnarda_c_beryllium_ore.name
-contenttweaker:barnarda_c_borax_ore:0, tile.contenttweaker.barnarda_c_borax_ore.name
-contenttweaker:barnarda_c_cinnebar_ore:0, tile.contenttweaker.barnarda_c_cinnebar_ore.name
-contenttweaker:barnarda_c_cluster_aluminium_ore:0, tile.contenttweaker.barnarda_c_cluster_aluminium_ore.name
-contenttweaker:barnarda_c_cluster_copper_ore:0, tile.contenttweaker.barnarda_c_cluster_copper_ore.name
-contenttweaker:barnarda_c_cluster_iron_ore:0, tile.contenttweaker.barnarda_c_cluster_iron_ore.name
-contenttweaker:barnarda_c_cluster_titan_ore:0, tile.contenttweaker.barnarda_c_cluster_titan_ore.name
-contenttweaker:barnarda_c_coal_ore:0, tile.contenttweaker.barnarda_c_coal_ore.name
-contenttweaker:barnarda_c_cobalt_ore:0, tile.contenttweaker.barnarda_c_cobalt_ore.name
-contenttweaker:barnarda_c_coltan_ore:0, tile.contenttweaker.barnarda_c_coltan_ore.name
-contenttweaker:barnarda_c_copper_ore:0, tile.contenttweaker.barnarda_c_copper_ore.name
-contenttweaker:barnarda_c_diamond_ore:0, tile.contenttweaker.barnarda_c_diamond_ore.name
-contenttweaker:barnarda_c_fluorite_ore:0, tile.contenttweaker.barnarda_c_fluorite_ore.name
-contenttweaker:barnarda_c_gold_ore:0, tile.contenttweaker.barnarda_c_gold_ore.name
-contenttweaker:barnarda_c_iron_ore:0, tile.contenttweaker.barnarda_c_iron_ore.name
-contenttweaker:barnarda_c_lapis_ore:0, tile.contenttweaker.barnarda_c_lapis_ore.name
-contenttweaker:barnarda_c_lead_ore:0, tile.contenttweaker.barnarda_c_lead_ore.name
-contenttweaker:barnarda_c_lignite_ore:0, tile.contenttweaker.barnarda_c_lignite_ore.name
-contenttweaker:barnarda_c_lithium_ore:0, tile.contenttweaker.barnarda_c_lithium_ore.name
-contenttweaker:barnarda_c_neodynium_ore:0, tile.contenttweaker.barnarda_c_neodynium_ore.name
-contenttweaker:barnarda_c_nether_coal_ore:0, tile.contenttweaker.barnarda_c_nether_coal_ore.name
-contenttweaker:barnarda_c_nitan_ore:0, tile.contenttweaker.barnarda_c_nitan_ore.name
-contenttweaker:barnarda_c_niter_ore:0, tile.contenttweaker.barnarda_c_niter_ore.name
-contenttweaker:barnarda_c_plutonium_ore:0, tile.contenttweaker.barnarda_c_plutonium_ore.name
-contenttweaker:barnarda_c_rare_ore:0, tile.contenttweaker.barnarda_c_rare_ore.name
-contenttweaker:barnarda_c_red_phosphorus_ore:0, tile.contenttweaker.barnarda_c_red_phosphorus_ore.name
-contenttweaker:barnarda_c_redstone_ore:0, tile.contenttweaker.barnarda_c_redstone_ore.name
-contenttweaker:barnarda_c_reiium_ore:0, tile.contenttweaker.barnarda_c_reiium_ore.name
-contenttweaker:barnarda_c_schrabidium_ore:0, tile.contenttweaker.barnarda_c_schrabidium_ore.name
-contenttweaker:barnarda_c_smoldering_ore:0, tile.contenttweaker.barnarda_c_smoldering_ore.name
-contenttweaker:barnarda_c_starmetal_ore:0, tile.contenttweaker.barnarda_c_starmetal_ore.name
-contenttweaker:barnarda_c_sulfur_ore:0, tile.contenttweaker.barnarda_c_sulfur_ore.name
-contenttweaker:barnarda_c_thoruim_ore:0, tile.contenttweaker.barnarda_c_thoruim_ore.name
-contenttweaker:barnarda_c_trinitite_ore:0, tile.contenttweaker.barnarda_c_trinitite_ore.name
-contenttweaker:barnarda_c_titan_ore:0, tile.contenttweaker.barnarda_c_titan_ore.name
-contenttweaker:barnarda_c_trixite_ore:0, tile.contenttweaker.barnarda_c_trixite_ore.name
-contenttweaker:barnarda_c_tungsten_ore:0, tile.contenttweaker.barnarda_c_tungsten_ore.name
-contenttweaker:barnarda_c_brightblende_ore:0, tile.contenttweaker.barnarda_c_brightblende_ore.name
-contenttweaker:barnarda_c_uranium_ore:0, tile.contenttweaker.barnarda_c_uranium_ore.name
-contenttweaker:barnarda_c_uranium_scorched_ore:0, tile.contenttweaker.barnarda_c_uranium_scorched_ore.name
-contenttweaker:barnarda_c_verticium_ore:0, tile.contenttweaker.barnarda_c_verticium_ore.name
-contenttweaker:barnarda_c_weidanium_ore:0, tile.contenttweaker.barnarda_c_weidanium_ore.name
-contenttweaker:barnarda_c_zirconium_ore:0, tile.contenttweaker.barnarda_c_zirconium_ore.name
-contenttweaker:proxima_b_aluminium_ore:0, tile.contenttweaker.proxima_b_aluminium_ore.name
-contenttweaker:proxima_b_asbestos_ore:0, tile.contenttweaker.proxima_b_asbestos_ore.name
-contenttweaker:proxima_b_australium_ore:0, tile.contenttweaker.proxima_b_australium_ore.name
-contenttweaker:proxima_b_beryllium_ore:0, tile.contenttweaker.proxima_b_beryllium_ore.name
-contenttweaker:proxima_b_borax_ore:0, tile.contenttweaker.proxima_b_borax_ore.name
-contenttweaker:proxima_b_cinnebar_ore:0, tile.contenttweaker.proxima_b_cinnebar_ore.name
-contenttweaker:proxima_b_cluster_aluminium_ore:0, tile.contenttweaker.proxima_b_cluster_aluminium_ore.name
-contenttweaker:proxima_b_cluster_copper_ore:0, tile.contenttweaker.proxima_b_cluster_copper_ore.name
-contenttweaker:proxima_b_cluster_iron_ore:0, tile.contenttweaker.proxima_b_cluster_iron_ore.name
-contenttweaker:proxima_b_cluster_titan_ore:0, tile.contenttweaker.proxima_b_cluster_titan_ore.name
-contenttweaker:proxima_b_coal_ore:0, tile.contenttweaker.proxima_b_coal_ore.name
-contenttweaker:proxima_b_cobalt_ore:0, tile.contenttweaker.proxima_b_cobalt_ore.name
-contenttweaker:proxima_b_coltan_ore:0, tile.contenttweaker.proxima_b_coltan_ore.name
-contenttweaker:proxima_b_copper_ore:0, tile.contenttweaker.proxima_b_copper_ore.name
-contenttweaker:proxima_b_diamond_ore:0, tile.contenttweaker.proxima_b_diamond_ore.name
-contenttweaker:proxima_b_fluorite_ore:0, tile.contenttweaker.proxima_b_fluorite_ore.name
-contenttweaker:proxima_b_gold_ore:0, tile.contenttweaker.proxima_b_gold_ore.name
-contenttweaker:proxima_b_iron_ore:0, tile.contenttweaker.proxima_b_iron_ore.name
-contenttweaker:proxima_b_lapis_ore:0, tile.contenttweaker.proxima_b_lapis_ore.name
-contenttweaker:proxima_b_lead_ore:0, tile.contenttweaker.proxima_b_lead_ore.name
-contenttweaker:proxima_b_lignite_ore:0, tile.contenttweaker.proxima_b_lignite_ore.name
-contenttweaker:proxima_b_lithium_ore:0, tile.contenttweaker.proxima_b_lithium_ore.name
-contenttweaker:proxima_b_neodynium_ore:0, tile.contenttweaker.proxima_b_neodynium_ore.name
-contenttweaker:proxima_b_nether_coal_ore:0, tile.contenttweaker.proxima_b_nether_coal_ore.name
-contenttweaker:proxima_b_nitan_ore:0, tile.contenttweaker.proxima_b_nitan_ore.name
-contenttweaker:proxima_b_niter_ore:0, tile.contenttweaker.proxima_b_niter_ore.name
-contenttweaker:proxima_b_plutonium_ore:0, tile.contenttweaker.proxima_b_plutonium_ore.name
-contenttweaker:proxima_b_rare_ore:0, tile.contenttweaker.proxima_b_rare_ore.name
-contenttweaker:proxima_b_red_phosphorus_ore:0, tile.contenttweaker.proxima_b_red_phosphorus_ore.name
-contenttweaker:proxima_b_redstone_ore:0, tile.contenttweaker.proxima_b_redstone_ore.name
-contenttweaker:proxima_b_reiium_ore:0, tile.contenttweaker.proxima_b_reiium_ore.name
-contenttweaker:proxima_b_schrabidium_ore:0, tile.contenttweaker.proxima_b_schrabidium_ore.name
-contenttweaker:proxima_b_smoldering_ore:0, tile.contenttweaker.proxima_b_smoldering_ore.name
-contenttweaker:proxima_b_starmetal_ore:0, tile.contenttweaker.proxima_b_starmetal_ore.name
-contenttweaker:proxima_b_sulfur_ore:0, tile.contenttweaker.proxima_b_sulfur_ore.name
-contenttweaker:proxima_b_thoruim_ore:0, tile.contenttweaker.proxima_b_thoruim_ore.name
-contenttweaker:proxima_b_trinitite_ore:0, tile.contenttweaker.proxima_b_trinitite_ore.name
-contenttweaker:proxima_b_titan_ore:0, tile.contenttweaker.proxima_b_titan_ore.name
-contenttweaker:proxima_b_trixite_ore:0, tile.contenttweaker.proxima_b_trixite_ore.name
-contenttweaker:proxima_b_tungsten_ore:0, tile.contenttweaker.proxima_b_tungsten_ore.name
-contenttweaker:proxima_b_brightblende_ore:0, tile.contenttweaker.proxima_b_brightblende_ore.name
-contenttweaker:proxima_b_uranium_ore:0, tile.contenttweaker.proxima_b_uranium_ore.name
-contenttweaker:proxima_b_uranium_scorched_ore:0, tile.contenttweaker.proxima_b_uranium_scorched_ore.name
-contenttweaker:proxima_b_verticium_ore:0, tile.contenttweaker.proxima_b_verticium_ore.name
-contenttweaker:proxima_b_weidanium_ore:0, tile.contenttweaker.proxima_b_weidanium_ore.name
-contenttweaker:proxima_b_zirconium_ore:0, tile.contenttweaker.proxima_b_zirconium_ore.name
 contenttweaker:solar_asteroid_belt_aluminium_ore:0, tile.contenttweaker.solar_asteroid_belt_aluminium_ore.name
 contenttweaker:solar_asteroid_belt_asbestos_ore:0, tile.contenttweaker.solar_asteroid_belt_asbestos_ore.name
 contenttweaker:solar_asteroid_belt_australium_ore:0, tile.contenttweaker.solar_asteroid_belt_australium_ore.name
@@ -19106,52 +18829,6 @@ contenttweaker:solar_io_uranium_scorched_ore:0, tile.contenttweaker.solar_io_ura
 contenttweaker:solar_io_verticium_ore:0, tile.contenttweaker.solar_io_verticium_ore.name
 contenttweaker:solar_io_weidanium_ore:0, tile.contenttweaker.solar_io_weidanium_ore.name
 contenttweaker:solar_io_zirconium_ore:0, tile.contenttweaker.solar_io_zirconium_ore.name
-contenttweaker:solar_kuiper_belt_aluminium_ore:0, tile.contenttweaker.solar_kuiper_belt_aluminium_ore.name
-contenttweaker:solar_kuiper_belt_asbestos_ore:0, tile.contenttweaker.solar_kuiper_belt_asbestos_ore.name
-contenttweaker:solar_kuiper_belt_australium_ore:0, tile.contenttweaker.solar_kuiper_belt_australium_ore.name
-contenttweaker:solar_kuiper_belt_beryllium_ore:0, tile.contenttweaker.solar_kuiper_belt_beryllium_ore.name
-contenttweaker:solar_kuiper_belt_borax_ore:0, tile.contenttweaker.solar_kuiper_belt_borax_ore.name
-contenttweaker:solar_kuiper_belt_cinnebar_ore:0, tile.contenttweaker.solar_kuiper_belt_cinnebar_ore.name
-contenttweaker:solar_kuiper_belt_cluster_aluminium_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_aluminium_ore.name
-contenttweaker:solar_kuiper_belt_cluster_copper_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_copper_ore.name
-contenttweaker:solar_kuiper_belt_cluster_iron_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_iron_ore.name
-contenttweaker:solar_kuiper_belt_cluster_titan_ore:0, tile.contenttweaker.solar_kuiper_belt_cluster_titan_ore.name
-contenttweaker:solar_kuiper_belt_coal_ore:0, tile.contenttweaker.solar_kuiper_belt_coal_ore.name
-contenttweaker:solar_kuiper_belt_cobalt_ore:0, tile.contenttweaker.solar_kuiper_belt_cobalt_ore.name
-contenttweaker:solar_kuiper_belt_coltan_ore:0, tile.contenttweaker.solar_kuiper_belt_coltan_ore.name
-contenttweaker:solar_kuiper_belt_copper_ore:0, tile.contenttweaker.solar_kuiper_belt_copper_ore.name
-contenttweaker:solar_kuiper_belt_diamond_ore:0, tile.contenttweaker.solar_kuiper_belt_diamond_ore.name
-contenttweaker:solar_kuiper_belt_fluorite_ore:0, tile.contenttweaker.solar_kuiper_belt_fluorite_ore.name
-contenttweaker:solar_kuiper_belt_gold_ore:0, tile.contenttweaker.solar_kuiper_belt_gold_ore.name
-contenttweaker:solar_kuiper_belt_iron_ore:0, tile.contenttweaker.solar_kuiper_belt_iron_ore.name
-contenttweaker:solar_kuiper_belt_lapis_ore:0, tile.contenttweaker.solar_kuiper_belt_lapis_ore.name
-contenttweaker:solar_kuiper_belt_lead_ore:0, tile.contenttweaker.solar_kuiper_belt_lead_ore.name
-contenttweaker:solar_kuiper_belt_lignite_ore:0, tile.contenttweaker.solar_kuiper_belt_lignite_ore.name
-contenttweaker:solar_kuiper_belt_lithium_ore:0, tile.contenttweaker.solar_kuiper_belt_lithium_ore.name
-contenttweaker:solar_kuiper_belt_neodynium_ore:0, tile.contenttweaker.solar_kuiper_belt_neodynium_ore.name
-contenttweaker:solar_kuiper_belt_nether_coal_ore:0, tile.contenttweaker.solar_kuiper_belt_nether_coal_ore.name
-contenttweaker:solar_kuiper_belt_nitan_ore:0, tile.contenttweaker.solar_kuiper_belt_nitan_ore.name
-contenttweaker:solar_kuiper_belt_niter_ore:0, tile.contenttweaker.solar_kuiper_belt_niter_ore.name
-contenttweaker:solar_kuiper_belt_plutonium_ore:0, tile.contenttweaker.solar_kuiper_belt_plutonium_ore.name
-contenttweaker:solar_kuiper_belt_rare_ore:0, tile.contenttweaker.solar_kuiper_belt_rare_ore.name
-contenttweaker:solar_kuiper_belt_red_phosphorus_ore:0, tile.contenttweaker.solar_kuiper_belt_red_phosphorus_ore.name
-contenttweaker:solar_kuiper_belt_redstone_ore:0, tile.contenttweaker.solar_kuiper_belt_redstone_ore.name
-contenttweaker:solar_kuiper_belt_reiium_ore:0, tile.contenttweaker.solar_kuiper_belt_reiium_ore.name
-contenttweaker:solar_kuiper_belt_schrabidium_ore:0, tile.contenttweaker.solar_kuiper_belt_schrabidium_ore.name
-contenttweaker:solar_kuiper_belt_smoldering_ore:0, tile.contenttweaker.solar_kuiper_belt_smoldering_ore.name
-contenttweaker:solar_kuiper_belt_starmetal_ore:0, tile.contenttweaker.solar_kuiper_belt_starmetal_ore.name
-contenttweaker:solar_kuiper_belt_sulfur_ore:0, tile.contenttweaker.solar_kuiper_belt_sulfur_ore.name
-contenttweaker:solar_kuiper_belt_thoruim_ore:0, tile.contenttweaker.solar_kuiper_belt_thoruim_ore.name
-contenttweaker:solar_kuiper_belt_trinitite_ore:0, tile.contenttweaker.solar_kuiper_belt_trinitite_ore.name
-contenttweaker:solar_kuiper_belt_titan_ore:0, tile.contenttweaker.solar_kuiper_belt_titan_ore.name
-contenttweaker:solar_kuiper_belt_trixite_ore:0, tile.contenttweaker.solar_kuiper_belt_trixite_ore.name
-contenttweaker:solar_kuiper_belt_tungsten_ore:0, tile.contenttweaker.solar_kuiper_belt_tungsten_ore.name
-contenttweaker:solar_kuiper_belt_brightblende_ore:0, tile.contenttweaker.solar_kuiper_belt_brightblende_ore.name
-contenttweaker:solar_kuiper_belt_uranium_ore:0, tile.contenttweaker.solar_kuiper_belt_uranium_ore.name
-contenttweaker:solar_kuiper_belt_uranium_scorched_ore:0, tile.contenttweaker.solar_kuiper_belt_uranium_scorched_ore.name
-contenttweaker:solar_kuiper_belt_verticium_ore:0, tile.contenttweaker.solar_kuiper_belt_verticium_ore.name
-contenttweaker:solar_kuiper_belt_weidanium_ore:0, tile.contenttweaker.solar_kuiper_belt_weidanium_ore.name
-contenttweaker:solar_kuiper_belt_zirconium_ore:0, tile.contenttweaker.solar_kuiper_belt_zirconium_ore.name
 contenttweaker:_aluminium_ore:0, tile.contenttweaker._aluminium_ore.name
 contenttweaker:_asbestos_ore:0, tile.contenttweaker._asbestos_ore.name
 contenttweaker:_australium_ore:0, tile.contenttweaker._australium_ore.name
@@ -19198,56 +18875,9 @@ contenttweaker:_uranium_scorched_ore:0, tile.contenttweaker._uranium_scorched_or
 contenttweaker:_verticium_ore:0, tile.contenttweaker._verticium_ore.name
 contenttweaker:_weidanium_ore:0, tile.contenttweaker._weidanium_ore.name
 contenttweaker:_zirconium_ore:0, tile.contenttweaker._zirconium_ore.name
-contenttweaker:tau_ceti_f_aluminium_ore:0, tile.contenttweaker.tau_ceti_f_aluminium_ore.name
-contenttweaker:tau_ceti_f_asbestos_ore:0, tile.contenttweaker.tau_ceti_f_asbestos_ore.name
-contenttweaker:tau_ceti_f_australium_ore:0, tile.contenttweaker.tau_ceti_f_australium_ore.name
-contenttweaker:tau_ceti_f_beryllium_ore:0, tile.contenttweaker.tau_ceti_f_beryllium_ore.name
-contenttweaker:tau_ceti_f_borax_ore:0, tile.contenttweaker.tau_ceti_f_borax_ore.name
-contenttweaker:tau_ceti_f_cinnebar_ore:0, tile.contenttweaker.tau_ceti_f_cinnebar_ore.name
-contenttweaker:tau_ceti_f_cluster_aluminium_ore:0, tile.contenttweaker.tau_ceti_f_cluster_aluminium_ore.name
-contenttweaker:tau_ceti_f_cluster_copper_ore:0, tile.contenttweaker.tau_ceti_f_cluster_copper_ore.name
-contenttweaker:tau_ceti_f_cluster_iron_ore:0, tile.contenttweaker.tau_ceti_f_cluster_iron_ore.name
-contenttweaker:tau_ceti_f_cluster_titan_ore:0, tile.contenttweaker.tau_ceti_f_cluster_titan_ore.name
-contenttweaker:tau_ceti_f_coal_ore:0, tile.contenttweaker.tau_ceti_f_coal_ore.name
-contenttweaker:tau_ceti_f_cobalt_ore:0, tile.contenttweaker.tau_ceti_f_cobalt_ore.name
-contenttweaker:tau_ceti_f_coltan_ore:0, tile.contenttweaker.tau_ceti_f_coltan_ore.name
-contenttweaker:tau_ceti_f_copper_ore:0, tile.contenttweaker.tau_ceti_f_copper_ore.name
-contenttweaker:tau_ceti_f_diamond_ore:0, tile.contenttweaker.tau_ceti_f_diamond_ore.name
-contenttweaker:tau_ceti_f_fluorite_ore:0, tile.contenttweaker.tau_ceti_f_fluorite_ore.name
-contenttweaker:tau_ceti_f_gold_ore:0, tile.contenttweaker.tau_ceti_f_gold_ore.name
-contenttweaker:tau_ceti_f_iron_ore:0, tile.contenttweaker.tau_ceti_f_iron_ore.name
-contenttweaker:tau_ceti_f_lapis_ore:0, tile.contenttweaker.tau_ceti_f_lapis_ore.name
-contenttweaker:tau_ceti_f_lead_ore:0, tile.contenttweaker.tau_ceti_f_lead_ore.name
-contenttweaker:tau_ceti_f_lignite_ore:0, tile.contenttweaker.tau_ceti_f_lignite_ore.name
-contenttweaker:tau_ceti_f_lithium_ore:0, tile.contenttweaker.tau_ceti_f_lithium_ore.name
-contenttweaker:tau_ceti_f_neodynium_ore:0, tile.contenttweaker.tau_ceti_f_neodynium_ore.name
-contenttweaker:tau_ceti_f_nether_coal_ore:0, tile.contenttweaker.tau_ceti_f_nether_coal_ore.name
-contenttweaker:tau_ceti_f_nitan_ore:0, tile.contenttweaker.tau_ceti_f_nitan_ore.name
-contenttweaker:tau_ceti_f_niter_ore:0, tile.contenttweaker.tau_ceti_f_niter_ore.name
-contenttweaker:tau_ceti_f_plutonium_ore:0, tile.contenttweaker.tau_ceti_f_plutonium_ore.name
-contenttweaker:tau_ceti_f_rare_ore:0, tile.contenttweaker.tau_ceti_f_rare_ore.name
-contenttweaker:tau_ceti_f_red_phosphorus_ore:0, tile.contenttweaker.tau_ceti_f_red_phosphorus_ore.name
-contenttweaker:tau_ceti_f_redstone_ore:0, tile.contenttweaker.tau_ceti_f_redstone_ore.name
-contenttweaker:tau_ceti_f_reiium_ore:0, tile.contenttweaker.tau_ceti_f_reiium_ore.name
-contenttweaker:tau_ceti_f_schrabidium_ore:0, tile.contenttweaker.tau_ceti_f_schrabidium_ore.name
-contenttweaker:tau_ceti_f_smoldering_ore:0, tile.contenttweaker.tau_ceti_f_smoldering_ore.name
-contenttweaker:tau_ceti_f_starmetal_ore:0, tile.contenttweaker.tau_ceti_f_starmetal_ore.name
-contenttweaker:tau_ceti_f_sulfur_ore:0, tile.contenttweaker.tau_ceti_f_sulfur_ore.name
-contenttweaker:tau_ceti_f_thoruim_ore:0, tile.contenttweaker.tau_ceti_f_thoruim_ore.name
-contenttweaker:tau_ceti_f_trinitite_ore:0, tile.contenttweaker.tau_ceti_f_trinitite_ore.name
-contenttweaker:tau_ceti_f_titan_ore:0, tile.contenttweaker.tau_ceti_f_titan_ore.name
-contenttweaker:tau_ceti_f_trixite_ore:0, tile.contenttweaker.tau_ceti_f_trixite_ore.name
-contenttweaker:tau_ceti_f_tungsten_ore:0, tile.contenttweaker.tau_ceti_f_tungsten_ore.name
-contenttweaker:tau_ceti_f_brightblende_ore:0, tile.contenttweaker.tau_ceti_f_brightblende_ore.name
-contenttweaker:tau_ceti_f_uranium_ore:0, tile.contenttweaker.tau_ceti_f_uranium_ore.name
-contenttweaker:tau_ceti_f_uranium_scorched_ore:0, tile.contenttweaker.tau_ceti_f_uranium_scorched_ore.name
-contenttweaker:tau_ceti_f_verticium_ore:0, tile.contenttweaker.tau_ceti_f_verticium_ore.name
-contenttweaker:tau_ceti_f_weidanium_ore:0, tile.contenttweaker.tau_ceti_f_weidanium_ore.name
-contenttweaker:tau_ceti_f_zirconium_ore:0, tile.contenttweaker.tau_ceti_f_zirconium_ore.name
 firstaid:bandage, Bandage
 firstaid:plaster, Plaster
 firstaid:morphine, Morphine
-ichunutil:compact_porkchop, Compact Raw Porkchop
 brewcraft:hopsitem, Hops
 brewcraft:hopsseeditem, Hops Seed
 brewcraft:distiller, Distiller
@@ -19303,6 +18933,493 @@ brewcraft:borgiaabsintheitem, Borgia Absinthe
 brewcraft:redbeeritem, Red Beer
 brewcraft:bluebeeritem, Blue Beer
 brewcraft:malortitem, Mal§ko§rrt
+lycanitesmobs:shadowstonebrick_stairs, Shadowstone Brick Stairs
+lycanitesmobs:ashenstone_slab:0, Ashenstone Slab
+lycanitesmobs:whirlwindcharge, Whirlwind Charge
+lycanitesmobs:searing_taco, Searing Taco
+lycanitesmobs:cooked_ika_meat, Cooked Ika Meat
+lycanitesmobs:cooked_chupacabra_meat, Cooked Chupacabra Meat
+lycanitesmobs:undeadspawn:0, Spawn Undead: Wendigo
+lycanitesmobs:undeadspawn:0, Spawn Undead: Amalgalich
+lycanitesmobs:undeadspawn:0, Spawn Undead: Geist
+lycanitesmobs:undeadspawn:0, Spawn Undead: Necrovore
+lycanitesmobs:undeadspawn:0, Spawn Undead: Ghoul
+lycanitesmobs:undeadspawn:0, Spawn Undead: Cryptkeeper
+lycanitesmobs:undeadspawn:0, Spawn Undead: Reaper
+lycanitesmobs:shadowstonetile_stairs, Shadowstone Tile Stairs
+lycanitesmobs:shadowstonebrick_fence, Shadowstone Brick Fence
+lycanitesmobs:bruchaquill, Brucha Quill
+lycanitesmobs:geonachspear, Geonach Spear
+lycanitesmobs:soul_contract,  Soul Contract
+lycanitesmobs:frostweb, Frostweb
+lycanitesmobs:seashell_maki, Seashell Maki
+lycanitesmobs:impspawn:0, Spawn Imp: Gnekk
+lycanitesmobs:impspawn:0, Spawn Imp: Pixen
+lycanitesmobs:impspawn:0, Spawn Imp: Clink
+lycanitesmobs:impspawn:0, Spawn Imp: Arix
+lycanitesmobs:impspawn:0, Spawn Imp: Afrit
+lycanitesmobs:bloodsummoningstaff, Blood Summoning Staff
+lycanitesmobs:demoncrystal, Demon Crystal
+lycanitesmobs:beastspawn:0, Spawn Beast: Jabberwock
+lycanitesmobs:beastspawn:0, Spawn Beast: Wraamon
+lycanitesmobs:beastspawn:0, Spawn Beast: Barghest
+lycanitesmobs:beastspawn:0, Spawn Beast: Conba
+lycanitesmobs:beastspawn:0, Spawn Beast: Warg
+lycanitesmobs:beastspawn:0, Spawn Beast: Kobold
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka Alpha
+lycanitesmobs:beastspawn:0, Spawn Beast: Chupacabra
+lycanitesmobs:beastspawn:0, Spawn Beast: Bobeko
+lycanitesmobs:beastspawn:0, Spawn Beast: Maug
+lycanitesmobs:beastspawn:0, Spawn Beast: Dawon
+lycanitesmobs:beastspawn:0, Spawn Beast: Brucha
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka
+lycanitesmobs:beastspawn:0, Spawn Beast: Feradon
+lycanitesmobs:beastspawn:0, Spawn Beast: Epion
+lycanitesmobs:beastspawn:0, Spawn Beast: Balayang
+lycanitesmobs:soulstone_undead, Undead Soulstone
+lycanitesmobs:soulstone_imp, Imp Soulstone
+lycanitesmobs:shadowcrystal, Shadow Crystal
+lycanitesmobs:raw_joust_meat, Raw Jouste Meat
+lycanitesmobs:ashenstonetile, Ashenstone Tile
+lycanitesmobs:planttreat, Plant Treat
+lycanitesmobs:acidglobcharge, Acid Glob Charge
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Arisaur
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Thresher
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Aspid
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Khalk
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Geken
+lycanitesmobs:desertstonechiseled, Chiseled Desertstone
+lycanitesmobs:streamstonepolished, Polished Streamstone
+lycanitesmobs:saddle_elemental, Elemental Saddle
+lycanitesmobs:shadowstone_slab_double, Double Shadowstone Slab
+lycanitesmobs:dragontreat, Dragon Treat
+lycanitesmobs:astarothclaw, Astaroth Claw
+lycanitesmobs:shadowstonechiseled, Chiseled Shadowstone
+lycanitesmobs:apollyonclaw, Apollyon Claw
+lycanitesmobs:saddle_plant, Plant Saddle
+lycanitesmobs:slimetreat, Slime Treat
+lycanitesmobs:ashenstone_slab_double, Double Ashenstone Slab
+lycanitesmobs:shadowfire, Shadowfire
+lycanitesmobs:saddle_dragon, Dragon Saddle
+lycanitesmobs:bucketpoison, Poison Bucket
+lycanitesmobs:lushstone_stairs, Lushstone Stairs
+lycanitesmobs:aberrantstonebrick_slab:0, Aberrantstone Brick Slab
+lycanitesmobs:icefireballcharge, item.icefireballcharge.name
+lycanitesmobs:ashenstonebrick_stairs, Ashenstone Brick Stairs
+lycanitesmobs:quillcharge, item.quillcharge.name
+lycanitesmobs:lushstonebrick_fence, Lushstone Brick Fence
+lycanitesmobs:ashenstonepillar, Ashenstone Pillar
+lycanitesmobs:saddle_slime, Slime Saddle
+lycanitesmobs:aberrantstonebrick, Aberrantstone Brick
+lycanitesmobs:acid, tile.acid.name
+lycanitesmobs:lushstonebrick_stairs, Lushstone Brick Stairs
+lycanitesmobs:frostcloud, Frostcloud
+lycanitesmobs:streamstonetile, Streamstone Tile
+lycanitesmobs:elementaltreat, Elemental Treat
+lycanitesmobs:ironaxehead, Iron Axe Head
+lycanitesmobs:soulstone_arachnid, Arachnid Soulstone
+lycanitesmobs:aberrantstonebrick_stairs, Aberrantstone Brick Stairs
+lycanitesmobs:rabbitooze, tile.rabbitooze.name
+lycanitesmobs:shadowstone, Shadowstone
+lycanitesmobs:undeadtreat, Undead Treat
+lycanitesmobs:faeboltcharge, Faebolt Charge
+lycanitesmobs:clinkscythe, Clink Scythe
+lycanitesmobs:sharacid, tile.sharacid.name
+lycanitesmobs:lushstonebrick_slab:0, Lushstone Brick Slab
+lycanitesmobs:saddle_anthronian, Anthronian Saddle
+lycanitesmobs:ashenstonetile_slab:0, Ashenstone Tile Slab
+lycanitesmobs:ironrod, Iron Rod
+lycanitesmobs:ashenstonebrick_fence, Ashenstone Brick Fence
+lycanitesmobs:embercharge, Ember Charge
+lycanitesmobs:demontreat, Demon Treat
+lycanitesmobs:pale_soup, Pale Soup
+lycanitesmobs:cooked_yale_meat, Cooked Yale Meat
+lycanitesmobs:streamstonebrick_wall, Streamstone Brick Wall
+lycanitesmobs:wargskull, Warg Skull
+lycanitesmobs:soulstone_aquatic, Aquatic Soulstone
+lycanitesmobs:arixbrain, Arix Brain
+lycanitesmobs:imptreat, Imp Treat
+lycanitesmobs:raw_aspid_meat, Raw Aspid Meat
+lycanitesmobs:cooked_aspid_meat, Cooked Aspid Meat
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Skylus
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Herma
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Lacedon
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Roa
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Cephignis
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Silex
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abaia
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abtu
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Stryder
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Ioray
+lycanitesmobs:lifedraincharge, Life Drain Charge
+lycanitesmobs:veshoney, tile.veshoney.name
+lycanitesmobs:streamcrystal, Stream Crystal
+lycanitesmobs:shadowstone_stairs, Shadowstone Stairs
+lycanitesmobs:lushstonetile_slab:0, Lushstone Tile Slab
+lycanitesmobs:arcanelaserstormcharge, Arcane Laser Storm Charge
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Quetzodracl
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Cockatrice
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Morock
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Ignibus
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Zoataur
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Remobra
+lycanitesmobs:serpixmandible, Serpix Mandible
+lycanitesmobs:raw_concapede_meat, Raw Concapede Meat
+lycanitesmobs:cooked_joust_meat, Cooked Jouste Meat
+lycanitesmobs:ironpikejoint, Iron Pike Joint
+lycanitesmobs:aetherwavecharge, Aetherwave Charge
+lycanitesmobs:soulkey, Soulkey
+lycanitesmobs:demonstone, Demonstone
+lycanitesmobs:soulstone_dragon, Dragon Soulstone
+lycanitesmobs:aberrantstonechiseled, Chiseled Aberrantstone
+lycanitesmobs:ashenstonepolished, Polished Ashenstone
+lycanitesmobs:demonstonebrick_slab:0, Demonstone Brick Slab
+lycanitesmobs:aberrantstonetile_slab:0, Aberrantstone Tile Slab
+lycanitesmobs:ashenstone, Ashenstone
+lycanitesmobs:darklingskull, Darkling Skull
+lycanitesmobs:streamstonepillar, Streamstone Pillar
+lycanitesmobs:cherufecore, Cherufe Core
+lycanitesmobs:lacedonhead, Lacedon Head
+lycanitesmobs:saddle_reptile, Reptile Saddle
+lycanitesmobs:cleansingcrystal, Cleansing Crystal
+lycanitesmobs:soulstone_aberration, Aberration Soulstone
+lycanitesmobs:malwratheye, Malwrath Eye
+lycanitesmobs:tundracharge, Tundra Charge
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Sutiramu
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Frostweaver
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Lycosa
+lycanitesmobs:ooze, Ooze
+lycanitesmobs:demonstone_stairs, Demonstone Stairs
+lycanitesmobs:aberrantstone_slab_double, Double Aberrantstone Slab
+lycanitesmobs:soulstone_elemental, Elemental Essencestone
+lycanitesmobs:desertstonetile, Desertstone Tile
+lycanitesmobs:desertstone_slab_double, Double Desertstone Slab
+lycanitesmobs:cooked_silex_meat, Cooked Silex Meat
+lycanitesmobs:tricksterflarecharge, item.tricksterflarecharge.name
+lycanitesmobs:saddle_undead, Undead Saddle
+lycanitesmobs:cooked_cephignis_meat, Cooked Cephignis Meat
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Wildkin
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Troll
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Ettin
+lycanitesmobs:saddle_avian, Avian Saddle
+lycanitesmobs:desertstonetile_slab:0, Desertstone Tile Slab
+lycanitesmobs:desertstone_slab:0, Desertstone Slab
+lycanitesmobs:lushstonebrick_wall, Lushstone Brick Wall
+lycanitesmobs:shadowstone_slab:0, Shadowstone Slab
+lycanitesmobs:sprigganroot, Spriggan Root
+lycanitesmobs:cooked_concapede_meat, Cooked Concapede Meat
+lycanitesmobs:wintergift, Winter Gift
+lycanitesmobs:lushcrystal, Lush Crystal
+lycanitesmobs:aberrantcrystal, Aberrant Crystal
+lycanitesmobs:saddle_demon, Demon Saddle
+lycanitesmobs:wormtreat, Worm Treat
+lycanitesmobs:propolis, Propolis
+lycanitesmobs:scorchfire, Scorchfire
+lycanitesmobs:demonstonepillar, Demonstone Pillar
+lycanitesmobs:streamstonebrick_slab:0, Streamstone Brick Slab
+lycanitesmobs:demonicblastcharge, item.demonicblastcharge.name
+lycanitesmobs:wintergiftlarge, Large Winter Gift
+lycanitesmobs:naxiriseye, Naxiris Eye
+lycanitesmobs:bloodleechcharge, Bloodleech Charge
+lycanitesmobs:desertstonebrick_stairs, Desertstone Brick Stairs
+lycanitesmobs:savagesummoningstaff, Savage Summoning Staff
+lycanitesmobs:ashenstonetile_stairs, Ashenstone Tile Stairs
+lycanitesmobs:soulcubedemonic, Demonic Soulcube
+lycanitesmobs:cinderblade, Cinder Blade
+lycanitesmobs:geonachfist, Geonach Fist
+lycanitesmobs:woodenpaxel, Wooden Paxel
+lycanitesmobs:soulstone_reptile, Reptile Soulstone
+lycanitesmobs:soulstone_worm, Worm Soulstone
+lycanitesmobs:desertstonebrick_wall, Desertstone Brick Wall
+lycanitesmobs:aberrantstone_slab:0, Aberrantstone Slab
+lycanitesmobs:shadowstonepolished, Polished Shadowstone
+lycanitesmobs:frostwebcharge, Frostweb Charge
+lycanitesmobs:woodenhilt, Wooden Guard
+lycanitesmobs:shadowstonebrick, Shadowstone Brick
+lycanitesmobs:equipment, Crafted Equipment
+lycanitesmobs:soulstone_avian, Avian Soulstone
+lycanitesmobs:caecilian_ramen, Caecilian Ramen
+lycanitesmobs:insecttreat, Insect Treat
+lycanitesmobs:chaosorbcharge, Chaos Orb Charge
+lycanitesmobs:poisonraycharge, item.poisonraycharge.name
+lycanitesmobs:aquatictreat, Aquatic Treat
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Naxiris
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Trite
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Shade
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Asmodeus
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Yale
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grell
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Astaroth
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Krake
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grigori
+lycanitesmobs:spectretendril, Spectre Tendril
+lycanitesmobs:lushstone_slab_double, Double Lushstone Slab
+lycanitesmobs:soulgazer, Soulgazer
+lycanitesmobs:streamstonetile_slab:0, Streamstone Tile Slab
+lycanitesmobs:wormspawn:0, Spawn Worm: Crusk
+lycanitesmobs:wormspawn:0, Spawn Worm: Serpix
+lycanitesmobs:wormspawn:0, Spawn Worm: Ika
+lycanitesmobs:wormspawn:0, Spawn Worm: Gorger
+lycanitesmobs:demonstonetile, Demonstone Tile
+lycanitesmobs:desertstonebrick, Desertstone Brick
+lycanitesmobs:doomfireballcharge, item.doomfireballcharge.name
+lycanitesmobs:devilstarcharge, Devilstar Charge
+lycanitesmobs:shadowstonetile_slab:0, Shadowstone Tile Slab
+lycanitesmobs:eechetikarm, Eechetik Arm
+lycanitesmobs:shadowstonebrick_wall, Shadowstone Brick Wall
+lycanitesmobs:bucketmoglava, Moglava Bucket
+lycanitesmobs:streamstonechiseled, Chiseled Streamstone
+lycanitesmobs:sturdysummoningstaff, Sturdy Summoning Staff
+lycanitesmobs:lushstonetile_stairs, Lushstone Tile Stairs
+lycanitesmobs:demonstonebrick_stairs, Demonstone Brick Stairs
+lycanitesmobs:sprigganheart, Spriggan Heart
+lycanitesmobs:bansheeeye, Banshee Eye
+lycanitesmobs:saddle_beast, Beast Saddle
+lycanitesmobs:saddle_imp, Imp Saddle
+lycanitesmobs:desertstone_stairs, Desertstone Stairs
+lycanitesmobs:tropical_curry, Tropical Curry
+lycanitesmobs:conbabutt, Conba Butt
+lycanitesmobs:sylphwing, Sylph Wing
+lycanitesmobs:ashenstone_stairs, Ashenstone Stairs
+lycanitesmobs:battle_burrito, Battle Burrito
+lycanitesmobs:blood_chili, Blood Chili
+lycanitesmobs:aberrantstonebrick_wall, Aberrantstone Brick Wall
+lycanitesmobs:soulstone_demon, Demon Soulstone
+lycanitesmobs:grueclaw, Grue Claw
+lycanitesmobs:immunizer, Immunizer
+lycanitesmobs:halloweentreat, Halloween Treat
+lycanitesmobs:streamstone_slab:0, Streamstone Slab
+lycanitesmobs:saddle_insect, Insect Saddle
+lycanitesmobs:moglava, Moglava
+lycanitesmobs:lapis_fish_and_chips, Lapis Fish and Chips
+lycanitesmobs:magmacharge, Magma Charge
+lycanitesmobs:frostboltcharge, Frostbolt Charge
+lycanitesmobs:avianspawn:0, Spawn Avian: Uvaraptor
+lycanitesmobs:avianspawn:0, Spawn Avian: Roc
+lycanitesmobs:avianspawn:0, Spawn Avian: Raiko
+lycanitesmobs:avianspawn:0, Spawn Avian: Ventoraptor
+lycanitesmobs:desertstonetile_stairs, Desertstone Tile Stairs
+lycanitesmobs:afritlung, Afrit Lung
+lycanitesmobs:angeltreat, Angel Treat
+lycanitesmobs:aberrantstonebrick_fence, Aberrantstone Brick Fence
+lycanitesmobs:quickweb, Quickweb
+lycanitesmobs:remobrawing, Remobra Wing
+lycanitesmobs:desertstonebrick_fence, Desertstone Brick Fence
+lycanitesmobs:spectralboltcharge, Spectral Bolt Charge
+lycanitesmobs:doomfire, Doomfire
+lycanitesmobs:moss_pie, Moss Pie
+lycanitesmobs:uvaraptorskull, Uvaraptor Skull
+lycanitesmobs:cooked_bobeko_meat, Cooked Bobeko Meat
+lycanitesmobs:desertstonepolished, Polished Desertstone
+lycanitesmobs:summoningstaff, Summoning Staff
+lycanitesmobs:demonstonechiseled, Chiseled Demonstone
+lycanitesmobs:venomshotcharge, Venomshot Charge
+lycanitesmobs:explorers_risotto, Explorers Risotto
+lycanitesmobs:aberrantstone, Aberrantstone
+lycanitesmobs:hellfire, Hellfire
+lycanitesmobs:icefire, Icefire
+lycanitesmobs:wildkinarm, Wildkin Arm
+lycanitesmobs:poison, tile.poison.name
+lycanitesmobs:equipment_station, tile.equipment_station.name
+lycanitesmobs:boulderblastcharge, Boulder Blast Charge
+lycanitesmobs:ashenstonechiseled, Chiseled Ashenstone
+lycanitesmobs:peaks_kebab, Peaks Kebab
+lycanitesmobs:hellfireballcharge, item.hellfireballcharge.name
+lycanitesmobs:mobtoken, Mob Token
+lycanitesmobs:scorchfireballcharge, item.scorchfireballcharge.name
+lycanitesmobs:soulstone_anthronian, Anthronian Soulstone
+lycanitesmobs:wraithsigil, Wraith Sigil
+lycanitesmobs:throwingscythecharge, item.throwingscythecharge.name
+lycanitesmobs:soulcubeaberrant, Aberrant Soulcube
+lycanitesmobs:acidsplashcharge, Acid Splash Charge
+lycanitesmobs:streamstonetile_stairs, Streamstone Tile Stairs
+lycanitesmobs:aberrantstonepolished, Polished Aberrantstone
+lycanitesmobs:desertstone, Desertstone
+lycanitesmobs:zephyrcloud, Zephyr Cloud
+lycanitesmobs:sutiramustinger, Sutiramu Stinger
+lycanitesmobs:ironhilt, Iron Guard
+lycanitesmobs:lobdarklingscharge, Lob Darklings Charge
+lycanitesmobs:frostweaverleg, Frostweaver Leg
+lycanitesmobs:anthroniantreat, Anthronian Treat
+lycanitesmobs:wendigoantler, Wendigo Antler
+lycanitesmobs:epionwing, Epion Wing
+lycanitesmobs:lushstonetile, Lushstone Tile
+lycanitesmobs:desertstonepillar, Desertstone Pillar
+lycanitesmobs:raw_krake_meat, Raw Krake Meat
+lycanitesmobs:stablesummoningstaff, Stable Summoning Staff
+lycanitesmobs:demonstonebrick_wall, Demonstone Brick Wall
+lycanitesmobs:raw_yale_meat, Raw Yale Meat
+lycanitesmobs:vespidstinger, Vespid Stinger
+lycanitesmobs:argustail, Argus Tail
+lycanitesmobs:equipmentforge_lesser, Lesser Equipment Forge (Lvl 1)
+lycanitesmobs:golemtreat, Golem Treat
+lycanitesmobs:raw_pinky_meat, Raw Pinky Meat
+lycanitesmobs:cooked_pinky_meat, Cooked Pinky Meat
+lycanitesmobs:vesspoison, tile.vesspoison.name
+lycanitesmobs:soulkeyemerald, Emerald Soulkey
+lycanitesmobs:poopcharge, Poop
+lycanitesmobs:frostfire, Frostfire
+lycanitesmobs:bucketveshoney, Veshoney Bucket
+lycanitesmobs:aquapulsecharge, Aqua Pulse Charge
+lycanitesmobs:saddle_amphibian, Amphibian Saddle
+lycanitesmobs:equipmentforge_master, Master Equipment Forge (Lvl 3)
+lycanitesmobs:aberrantstonetile, Aberrantstone Tile
+lycanitesmobs:aberrantstone_stairs, Aberrantstone Stairs
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid Queen
+lycanitesmobs:insectspawn:0, Spawn Insect: Eyewig
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste Alpha
+lycanitesmobs:insectspawn:0, Spawn Insect: Gorgomite
+lycanitesmobs:insectspawn:0, Spawn Insect: Darkling
+lycanitesmobs:insectspawn:0, Spawn Insect: Ostimien
+lycanitesmobs:insectspawn:0, Spawn Insect: Calpod
+lycanitesmobs:insectspawn:0, Spawn Insect: Erepede
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede Segment
+lycanitesmobs:aberrationtreat, Aberration Treat
+lycanitesmobs:ashenstonebrick_wall, Ashenstone Brick Wall
+lycanitesmobs:ventoraptorskull, Ventoraptor Skull
+lycanitesmobs:geistliver, Geist Liver
+lycanitesmobs:cooked_krake_meat, Cooked Krake Meat
+lycanitesmobs:ioraystinger, Ioray Stinger
+lycanitesmobs:aviantreat, Avian Treat
+lycanitesmobs:streamstone, Streamstone
+lycanitesmobs:streamstonebrick_fence, Streamstone Brick Fence
+lycanitesmobs:cooked_arisaur_meat, Cooked Arisaur Meat
+lycanitesmobs:ashenstonebrick, Ashenstone Brick
+lycanitesmobs:lightballcharge, item.lightballcharge.name
+lycanitesmobs:desertstonebrick_slab:0, Desertstone Brick Slab
+lycanitesmobs:entarm, Ent Arm
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spriggan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Tremor
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Vapula
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Geonach
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Cinder
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Reiver
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Jengu
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spectre
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Banshee
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Grue
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Aegis
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Raidra
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Zephyr
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Eechetik
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wraith
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Sylph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Volcan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wisp
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Argus
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Nymph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Xaphan
+lycanitesmobs:mudshotcharge, Mudshot Charge
+lycanitesmobs:raw_ika_meat, Raw Ika Meat
+lycanitesmobs:frostyfur, Frosty Fur
+lycanitesmobs:reaperclaw, Reaper Claw
+lycanitesmobs:erepededrill, Erepede Drill
+lycanitesmobs:goldscepterhead, Gold Scepter Head
+lycanitesmobs:lushstonepillar, Lushstone Pillar
+lycanitesmobs:streamstone_slab_double, Double Streamstone Slab
+lycanitesmobs:saddle_worm, Worm Saddle
+lycanitesmobs:saddle_arachnid, Arachnid Saddle
+lycanitesmobs:raw_arisaur_meat, Raw Arisaur Meat
+lycanitesmobs:raidrablade, Raidra Blade
+lycanitesmobs:crystalshardcharge, item.crystalshardcharge.name
+lycanitesmobs:soulstone_golem, Golem Soulstone
+lycanitesmobs:primeembercharge, item.primeembercharge.name
+lycanitesmobs:bucketacid, Acid Bucket
+lycanitesmobs:soulstone, Soulstone
+lycanitesmobs:poopcloud, Poop Cloud
+lycanitesmobs:summoningpedestal, Summoning Pedestal
+lycanitesmobs:lushstonepolished, Polished Lushstone
+lycanitesmobs:raw_silex_meat, Raw Silex Meat
+lycanitesmobs:plantspawn:0, Spawn Plant: Triffid
+lycanitesmobs:plantspawn:0, Spawn Plant: Treant
+lycanitesmobs:plantspawn:0, Spawn Plant: Tpumpkyn
+lycanitesmobs:plantspawn:0, Spawn Plant: Ent
+lycanitesmobs:plantspawn:0, Spawn Plant: Shambler
+lycanitesmobs:paleo_salad, Paleo Salad
+lycanitesmobs:poisongland, Poison Gland
+lycanitesmobs:behemophethand, Behemophet Hand
+lycanitesmobs:primefire, Primefire
+lycanitesmobs:saddle_angel, Angel Saddle
+lycanitesmobs:bucketsharacid, Sharacid Bucket
+lycanitesmobs:bucketooze, Ooze Bucket
+lycanitesmobs:wraithskull, Wraith Skull
+lycanitesmobs:smitefireballcharge, Smite Fireball Charge
+lycanitesmobs:golemspawn:0, Spawn Golem: Cherufe
+lycanitesmobs:demonstone_slab:0, Demonstone Slab
+lycanitesmobs:belphegorarm, Belphegor Arm
+lycanitesmobs:woodenrod, Wooden Rod
+lycanitesmobs:ashenstonebrick_slab:0, Ashenstone Brick Slab
+lycanitesmobs:bulwark_burger, Bulwark Burger
+lycanitesmobs:poisoncloud, Poison Cloud
+lycanitesmobs:saddle_aquatic, Aquatic Saddle
+lycanitesmobs:cooked_maka_meat, Cooked Maka Meat
+lycanitesmobs:shadowstonetile, Shadowstone Tile
+lycanitesmobs:aberrantstonepillar, Aberrantstone Pillar
+lycanitesmobs:saddle_aberration, Aberration Saddle
+lycanitesmobs:amphibiantreat, Amphibian Treat
+lycanitesmobs:desertcrystal, Desert Crystal
+lycanitesmobs:arachnidtreat, Arachnid Treat
+lycanitesmobs:soulstone_plant, Plant Soulstone
+lycanitesmobs:lushstone_slab:0, Lushstone Slab
+lycanitesmobs:raw_maka_meat, Raw Maka Meat
+lycanitesmobs:demonstonebrick_fence, Demonstone Brick Fence
+lycanitesmobs:streamstone_stairs, Streamstone Stairs
+lycanitesmobs:xaphanspine, Xaphan Spine
+lycanitesmobs:beasttreat, Beast Treat
+lycanitesmobs:lushstonechiseled, Chiseled Lushstone
+lycanitesmobs:gammasphere, Gamma Sphere
+lycanitesmobs:ettinclub, Ettin Club
+lycanitesmobs:saddle_golem, Golem Saddle
+lycanitesmobs:stryderheart, Stryder Heart
+lycanitesmobs:soulcubeundead, Undead Soulcube
+lycanitesmobs:equipment_infuser, tile.equipment_infuser.name
+lycanitesmobs:demonstonetile_slab:0, Demonstone Tile Slab
+lycanitesmobs:bucketrabbitooze, Rabbitooze Bucket
+lycanitesmobs:raw_chupacabra_meat, Raw Chupacabra Meat
+lycanitesmobs:shadowstonebrick_slab:0, Shadowstone Brick Slab
+lycanitesmobs:ashencrystal, Ashen Crystal
+lycanitesmobs:soulstone_angel, Angel Soulstone
+lycanitesmobs:soulkeydiamond, Diamond Soulkey
+lycanitesmobs:lushstone, Lushstone
+lycanitesmobs:soulstone_beast, Beast Soulstone
+lycanitesmobs:shadowstonepillar, Shadowstone Pillar
+lycanitesmobs:lushstonebrick, Lushstone Brick
+lycanitesmobs:bucketvesspoison, Vesspoison Bucket
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Aglebemu
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Salamander
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Ningen
+lycanitesmobs:streamstonebrick_stairs, Streamstone Brick Stairs
+lycanitesmobs:vapulacrystal, Vapula Crystal
+lycanitesmobs:soulstone_insect, Insect Soulstone
+lycanitesmobs:reptiletreat, Reptile Treat
+lycanitesmobs:blizzardcharge, Blizzard Charge
+lycanitesmobs:raw_bobeko_meat, Raw Bobeko Meat
+lycanitesmobs:soulstone_amphibian, Amphibian Soulstone
+lycanitesmobs:demonspawn:0, Spawn Demon: Vorach
+lycanitesmobs:demonspawn:0, Spawn Demon: Behemophet
+lycanitesmobs:demonspawn:0, Spawn Demon: Belphegor
+lycanitesmobs:demonspawn:0, Spawn Demon: Kathoga
+lycanitesmobs:demonspawn:0, Spawn Demon: Apollyon
+lycanitesmobs:demonspawn:0, Spawn Demon: Malwrath
+lycanitesmobs:demonspawn:0, Spawn Demon: Rahovart
+lycanitesmobs:demonstone_slab_double, Double Demonstone Slab
+lycanitesmobs:waterjetcharge, Water Jet Charge
+lycanitesmobs:devil_lasagna, Devil Lasagna
+lycanitesmobs:aberrantstonetile_stairs, Aberrantstone Tile Stairs
+lycanitesmobs:reiverhorns, Reiver Horns
+lycanitesmobs:eyewigeye, Eyewig Eye
+lycanitesmobs:soulstone_slime, Slime Soulstone
+lycanitesmobs:equipmentforge_greater, Greater Equipment Forge (Lvl 2)
+lycanitesmobs:amber_cake, Amber Cake
+lycanitesmobs:streamstonebrick, Streamstone Brick
+lycanitesmobs:demonstonebrick, Demonstone Brick
+lycanitesmobs:veswax, Veswax
+lycanitesmobs:demonstonepolished, Polished Demonstone
+lycanitesmobs:demonstonetile_stairs, Demonstone Tile Stairs
+lycanitesmobs:ironpaxel, Iron Paxel
 warpdrive:laser, Laser
 warpdrive:chunk_loader.basic, Basic Chunk Loader
 warpdrive:chunk_loader.advanced, Advanced Chunk Loader

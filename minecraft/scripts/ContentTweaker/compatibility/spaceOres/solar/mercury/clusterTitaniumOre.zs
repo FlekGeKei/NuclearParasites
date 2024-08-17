@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterTitanOre = VanillaFactory.createBlock("_cluster_titan_ore", <blockmaterial:rock>);
+var ClusterTitanOre = VanillaFactory.createBlock("sol_mercury_cluster_titan_ore", <blockmaterial:rock>);
 
 ClusterTitanOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -15,8 +15,8 @@ difficulty:2
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Black Icons§r"]
-incompatibleResourcePacks:[]
+resourcePacks:["ctp_1.2_MCv3.zip","TZP 1.12.2_2.6.zip","Lycanites Redux - v8.0.0.zip"]
+incompatibleResourcePacks:["Lycanites Redux - v8.0.0.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -104,7 +104,6 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -112,7 +111,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -131,6 +130,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
 key_key.death_history:0
 key_cos.key.opencosarmorinventory:0
 key_keybinds.show_wounds:40
@@ -142,6 +142,15 @@ key_keybind.togglehelmet.name:0
 key_keybind.togglechest.name:0
 key_keybind.togglelegs.name:0
 key_keybind.toggleboots.name:0
+key_key.mount.dismount:46
+key_key.mount.descend:42
+key_key.mount.ability:45
+key_key.mount.inventory:0
+key_key.index:34
+key_key.beastiary:0
+key_key.pets:0
+key_key.summoning:0
+key_key.minions:19
 key_key.opendoor:46
 key_key.reload:19
 key_key.unload:22
@@ -185,13 +194,13 @@ key_key.secretroomsmod.oneWayface:43
 key_walljump.key.walljump:42
 key_key.pickup.item:0
 key_key.dismount:42
-key_key.narrator:48:CONTROL
+key_key.narrator:0
 key_smoothfont.key.guiOpen:0
 key_key.toggle_focus.desc:15
 key_key.open_wireless_terminal.desc:20:SHIFT
 key_key.open_wireless_crafting_terminal.desc:18:SHIFT
 key_key.open_wireless_pattern_terminal.desc:19:SHIFT
-key_key.open_wireless_fluid_terminal.desc:33:SHIFT
+key_key.open_wireless_fluid_terminal.desc:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -208,7 +217,7 @@ key_Options Gui:0
 key_key.clipboardPaste:210
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
-key_cyberware.keybinds.menu:19
+key_cyberware.keybinds.menu:26
 key_Dynamic Lights toggle:0
 key_invtweaks.key.sort:0
 key_Camera left:203

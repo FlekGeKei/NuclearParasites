@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var AsbestosOre = VanillaFactory.createBlock("_asbestos_ore", <blockmaterial:rock>);
+var AsbestosOre = VanillaFactory.createBlock("sol_mercury_asbestos_ore", <blockmaterial:rock>);
 
 AsbestosOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

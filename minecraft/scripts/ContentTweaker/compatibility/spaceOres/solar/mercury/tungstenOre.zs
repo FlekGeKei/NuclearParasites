@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TungstenOre = VanillaFactory.createBlock("_tungsten_ore", <blockmaterial:rock>);
+var TungstenOre = VanillaFactory.createBlock("sol_mercury_tungsten_ore", <blockmaterial:rock>);
 
 TungstenOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
