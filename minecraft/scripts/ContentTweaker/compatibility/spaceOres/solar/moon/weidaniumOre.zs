@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var WeidaniumOre = VanillaFactory.createBlock("_weidanium_ore", <blockmaterial:rock>);
+var WeidaniumOre = VanillaFactory.createBlock("sol_moon_weidanium_ore", <blockmaterial:rock>);
 
 WeidaniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

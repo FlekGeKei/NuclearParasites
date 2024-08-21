@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var TrinititeOre = VanillaFactory.createBlock("_trinitite_ore", <blockmaterial:rock>);
+var TrinititeOre = VanillaFactory.createBlock("sol_moon_trinitite_ore", <blockmaterial:rock>);
 
 TrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

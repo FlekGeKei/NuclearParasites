@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var PlutoniumOre = VanillaFactory.createBlock("_plutonium_ore", <blockmaterial:rock>);
+var PlutoniumOre = VanillaFactory.createBlock("sol_moon_plutonium_ore", <blockmaterial:rock>);
 
 PlutoniumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var NetherCoalOre = VanillaFactory.createBlock("_nether_coal_ore", <blockmaterial:rock>);
+var NetherCoalOre = VanillaFactory.createBlock("sol_moon_nether_coal_ore", <blockmaterial:rock>);
 
 NetherCoalOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

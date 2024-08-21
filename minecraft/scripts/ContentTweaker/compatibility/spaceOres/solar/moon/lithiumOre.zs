@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var LithiumOre = VanillaFactory.createBlock("_lithium_ore", <blockmaterial:rock>);
+var LithiumOre = VanillaFactory.createBlock("sol_moon_lithium_ore", <blockmaterial:rock>);
 
 LithiumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

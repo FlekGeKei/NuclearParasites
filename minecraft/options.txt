@@ -104,6 +104,8 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -111,7 +113,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -130,7 +131,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
 key_key.death_history:0
 key_cos.key.opencosarmorinventory:0
 key_keybinds.show_wounds:40
@@ -142,15 +142,6 @@ key_keybind.togglehelmet.name:0
 key_keybind.togglechest.name:0
 key_keybind.togglelegs.name:0
 key_keybind.toggleboots.name:0
-key_key.mount.dismount:46
-key_key.mount.descend:42
-key_key.mount.ability:45
-key_key.mount.inventory:0
-key_key.index:34
-key_key.beastiary:0
-key_key.pets:0
-key_key.summoning:0
-key_key.minions:19
 key_key.opendoor:46
 key_key.reload:19
 key_key.unload:22

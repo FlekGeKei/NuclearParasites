@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var RedstoneOre = VanillaFactory.createBlock("_redstone_ore", <blockmaterial:rock>);
+var RedstoneOre = VanillaFactory.createBlock("sol_moon_redstone_ore", <blockmaterial:rock>);
 
 RedstoneOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

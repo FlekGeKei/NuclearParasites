@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ClusterIronOre = VanillaFactory.createBlock("_cluster_iron_ore", <blockmaterial:rock>);
+var ClusterIronOre = VanillaFactory.createBlock("sol_moon_cluster_iron_ore", <blockmaterial:rock>);
 
 ClusterIronOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();

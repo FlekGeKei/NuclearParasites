@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Block;
 import mods.contenttweaker.DropHandler;
 
-var ThoriumOre = VanillaFactory.createBlock("_thoruim_ore", <blockmaterial:rock>);
+var ThoriumOre = VanillaFactory.createBlock("sol_moon_thoruim_ore", <blockmaterial:rock>);
 
 ThoriumOre.setDropHandler(function(drops, world, position, state, fortune){
   drops.clear();
