@@ -21,18 +21,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/yUnADFGO/%21mixinbooter-9.1.jar"
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/8PB5NZf9/%21mixinbooter-9.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1799352,
+      "fileSize": 1800887,
       "hashes": {
-        "sha1": "bbf73abfc0099e9e475f8f8303f3d5139a4a69af",
-        "sha512": "926b1d12f277942e6a900650900975b5fee6e6028f76efdde57b759a69c6bf7b75ac8be10320d69a1b159a0020d779df15cee161f74cbb16a360ccee3df66bf4"
+        "sha1": "383e01d66dc383a937370575e11bfc0b9daba74c",
+        "sha512": "11380d1d5d175379c47ad17d1af83b1e938349c6fadfa8e5c3177b41c2841a294d5a7db985a5fd44c4be0c58e0901d25c81e76f03a2b60b16c0bf00847c7b2b3"
       },
-      "path": "mods/!mixinbooter-9.1.jar"
+      "path": "mods/!mixinbooter-9.3.jar"
     },
     {
       "downloads": [
@@ -66,6 +66,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/wjgtKbab/Alfheim-1.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 69745,
+      "hashes": {
+        "sha1": "3f0db29f174b28ae23e3f72c12adb3a7cb716b8b",
+        "sha512": "81e51756ec064f4ac8bca9cde5ebffec205cecd9a399761593dfeb6d3e6937db4ad5059cdb9eb942d1b2c82fb8adf94fc0be22edc434e02f9396da1c1e3b406a"
+      },
+      "path": "mods/Alfheim-1.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/EsAfCjCV/versions/Tsz4BT2X/AppleSkin-mc1.12-1.0.14.jar"
       ],
       "env": {
@@ -81,18 +96,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/QMiSyFG6/versions/wC3I1Fqn/AsmodeusCore-1.12.2-1.0.1.jar"
+        "https://cdn.modrinth.com/data/QMiSyFG6/versions/StsdreAN/AsmodeusCore-1.12.2-1.0.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4230427,
+      "fileSize": 4203147,
       "hashes": {
-        "sha1": "292b68bf8a96f1a43e11d0cdbf482a5f46380917",
-        "sha512": "754f7160097ede4a781cd7ef83ab85ec6ff4e23e4765b960bf90e437b58741f8cf744d667769faa8e4bc1654e6eb5630dfc9b8cc91ab19922f63f9a287d33aa3"
+        "sha1": "9afb95191b687f74ae94c2603f56e16bb7373edf",
+        "sha512": "03a7e01e9f5ab367138c1b4e1cb07d134a8c9819df0f4c8a00d844eb185df4c185769b008f05216fc2d164ed16c35892cad637d41abdf125c0215be8de7ae6f5"
       },
-      "path": "mods/AsmodeusCore-1.12.2-1.0.1.jar"
+      "path": "mods/AsmodeusCore-1.12.2-1.0.2.jar"
     },
     {
       "downloads": [
@@ -231,18 +246,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/76JhFPpa/versions/nGmMoOvN/GalaxySpace-1.12.2-2.1.3.jar"
+        "https://cdn.modrinth.com/data/76JhFPpa/versions/tMKEEi62/GalaxySpace-1.12.2-2.1.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 10201448,
+      "fileSize": 10179590,
       "hashes": {
-        "sha1": "b50f1c4938951d93fc6aadc6356470e7cc583a9a",
-        "sha512": "dbe0ab49c8e99b719e6f0d4e94c5db66f257369b07fd64d1db01717062511270fac13a473b5bcd7890f1d9ae7c0889fffcbfdd32f73cd9825fc0102a8b29031d"
+        "sha1": "422de22d9cfec45b15e5d0a9b08646f64207ebad",
+        "sha512": "8097ccce7e9de4b19c7904172f23c954cb38afa6f33008f82eb75c4753530a88b03726411c8b2fbfb1b5241cccb936db302c42d8ae75b84f9a62fb2954bafefb"
       },
-      "path": "mods/GalaxySpace-1.12.2-2.1.3.jar"
+      "path": "mods/GalaxySpace-1.12.2-2.1.4.jar"
     },
     {
       "downloads": [
@@ -501,33 +516,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/3vzQ401W/XaerosWorldMap_1.38.8_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/hP5kHldJ/XaerosWorldMap_1.39.0_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 849632,
+      "fileSize": 852198,
       "hashes": {
-        "sha1": "749d5912e802aab1cbab162a9023511792d1399d",
-        "sha512": "535b53d443896f7f8249f0025bf4062ec305dbb0b447ce65e9a6ce6bec3ebd0fc6fa73aa2f1d317699d20e882b29fd2cd6484c271914a7d175d8e67dc2df5968"
+        "sha1": "8ad908298e7ac33828860f37230c33a3d7483133",
+        "sha512": "926c53aa5dcf5b5c14aee701bd6650c572ed5088de8617671ad7bfc17c877415b4d91fa34489ea1470aee55a298b4cdb0b69f34d56f47f772114d9a73c4ef372"
       },
-      "path": "mods/XaerosWorldMap_1.38.8_Forge_1.12.jar"
+      "path": "mods/XaerosWorldMap_1.39.0_Forge_1.12.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/quthv9KV/Xaeros_Minimap_24.2.0_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/qfyzTBae/Xaeros_Minimap_24.4.1_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1640395,
+      "fileSize": 1707923,
       "hashes": {
-        "sha1": "bafed63dc8b7679e2bb133d2c9ae63f5dc363d55",
-        "sha512": "00f259a4a03870d68c4309a357985609da61ee89b42920eaadfd8ccbce18347a3bc9cd93e3e4fc1dc53bd2f698ac99ee7419f4ffeed2ea549cc97193254e39db"
+        "sha1": "803200fcb006c3aa088a7c9e78d346fd1a5131e4",
+        "sha512": "314cc8d99b24a6404c9adc6b8f099dbdcf9af49d5e60a430aaf3906db3247b7268bb58bf3567232fd099eb481f1a16e6f6a34a40ff7fce104b05c487b4999b8c"
       },
-      "path": "mods/Xaeros_Minimap_24.2.0_Forge_1.12.jar"
+      "path": "mods/Xaeros_Minimap_24.4.1_Forge_1.12.jar"
     },
     {
       "downloads": [
@@ -591,18 +606,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/DVNBYe42/essential_1-3-2-8_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/5YzpHxu7/essential_1-3-4-1_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 56462443,
+      "fileSize": 57251862,
       "hashes": {
-        "sha1": "0c627ef0d8bb4f75eb873aecdad734361df460fc",
-        "sha512": "0c73b76b5c21faa5562015a8a5ea01b76a1fc11fd638dcce248c1a27c47aba1e3dc595b03b25c96b40e06fdf33d7fb1ff57568930c723424448673543fdffc53"
+        "sha1": "3aa2659cad2b95948355bdc7e6df5d3b54b480f4",
+        "sha512": "2bed66234c3e0a3ea9c3e15af79d6be730f332d742275f1afd41d7515779e2aaa1f9d6a90b4c974fda58f1cb66c9f98a9ae29415db63a2f3df6f90105ec14c94"
       },
-      "path": "mods/essential_1-3-2-8_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-4-1_forge_1-12-2.jar"
     },
     {
       "downloads": [
