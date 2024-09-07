@@ -6,7 +6,7 @@
 		  mods="galacticraftcore">
 
   <celestialObject id="Hyperspace">
-    <size x="59999968" z="59999968" />
+    <size x="2000000" z="2000000" />
     <name>Hyperspace</name>
     <description>some freaky shit</description>
     <dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
