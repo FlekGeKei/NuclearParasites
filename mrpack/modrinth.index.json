@@ -156,6 +156,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/1jDdpgcc/versions/xsjVU4lw/CarbonConfig-1.12.2-1.2.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1176455,
+      "hashes": {
+        "sha1": "5d0161aa0ff41c22517ff0f815ea9b6cb389582d",
+        "sha512": "477b07b548cffad52e704ef10999aad18fefbce6f534fc37487123e4e35e27c574e592608028cefca7c66378c3e166ca1d2b6256e8577e5c947d9bb1e0e6a105"
+      },
+      "path": "mods/CarbonConfig-1.12.2-1.2.4.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/2gq0ALnz/versions/QO8CBeNu/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
       ],
       "env": {

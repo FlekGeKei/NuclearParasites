@@ -105,14 +105,6 @@ key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
 key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -131,6 +123,14 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:0
 key_key.death_history:0
 key_cos.key.opencosarmorinventory:0
 key_keybinds.show_wounds:40
@@ -256,6 +256,7 @@ key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
 key_gui.xaero_toggle_dimension:0
+key_key.carbon_config.key:82
 key_key.entityculling.toggle:0
 key_enderio.keybind.inventory:0
 key_enderio.keybind.dsu:0

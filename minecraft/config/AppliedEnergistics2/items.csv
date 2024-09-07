@@ -10410,9 +10410,6 @@ appliedenergistics2:facade:0, Cable Facade - Burnt Wood
 appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Mushroom Stem
 appliedenergistics2:facade:0, Cable Facade - Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
-appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
@@ -10425,7 +10422,6 @@ appliedenergistics2:facade:0, Cable Facade - Barnarda C Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Sand
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Violet Log
 appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_birch_log.name
-appliedenergistics2:facade:0, Cable Facade - Barnarda C Glowing Violet Log
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Leaves
 appliedenergistics2:facade:0, Cable Facade - Coal Ore
 appliedenergistics2:facade:0, Cable Facade - Iron Ore
@@ -10440,6 +10436,9 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Dirt
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Grass
+appliedenergistics2:facade:0, Cable Facade - Tau Ceti F Stone
 appliedenergistics2:facade:0, Cable Facade - Polished Sandstone
 appliedenergistics2:facade:0, Cable Facade - Polished Stone
 appliedenergistics2:facade:0, Cable Facade - White Stained Planks
@@ -10485,13 +10484,13 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
 appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -13911,7 +13910,7 @@ galaxyspace:hydroponic_base, Hydroponic Base
 galaxyspace:hydroponic_farm, Hydroponic Farm Block
 galaxyspace:radiation_stabiliser, Magnetic Field Generator
 galaxyspace:modification_table, Modification Table
-galaxyspace:oxygen_storage_module_1, tile.oxygen_storage_module_1.name
+galaxyspace:oxygen_storage_module_1, Oxygen Storage Cluster
 galaxyspace:adv_circuit_fabricator, Advanced Circuit Fabricator
 galaxyspace:panel_controller, Mini-Panels Controller
 galaxyspace:modern_storage_module, Modern Energy Cluster
@@ -14095,7 +14094,6 @@ galaxyspace:gs_basic:35, Plastic Fan
 galaxyspace:gs_basic:36, Carbon Fan
 galaxyspace:gs_basic:37, Raw Plastic
 galaxyspace:gs_basic:38, Plastic Fragment
-galaxyspace:gs_basic:39, Gas Extractor
 galaxyspace:ingots:0, Cobalt Ingot
 galaxyspace:ingots:1, Magnesium Ingot
 galaxyspace:ingots:2, Nickel Ingot
@@ -14215,6 +14213,7 @@ galaxyspace:plasma_axe, Plasma Axe
 galaxyspace:plasma_pickaxe, Plasma Pickaxe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:100, Geological Scanner
+galaxyspace:gas_extractor:100, Gas Extractor
 galaxyspace:proxima_b_blocks:0, Surface
 galaxyspace:proxima_b_blocks:1, Subsurface
 galaxyspace:proxima_b_blocks:2, Stone
@@ -14236,28 +14235,6 @@ galaxyspace:proxima_b_mushroom_log, Mushroom Stem
 galaxyspace:proxima_b_grasses, Grass
 galaxyspace:proxima_b_dandelions:0, Red Tallgrass
 galaxyspace:proxima_b_dandelions:1, Red Tallgrass
-galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
-galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
-galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
-galaxyspace:tauceti_f_watergrass:0, Red Algae
-galaxyspace:tauceti_f_watergrass:1, Algae Base
-galaxyspace:tauceti_f_watergrass:2, Algae
-galaxyspace:tauceti_f_watergrass:3, Algae Top
-galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
-galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
-galaxyspace:tauceti_f_watergrass:6, Thick Algae
-galaxyspace:tauceti_f_watergrass:7, Small Kelp
-galaxyspace:tauceti_f_corals:0, Brain Coral
-galaxyspace:tauceti_f_corals:1, Brain Coral Fan
-galaxyspace:tauceti_f_corals:2, Bubble Coral
-galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
-galaxyspace:tauceti_f_corals:4, Fire Coral
-galaxyspace:tauceti_f_corals:5, Fire Coral Fan
-galaxyspace:tauceti_f_corals:6, Horn Coral
-galaxyspace:tauceti_f_corals:7, Horn Coral Fan
-galaxyspace:tauceti_f_corals:8, Tube Coral
-galaxyspace:tauceti_f_corals:9, Tube Coral Fan
-galaxyspace:tauceti_f_corals:10, Sponge Coral
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
@@ -14282,10 +14259,10 @@ galaxyspace:barnarda_c_dandelions:6, Barnarda C Desert Flower
 galaxyspace:barnarda_c_dandelions:8, Barnarda C Yellow Grass
 galaxyspace:barnarda_c_dandelions:12, Violet Tree Sapling
 galaxyspace:barnarda_c_dandelions:13, tile.barnarda_c_tallgrass_dark.name
-galaxyspace:barnarda_c_glow_dandelions:0, tile.barnarda_c_glow_plant_1.name
-galaxyspace:barnarda_c_glow_dandelions:1, tile.barnarda_c_glow_plant_2.name
-galaxyspace:barnarda_c_glow_dandelions:2, tile.barnarda_c_glow_plant_3.name
-galaxyspace:barnarda_c_glow_dandelions:3, tile.barnarda_c_glow_plant_4.name
+galaxyspace:barnarda_c_glow_dandelions:0, Barnarda C Glow Plant
+galaxyspace:barnarda_c_glow_dandelions:1, Barnarda C Glow Plant
+galaxyspace:barnarda_c_glow_dandelions:2, Barnarda C Glow Plant
+galaxyspace:barnarda_c_glow_dandelions:3, Barnarda C Glow Plant
 galaxyspace:barnarda_c_leaves:0, Barnarda C Leaves
 galaxyspace:barnarda_c_farmland, Barnarda C Farmland
 galaxyspace:barnarda_c_water_grass, tile.barnarda_c_water_grass.name
@@ -14302,15 +14279,66 @@ galaxyspace:barnarda_c_ores:9, Aluminum Ore
 galaxyspace:barnarda_c_ores:10, Quartz Ore
 galaxyspace:barnarda_c_ores:11, Cobalt Ore
 galaxyspace:barnarda_c_ores:12, Nickel Ore
-galaxyspace:barnarda_c_violet_trapdoor, tile.barnarda_c_violet_trapdoor.name
+galaxyspace:barnarda_c_violet_trapdoor, Barnarda C Trapdoor
 galaxyspace:br_basic:0, Violet Reeds
 galaxyspace:br_basic:1, Lichen
 galaxyspace:br_basic:2, Tree Juice
 galaxyspace:br_foods:0, Yellow Fruits
-galaxyspace:barnarda_c_violet_door, item.barnarda_c_violet_door.name
-quark:pipe, tile.pipe.name
-quark:backpack, item.backpack.name
-quark:tiny_potato, tile.tiny_potato.name
+galaxyspace:barnarda_c_violet_door, Barnarda C Door
+galaxyspace:tauceti_f_blocks:0, Tau Ceti F Dirt
+galaxyspace:tauceti_f_blocks:1, Tau Ceti F Grass
+galaxyspace:tauceti_f_blocks:2, Tau Ceti F Stone
+galaxyspace:tauceti_f_watergrass:0, Red Algae
+galaxyspace:tauceti_f_watergrass:1, Algae Base
+galaxyspace:tauceti_f_watergrass:2, Algae
+galaxyspace:tauceti_f_watergrass:3, Algae Top
+galaxyspace:tauceti_f_watergrass:4, Slime Algae Base
+galaxyspace:tauceti_f_watergrass:5, Slime Algae Top
+galaxyspace:tauceti_f_watergrass:6, Thick Algae
+galaxyspace:tauceti_f_watergrass:7, Small Kelp
+galaxyspace:tauceti_f_corals:0, Brain Coral
+galaxyspace:tauceti_f_corals:1, Brain Coral Fan
+galaxyspace:tauceti_f_corals:2, Bubble Coral
+galaxyspace:tauceti_f_corals:3, Bubble Coral Fan
+galaxyspace:tauceti_f_corals:4, Fire Coral
+galaxyspace:tauceti_f_corals:5, Fire Coral Fan
+galaxyspace:tauceti_f_corals:6, Horn Coral
+galaxyspace:tauceti_f_corals:7, Horn Coral Fan
+galaxyspace:tauceti_f_corals:8, Tube Coral
+galaxyspace:tauceti_f_corals:9, Tube Coral Fan
+galaxyspace:tauceti_f_corals:10, Sponge Coral
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -14631,56 +14659,6 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
-quark:pickarang, item.pickarang.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:witch_hat, item.witch_hat.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:roots, tile.roots.name
 quark:root, item.root.name
 quark:roots_blue_flower, tile.roots_blue_flower.name
@@ -14805,6 +14783,44 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
+quark:chute, tile.chute.name
+quark:sugar_block, tile.sugar_block.name
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:ender_watcher, tile.ender_watcher.name
+quark:iron_rod, tile.iron_rod.name
+quark:color_slime:0, Red Slime Block
+quark:color_slime:1, Blue Slime Block
+quark:color_slime:2, Cyan Slime Block
+quark:color_slime:3, Magenta Slime Block
+quark:color_slime:4, Yellow Slime Block
+quark:gravisand, tile.gravisand.name
+quark:redstone_inductor, tile.redstone_inductor.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:chain, item.chain.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:witch_hat, item.witch_hat.name
+quark:pipe, tile.pipe.name
+quark:backpack, item.backpack.name
+quark:tiny_potato, tile.tiny_potato.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -14905,23 +14921,6 @@ quark:dark_oak_button, tile.dark_oak_button.name
 quark:grate, tile.grate.name
 quark:charcoal_block, tile.charcoal_block.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:chute, tile.chute.name
-quark:sugar_block, tile.sugar_block.name
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:ender_watcher, tile.ender_watcher.name
-quark:iron_rod, tile.iron_rod.name
-quark:color_slime:0, Red Slime Block
-quark:color_slime:1, Blue Slime Block
-quark:color_slime:2, Cyan Slime Block
-quark:color_slime:3, Magenta Slime Block
-quark:color_slime:4, Yellow Slime Block
-quark:gravisand, tile.gravisand.name
-quark:redstone_inductor, tile.redstone_inductor.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
-quark:chain, item.chain.name
 champions:champion_egg, Spawn Champion
 chisel:auto_chisel, Auto Chisel
 chisel:chisel_iron, Chisel
@@ -16789,11 +16788,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16809,34 +16803,39 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:entity_detector, Entity Detector
-opensecurity:security_terminal, Security Terminal
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:data_block, Data Block
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:alarm, Alarm
-opensecurity:keypad, Keypad
-opensecurity:card_writer, Card Writer
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:energy_turret, Energy Turret
+opensecurity:card_writer, Card Writer
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:rfid_reader, RFID Reader
+opensecurity:keypad, Keypad
+opensecurity:entity_detector, Entity Detector
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:data_block, Data Block
+opensecurity:alarm, Alarm
+opensecurity:energy_turret, Energy Turret
+opensecurity:security_terminal, Security Terminal
 opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:mag_reader_camo, Camo Magnetic Card Reader
-opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:door_controller, Door Controller
-opensecurity:rolldoor, Rolldoor
 opensecurity:nanofog, NanoFog
-opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rolldoor, Rolldoor
+opensecurity:door_controller, Door Controller
+opensecurity:rolldoor_controller, Rolldoor Controller
+opensecurity:mag_reader_camo, Camo Magnetic Card Reader
+opensecurity:movement_upgrade, Movement Upgrade
 opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:rfid_card, RFID Card
 opensecurity:nanodna, NanoDNA
-opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:mag_card, Magnetic Strip Card
 opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
 portality:controller, Portal Controller
 portality:frame, Portal Frame
 portality:module_interdimensional, Interdimensional Module
