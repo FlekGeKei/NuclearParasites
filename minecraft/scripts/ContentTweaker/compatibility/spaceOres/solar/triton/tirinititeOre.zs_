@@ -1,0 +1,17 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.DropHandler;
+
+var TrinititeOre = VanillaFactory.createBlock("sol_triton_trinitite_ore", <blockmaterial:rock>);
+
+TrinititeOre.setDropHandler(function(drops, world, position, state, fortune){
+  drops.clear();
+  drops.add(<item:hbm:trinitite> % 100);
+  return;
+});
+TrinititeOre.setBlockSoundType(<soundtype:stone>);
+TrinititeOre.setToolLevel(0);
+TrinititeOre.creativeTab = <creativetab:nuclearparasites>;
+TrinititeOre.register();

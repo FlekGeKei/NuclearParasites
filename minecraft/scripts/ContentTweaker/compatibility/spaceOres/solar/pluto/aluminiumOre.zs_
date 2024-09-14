@@ -1,0 +1,17 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Block;
+import mods.contenttweaker.DropHandler;
+
+var AluminiumOre = VanillaFactory.createBlock("sol_pluto_aluminium_ore", <blockmaterial:rock>);
+
+AluminiumOre.setDropHandler(function(drops, world, position, state, fortune){
+  drops.clear();
+  drops.add(<item:hbm:ore_aluminium> % 100);
+  return;
+});
+AluminiumOre.setBlockSoundType(<soundtype:stone>);
+AluminiumOre.setToolLevel(1);
+AluminiumOre.creativeTab = <creativetab:nuclearparasites>;
+AluminiumOre.register();
