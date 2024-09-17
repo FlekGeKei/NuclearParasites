@@ -156,7 +156,7 @@ client {
     D:location_scale=1.0
 
     # Alignment on screen: TOP_LEFT, TOP_CENTER, TOP_RIGHT, MIDDLE_LEFT, MIDDLE_CENTER, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER or BOTTOM_RIGHT
-    S:location_screen_alignment=MIDDLE_RIGHT
+    S:location_screen_alignment=TOP_RIGHT
 
     # Text alignment: TOP_LEFT, TOP_CENTER, TOP_RIGHT, MIDDLE_LEFT, MIDDLE_CENTER, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER or BOTTOM_RIGHT
     S:location_text_alignment=TOP_RIGHT

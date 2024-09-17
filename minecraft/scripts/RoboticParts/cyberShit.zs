@@ -8,10 +8,10 @@ mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:3>, [<cyberware:component:7>,
 mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:eye_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:4>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:3>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:3>, [<cyberware:component:7>*6, <hbm:wire_gold>*8, <computronics:radar>, <hbm:plate_steel>, <ore:oc:cpu3>, <ore:oc:materialTransistor>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:2>, [<cyberware:component:7>*4, <hbm:wire_gold>*2, <hbm:plate_steel>, <ore:oc:apu1>, <theoneprobe:probe>, <ore:oc:materialCircuitBoardPrinted>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:1>, [<cyberware:component:7>*3, <hbm:wire_gold>*3, <ore:oc:circuitChip3>*2, <ore:oc:graphicsCard1>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades>, [<cyberware:component:7>*4, <hbm:wire_gold>*3, <hbm:plate_steel>*2, <ore:oc:circuitChip3>*3, <ore:oc:materialTransistor>*2, <ore:oc:graphicsCard1>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereyes>, [<cyberware:component:7>*8, <computronics:camera>, <ore:oc:circuitChip3>*2, <hbm:wire_gold>*3, <hbm:coil_gold_torus>, <hbm:wire_red_copper>, <ore:oc:materialTransistor>, <hbm:plate_steel>], 6); 
 mods.ntm.Anvil.addRecipe(<rewired:cranium>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
 mods.ntm.Anvil.addRecipe(<rewired:cranium:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 

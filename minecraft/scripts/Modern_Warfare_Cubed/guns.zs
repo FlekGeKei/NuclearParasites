@@ -1,4 +1,5 @@
 import mods.ntm.Assembler;
+import mods.ntm.Anvil;
 
 //RIFLEs
 mods.ntm.Assembler.addRecipe(<mwc:m4a1>, [<hbm:wire_aluminium>*2, <hbm:plate_steel>*6, <hbm:ingot_steel>*4], 30);
@@ -98,10 +99,10 @@ mods.ntm.Assembler.addRecipe(<mwc:m249>, [<hbm:wire_aluminium>*2, <hbm:plate_ste
 mods.ntm.Assembler.addRecipe(<mwc:stonera1>, [<hbm:wire_aluminium>*2, <hbm:plate_steel>*12, <hbm:ingot_steel>*6], 30);
 mods.ntm.Assembler.addRecipe(<mwc:m134>, [<hbm:wire_aluminium>*2, <hbm:plate_steel>*12, <hbm:ingot_steel>*6], 30);
 //REVOLVERs
-mods.ntm.Assembler.addRecipe(<mwc:python>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 30);
-mods.ntm.Assembler.addRecipe(<mwc:taurus_raging_hunter>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 30);
-mods.ntm.Assembler.addRecipe(<mwc:sw_500_magnum>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 30);
-mods.ntm.Assembler.addRecipe(<mwc:chiappa_rhino>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 30);
+mods.ntm.Anvil.addRecipe(<mwc:python>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 2);
+mods.ntm.Anvil.addRecipe(<mwc:taurus_raging_hunter>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 2);
+mods.ntm.Anvil.addRecipe(<mwc:sw_500_magnum>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 2);
+mods.ntm.Anvil.addRecipe(<mwc:chiappa_rhino>, [<hbm:wire_aluminium>, <hbm:plate_steel>, <hbm:ingot_steel>*3], 2);
 //SIDEARMs
 mods.ntm.Assembler.addRecipe(<mwc:aps>, [<hbm:wire_aluminium>*2, <hbm:plate_steel>*2, <hbm:ingot_steel>*1], 30);
 mods.ntm.Assembler.addRecipe(<mwc:makarov_pm>, [<hbm:wire_aluminium>*2, <hbm:plate_steel>*2, <hbm:ingot_steel>*1], 30);

@@ -8,7 +8,6 @@
   <celestialObject id="Hyperspace">
     <size x="2000000" z="2000000" />
     <name>Hyperspace</name>
-    <description>some freaky shit</description>
     <dimension id="-100" isBreathable="false" isHyperspace="true" gravity="legacyHyperspace">
       <center x="0" z="0" />
       <provider type="WarpDriveHyperspace" />
@@ -28,7 +27,6 @@
       </parent>
       <size x="700000" z="700000" />
       <name>Solar System</name>
-      <description>some freacy shit</description>
       <dimension id="-101" isBreathable="false" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
@@ -63,7 +61,6 @@
 
       <celestialObject id="mercury">
 	<name>Mercury</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="15000" z="0" />
 	</parent>
@@ -77,7 +74,6 @@
 
       <celestialObject id="venus">
 	<name>Venus</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="23630" />
 	</parent>
@@ -91,7 +87,6 @@
 
       <celestialObject id="earth">
 	<name>Earth</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-41005" z="0" />
 	</parent>
@@ -106,7 +101,6 @@
 
       <celestialObject id="moon">
 	<name>Moon</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-41005" z="25000" />
 	</parent>
@@ -120,7 +114,6 @@
 
       <celestialObject id="mars">
 	<name>Mars</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-54005" />
 	</parent>
@@ -134,7 +127,6 @@
 
       <celestialObject id="phobos">
 	<name>Phobos</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-13000" z="-54005" />
 	</parent>
@@ -147,7 +139,6 @@
 
       <celestialObject id="deimos">
 	<name>Deimeos</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="14000" z="-54005" />
 	</parent>
@@ -161,7 +152,6 @@
 
       <celestialObject id="ceres">
 	<name>Ceres</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="62205" z="0" />
 	</parent>
@@ -174,7 +164,6 @@
 
       <celestialObject id="asteroidsBelt">
 	<name>Asteroids belt</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="62205" />
 	</parent>
@@ -196,7 +185,6 @@
 
       <celestialObject id="io">
 	<name>Io</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-93205" z="30500" />
 	</parent>
@@ -209,7 +197,6 @@
 
       <celestialObject id="europa">
 	<name>Europa</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-128805" z="0" />
 	</parent>
@@ -222,7 +209,6 @@
 
       <celestialObject id="ganymede">
 	<name>Ganymede</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-93205" z="-34155" />
 	</parent>
@@ -235,7 +221,6 @@
 
       <celestialObject id="callisto">
 	<name>Callisto</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-151414" z="0" />
 	</parent>
@@ -257,7 +242,6 @@
 
       <celestialObject id="mimas">
 	<name>Mimas</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="35000" z="-172913" />
 	</parent>
@@ -272,7 +256,6 @@
 
       <celestialObject id="enceladus">
 	<name>Enceladus</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-211763" />
 	</parent>
@@ -285,7 +268,6 @@
 
       <celestialObject id="tethys">
 	<name>Tethys</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-43025" z="-172913" />
 	</parent>
@@ -300,7 +282,6 @@
 
       <celestialObject id="dione">
 	<name>Dione</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-123473" />
 	</parent>
@@ -315,7 +296,6 @@
 
       <celestialObject id="rheya">
 	<name>Rheya</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="53285" z="-172913" />
 	</parent>
@@ -330,7 +310,6 @@
 
       <celestialObject id="titan">
 	<name>Titan</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-230023" />
 	</parent>
@@ -343,7 +322,6 @@
 
       <celestialObject id="iapetus">
 	<name>Iapetus</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-61085" z="-172913" />
 	</parent>
@@ -367,7 +345,6 @@
 
       <celestialObject id="miranda">
 	<name>Miranda</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="248048" z="18000" />
 	</parent>
@@ -380,7 +357,6 @@
 
       <celestialObject id="ariel">
 	<name>Ariel</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="228298" z="0" />
 	</parent>
@@ -395,7 +371,6 @@
 
       <celestialObject id="umbriel">
 	<name>Umbriel</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="248048" z="-23725" />
 	</parent>
@@ -410,7 +385,6 @@
 
       <celestialObject id="titania">
 	<name>Titania</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="275728" z="0" />
 	</parent>
@@ -425,7 +399,6 @@
 
       <celestialObject id="oberon">
 	<name>Oberon</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="248048" z="31635" />
 	</parent>
@@ -447,7 +420,6 @@
 
       <celestialObject id="proteus">
 	<name>Proteus</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="18000" z="187408" />
 	</parent>
@@ -460,7 +432,6 @@
 
       <celestialObject id="triton">
 	<name>Triton</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-19225" z="287408" />
 	</parent>
@@ -474,7 +445,6 @@
 
       <celestialObject id="pluto">
 	<name>Pluto</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-314088" z="11000" />
 	</parent>
@@ -487,7 +457,6 @@
 
       <celestialObject id="charon">
 	<name>Charon</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-314088" z="-11000" />
 	</parent>
@@ -503,7 +472,6 @@
 
       <celestialObject id="kuiperBelt">
 	<name>Kuiper Belt</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-314088" />
 	</parent>
@@ -517,7 +485,6 @@
 
       <celestialObject id="haumea">
 	<name>Haumea</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="314088" z="0" />
 	</parent>
@@ -535,7 +502,6 @@
       </parent>
       <size x="93592" z="93592" />
       <name>Tau Ceti System</name>
-      <description>some freacy shit</description>
       <dimension id="-102" isBreathable="false" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
@@ -570,7 +536,6 @@
 
       <celestialObject id="tauCetiG">
 	<name>Tau Ceti G</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="13451" z="0" />
 	</parent>
@@ -586,7 +551,6 @@
 
       <celestialObject id="tauCetiH">
 	<name>Tau Ceti H</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="19551" />
 	</parent>
@@ -602,7 +566,6 @@
 
       <celestialObject id="tauCetiE">
 	<name>Tau Ceti E</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-25296" z="0" />
 	</parent>
@@ -618,7 +581,6 @@
 
       <celestialObject id="tauCetiF">
 	<name>Tau Ceti F</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-35746" />
 	</parent>
@@ -636,7 +598,6 @@
       </parent>
       <size x="126620" z="126620" />
       <name>Barnard's System</name>
-      <description>some freacy shit</description>
       <dimension id="-103" isBreathable="false" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
@@ -671,7 +632,6 @@
 
       <celestialObject id="barnardaB">
 	<name>Barnarda B</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="11505" z="0" />
 	</parent>
@@ -686,7 +646,6 @@
 
       <celestialObject id="barnardaBRing">
 	<name>Barnarda B Ring</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="11505" z="11355" />
 	</parent>
@@ -702,7 +661,6 @@
 
       <celestialObject id="barnardaC">
 	<name>Barnarda C</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="28510" />
 	</parent>
@@ -715,7 +673,6 @@
 
       <celestialObject id="barnardaC1">
 	<name>Barnarda </name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="17510" z="28510" />
 	</parent>
@@ -728,7 +685,6 @@
 
       <celestialObject id="barnardaC2">
 	<name>Barnarda </name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-17500" z="28510" />
 	</parent>
@@ -742,7 +698,6 @@
 
       <celestialObject id="barnardaAsteroidsBelt">
 	<name>Barnarda Asteroids Belt</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-45810" z="0" />
 	</parent>
@@ -758,7 +713,6 @@
 
       <celestialObject id="barnardaE">
 	<name>Barnarda E</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="-56910" />
 	</parent>
@@ -778,7 +732,6 @@
       </parent>
       <size x="99680" z="99680" />
       <name>Proxima Centauri System</name>
-      <description>some freacy shit</description>
       <dimension id="-104" isBreathable="false" gravity="legacySpace">
 	<center x="0" z="0" />
 	<provider type="WarpDriveSpace" />
@@ -812,7 +765,6 @@
 
       <celestialobject id="proximaD">
 	<name>Proxima D</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="11250" z="0" />
 	</parent>
@@ -827,7 +779,6 @@
 
       <celestialobject id="proximaB">
 	<name>Proxima B</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="0" z="27400" />
 	</parent>
@@ -840,7 +791,6 @@
 
       <celestialobject id="proximaC">
 	<name>Proxima C</name>
-	<description>some freaky shit</description>
 	<parent>
 	  <center x="-43395" z="0" />
 	</parent>
