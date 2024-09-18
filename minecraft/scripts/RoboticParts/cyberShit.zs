@@ -4,21 +4,21 @@ import mods.ntm.Anvil;
 mods.ntm.Anvil.addRecipe(<cyberware:component:7>, [<ore:oc:materialTransistor>*2, <hbm:wire_gold>*3, <hbm:wire_red_copper>*3], 6); 
 
 #Head
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:3>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:eye_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:4>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:eye_upgrades>, [<cyberware:component:7>*2, <hbm:wire_gold>*2, <ore:paneGlass>, <hbm:ingot_polymer>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:4>, [<cyberware:component:7>*3, <hbm:wire_gold>*4, <ore:oc:circuitChip2>*2, <ore:oc:graphicsCard2>, <hbm:plate_steel>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:3>, [<cyberware:component:7>*6, <hbm:wire_gold>*8, <computronics:radar>, <hbm:plate_steel>, <ore:oc:cpu3>, <ore:oc:materialTransistor>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:2>, [<cyberware:component:7>*4, <hbm:wire_gold>*2, <hbm:plate_steel>, <ore:oc:apu1>, <theoneprobe:probe>, <ore:oc:materialCircuitBoardPrinted>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades:1>, [<cyberware:component:7>*3, <hbm:wire_gold>*3, <ore:oc:circuitChip3>*2, <ore:oc:graphicsCard1>, <hbm:plate_steel>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereye_upgrades>, [<cyberware:component:7>*4, <hbm:wire_gold>*3, <hbm:plate_steel>*2, <ore:oc:circuitChip3>*3, <ore:oc:materialTransistor>*2, <ore:oc:graphicsCard1>], 6); 
 mods.ntm.Anvil.addRecipe(<cyberware:cybereyes>, [<cyberware:component:7>*8, <computronics:camera>, <ore:oc:circuitChip3>*2, <hbm:wire_gold>*3, <hbm:coil_gold_torus>, <hbm:wire_red_copper>, <ore:oc:materialTransistor>, <hbm:plate_steel>], 6); 
-mods.ntm.Anvil.addRecipe(<rewired:cranium>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<rewired:cranium:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:5>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:4>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
+mods.ntm.Anvil.addRecipe(<rewired:cranium>, [<cyberware:component:7>*4, <hbm:wire_gold>*3, <minecraft:ender_pearl>*3, <ore:dustEnderPearl>*6, <hbm:coil_advanced_torus>, <minecraft:hopper>, <hbm:plate_steel>], 6); 
+# mods.ntm.Anvil.addRecipe(<rewired:cranium:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>*4, <appliedenergistics2:quartz_vibrant_glass>*2, <hbm:plate_steel>*2, <hbm:iv_xp_empty>, <ore:oc:circuitChip3>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>*2, <minecraft:ender_eye>, <ore:dustEnderPearl>*3, <computronics:portable_tape_drive>, <hbm:plate_steel>, <ore:oc:circuitChip1>*2], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>*3, <hbm:plate_steel>*2, <hbm:iv_xp_empty>, <hbm:coil_advanced_torus>, <ore:oc:circuitChip3>*2], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:3>, [<cyberware:component:7>*6, <hbm:wire_gold>*4, <ore:oc:floppy>, <ore:oc:cpu2>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:4>, [<cyberware:component:7>*8, <hbm:wire_gold>*5, <ore:oc:graphicsCard1>, <ore:oc:materialTransistor>*2, <hbm:plate_steel>], 6); 
+# mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:5>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
 
 #Body
 mods.ntm.Anvil.addRecipe(<cyberware:creative_battery>, [<hbm:battery_sc_lead>, <cyberware:component:7>], 6);
