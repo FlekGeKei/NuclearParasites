@@ -22,20 +22,20 @@ mods.ntm.Anvil.addRecipe(<cyberware:brain_upgrades:4>, [<cyberware:component:7>*
 
 #Body
 mods.ntm.Anvil.addRecipe(<cyberware:creative_battery>, [<hbm:battery_sc_lead>, <cyberware:component:7>], 6);
-mods.ntm.Anvil.addRecipe(<cyberware:dense_battery>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:3>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:cyberheart>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<rewired:torso>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<rewired:torso:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:3>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lungs_upgrades:1>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
-mods.ntm.Anvil.addRecipe(<cyberware:lungs_upgrades>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:dense_battery>, [<cyberware:component:7>*4, <hbm:wire_gold>*2, <hbm:battery_lithium>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:3>, [<cyberware:component:7>*2, <hbm:wire_gold>*2, <hbm:wire_red_copper>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:2>, [<cyberware:component:7>, <hbm:wire_gold>*2, <firstaid:morphine>, <hbm:nugget_pu239>*3, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades:1>, [<cyberware:component:7>*2, <hbm:wire_gold>*3, <hbm:nugget_pu239>*3, <hbm:syringe_metal_medx>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:heart_upgrades>, [<cyberware:component:7>*2, <hbm:wire_gold>*4, <hbm:wire_red_copper>*3, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:cyberheart>, [<cyberware:component:7>*4, <hbm:wire_gold>*2, <hbm:wire_red_copper>*3, <hbm:motor>, <hbm:fluid_duct_mk2>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<rewired:torso>, [<cyberware:component:7>, <hbm:wire_gold>*2, <hbm:coil_copper_torus>, <quark:ender_watcher>, <minecraft:ender_pearl>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<rewired:torso:1>, [<cyberware:component:7>*4, <hbm:wire_gold>*3, <hbm:ingot_uranium>*3, <hbm:coil_advanced_torus>*2, <hbm:cladding_paint>, <hbm:plate_steel>*3], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:3>, [<cyberware:component:7>*5, <hbm:wire_gold>, <hbm:apple_lead2>, <hbm:syringe_metal_empty>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:2>, [<cyberware:component:7>*2, <hbm:wire_gold>*3, <hbm:battery_advanced>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades:1>, [<cyberware:component:7>*5, <hbm:wire_gold>*3, <hbm:circuit_red_copper>*2, <hbm:coil_advanced_torus>*3, <hbm:coil_advanced_alloy>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lower_organs_upgrades>, [<cyberware:component:7>*4, <hbm:wire_gold>, <hbm:gas_mask_filter>*2, <hbm:ingot_plutonium>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lungs_upgrades:1>, [<cyberware:component:7>*3, <hbm:wire_gold>*3, <hbm:gas_empty>.withTag({HbmFluidKey: {FluidName: "oxygen", Amount: 4000}}), <hbm:fluid_duct_mk2>, <hbm:plate_steel>], 6); 
+mods.ntm.Anvil.addRecipe(<cyberware:lungs_upgrades>, [<cyberware:component:7>*3, <hbm:wire_gold>*2, <hbm:gas_empty>.withTag({HbmFluidKey: {FluidName: "oxygen", Amount: 4000}}), <hbm:fluid_duct_mk2>, <hbm:plate_steel>], 6); 
 
 #Arms
 mods.ntm.Anvil.addRecipe(<rewired:necrolimb>, [<cyberware:component:7>, <hbm:wire_gold>], 6); 
