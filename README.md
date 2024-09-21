@@ -14,6 +14,10 @@ BUT you may have a brain. You can make weapons. You can defend yourself.
 
 - After installing mods by [File Director](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector#:~:text=Modrinth%20Mod%20Download-,Previews,-%3B) close modpack and start again. It will turn on mods installed by File Director and solve some performance issues and bugs.
 
+- To reload guns from NTM, you need to press Ctrl+R.
+
+- For no reasons, you can't do some actions (like dropping items) before opening inventory in new login.
+
 # SOMETHING'S
 
 Also, if I successfully compile Oculus for 1.12.2, I'll add Oculus to the modpack...
