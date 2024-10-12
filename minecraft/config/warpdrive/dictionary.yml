@@ -492,6 +492,11 @@ item_tags {
     S:"hbm:rpa_boots"=NoFallDamage
     S:"hbm:rpa_helmet"=BreathingHelmet
     S:"hbm:t45_boots"=NoFallDamage
+    S:"hbm:hazmat_helmet"=BreathingHelmet
+    S:"hbm:hazmat_helmet_red"=BreathingHelmet
+    S:"hbm:hazmat_helmet_grey"=BreathingHelmet
+    S:"hbm:hazmat_paa_helmet"=BreathingHelmet
+    S:"hbm:liquidator_helmet"=BreathingHelmet
     S:"ic2:hazmat_helmet"=BreathingHelmet
     S:"ic2:itemarmorcombinedjetpack"=FlyInSpace NoFallDamage
     S:"ic2:itemarmorhazmathelmet"=BreathingHelmet

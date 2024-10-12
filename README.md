@@ -16,7 +16,9 @@ BUT you may have a brain. You can make weapons. You can defend yourself.
 
 - To reload guns from NTM, you need to press Ctrl+R.
 
-- For no reasons, you can't do some actions (like dropping items) before opening inventory in new login.
+- For no reasons, you can't do some actions (like dropping items) before opening inventory in new login/session.
+
+- Don't even try to press F3+C, it will crush the game.
 
 # SOMETHING'S
 
