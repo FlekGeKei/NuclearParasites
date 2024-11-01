@@ -90,7 +90,7 @@ val dntTemperatureImmunity = mods.SetEffect.newSet()
 	       .setIgnoreNBT();      
 mods.SetEffect.register(dntTemperatureImmunity);
 
-val dntTemperatureImmunity = mods.SetEffect.newSet()
+val PaAHazmatSuiTemperatureImmunity = mods.SetEffect.newSet()
                .setName("PaAHazmatSuit")
                .withHead(<hbm:hazmat_paa_helmet>)
                .withChest(<hbm:hazmat_paa_plate>)
@@ -98,4 +98,4 @@ val dntTemperatureImmunity = mods.SetEffect.newSet()
                .withFeet(<hbm:hazmat_paa_boots>)
                .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
 	       .setIgnoreNBT();      
-mods.SetEffect.register(PaAHazmatSuit);
+mods.SetEffect.register(PaAHazmatSuiTemperatureImmunity);
