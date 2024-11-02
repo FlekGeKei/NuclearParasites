@@ -1,8 +1,8 @@
 {
   "packName": "NuclearParasites",
-  "localVersion": "0.1.0",
+  "localVersion": "0.1.1",
   "icon": {
-    "path": "icon.png",
+    "path": "icon-NP.png",
     "width": 64,
     "height": 64
   }
