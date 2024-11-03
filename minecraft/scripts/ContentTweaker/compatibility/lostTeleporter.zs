@@ -10,10 +10,14 @@ var lostTeleporter = VanillaFactory.createItem("lost_teleporter");
 lostTeleporter.setMaxStackSize("1");
 lostTeleporter.creativeTab = <creativetab:nuclearparasites>;
 lostTeleporter.itemRightClick = function(stack, world, player, hand) {
-  if ( world.getDimension() == 111 ) {
-    player.executeCommand("forge setdimension @s 0");
+  player.setCooldown(<contenttweaker:lost_teleporter>, 200);
+  val baseCommand as string = "forge setdimension @s ";
+  var numX = player.world.getRandom().nextInt(-100, 100);
+  var numY = player.world.getRandom().nextInt(-100, 100);
+  if ( world.getDimension() == -1 ) {
+    player.executeCommand(baseCommand + "0 " + numY + " ~ " + numX);
   } else {
-    player.executeCommand("forge setdimension @s 111");
+    player.executeCommand(baseCommand + "-1 " + numY + " ~ " + numX);
   }
   return "Pass";
 };

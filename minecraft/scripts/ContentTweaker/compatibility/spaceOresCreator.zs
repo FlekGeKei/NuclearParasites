@@ -24,4 +24,4 @@ function oreCreator(unlocalizedName as string, dropOre as IItemStack, toolLevel 
 ##Barnarda
 #C 
 
-oreCreator("barnarda_c_aluminium_ore", <item:hbm:ore_aluminium>, 1);
+# oreCreator("barnarda_c_aluminium_ore", <item:hbm:ore_aluminium>, 1);
