@@ -1,0 +1,18 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"With this item, you're able to teleport to lostcities/earth dimension (dimID: 111) from which you can access space and planets or moons (like Mars).",
+		"If you're in lostcities/earth dimension, you will be teleported to the overworld.",
+		"P.S. If you build your spaceship in \"overworld,\" \"the end,\" or \"nether\" your spaceship will not be able to access space and other celestial objects."
+	],
+	tasks: [{
+		uid: "27507332",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lost_teleporter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

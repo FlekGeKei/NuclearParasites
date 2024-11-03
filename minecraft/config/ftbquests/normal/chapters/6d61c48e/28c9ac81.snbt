@@ -6,6 +6,9 @@
 		"Get armor with temperature immunity",
 		"For example, T-45 or higher levels of armor from HBM"
 	],
+	dependencies: [
+		"b9f0fc80"
+	],
 	tasks: [{
 		uid: "a36eb848",
 		type: "checkmark"

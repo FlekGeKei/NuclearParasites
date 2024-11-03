@@ -1,7 +1,0 @@
-{
-	title: "Robotic Parts",
-	icon: "cyberware:cybereyes",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

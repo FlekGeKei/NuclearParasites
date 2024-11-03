@@ -10,7 +10,7 @@ var lostTeleporter = VanillaFactory.createItem("lost_teleporter");
 lostTeleporter.setMaxStackSize("1");
 lostTeleporter.creativeTab = <creativetab:nuclearparasites>;
 lostTeleporter.itemRightClick = function(stack, world, player, hand) {
-  player.setCooldown(<contenttweaker:lost_teleporter>, 200);
+  player.setCooldown(player.currentItem, 200);
   var baseCommand as string = "forge setdimension @s ";
   var numX = player.world.getRandom().nextInt(-100, 100);
   var numY = player.world.getRandom().nextInt(-100, 100);
