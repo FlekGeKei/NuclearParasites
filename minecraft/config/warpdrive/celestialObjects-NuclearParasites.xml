@@ -91,7 +91,7 @@
 	  <center x="-41005" z="0" />
 	</parent>
 	<size x="22500" z="22500" />
-	<dimension id="0" isBreathable="true" gravity="normal">
+	<dimension id="111" isBreathable="true" gravity="normal">
 	  <center x="0" z="0" />
 	</dimension>
 	<render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/earth.png" periodU="150" periodV="150" />
