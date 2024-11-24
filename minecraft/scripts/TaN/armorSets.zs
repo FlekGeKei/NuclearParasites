@@ -1,101 +1,25 @@
 import mods.SetEffect;
+import crafttweaker.item.IItemStack;
 
-val t45TemperatureImmunity = mods.SetEffect.newSet()
-               .setName("t45TemperatureImmunity")
-               .withHead(<hbm:t45_helmet>)
-               .withChest(<hbm:t45_plate>)
-               .withLegs(<hbm:t45_legs>)
-               .withFeet(<hbm:t45_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(t45TemperatureImmunity);
+function temperatureImmuneSet( setName as string, helmet as IItemStack, plate as IItemStack, legs as IItemStack, boots as IItemStack ) {
+  var imSet = mods.SetEffect.newSet()
+    .setName(setName + " (Temperature Immune)")
+    .withHead(helmet)
+    .withChest(plate)
+    .withLegs(legs)
+    .withFeet(boots)
+    .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
+    .setIgnoreNBT();
+  mods.SetEffect.register(imSet);
+}
 
-val t60TemperatureImmunity = mods.SetEffect.newSet()
-               .setName("t60TemperatureImmunity")
-               .withHead(<hbm:ajr_helmet>)
-               .withChest(<hbm:ajr_plate>)
-               .withLegs(<hbm:ajr_legs>)
-               .withFeet(<hbm:ajr_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(t60TemperatureImmunity);
-
-val ajroTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("ajroTemperatureImmunity")
-               .withHead(<hbm:ajro_helmet>)
-               .withChest(<hbm:ajro_plate>)
-               .withLegs(<hbm:ajro_legs>)
-               .withFeet(<hbm:ajro_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(ajroTemperatureImmunity);
-
-val hevTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("hevTemperatureImmunity")
-               .withHead(<hbm:hev_helmet>)
-               .withChest(<hbm:hev_plate>)
-               .withLegs(<hbm:hev_legs>)
-               .withFeet(<hbm:hev_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(hevTemperatureImmunity);
-
-val bjTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("bjTemperatureImmunity")
-               .withHead(<hbm:bj_helmet>)
-               .withChest(<hbm:bj_plate>)
-               .withLegs(<hbm:bj_legs>)
-               .withFeet(<hbm:bj_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(bjTemperatureImmunity);
-
-val bjJetpackTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("bjJetpackTemperatureImmunity")
-               .withHead(<hbm:bj_helmet>)
-               .withChest(<hbm:bj_plate_jetpack>)
-               .withLegs(<hbm:bj_legs>)
-               .withFeet(<hbm:bj_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(bjJetpackTemperatureImmunity);
-
-val x01TemperatureImmunity = mods.SetEffect.newSet()
-               .setName("x01TemperatureImmunity")
-               .withHead(<hbm:rpa_helmet>)
-               .withChest(<hbm:rpa_plate>)
-               .withLegs(<hbm:rpa_legs>)
-               .withFeet(<hbm:rpa_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(x01TemperatureImmunity);
-
-val fauTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("fauTemperatureImmunity")
-               .withHead(<hbm:fau_helmet>)
-               .withChest(<hbm:fau_plate>)
-               .withLegs(<hbm:fau_legs>)
-               .withFeet(<hbm:fau_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();
-mods.SetEffect.register(fauTemperatureImmunity);
-
-val dntTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("dntTemperatureImmunity")
-               .withHead(<hbm:dns_helmet>)
-               .withChest(<hbm:dns_plate>)
-               .withLegs(<hbm:dns_legs>)
-               .withFeet(<hbm:dns_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();      
-mods.SetEffect.register(dntTemperatureImmunity);
-
-val PaAHazmatSuiTemperatureImmunity = mods.SetEffect.newSet()
-               .setName("PaAHazmatSuit")
-               .withHead(<hbm:hazmat_paa_helmet>)
-               .withChest(<hbm:hazmat_paa_plate>)
-               .withLegs(<hbm:hazmat_paa_legs>)
-               .withFeet(<hbm:hazmat_paa_boots>)
-               .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
-	       .setIgnoreNBT();      
-mods.SetEffect.register(PaAHazmatSuiTemperatureImmunity);
+temperatureImmuneSet("T-45", <hbm:t45_helmet>, <hbm:t45_plate>, <hbm:t45_legs>, <hbm:t45_boots>);
+temperatureImmuneSet("T-60", <hbm:ajr_helmet>, <hbm:ajr_plate>, <hbm:ajr_legs>, <hbm:ajr_boots>);
+temperatureImmuneSet("T-60 AJR", <hbm:ajro_helmet>, <hbm:ajro_plate>, <hbm:ajro_legs>, <hbm:ajro_boots>);
+temperatureImmuneSet("HEV", <hbm:hev_helmet>, <hbm:hev_plate>, <hbm:hev_legs>, <hbm:hev_boots>);
+temperatureImmuneSet("Lunar", <hbm:bj_helmet>, <hbm:bj_plate>, <hbm:bj_legs>, <hbm:bj_boots>);
+temperatureImmuneSet("Lunar + Jetpack", <hbm:bj_helmet>, <hbm:bj_plate_jetpack>, <hbm:bj_legs>, <hbm:bj_boots>);
+temperatureImmuneSet("X-01", <hbm:rpa_helmet>, <hbm:rpa_plate>, <hbm:rpa_legs>, <hbm:rpa_boots>);
+temperatureImmuneSet("Fau", <hbm:fau_helmet>, <hbm:fau_plate>, <hbm:fau_legs>, <hbm:fau_boots>);
+temperatureImmuneSet("DNT Nano", <hbm:dns_helmet>, <hbm:dns_plate>, <hbm:dns_legs>, <hbm:dns_boots>);
+temperatureImmuneSet("PaA Hazmat Suit", <hbm:hazmat_paa_helmet>, <hbm:hazmat_paa_plate>, <hbm:hazmat_paa_legs>, <hbm:hazmat_paa_boots>);
