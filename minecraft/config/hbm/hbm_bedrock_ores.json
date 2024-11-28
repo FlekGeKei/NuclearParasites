@@ -51,6 +51,37 @@
       ]
     },
     {
+      "dimID": 111,
+      "oreRarity": 15,
+      "isWhiteList": false,
+      "bedrockOres": [
+        "oreNeodymium",
+        "oreWhiteGem",
+        "oreDenseCoal",
+        "oreQuartz",
+        "oreSteel",
+        "oreAdrite",
+        "oreCrystal",
+        "oreRedDiamond",
+        "oreMercury",
+        "oreCarbon",
+        "oreSchrabidium",
+        "orePlutonium",
+        "oreRedPhosphorus",
+        "oreRedGem",
+        "oreDesh",
+        "orePurpleDiamond",
+        "oreInfernalCoal",
+        "oreYellowDiamond",
+        "oreNitanium",
+        "oreDarkIron",
+        "oreCheese",
+        "oreBlueGem",
+        "oreGreenDiamond",
+        "oreBlueDiamond"
+      ]
+    },
+    {
       "dimID": -6,
       "oreRarity": 30,
       "isWhiteList": false,
