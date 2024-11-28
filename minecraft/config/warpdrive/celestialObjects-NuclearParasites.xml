@@ -512,11 +512,11 @@
       <skybox>
         <backgroundColor red="0.0" green="0.0" blue="0.0" />
         <boxTextures  back  ="warpdrive:textures/celestial/skybox-large_yellow/back.png"
-                bottom="warpdrive:textures/celestial/skybox-large_yellow/bottom.png"
-                front ="warpdrive:textures/celestial/skybox-large_yellow/front.png"
-                left  ="warpdrive:textures/celestial/skybox-large_yellow/left.png"
-                right ="warpdrive:textures/celestial/skybox-large_yellow/right.png"
-                top   ="warpdrive:textures/celestial/skybox-large_yellow/top.png" />
+                      bottom="warpdrive:textures/celestial/skybox-large_yellow/bottom.png"
+                      front ="warpdrive:textures/celestial/skybox-large_yellow/front.png"
+                      left  ="warpdrive:textures/celestial/skybox-large_yellow/left.png"
+                      right ="warpdrive:textures/celestial/skybox-large_yellow/right.png"
+                      top   ="warpdrive:textures/celestial/skybox-large_yellow/top.png" />
         <boxBrightness>1.0</boxBrightness>
         <starBrightnessBase>0.9</starBrightnessBase>
         <starBrightnessVanilla>0.0</starBrightnessVanilla>
@@ -608,11 +608,11 @@
       <skybox>
         <backgroundColor red="0.0" green="0.0" blue="0.0" />
         <boxTextures  back  ="warpdrive:textures/celestial/skybox-full_green_purple/back.png"
-                bottom="warpdrive:textures/celestial/skybox-full_green_purple/bottom.png"
-                front ="warpdrive:textures/celestial/skybox-full_green_purple/front.png"
-                left  ="warpdrive:textures/celestial/skybox-full_green_purple/left.png"
-                right ="warpdrive:textures/celestial/skybox-full_green_purple/right.png"
-                top   ="warpdrive:textures/celestial/skybox-full_green_purple/top.png" />
+                      bottom="warpdrive:textures/celestial/skybox-full_green_purple/bottom.png"
+                      front ="warpdrive:textures/celestial/skybox-full_green_purple/front.png"
+                      left  ="warpdrive:textures/celestial/skybox-full_green_purple/left.png"
+                      right ="warpdrive:textures/celestial/skybox-full_green_purple/right.png"
+                      top   ="warpdrive:textures/celestial/skybox-full_green_purple/top.png" />
         <boxBrightness>1.0</boxBrightness>
         <starBrightnessBase>0.9</starBrightnessBase>
         <starBrightnessVanilla>0.0</starBrightnessVanilla>
@@ -742,11 +742,11 @@
       <skybox>
         <backgroundColor red="0.0" green="0.0" blue="0.0" />
         <boxTextures  back  ="warpdrive:textures/celestial/skybox-full_blue_pink/back.png"
-                bottom="warpdrive:textures/celestial/skybox-full_blue_pink/bottom.png"
-                front ="warpdrive:textures/celestial/skybox-full_blue_pink/front.png"
-                left  ="warpdrive:textures/celestial/skybox-full_blue_pink/left.png"
-                right ="warpdrive:textures/celestial/skybox-full_blue_pink/right.png"
-                top   ="warpdrive:textures/celestial/skybox-full_blue_pink/top.png" />
+                      bottom="warpdrive:textures/celestial/skybox-full_blue_pink/bottom.png"
+                      front ="warpdrive:textures/celestial/skybox-full_blue_pink/front.png"
+                      left  ="warpdrive:textures/celestial/skybox-full_blue_pink/left.png"
+                      right ="warpdrive:textures/celestial/skybox-full_blue_pink/right.png"
+                      top   ="warpdrive:textures/celestial/skybox-full_blue_pink/top.png" />
         <boxBrightness>1.0</boxBrightness>
         <starBrightnessBase>0.9</starBrightnessBase>
         <starBrightnessVanilla>0.0</starBrightnessVanilla>
@@ -868,16 +868,17 @@
             <center x="0" z="0" />
           </parent>
           <size x="250000" z="250000" />
-          <name>Nether</name>
+          <name>The Nether</name>
           <dimension id="-1" isBreathable="true" gravity="normal">
             <center x="0" z="0" />
           </dimension>
 
-          <celestialObject id="theEnd">
+          <celestialObject id="end">
             <parent>
               <center x="0" z="0" />
             </parent>
             <size x="250000" z="250000" />
+            <name>The End</name>
             <dimension id="1" isBreathable="true" gravity="normal">
               <center x="0" z="0" />
             </dimension>

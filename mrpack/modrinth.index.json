@@ -55,7 +55,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1429429,
       "hashes": {
@@ -291,6 +291,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/2iXFLwYO/versions/EYlKeUXm/HadEnoughItems_1.12.2-4.26.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 690848,
+      "hashes": {
+        "sha1": "4e3f8aab2511779983615909692549d38fb118e7",
+        "sha512": "1f1a3f68b0b75092b183355e99935c8d8b1e4909ee5604bf41cc20b9180b7aab6e015129f745a084bc8410be3441ca61c6595e88b42fe063cd612135b8f0bfd3"
+      },
+      "path": "mods/HadEnoughItems_1.12.2-4.26.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Vnjlu1sC/versions/j9icIEF1/IdleTweaks-1.0.5.jar"
       ],
       "env": {
@@ -321,18 +336,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/i7UykFeR/versions/972ocxTt/Modern-Warfare-Cubed-0.1.8.jar"
+        "https://cdn.modrinth.com/data/i7UykFeR/versions/HVxrWgYn/Modern-Warfare-Cubed-0.1.9.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26888414,
+      "fileSize": 26889156,
       "hashes": {
-        "sha1": "d36d489c75e56381367289fb4c4a05feba277e49",
-        "sha512": "a86df0ed8ea3c5fa796233ee21eb4a329a8ebca23ced39ac6fb9ffde80e7e77bdc066701518824637491f7a163b3cdc624c34eb69cb8f3b222b298e9937cb936"
+        "sha1": "d43407afa689311d689d21690870b2eae257dcd9",
+        "sha512": "b0cac6cc13335e47dabb9b50c16ace1bc737c4c64ac3e15a5d2cff36725656eec491598916ff7bafa295b9778c83bca21906bcd24fa5dea03bc74adc7e762f39"
       },
-      "path": "mods/Modern-Warfare-Cubed-0.1.8.jar"
+      "path": "mods/Modern-Warfare-Cubed-0.1.9.jar"
     },
     {
       "downloads": [
@@ -370,7 +385,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 4912890,
       "hashes": {
@@ -475,7 +490,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 187927,
       "hashes": {
@@ -535,7 +550,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 852198,
       "hashes": {
@@ -550,7 +565,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1795556,
       "hashes": {
@@ -610,7 +625,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 41478,
       "hashes": {
@@ -621,18 +636,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Z0qiu9qT/essential_1-3-5_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/3cw2oZY7/essential_1-3-5-3_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 57487226,
+      "fileSize": 57540767,
       "hashes": {
-        "sha1": "c1dbfdd0749193b5ff82a9815c5eb3db1d012292",
-        "sha512": "dc8e3793dc3e9496c2cefcfff4358ad1949f946259f650a6059834f943ef5a07de6c2ef7829b60e36ac59b76f147e2863707b0f55bc86383f9f8a4ea89850828"
+        "sha1": "646634601697c1f346f21b7be0becca9cebc26fc",
+        "sha512": "01f573d04b6af95d33834a346b6e5cce1a545c67329d87a187a73b8e396195cd2e956ca077a8c876ed45c96ab5701f18e6bdad977765c23234131005a85916c6"
       },
-      "path": "mods/essential_1-3-5_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-3_forge_1-12-2.jar"
     },
     {
       "downloads": [
@@ -685,7 +700,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 17450,
       "hashes": {
@@ -693,6 +708,21 @@
         "sha512": "127870b83a0124988e127a43b952d994cae781d2cbf6885ec0c4daa27ec16a72a33e5bdc30f7f2cf7f962ed9ff2a4dbdd86ffcd6a4a5ed731b74523f4fa10f5d"
       },
       "path": "mods/particleculling-1.12.2-v1.4.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/EXgHWI1S/versions/uypN7bO4/portality-1.12.2-1.2.3-15.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 346779,
+      "hashes": {
+        "sha1": "5cba62b21d486c30afcb4604c656c6cbfabf1d75",
+        "sha512": "3653951f861b29eeb214a69510d7b19bf2f336163197dcaa68bd991d763503f76d8b018b70116c0a29eddfdad8e096bb7029b1880986338baeffed2a9f0ce4b8"
+      },
+      "path": "mods/portality-1.12.2-1.2.3-15.jar"
     },
     {
       "downloads": [
@@ -738,11 +768,25 @@
         "sha512": "ccf2ff0e799ea44106ae216c7752ab27f795a8b3bee212ba60ecd7bc2a5acca1e6da35e9da8f2b36968f9d2805b312bc21d68301c359690f2ba4a11b86a35474"
       },
       "path": "mods/walljump-1.12.2-1.3.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/mMTOWOaA/versions/tNXYjxK6/zombieawareness-1.12.1-1.11.16.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 285951,
+      "hashes": {
+        "sha1": "4d5f353e9dfd66b5648918ba5f8338cf936fc2f0",
+        "sha512": "628f0f951d97efd73000e556e961964519eed5facef046252291a2ff3f5f1bc2c14fbf029f45d18632a420b99e0f4401e0848575b2456b890727fb829af3d9ca"
+      },
+      "path": "mods/zombieawareness-1.12.1-1.11.16.jar"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "NuclearParasites",
-  "summary": "Zombie and Scape and Run Parasites apocalyptic Minecraft modpack",
   "versionId": "0.1.1"
 }
