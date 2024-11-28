@@ -104,6 +104,8 @@ key_Zoom:46
 key_Galaxy Map:0
 key_Open Spaceship Inventory:0
 key_Toggle Sensor Goggles Mode:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -122,8 +124,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -210,6 +210,7 @@ key_key.toggleLiquids:0
 key_key.toggleVisible:0
 key_cyberware.keybinds.menu:26
 key_Dynamic Lights toggle:0
+key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_invtweaks.key.sort:0
 key_Camera left:203
 key_Camera right:205
@@ -290,6 +291,8 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+soundCategory_ds_footsteps:1.0
+soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
