@@ -859,15 +859,19 @@
         <dimension id="0" isBreathable="true" gravity="normal">
           <center x="0" z="0" />
         </dimension>
-        <render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/earth.png" periodU="0" periodV="0" />
-        <render red="1.00" green="1.00" blue="1.00" alpha="0.35" texture="warpdrive:textures/celestial/cloud_sparse2.png" periodU="200" periodV="200" />
-        <render red="0.00" green="0.00" blue="1.00" alpha="0.25" />
+        <render red="0.70" green="0.70" blue="0.70" alpha="1.00" texture="warpdrive:textures/celestial/surface_temperate2.png" />
+        <render red="0.90" green="0.95" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_small1.png" periodU="100" periodV="1100" additive="true" />
+        <render red="0.90" green="0.90" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_medium1.png" periodU="300" periodV="1500" additive="false" />
+        <render red="0.80" green="0.70" blue="1.00" alpha="0.15" texture="warpdrive:textures/celestial/cloud_large1.png" periodU="500" periodV="2100" additive="false" />
+        <render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+        <render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
+        <render red="0.50" green="0.50" blue="1.00" alpha="0.08" />
         
         <celestialObject id="nether">
           <parent>
             <center x="0" z="0" />
           </parent>
-          <size x="250000" z="250000" />
+          <size x="2000000" z="2000000" />
           <name>The Nether</name>
           <dimension id="-1" isBreathable="true" gravity="normal">
             <center x="0" z="0" />
@@ -877,7 +881,7 @@
             <parent>
               <center x="0" z="0" />
             </parent>
-            <size x="250000" z="250000" />
+            <size x="2000000" z="2000000" />
             <name>The End</name>
             <dimension id="1" isBreathable="true" gravity="normal">
               <center x="0" z="0" />
