@@ -1,6 +1,10 @@
 {
 	x: 2.0d,
 	y: 0.0d,
+	text: [
+		"Instate of warpdriveShipCore you can use WarpOS (https://github.com/IpsumCapra/OpenComputersScripts/tree/master/WarpOS)",
+		"At least using WarpOS you don't need to restart PC after every single jump"
+	],
 	dependencies: [
 		"28c9ac81"
 	],
