@@ -3,7 +3,8 @@
 	y: 0.0d,
 	text: [
 		"Instate of warpdriveShipCore you can use WarpOS (https://github.com/IpsumCapra/OpenComputersScripts/tree/master/WarpOS)",
-		"At least using WarpOS you don't need to restart PC after every single jump"
+		"At least using WarpOS you don't need to restart PC after every single jump",
+		"after every jump srceen output of computers with OpenOS will be frozen to fix that you can just reconect your screen, MineOS isn't affected "
 	],
 	dependencies: [
 		"28c9ac81"
