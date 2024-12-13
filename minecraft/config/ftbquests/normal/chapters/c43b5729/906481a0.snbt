@@ -2,8 +2,8 @@
 	x: 15.0d,
 	y: -6.5d,
 	text: [
-		"To make it not universal you need any Fluid Identifier (for example for water or steam)",
-		"And to use right click with Fluid Identifier on pipe"
+		"You can any type of Fluid Identifier to make the pipes not universal (for example making it only water or steam)",
+		"Simply right click on any pipe you want to change with a Fluid Identifier"
 	],
 	dependencies: [
 		"e9c09e2c"
