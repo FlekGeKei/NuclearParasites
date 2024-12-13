@@ -1,5 +1,9 @@
 ![Logo](https://raw.githubusercontent.com/FlekGeKei/NuclearParasites/main/visual/logos/NP_logo_main.png)
 
+![GitHub Release](https://img.shields.io/github/v/release/FlekGeKei/NuclearParasites?style=for-the-badge&logo=github)
+![Modrinth Version](https://img.shields.io/modrinth/v/Ly6KtbHZ?style=for-the-badge&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fnuclearparasites)
+![CurseForge Version](https://img.shields.io/curseforge/v/1028258?style=for-the-badge&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fprojects%2F1028258)
+
 # INTRODUCTION
 
 You need to survive. Humanity is extinct.
