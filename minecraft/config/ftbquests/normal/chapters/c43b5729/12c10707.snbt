@@ -2,7 +2,7 @@
 	x: 17.0d,
 	y: -4.5d,
 	text: [
-		"Use this shit to finde oil "
+		"Use this item to locate oil deposits"
 	],
 	dependencies: [
 		"e9c09e2c"
