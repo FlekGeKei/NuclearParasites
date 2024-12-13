@@ -2,7 +2,7 @@
 	x: 44.5d,
 	y: 10.5d,
 	text: [
-		"just Data Card in block"
+		"just a Data Card in a block"
 	],
 	dependencies: [
 		"020acf38"
