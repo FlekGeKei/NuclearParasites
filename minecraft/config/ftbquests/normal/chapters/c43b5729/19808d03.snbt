@@ -5,7 +5,7 @@
 	y: 2.5d,
 	shape: "octagon",
 	text: [
-		"Same as \"Parasites are comming...\" quest"
+		"Same as the \"Parasites are comming...\" quest"
 	],
 	optional: true,
 	tasks: [{
