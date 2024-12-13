@@ -2,7 +2,7 @@
 	x: 23.5d,
 	y: -3.5d,
 	text: [
-		"By that, you can defuse Dud"
+		"You can defuse duds with this item"
 	],
 	dependencies: [
 		"f04eedb7"
