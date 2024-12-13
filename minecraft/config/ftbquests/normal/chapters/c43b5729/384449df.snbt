@@ -2,7 +2,7 @@
 	x: 10.5d,
 	y: -2.0d,
 	text: [
-		"right now you can make amo for your guns"
+		"Youll be able to make ammunition for guns"
 	],
 	dependencies: [
 		"ae71d7b7"
