@@ -2,7 +2,7 @@
 	x: 17.0d,
 	y: -7.0d,
 	text: [
-		"You can make it like Templates, but you don't need any resources"
+		"Its the same as templates, except you dont need any resources for it"
 	],
 	dependencies: [
 		"906481a0"
