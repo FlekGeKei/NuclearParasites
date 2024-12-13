@@ -2,7 +2,7 @@
 	x: 12.0d,
 	y: -2.0d,
 	text: [
-		"now you can make guns and other stuff like magazines and scopes"
+		"Youll be able to make guns and gun parts/attachments like magazines and scopes"
 	],
 	dependencies: [
 		"9a547e08",
