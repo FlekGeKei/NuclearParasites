@@ -8,9 +8,9 @@
 
 You need to survive. Humanity is extinct.
 
-Youll encounter countless agressive zombies which have the ability to cause major damage to everything you love. Youll need to worry about bleeding too, zombies will smell the scent of freshly cut wounds a mile away and run to you in hoards. Youll also need to let go of your preconceptions about Agressive mobs in minecraft, because the night wont be the only time where these powerful foes survive.
+You'll encounter countless aggressive zombies which have the ability to cause major damage to everything you love. You'll need to worry about bleeding too, zombies will smell the scent of freshly cut wounds a mile away and run to you in hoards. You'll also need to let go of your preconceptions about Aggressive mobs in minecraft, because the night won't be the only time when these powerful foes survive.
 
-But the zombies are not the only ones around, parasites will join this party too. In the first stages of your gameplay, they dont cause as much trouble as expected, but as the game continues, their bodies will grow and transform, eventually becoming one of the most feared enemies of any brave adventurer. [(see more here)](https://scape-and-run-parasites.fandom.com/wiki/Scape_and_Run:_Parasites_Wiki)
+But the zombies are not the only ones around, parasites will join this party too. In the first stages of your gameplay, they don't cause as much trouble as expected, but as the game continues, their bodies will grow and transform, eventually becoming one of the most feared enemies of any brave adventurer. [(see more here)](https://scape-and-run-parasites.fandom.com/wiki/Scape_and_Run:_Parasites_Wiki)
 
 Will you be the one to defeat the harsh climate and enemies of this Planet?
 
