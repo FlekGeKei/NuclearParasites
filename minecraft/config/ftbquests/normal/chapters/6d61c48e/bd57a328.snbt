@@ -2,10 +2,10 @@
 	x: -4.0d,
 	y: 0.0d,
 	text: [
-		"With this item, you're able to teleport to lostcities/earth dimension (dimID: 111) from which you can access space and planets or moons (like Mars).",
-		"If you're in lostcities/earth dimension, you will be teleported to the overworld.",
-		"P.S. If you build your spaceship in \"overworld,\" \"the end,\" or \"nether\" your spaceship will not be able to access space and other celestial objects.",
-		"P.S.S. From Overworld you can acces only Overworld orbit, Nether and The End"
+		"With this item, you're able to teleport to the lostcities/earth dimension (dimID: 111) from which you can access space, planets or moons (like Mars).",
+		"If you're in the lostcities/earth dimension, you will be teleported to the overworld.",
+		"P.S. If you build your spaceship in \"overworld,\" \"the end,\" or \"nether\" your spaceship will not be able to access space or other celestial objects.",
+		"P.S.S. You can only access Overworld orbits, Nether and The End from the Overworld"
 	],
 	tasks: [{
 		uid: "27507332",
