@@ -2,9 +2,9 @@
 	x: 14.5d,
 	y: -4.0d,
 	text: [
-		"To create Template, you need to have in inventory Paper and any Dye",
-		"Next you need to open Machine Template Folder and choose any template which you need",
-		"P.S. in the bottom of Machine Template menu, you have search bar"
+		"Use dyes and paper in order to create Templates",
+		"Open the Machine Template Folder and choose any template which you need",
+		"P.S. you can access the search bar in the bottom of the Machine Template menu"
 	],
 	dependencies: [
 		"9a547e08"
