@@ -2,9 +2,9 @@
 	x: 7.0d,
 	y: -2.0d,
 	text: [
-		"Use to see tips about blocks.",
-		"You can combine 'The One Probe' with helmets from NTM in at least Tier 1 Anvil (it will not save any upgrades, enhancments and etc.), and it will work as native helmets from The One Probe mod.",
-		"Also you can reblace Proble by Hudjack."
+		"Use this to see tips about blocks.",
+		"You can combine 'The One Probe' with helmets from NTM in at least a Tier 1 Anvil (it will not save any upgrades, enhancments etc.), and it will work as native helmets from The One Probe mod.",
+		"You can also replace probe with HudJack."
 	],
 	dependencies: [
 		"1c36f17c"
