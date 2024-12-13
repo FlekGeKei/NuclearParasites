@@ -2,7 +2,7 @@
 	x: 21.0d,
 	y: -1.5d,
 	text: [
-		"Work like boiler (only for steam turbine)"
+		"Works like a boiler (only for steam turbines)"
 	],
 	dependencies: [
 		"c1f2cc72",
