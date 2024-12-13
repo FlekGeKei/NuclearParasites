@@ -3,7 +3,7 @@
 	x: 6.0d,
 	y: -3.0d,
 	text: [
-		"You can create Modified Stamps by the using Machine Template Folder.",
+		"You can create Modified Stamps by using the Machine Template Folder.",
 		"Youll need to have Flat stamps in order to craft those items"
 	],
 	dependencies: [
