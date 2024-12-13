@@ -4,7 +4,7 @@
 	text: [
 		"you can use WarpOS (https://github.com/IpsumCapra/OpenComputersScripts/tree/master/WarpOS) instead of warpdriveShipCore",
 		"At least you dont need to reconnect the operation screens every time you use jump with WarpOS ",
-		"The in-game computer screens will be frozen (with OpenOS) each time you jump, if this happens to you, simply reconnect the cables to the screens, MineOS will not affected"
+		"The in-game computer screens will be frozen (with OpenOS) each time you jump, if this happens to you, simply reconnect the cables to the screens, MineOS will not be affected"
 	],
 	dependencies: [
 		"28c9ac81"
