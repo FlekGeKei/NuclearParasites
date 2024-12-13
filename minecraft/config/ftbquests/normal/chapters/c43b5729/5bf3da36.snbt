@@ -2,7 +2,7 @@
 	x: 22.5d,
 	y: -6.0d,
 	text: [
-		"Youll need a boiler to any kind to generate steam for the turbine (it acts as a sort of power mechanism)",
+		"Youll need a boiler of any kind to generate steam for the turbine (it acts as a sort of power mechanism)",
 		"You can configure which type of steam output the turbine will recieve with a Fluid identifier"
 	],
 	dependencies: [
