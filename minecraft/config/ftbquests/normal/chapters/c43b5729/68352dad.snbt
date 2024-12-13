@@ -19,7 +19,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any Shreder Blade"
+					Name: "Any Shredder Blade"
 				}
 			},
 			ForgeCaps: {
@@ -37,7 +37,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any Shreder Blade"
+					Name: "Any Shredder Blade"
 				}
 			},
 			ForgeCaps: {
