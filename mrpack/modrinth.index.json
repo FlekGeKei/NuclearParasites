@@ -741,6 +741,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/ObXSoyrn/versions/1.12.2-3.1.1/simple-rpc-1.12.2-3.1.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 1725290,
+      "hashes": {
+        "sha1": "b3409dcd88e602d67b3a82845acd9cc27db4f040",
+        "sha512": "b088e69df5cf91eb0c360f100f9b18f433b2126a86390155c216dab14076f062de9a554c6c5016d8f3098679f81bc7e01276b49844222a65092dab3dc5a75038"
+      },
+      "path": "mods/simple-rpc-1.12.2-3.1.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Eyw0UxEx/versions/VYorc4gX/theoneprobe-1.12-1.4.28.jar"
       ],
       "env": {
@@ -788,5 +803,5 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "NuclearParasites",
-  "versionId": "0.1.1"
+  "versionId": "0.1.2"
 }

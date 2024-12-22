@@ -82,20 +82,6 @@
       }
     },
 
-    "refresh":
-    {
-      "text": "",
-      "posX": -124,
-      "posY": 132,
-      "width": 20,
-      "height": 20,
-      "texture": "custommainmenu:textures/gui/buttons.png",
-      "action": 
-      {
-        "type": "refresh"
-      }
-    },
-
     "quit":
     {
       "text" : "menu.quit",
@@ -128,7 +114,7 @@
 
     "versions":
     {
-      "text" : "Minecraft 1.12.2\nNuclearParasites 0.1.1 (BETA)",
+      "text" : "Minecraft 1.12.2\nNuclearParasites 0.1.2 (BETA)",
       "posX" : 2,
       "posY" : -19,
       "color" : -1,
