@@ -168,7 +168,7 @@
         </parent>
         <size x="10000" z="10000" />
         <name>Asteroids belt</name>
-        <dimension id="-30" isBreathable="false" gravity="normal">
+        <dimension id="-30" isBreathable="false" gravity="legacySpace">
           <center x="0" z="0" />
         </dimension>
         <render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galacticraftcore:textures/gui/celestialbodies/asteroid.png" periodU="0" periodV="0" />
@@ -476,7 +476,7 @@
         </parent>
         <size x="10000" z="10000" />
         <name>Kuiper Belt</name>
-        <dimension id="-1009" isBreathable="false" gravity="normal">
+        <dimension id="-1009" isBreathable="false" gravity="legacySpace">
           <center x="0" z="0" />
         </dimension>
         <render red="1.00" green="1.00" blue="1.00" alpha="1.00" texture="galaxyspace:textures/gui/celestialbodies/sol/kuiperbelt.png" periodU="0" periodV="0" />
@@ -703,7 +703,7 @@
         <size x="11000" z="11000" />
         <name>Barnarda Asteroids Belt</name>
         <!--
-        <dimension id="" isBreathable="false" gravity="normal">
+        <dimension id="" isBreathable="false" gravity="legacySpace">
           <center x="0" z="0" />
         </dimension>
         -->
