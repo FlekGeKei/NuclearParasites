@@ -2,7 +2,7 @@
   "author": "FlekGeKei",
   "files": [
     {
-      "fileID": 5892019,
+      "fileID": 6061518,
       "projectID": 873867,
       "required": true
     },
@@ -12,7 +12,7 @@
       "required": true
     },
     {
-      "fileID": 5739618,
+      "fileID": 6118480,
       "projectID": 419286,
       "required": true
     },
@@ -47,7 +47,7 @@
       "required": true
     },
     {
-      "fileID": 5407778,
+      "fileID": 6058953,
       "projectID": 303101,
       "required": true
     },
@@ -212,7 +212,7 @@
       "required": true
     },
     {
-      "fileID": 5407779,
+      "fileID": 6058956,
       "projectID": 238770,
       "required": true
     },
@@ -277,7 +277,7 @@
       "required": true
     },
     {
-      "fileID": 5741939,
+      "fileID": 6057571,
       "projectID": 223008,
       "required": true
     },
@@ -367,7 +367,7 @@
       "required": true
     },
     {
-      "fileID": 5860191,
+      "fileID": 6123916,
       "projectID": 705000,
       "required": true
     },
@@ -382,12 +382,12 @@
       "required": true
     },
     {
-      "fileID": 5658210,
+      "fileID": 5987126,
       "projectID": 317780,
       "required": true
     },
     {
-      "fileID": 5862219,
+      "fileID": 6115960,
       "projectID": 263420,
       "required": true
     },
@@ -442,7 +442,7 @@
       "required": true
     },
     {
-      "fileID": 5257348,
+      "fileID": 6124959,
       "projectID": 460609,
       "required": true
     },
@@ -462,8 +462,8 @@
       "required": true
     },
     {
-      "fileID": 3366534,
-      "projectID": 283377,
+      "fileID": 5967251,
+      "projectID": 1154280,
       "required": true
     },
     {
@@ -482,7 +482,7 @@
       "required": true
     },
     {
-      "fileID": 5894761,
+      "fileID": 6116344,
       "projectID": 546670,
       "required": true
     },
@@ -597,7 +597,7 @@
       "required": true
     },
     {
-      "fileID": 5907337,
+      "fileID": 5998289,
       "projectID": 416089,
       "required": true
     },
@@ -635,5 +635,5 @@
   },
   "name": "NuclearParasites",
   "overrides": "overrides",
-  "version": "0.1.1"
+  "version": "0.1.2"
 }

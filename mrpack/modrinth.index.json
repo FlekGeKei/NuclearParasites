@@ -21,18 +21,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/GEHDdI8D/%21mixinbooter-9.4.jar"
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/LFODQuXB/%21mixinbooter-10.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1800852,
+      "fileSize": 2381236,
       "hashes": {
-        "sha1": "9b3a847aafa0f598e642c824f3764e2f1db6be1a",
-        "sha512": "ede86b1653f40eab8fe2159abd8ad914a1c5c56b794179e205cfc2f8cebfa566b8b463d47a831e0523da1d1835565941fedf570f22be745cff9a64ed7049afa4"
+        "sha1": "ee287cc1cee8c602eb6fefe0190ed3d0859ae99a",
+        "sha512": "a1c37a03d700ef60f95bff417a488080a7bb0efb20e03f4b2879f5e208bfba917f1c12e74a232e927d2c0c0ce2298ad6f5ed7365fd01bf7fe28d6f9fe72de2b4"
       },
-      "path": "mods/!mixinbooter-9.4.jar"
+      "path": "mods/!mixinbooter-10.4.jar"
     },
     {
       "downloads": [
@@ -96,18 +96,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/QMiSyFG6/versions/StsdreAN/AsmodeusCore-1.12.2-1.0.2.jar"
+        "https://cdn.modrinth.com/data/QMiSyFG6/versions/zxSDJfZQ/AsmodeusCore-1.12.2-1.0.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4203147,
+      "fileSize": 4204755,
       "hashes": {
-        "sha1": "9afb95191b687f74ae94c2603f56e16bb7373edf",
-        "sha512": "03a7e01e9f5ab367138c1b4e1cb07d134a8c9819df0f4c8a00d844eb185df4c185769b008f05216fc2d164ed16c35892cad637d41abdf125c0215be8de7ae6f5"
+        "sha1": "2995bcca8d5f2e1fa712ecbf8cfcc747a0f5823a",
+        "sha512": "47c2a1158fca173150c0c85a9df57b00538ce8086955dbe228ebd14c9a43d5b9eb685b4bec55694ca152ff6f4194b5add26e66c6ca2c4ad69e3ccd1022d056df"
       },
-      "path": "mods/AsmodeusCore-1.12.2-1.0.2.jar"
+      "path": "mods/AsmodeusCore-1.12.2-1.0.3.jar"
     },
     {
       "downloads": [
@@ -261,18 +261,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/76JhFPpa/versions/tMKEEi62/GalaxySpace-1.12.2-2.1.4.jar"
+        "https://cdn.modrinth.com/data/76JhFPpa/versions/pckaXvYD/GalaxySpace-1.12.2-2.1.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 10179590,
+      "fileSize": 10197259,
       "hashes": {
-        "sha1": "422de22d9cfec45b15e5d0a9b08646f64207ebad",
-        "sha512": "8097ccce7e9de4b19c7904172f23c954cb38afa6f33008f82eb75c4753530a88b03726411c8b2fbfb1b5241cccb936db302c42d8ae75b84f9a62fb2954bafefb"
+        "sha1": "5bc0b3bbeaaa98a6008aabb3d2bfbc36c16f5e6e",
+        "sha512": "03b921e80de4e0f7d479765c8ef83f3ff5dfa42642658b0f5f43ddf987472058ec5e7fca27d2626046db0f5ddf6848a77f67ef1cac79e63634fdc80cd1513c2e"
       },
-      "path": "mods/GalaxySpace-1.12.2-2.1.4.jar"
+      "path": "mods/GalaxySpace-1.12.2-2.1.5.jar"
     },
     {
       "downloads": [
@@ -531,48 +531,48 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s32LssQX/versions/Pb7ELn6C/UniversalTweaks-1.12.2-1.13.0.jar"
+        "https://cdn.modrinth.com/data/s32LssQX/versions/FtuwJn6k/UniversalTweaks-1.12.2-1.14.0.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1477608,
+      "fileSize": 1527305,
       "hashes": {
-        "sha1": "1645310ef714920af062f9c612d077b7a7683aad",
-        "sha512": "16f596a00ffbca9c6934d17e312611706dfe98d14b19462e9d6774e7d38bf69f3492d59658e657f5cee6616402c64c32fd357fce099267d99ee5218b44981bab"
+        "sha1": "5aba6b295a6ed66a75c0d393c537ef2cdc4206c7",
+        "sha512": "737c75a04b60702c011ee1f8bb0807da91f3f7afcac6382fc6d68a989ba6413d4f716474ca58ac4a64c7d496fbc53316b1b01023d2cdb09041854793ee780820"
       },
-      "path": "mods/UniversalTweaks-1.12.2-1.13.0.jar"
+      "path": "mods/UniversalTweaks-1.12.2-1.14.0.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/hP5kHldJ/XaerosWorldMap_1.39.0_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/jdLzoEBa/XaerosWorldMap_1.39.2_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 852198,
+      "fileSize": 854439,
       "hashes": {
-        "sha1": "8ad908298e7ac33828860f37230c33a3d7483133",
-        "sha512": "926c53aa5dcf5b5c14aee701bd6650c572ed5088de8617671ad7bfc17c877415b4d91fa34489ea1470aee55a298b4cdb0b69f34d56f47f772114d9a73c4ef372"
+        "sha1": "39b8d2cc68ed7827df3deddf68fe785cdda8c8ff",
+        "sha512": "d9fd05778d861ca79a74d2865cd5a80296762c7e6a98505a76ccd3d07cc88f440ff8eb61be17d29aa9ce0e1498f5bf6a915a35157146a260b4ee3b04eb8a7f7c"
       },
-      "path": "mods/XaerosWorldMap_1.39.0_Forge_1.12.jar"
+      "path": "mods/XaerosWorldMap_1.39.2_Forge_1.12.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/R95L0YWe/Xaeros_Minimap_24.6.1_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/j3o4UMaI/Xaeros_Minimap_25.0.0_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 1795556,
+      "fileSize": 1840908,
       "hashes": {
-        "sha1": "354d51a03b81e49a44f64c48e3e0b417db2ffce1",
-        "sha512": "91f828da7068efd404a1ea695987b7af355656ebefc8211d95ad86c080a715f9a07705d32c63d4b380e740916020ded50cf47656823c4d06aff397c955a9af57"
+        "sha1": "a2b046d13213b1759b90b25a9ae208b5289d089b",
+        "sha512": "621094c86f22a600e6e992a2ee9a01c3de9089c7aa1ef180552b07e102b8a4119c2e14d9f67e4536043102739940be760b6665db8c68bfa76530bb257714f99b"
       },
-      "path": "mods/Xaeros_Minimap_24.6.1_Forge_1.12.jar"
+      "path": "mods/Xaeros_Minimap_25.0.0_Forge_1.12.jar"
     },
     {
       "downloads": [
@@ -636,18 +636,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/3cw2oZY7/essential_1-3-5-3_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/HdaKHKQa/essential_1-3-5-6_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 57540767,
+      "fileSize": 56448980,
       "hashes": {
-        "sha1": "646634601697c1f346f21b7be0becca9cebc26fc",
-        "sha512": "01f573d04b6af95d33834a346b6e5cce1a545c67329d87a187a73b8e396195cd2e956ca077a8c876ed45c96ab5701f18e6bdad977765c23234131005a85916c6"
+        "sha1": "8e996be9fb6cc2daa7e3b583ba8005f5fa0a96e7",
+        "sha512": "843cd5a7dfec48d64116677cf60deadaeaff65a7b11dd19f27bc5df3ccfd9243d1d029142ee03244c537874a80c980a38a5c0f2620ab4d1ac0125bd53e802379"
       },
-      "path": "mods/essential_1-3-5-3_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-6_forge_1-12-2.jar"
     },
     {
       "downloads": [
