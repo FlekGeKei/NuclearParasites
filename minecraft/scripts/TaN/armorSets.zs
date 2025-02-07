@@ -8,7 +8,7 @@ function temperatureImmuneSet( setName as string, helmet as IItemStack, plate as
     .withChest(plate)
     .withLegs(legs)
     .withFeet(boots)
-    .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(200, 0))
+    .addEffect(<potion:extratan:temperature_immunity>.makePotionEffect(50, 0, true, false))
     .setIgnoreNBT();
   mods.SetEffect.register(imSet);
 }
