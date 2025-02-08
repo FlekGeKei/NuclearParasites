@@ -68,10 +68,11 @@ mods.jei.JEI.addDescription(
     <computronics:oc_parts:14>,
     <computronics:radar>,
     <computronics:tape:2>, 
+    <computronics:tape_reader>,
     <computronics:speech_box>
   ],
   [
-    "You'll never craft that shit using crafting table"
+    "You'll never craft this shit using crafting table"
   ]
 );
 
