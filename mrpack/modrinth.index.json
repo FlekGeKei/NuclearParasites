@@ -6,6 +6,21 @@
   "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 151154,
+      "hashes": {
+        "sha1": "ac72ee1e7777a3f20ace120c301fde68a3dfea23",
+        "sha512": "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7"
+      },
+      "path": "mods/!Red-Core-MC-1.8-1.12-0.6.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Bnsrfd1o/versions/Ha5RG6IC/%21configanytime-3.0.jar"
       ],
       "env": {
@@ -21,18 +36,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/LFODQuXB/%21mixinbooter-10.4.jar"
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/UGyawBq4/%21mixinbooter-10.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2381236,
+      "fileSize": 2380953,
       "hashes": {
-        "sha1": "ee287cc1cee8c602eb6fefe0190ed3d0859ae99a",
-        "sha512": "a1c37a03d700ef60f95bff417a488080a7bb0efb20e03f4b2879f5e208bfba917f1c12e74a232e927d2c0c0ce2298ad6f5ed7365fd01bf7fe28d6f9fe72de2b4"
+        "sha1": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
+        "sha512": "981276a5a40cd0197adabf01da70cc2cb17bc387e71064fbce7a5c94e49fd73bf4c4be17dc64b1206444d5ec9a54f2b604fce7721ef0aa76636ea3b4daa569d5"
       },
-      "path": "mods/!mixinbooter-10.4.jar"
+      "path": "mods/!mixinbooter-10.5.jar"
     },
     {
       "downloads": [
@@ -51,33 +66,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.12.2/3dSkinLayers-forge-mc1.12.2-1.2.0.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 1429429,
-      "hashes": {
-        "sha1": "332db9675de67c5f84b1b0e4f398b5fbe9b6ed56",
-        "sha512": "8cedce30bdcab3c1188002337254bff59fdd5fb70ae0e84a93795c778d0f9661f667b19b2e7df87c98b432e86f01d79a46ddba1190b29eab0f88bd7677d6c6af"
-      },
-      "path": "mods/3dSkinLayers-forge-mc1.12.2-1.2.0.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/srzJgOEn/versions/wjgtKbab/Alfheim-1.4.jar"
+        "https://cdn.modrinth.com/data/srzJgOEn/versions/3WwOBT2W/Alfheim-1.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 69745,
+      "fileSize": 70045,
       "hashes": {
-        "sha1": "3f0db29f174b28ae23e3f72c12adb3a7cb716b8b",
-        "sha512": "81e51756ec064f4ac8bca9cde5ebffec205cecd9a399761593dfeb6d3e6937db4ad5059cdb9eb942d1b2c82fb8adf94fc0be22edc434e02f9396da1c1e3b406a"
+        "sha1": "96d30414e0ff79cbf4144ac2771617e3a120506e",
+        "sha512": "60decf990944a3a9c17a93429955f5eff6f02a5aa145fe57399d7b6fa7e8801350ba99b374bd44a5809e20081355601ea550e09f2f8c26a4b63e3aec12e16729"
       },
-      "path": "mods/Alfheim-1.4.jar"
+      "path": "mods/Alfheim-1.5.jar"
     },
     {
       "downloads": [
@@ -201,6 +201,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/buGCYKY1/Controlling-3.0.12.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "fileSize": 28932,
+      "hashes": {
+        "sha1": "64e791db7eaf3577223a708df0325f07762bd059",
+        "sha512": "30d9457b718e40f8b196f8ed91c416f7491755ce5b8ee038bef607ca1b8b37a3f3dcba362b03cc03de241f76321b24c75b04932c800acfd59234d632d6c2e897"
+      },
+      "path": "mods/Controlling-3.0.12.2.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/oJcFXakG/versions/ObLYMdMS/EnderCore-1.12.2-0.5.78.jar"
       ],
       "env": {
@@ -291,18 +306,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/2iXFLwYO/versions/EYlKeUXm/HadEnoughItems_1.12.2-4.26.2.jar"
+        "https://cdn.modrinth.com/data/2iXFLwYO/versions/60CPAKkL/HadEnoughItems_1.12.2-4.27.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 690848,
+      "fileSize": 693026,
       "hashes": {
-        "sha1": "4e3f8aab2511779983615909692549d38fb118e7",
-        "sha512": "1f1a3f68b0b75092b183355e99935c8d8b1e4909ee5604bf41cc20b9180b7aab6e015129f745a084bc8410be3441ca61c6595e88b42fe063cd612135b8f0bfd3"
+        "sha1": "472fe04559447ecb4e0403fffc095a49c8f0747a",
+        "sha512": "529a4ddaa5291f99a12ef578824136ac7d9bfd78e6eeeddf5e1c3f24b308511429537c7b6fcfaebb1573b1f6926eb7ed182a0e04958958a482a72f2bdd72e992"
       },
-      "path": "mods/HadEnoughItems_1.12.2-4.26.2.jar"
+      "path": "mods/HadEnoughItems_1.12.2-4.27.3.jar"
     },
     {
       "downloads": [
@@ -546,18 +561,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/jdLzoEBa/XaerosWorldMap_1.39.2_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/fSSROMkn/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 854439,
+      "fileSize": 1823741,
       "hashes": {
-        "sha1": "39b8d2cc68ed7827df3deddf68fe785cdda8c8ff",
-        "sha512": "d9fd05778d861ca79a74d2865cd5a80296762c7e6a98505a76ccd3d07cc88f440ff8eb61be17d29aa9ce0e1498f5bf6a915a35157146a260b4ee3b04eb8a7f7c"
+        "sha1": "17cc6ec06c096104136907e8b78afd8cea06444d",
+        "sha512": "8eb9857104f1eb69295c4f7675530814f9bf4f488522c2430d8fd456a04705efa5743c2add7eb0abf679702aba66d1a6242c58dc9cdc763e62a142669f0283af"
       },
-      "path": "mods/XaerosWorldMap_1.39.2_Forge_1.12.jar"
+      "path": "mods/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
     },
     {
       "downloads": [
@@ -636,18 +651,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/HdaKHKQa/essential_1-3-5-6_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Pa7idGmD/essential_1-3-5-7_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 56448980,
+      "fileSize": 56568804,
       "hashes": {
-        "sha1": "8e996be9fb6cc2daa7e3b583ba8005f5fa0a96e7",
-        "sha512": "843cd5a7dfec48d64116677cf60deadaeaff65a7b11dd19f27bc5df3ccfd9243d1d029142ee03244c537874a80c980a38a5c0f2620ab4d1ac0125bd53e802379"
+        "sha1": "18c9e4012440c55b8eb371de02b390390aad7ff0",
+        "sha512": "862ec5706b47510b74ad0ed3a9144e82bd9fb7719db5a77e93874227c87caf0fe267141ffaa0e4bf82a6139611d1049672c0dfb31bab1c2d2f5d29ef34af152f"
       },
-      "path": "mods/essential_1-3-5-6_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-7_forge_1-12-2.jar"
     },
     {
       "downloads": [
