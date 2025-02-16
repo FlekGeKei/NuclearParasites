@@ -111,6 +111,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/G6VHtQr4/versions/MBAqDWxZ/Atlas-Lib-1.12.2-1.1.5a.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 111253,
+      "hashes": {
+        "sha1": "7e079dd8e533b402e718f6680d68a9ec409737c9",
+        "sha512": "24aec83be1398c6d1c4ecfac55230bc869458107a8b313aa29beba3a26921395e8d18767d14a1ca353313501d3b8cd7ad30ad795951c7ed276706cf4edb9d868"
+      },
+      "path": "mods/Atlas-Lib-1.12.2-1.1.5a.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/NvZ9ZhwE/versions/FgbUBupA/AutoRegLib-1.3-32.jar"
       ],
       "env": {
@@ -471,6 +486,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/sDhbZgv7/versions/ukwgE3i4/RoughlyEnoughIDs-2.2.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 773378,
+      "hashes": {
+        "sha1": "1b0e8d32e482398bc878c5341dc5e06faacec9df",
+        "sha512": "ce732a0d708fbc5ae24b1b6e83f8d1911822032acf2f59a47948b97ce79643045f5f224b1b4713569f4863b21949cf954ebf5c7de1812f5e27594ea75e33dc04"
+      },
+      "path": "mods/RoughlyEnoughIDs-2.2.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/MJX7HTHx/versions/sGgSorId/SRParasites-1.12.2v1.9.21.jar"
       ],
       "env": {
@@ -528,6 +558,21 @@
         "sha512": "5c9511c1e4cd1f0c6d58c9c073070687b1dceda7384da05b9070762f7040380d75e110b9c735ffa19ddaf57b640304bb16e8b5dd9d9913807ed56b50e7c33376"
       },
       "path": "mods/SilentLib-1.12.2-3.0.14+168.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/O3HDffUR/versions/D56qjibb/The-Hordes-1.12.2-1.5.3a.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 1219846,
+      "hashes": {
+        "sha1": "bc90c9b9ea549b6cc6c0bd60d1cf8e568325fc58",
+        "sha512": "351e5c55bfe61b2e5738220d5a819ceac7fbdba6870d1c9ac0255e1b22419980d750be168de7beba78d5b1c3bfaa020a3932ce05fc7d7eeea0598e3d99e8f5a5"
+      },
+      "path": "mods/The-Hordes-1.12.2-1.5.3a.jar"
     },
     {
       "downloads": [
@@ -771,18 +816,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Eyw0UxEx/versions/VYorc4gX/theoneprobe-1.12-1.4.28.jar"
+        "https://cdn.modrinth.com/data/Pw6vHeGo/versions/m9hw6WZ6/theonesmeagle-1.12-1.0.5.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 301893,
+      "fileSize": 342919,
       "hashes": {
-        "sha1": "d5b5be5d5d54de5ed35c96131118c411a51129bc",
-        "sha512": "e45eb5112cbdd790cb627153fc16a1720868cbb34712b3df00253d81a6f4960a3b8fc8ae7418f90451e04607ea83fefc182231d090608eda576f4d896461041c"
+        "sha1": "8a441cb65eca80e7c493dced45d32616e831a8c6",
+        "sha512": "a25733494eb5425276b0d337cf69c7344a24b13ca3eec24dda6eabd5d3aa1485b49ff282a9e534d7e607e0ed05068aff8218d1c206194daaff5e8080bf751b1a"
       },
-      "path": "mods/theoneprobe-1.12-1.4.28.jar"
+      "path": "mods/theonesmeagle-1.12-1.0.5.jar"
     },
     {
       "downloads": [
