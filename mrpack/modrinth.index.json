@@ -621,18 +621,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/j3o4UMaI/Xaeros_Minimap_25.0.0_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/jdLzoEBa/XaerosWorldMap_1.39.2_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1840908,
+      "fileSize": 854439,
       "hashes": {
-        "sha1": "a2b046d13213b1759b90b25a9ae208b5289d089b",
-        "sha512": "621094c86f22a600e6e992a2ee9a01c3de9089c7aa1ef180552b07e102b8a4119c2e14d9f67e4536043102739940be760b6665db8c68bfa76530bb257714f99b"
+        "sha1": "39b8d2cc68ed7827df3deddf68fe785cdda8c8ff",
+        "sha512": "d9fd05778d861ca79a74d2865cd5a80296762c7e6a98505a76ccd3d07cc88f440ff8eb61be17d29aa9ce0e1498f5bf6a915a35157146a260b4ee3b04eb8a7f7c"
       },
-      "path": "mods/Xaeros_Minimap_25.0.0_Forge_1.12.jar"
+      "path": "mods/XaerosWorldMap_1.39.2_Forge_1.12.jar"
     },
     {
       "downloads": [
