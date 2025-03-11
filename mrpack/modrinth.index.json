@@ -276,18 +276,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+        "https://cdn.modrinth.com/data/vVXPbodS/versions/aOPcSBT2/Fluidlogged-API-v3.0.4-mc1.12.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 368548,
+      "fileSize": 734122,
       "hashes": {
-        "sha1": "dccbe188518534bd73bd2ecc234c6e31224f1ab9",
-        "sha512": "f00737e693164eaae423739086ae3735cc4a21481837f70656e10511efbe866087674a5af9369146ebe56843dbfbcce6377b70d3fc9d9944fdc782e98842ad6e"
+        "sha1": "ef46269f522d3cd8f2c8c624e771c00c05a601f4",
+        "sha512": "a373cf77c8f33e5c86bc15e9cf4b5435646b7f5d1ec5c2a2e382bca1ffc2f35abf3f419b23a21453235f1895961515457e1bc4aa962589e3bee57bce10e21992"
       },
-      "path": "mods/Fluidlogged-API-v2.2.7-mc1.12.2.jar"
+      "path": "mods/Fluidlogged-API-v3.0.4-mc1.12.2.jar"
     },
     {
       "downloads": [
@@ -606,6 +606,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/YN85EjnS/XaerosWorldMap_1.39.4_Forge_1.12.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 856349,
+      "hashes": {
+        "sha1": "cb2e67999350b6df0ae652d20ac9d6ea6bc0cf91",
+        "sha512": "813e76337eb2dd9bedf5af3d6ccc40e570ddd97968fdedf7cbd6a65e07063d5ad8272e73eb227f7f8b9a1f9fe634696a1d43bc08ef90ec04ef3af008f459fe2b"
+      },
+      "path": "mods/XaerosWorldMap_1.39.4_Forge_1.12.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/1bokaNcj/versions/fSSROMkn/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
       ],
       "env": {
@@ -618,21 +633,6 @@
         "sha512": "8eb9857104f1eb69295c4f7675530814f9bf4f488522c2430d8fd456a04705efa5743c2add7eb0abf679702aba66d1a6242c58dc9cdc763e62a142669f0283af"
       },
       "path": "mods/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/jdLzoEBa/XaerosWorldMap_1.39.2_Forge_1.12.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 854439,
-      "hashes": {
-        "sha1": "39b8d2cc68ed7827df3deddf68fe785cdda8c8ff",
-        "sha512": "d9fd05778d861ca79a74d2865cd5a80296762c7e6a98505a76ccd3d07cc88f440ff8eb61be17d29aa9ce0e1498f5bf6a915a35157146a260b4ee3b04eb8a7f7c"
-      },
-      "path": "mods/XaerosWorldMap_1.39.2_Forge_1.12.jar"
     },
     {
       "downloads": [
@@ -696,18 +696,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Pa7idGmD/essential_1-3-5-7_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ZJjSBPWF/essential_1-3-5-8_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 56568804,
+      "fileSize": 56592782,
       "hashes": {
-        "sha1": "18c9e4012440c55b8eb371de02b390390aad7ff0",
-        "sha512": "862ec5706b47510b74ad0ed3a9144e82bd9fb7719db5a77e93874227c87caf0fe267141ffaa0e4bf82a6139611d1049672c0dfb31bab1c2d2f5d29ef34af152f"
+        "sha1": "255b6c453e7b36b8b96c47509db8b77db7ae0de1",
+        "sha512": "ab4122d27591e8d6abd972838280a355acf44fa9d7c507534101c8c40a2c313bb4803e8a447c942f12cfb01e2cddd3ee74318170ca4bb7af7a99a3bed8bd21f4"
       },
-      "path": "mods/essential_1-3-5-7_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-8_forge_1-12-2.jar"
     },
     {
       "downloads": [
@@ -863,5 +863,5 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "NuclearParasites",
-  "versionId": "0.1.2"
+  "versionId": "0.1.3"
 }
