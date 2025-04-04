@@ -36,18 +36,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/G1ckZuWK/versions/UGyawBq4/%21mixinbooter-10.5.jar"
+        "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2380953,
+      "fileSize": 2382989,
       "hashes": {
-        "sha1": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
-        "sha512": "981276a5a40cd0197adabf01da70cc2cb17bc387e71064fbce7a5c94e49fd73bf4c4be17dc64b1206444d5ec9a54f2b604fce7721ef0aa76636ea3b4daa569d5"
+        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3",
+        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd"
       },
-      "path": "mods/!mixinbooter-10.5.jar"
+      "path": "mods/!mixinbooter-10.6.jar"
     },
     {
       "downloads": [
@@ -276,18 +276,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/vVXPbodS/versions/aOPcSBT2/Fluidlogged-API-v3.0.4-mc1.12.2.jar"
+        "https://cdn.modrinth.com/data/vVXPbodS/versions/5sDPtq9G/Fluidlogged-API-v3.0.5-mc1.12.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 734122,
+      "fileSize": 741566,
       "hashes": {
-        "sha1": "ef46269f522d3cd8f2c8c624e771c00c05a601f4",
-        "sha512": "a373cf77c8f33e5c86bc15e9cf4b5435646b7f5d1ec5c2a2e382bca1ffc2f35abf3f419b23a21453235f1895961515457e1bc4aa962589e3bee57bce10e21992"
+        "sha1": "d618c71a2f8372438fa5187c0e33d60cd659a62c",
+        "sha512": "602b581d4d78293526a4cb00e81be425ed658daddea997b17affde06025f713e149b57b3bc71878d11585f125226a89b81cc345a31e6353538e7d956ad7c1240"
       },
-      "path": "mods/Fluidlogged-API-v3.0.4-mc1.12.2.jar"
+      "path": "mods/Fluidlogged-API-v3.0.5-mc1.12.2.jar"
     },
     {
       "downloads": [
@@ -486,18 +486,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/sDhbZgv7/versions/ukwgE3i4/RoughlyEnoughIDs-2.2.1.jar"
+        "https://cdn.modrinth.com/data/sDhbZgv7/versions/hfcG4mpM/RoughlyEnoughIDs-2.2.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 773378,
+      "fileSize": 775320,
       "hashes": {
-        "sha1": "1b0e8d32e482398bc878c5341dc5e06faacec9df",
-        "sha512": "ce732a0d708fbc5ae24b1b6e83f8d1911822032acf2f59a47948b97ce79643045f5f224b1b4713569f4863b21949cf954ebf5c7de1812f5e27594ea75e33dc04"
+        "sha1": "b9419b1b2bab474f29f6b4db27c7a69ac6ff90d9",
+        "sha512": "0a1f53fa50c2c114318c5db599a2c932535c3d43a3e36cf04e1416bfe1f316c91adf2d1cfb5d026820ee020477e03a988a67133b8770f976fc17ea325daaac04"
       },
-      "path": "mods/RoughlyEnoughIDs-2.2.1.jar"
+      "path": "mods/RoughlyEnoughIDs-2.2.2.jar"
     },
     {
       "downloads": [
@@ -621,18 +621,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/fSSROMkn/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/ZPCinVG8/Xaeros_Minimap_25.2.0_Forge_1.12.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1823741,
+      "fileSize": 1859718,
       "hashes": {
-        "sha1": "17cc6ec06c096104136907e8b78afd8cea06444d",
-        "sha512": "8eb9857104f1eb69295c4f7675530814f9bf4f488522c2430d8fd456a04705efa5743c2add7eb0abf679702aba66d1a6242c58dc9cdc763e62a142669f0283af"
+        "sha1": "976c7fdf752e5fac29312e9a95aa110aa2021561",
+        "sha512": "3591f02c2790c065c8cee92cda6afd72f30ead1b55857f9f7d3bfdff8645f6692741b83c28102ddd535b23e1730f704f8b55b5daa84f584abec0a89fa57c1581"
       },
-      "path": "mods/Xaeros_Minimap_25.1.0_Forge_1.12.jar"
+      "path": "mods/Xaeros_Minimap_25.2.0_Forge_1.12.jar"
     },
     {
       "downloads": [
@@ -696,18 +696,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ZJjSBPWF/essential_1-3-5-8_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Irsj8ZSx/essential_1-3-5-11_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 56592782,
+      "fileSize": 56909339,
       "hashes": {
-        "sha1": "255b6c453e7b36b8b96c47509db8b77db7ae0de1",
-        "sha512": "ab4122d27591e8d6abd972838280a355acf44fa9d7c507534101c8c40a2c313bb4803e8a447c942f12cfb01e2cddd3ee74318170ca4bb7af7a99a3bed8bd21f4"
+        "sha1": "3b6ac3d2f67f8b1df4fe7b4086eb2c8baca0f711",
+        "sha512": "0fdaef2e4d377c1f7b2fbe87b1f7c9cb85729c469da1f793df6a4e5e2f177aadc1934b78db1a7bc9007f9b0d44c5f456b3e6636adcc87f9d45ed985e175ce5e1"
       },
-      "path": "mods/essential_1-3-5-8_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-11_forge_1-12-2.jar"
     },
     {
       "downloads": [
@@ -816,18 +816,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Pw6vHeGo/versions/m9hw6WZ6/theonesmeagle-1.12-1.0.5.jar"
+        "https://cdn.modrinth.com/data/Pw6vHeGo/versions/nQBQRtSt/TheOneSmeagle-1.12-1.1.0.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 342919,
+      "fileSize": 342863,
       "hashes": {
-        "sha1": "8a441cb65eca80e7c493dced45d32616e831a8c6",
-        "sha512": "a25733494eb5425276b0d337cf69c7344a24b13ca3eec24dda6eabd5d3aa1485b49ff282a9e534d7e607e0ed05068aff8218d1c206194daaff5e8080bf751b1a"
+        "sha1": "6898fb8995cab72ece05f126353867eee73ad084",
+        "sha512": "40aaf322666a3d67c97e1642d647c9418ecce888ec5949a883bdca2fad30f2faea09ab231ea211cc8f6665f47d9153e13f2a1c5f29846ec59fd29464399d3355"
       },
-      "path": "mods/theonesmeagle-1.12-1.0.5.jar"
+      "path": "mods/TheOneSmeagle-1.12-1.1.0.jar"
     },
     {
       "downloads": [
@@ -863,5 +863,5 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "NuclearParasites",
-  "versionId": "0.1.3"
+  "versionId": "0.1.4"
 }
