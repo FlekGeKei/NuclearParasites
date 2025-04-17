@@ -276,18 +276,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/vVXPbodS/versions/5sDPtq9G/Fluidlogged-API-v3.0.5-mc1.12.2.jar"
+        "https://cdn.modrinth.com/data/vVXPbodS/versions/ArR5epY9/Fluidlogged-API-v3.0.6-mc1.12.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 741566,
+      "fileSize": 741671,
       "hashes": {
-        "sha1": "d618c71a2f8372438fa5187c0e33d60cd659a62c",
-        "sha512": "602b581d4d78293526a4cb00e81be425ed658daddea997b17affde06025f713e149b57b3bc71878d11585f125226a89b81cc345a31e6353538e7d956ad7c1240"
+        "sha1": "4d4d02cae7cfbc193c7319ef73716ea8e9a13e85",
+        "sha512": "d01d2bfabec2c0e835a51a8a07d2964821f678a4c5445c83637335592e155a818b0192c17eab62aa068499d468934ec7e85ead8b3679e20cae9de2f1e2b8b07d"
       },
-      "path": "mods/Fluidlogged-API-v3.0.5-mc1.12.2.jar"
+      "path": "mods/Fluidlogged-API-v3.0.6-mc1.12.2.jar"
     },
     {
       "downloads": [
@@ -591,18 +591,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/s32LssQX/versions/FtuwJn6k/UniversalTweaks-1.12.2-1.14.0.jar"
+        "https://cdn.modrinth.com/data/s32LssQX/versions/LdM7lj9f/UniversalTweaks-1.12.2-1.15.0.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1527305,
+      "fileSize": 1593707,
       "hashes": {
-        "sha1": "5aba6b295a6ed66a75c0d393c537ef2cdc4206c7",
-        "sha512": "737c75a04b60702c011ee1f8bb0807da91f3f7afcac6382fc6d68a989ba6413d4f716474ca58ac4a64c7d496fbc53316b1b01023d2cdb09041854793ee780820"
+        "sha1": "b3101805c7662a43f29ea8c5b17d692ed7822514",
+        "sha512": "019b0e50b730d9ce4aea8a40bcab0af7eb8caa9fa17339f1a08295f9ba4768553540dff41d1c18b0c1a833e2cf3751706b896d1a799a2033f1bc6438cc048d35"
       },
-      "path": "mods/UniversalTweaks-1.12.2-1.14.0.jar"
+      "path": "mods/UniversalTweaks-1.12.2-1.15.0.jar"
     },
     {
       "downloads": [
@@ -696,18 +696,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Irsj8ZSx/essential_1-3-5-11_forge_1-12-2.jar"
+        "https://cdn.modrinth.com/data/k2ZPuTBm/versions/k6QsNCVr/essential_1-3-5-12_forge_1-12-2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 56909339,
+      "fileSize": 57022433,
       "hashes": {
-        "sha1": "3b6ac3d2f67f8b1df4fe7b4086eb2c8baca0f711",
-        "sha512": "0fdaef2e4d377c1f7b2fbe87b1f7c9cb85729c469da1f793df6a4e5e2f177aadc1934b78db1a7bc9007f9b0d44c5f456b3e6636adcc87f9d45ed985e175ce5e1"
+        "sha1": "5f3f9613f1e23067e24a94fe571702795c11dfa3",
+        "sha512": "826171d878ef8afe33775a60ac626ad3c1656be1b71ec71703719a2f9de19481097434a1e02fb2d680fa1440a8aeb08a9dffe35c185a5a514741f1eae7cf486b"
       },
-      "path": "mods/essential_1-3-5-11_forge_1-12-2.jar"
+      "path": "mods/essential_1-3-5-12_forge_1-12-2.jar"
     },
     {
       "downloads": [
