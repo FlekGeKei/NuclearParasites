@@ -1,0 +1,22 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "galacticraftplanets:beam_receiver",
+            "galacticraftplanets:beam_reflector",
+            "galacticraftplanets:cavern_vines",
+            "galacticraftplanets:crashed_probe",
+            "galacticraftplanets:creeper_egg",
+            "galacticraftplanets:miner_base",
+            "galacticraftplanets:slimeling_egg",
+            "galacticraftplanets:solar_array_controller",
+            "galacticraftplanets:telepad_fake",
+            "galacticraftplanets:telepad_short",
+            "galacticraftplanets:treasure_t2",
+            "galacticraftplanets:treasure_t3",
+            "galacticraftplanets:walkway",
+            "galacticraftplanets:web_torch"
+        ],
+        "canFluidFlow": true
+    }
+]

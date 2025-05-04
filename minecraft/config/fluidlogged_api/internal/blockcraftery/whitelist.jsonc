@@ -1,0 +1,201 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "west"],
+        "states": {"dir": 0, "up": false}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "east"],
+        "states": {"dir": 1, "up": false}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "south", "east"],
+        "states": {"dir": 2, "up": false}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "south", "west"],
+        "states": {"dir": 3, "up": false}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "west"],
+        "states": {"dir": 0, "up": true}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "east"],
+        "states": {"dir": 1, "up": true}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "south", "east"],
+        "states": {"dir": 2, "up": true}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_inner_corner",
+            "blockcraftery:editable_inner_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "south", "west"],
+        "states": {"dir": 3, "up": true}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_outer_corner",
+            "blockcraftery:editable_outer_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "south", "east", "west"],
+        "states": {"up": false}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_outer_corner",
+            "blockcraftery:editable_outer_corner_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "south", "east", "west"],
+        "states": {"up": true}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "south", "east", "west"],
+        "states": {"dir": 0, "vert": 0}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "east", "west"],
+        "states": {"dir": 1, "vert": 0}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "south", "east"],
+        "states": {"dir": 2, "vert": 0}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "north", "south", "west"],
+        "states": {"dir": 3, "vert": 0}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "south", "east"],
+        "states": {"dir": 0, "vert": 1}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "south", "west"],
+        "states": {"dir": 1, "vert": 1}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "north", "west"],
+        "states": {"dir": 2, "vert": 1}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["up", "down", "north", "east"],
+        "states": {"dir": 3, "vert": 1}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "south", "east", "west"],
+        "states": {"dir": 0, "vert": 2}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "east", "west"],
+        "states": {"dir": 1, "vert": 2}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "south", "east"],
+        "states": {"dir": 2, "vert": 2}
+    },
+    {
+        "blockId": [
+            "blockcraftery:editable_slant",
+            "blockcraftery:editable_slant_reinforced"
+        ],
+        "boxes": [],
+        "canFluidFlow": ["down", "north", "south", "west"],
+        "states": {"dir": 3, "vert": 2}
+    }
+]

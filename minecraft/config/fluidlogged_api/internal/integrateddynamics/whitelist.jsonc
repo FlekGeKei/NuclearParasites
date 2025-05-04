@@ -1,0 +1,15 @@
+// DO NOT EDIT!
+[
+    {
+        "blockId": [
+            "integrateddynamics:cable",
+            "integrateddynamics:menril_torch",
+            "integrateddynamics:menril_torch_stone"
+        ]
+    },
+    {
+        "blockId": "integrateddynamics:mechanical_drying_basin",
+        "boxes": {"min": 15, "max": 16},
+        "canFluidFlow": ["down", "north", "south", "east", "west"]
+    }
+]
